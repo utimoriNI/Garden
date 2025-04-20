@@ -12,7 +12,11 @@
 		{"id":"85c18c04ee3c97f2","type":"text","text":"# Dino","x":1540,"y":-340,"width":198,"height":104},
 		{"id":"e40ef88647d5b119","x":1540,"y":-236,"width":261,"height":400,"type":"file","file":"998_Resource/Asset/Pasted image 20250420213443.jpg"},
 		{"id":"2d2c0ffb221dca8b","x":1801,"y":-236,"width":400,"height":314,"type":"file","file":"998_Resource/Asset/Pasted image 20250420213700.jpg"},
-		{"id":"c4d398eadfa5c2b5","x":1801,"y":78,"width":281,"height":400,"type":"file","file":"998_Resource/Asset/Pasted image 20250420214004.jpg"}
+		{"id":"c4d398eadfa5c2b5","x":1801,"y":78,"width":281,"height":400,"type":"file","file":"998_Resource/Asset/Pasted image 20250420214004.jpg"},
+		{"id":"7db8fada13f6a9f5","x":-42,"y":940,"width":400,"height":400,"type":"file","file":"998_Resource/Asset/Pasted image 20250420214547.jpg"},
+		{"id":"eea04f1107ff458a","x":358,"y":940,"width":317,"height":400,"type":"file","file":"998_Resource/Asset/Pasted image 20250420214624.jpg"},
+		{"id":"708a8942b6a9076c","x":675,"y":940,"width":317,"height":400,"type":"file","file":"998_Resource/Asset/Pasted image 20250420214701.jpg"},
+		{"id":"7038a9b4a0378d81","type":"text","text":"# Leviathan","x":-40,"y":800,"width":278,"height":104}
 	],
 	"edges":[]
 }
