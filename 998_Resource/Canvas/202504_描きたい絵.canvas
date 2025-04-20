@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"8c1db7a22c266861","x":-660,"y":-340,"width":400,"height":400,"type":"file","file":"500_Fleeting/絵の練習と計画 - ChatGPT.md"}
+		{"id":"8c1db7a22c266861","x":-660,"y":-340,"width":540,"height":380,"type":"file","file":"500_Fleeting/絵の練習と計画 - ChatGPT.md"},
+		{"id":"4baf6c6067e5ef3f","x":40,"y":-340,"width":198,"height":104,"type":"text","text":"# 情理叶"},
+		{"id":"933b2781b02e5402","x":40,"y":-236,"width":235,"height":400,"type":"file","file":"998_Resource/Asset/@shiny_kanau エンジェルさんの人間姿一ノ瀬志希 失踪理由は実は変身系？.jpg"},
+		{"id":"bd426d2bf5bea7f7","x":275,"y":-236,"width":400,"height":246,"type":"file","file":"998_Resource/Asset/@shiny_kanau 気分転換するーー一ノ瀬志希.jpg"},
+		{"id":"b78e5e82ff03d1cc","x":275,"y":10,"width":365,"height":400,"type":"file","file":"998_Resource/Asset/@shiny_kanau しきしゅうこ塩見周子 一ノ瀬志希とある志希周子Pに応援いただいてありがとう！.jpg"},
+		{"id":"b57343eac9fc7eab","type":"text","text":"# 情理叶","x":780,"y":-340,"width":198,"height":104}
 	],
 	"edges":[]
 }
