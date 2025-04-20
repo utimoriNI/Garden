@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"63ed8b974a32d629","type":"group","x":-280,"y":-260,"width":400,"height":860,"label":"気づき"},
+		{"id":"7d6e0e03b16a49bd","type":"text","text":"15:02: 線画は書き終わったらラスタライズして厚塗りっぽくする方法がいいかも [[quick-capture]]","x":-240,"y":0,"width":300,"height":140},
+		{"id":"81654591c59cb24e","type":"text","text":"15:22: 髪を面で描こうとすると束の区切りが描き表せない\n別レイヤーで線画っぽいのを作るしかないのかな [[quick-capture]]","x":-240,"y":-200,"width":300,"height":180},
+		{"id":"9f3fd4dc7622644d","type":"text","text":"15:02: 濃い水彩で髪の形とる描き方良いかも [[quick-capture]]","x":-240,"y":160,"width":250,"height":120},
+		{"id":"719fabf908e7ade0","x":-240,"y":300,"width":300,"height":220,"type":"text","text":"16:25: 自分のイラストがギラついて見えるのは主線の扱い方かもしれない [[quick-capture]]\n\t- 厚塗りっぽく塗りたいけど形は線で取りたくなる"}
+	],
+	"edges":[]
+}

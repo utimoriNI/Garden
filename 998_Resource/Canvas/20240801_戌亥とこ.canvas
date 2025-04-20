@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"7c397b7b9e145f5a","type":"text","text":"# 要件\n- キャラ：戌亥とこ\n\t- 衣装：メイド服[x.com](https://x.com/Inajun2434/status/1638894054607065089)\n- 背景にblenderを使う\n\t- 人工的な背景\n- 彩度低め\n- 参考\n\t- ![[2023-05-19_4_thumbnail.png]]\n\t- これに完全に似せに行く\n- 場所\n\t- 都会\n\t- 座っている\n\t- 若干フカン\n\t- ","x":-320,"y":-180,"width":600,"height":400},
+		{"id":"2f95fabc8b7c6028","type":"text","text":"## 制作の流れ\n- [ ] キャラ決め\n- [ ] blenderで構図決める\n- [ ] クリスタ3D人形使ってラフ\n- [ ] カラーラフ\n- [ ] (option)blenderで背景作り込み\n- [ ] クリスタで背景加筆する\n- [ ] キャラ線画\n- [ ] キャラ塗り","x":-800,"y":-320,"width":360,"height":660},
+		{"id":"25da7adc5a71c182","type":"file","file":"300_Input/Book/「覚える」と「わかる」 - 信原幸弘.md","x":-720,"y":-800,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"67118eaf8c854ba7","fromNode":"2f95fabc8b7c6028","fromSide":"top","toNode":"25da7adc5a71c182","toSide":"bottom"}
+	]
+}

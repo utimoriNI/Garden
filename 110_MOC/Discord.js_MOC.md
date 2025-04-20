@@ -1,0 +1,6 @@
+- [[【Discord.js】client.onのイベントを一覧表にまとめた!!  ポンBlog  ポンStudio]]
+- [[ゼロからはじめるExpress + Node.jsを使ったアプリ開発 - Qiita]]
+- [[サルでもわかる Discord Botの作り方⑤ ～メッセージに反応するBot～  なりかくんのブログ]]
+- [[誰でも簡単！DiscordBotの作り方(2023年版)｜gx1285]]
+- [[やりたいこと逆引き集 - Discord.js Japan User Group]]
+- [[[JavaScript] この先生きのこるための asyncawait 入門 - くろのて]]

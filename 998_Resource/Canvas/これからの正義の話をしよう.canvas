@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"type":"text","text":"# これからの正義の話をしよう","id":"029cdb898c97347d","x":-380,"y":-80,"width":470,"height":98},
+		{"type":"text","text":"## 公共の福祉\n**全体の効用を最大化することが正義**","id":"7fe9e997dfc1d00c","x":156,"y":-306,"width":324,"height":106},
+		{"type":"text","text":"# 自由主義\n**個人の行動の制限を最小化することが正義**","id":"f28014626eb80311","x":156,"y":-80,"width":364,"height":117},
+		{"type":"text","text":"# 美徳の涵養\n**道徳的な正しさこそが正義**","id":"27aefd18f91a2f42","x":156,"y":204,"width":264,"height":116},
+		{"type":"text","text":"## 反論\n- 富裕層への徴税は強制労働ではないか\n- 一人がコストを払って全体が利益を得た時、その利益はコストを上回るか？\n- 個人の権利を尊重しなくなるのではないか？","id":"a1d4825efbb4a44a","x":746,"y":-332,"width":634,"height":172},
+		{"type":"text","text":"## 反論\n- 富裕層は取れる選択肢が多いから格差が広がる一方\n- 貧困ゆえにとる行動は本当に自分の意志で選んだ行動か\n- お互いの合意があれば徴兵をお金で回避したり、お金を稼ぐための妊娠をしたりして良いのか","id":"35ff9787e54acde5","x":746,"y":-80,"width":589,"height":190},
+		{"type":"text","text":"## 反論\n- 損得の価値観を取り入れない権利・義務はだれが決めるのか\n- 損得で考えないような基本的な人権とはなぜ基本的と言えるのか\n- 個人に対する道徳を尊重した結果、全体が不利益を被るのは良いことなのか？\n\t- 時限爆弾の場所を拷問で聞き出す","id":"0bd82af43ff62ca1","x":746,"y":213,"width":658,"height":214},
+		{"type":"text","text":"## カントの道徳哲学\n- 本当の自由は自律である\n- 効用は正義の判断基準にならない","id":"e703db58820af273","x":-372,"y":129,"width":372,"height":133},
+		{"type":"text","text":"## 人間は理性を持つ存在である\n### 快楽を求め・苦痛を避けるのは「他律」\n- 外部から与えられたものを目的としている\n- 数年前、 スプライト の 広告 に こんな キャッチフレーズ が 使わ れていた。「 渇きに服従 せよ」。 この スプライトの広告には、（ もちろんそう意図 したわけ ではないだろうが）カント的洞察が含まれていた。 スプライト（ もしくはペプシやコーク）の缶を手にするとき、私は 自由に行動しているのでは なく、服従して いる。 自分が選んだのではない欲望に反応している。渇きに服従しているのだ。\n- ","id":"9f268536353525ef","x":-386,"y":427,"width":866,"height":253},
+		{"type":"text","text":"## 自立\n- 理性で定めた自分の法則に従うことこそ本当の自由\n- その行動をとること自体が目的となる行動をとれ","id":"9ae2b13986b772fe","x":-37,"y":761,"width":497,"height":139},
+		{"type":"text","text":"## 道徳と自由\n- 道徳とは人格を究極目的として行動すること\n\t- 相手が殺人鬼でも嘘をつかずに本当のことを言う義務がある\n\t\t- 本当ではあるが誤解を与えるような「誤解を招く真実」を伝えることが人間の義務\n\t\t- 結果は関係ない","id":"3cc2d29f36df166f","x":-1200,"y":161,"width":767,"height":299},
+		{"type":"text","text":"## 経験的に考えるのではなく、ア・プリオリに法則を定める\n- 人は純粋実践理性に関わっているため、個人の利益に囚われない原則を持つことができる\n- ","id":"230700666a255ea0","x":-1220,"y":511,"width":660,"height":209},
+		{"type":"text","text":"## カントにとって理性は道具ではない\n- 功利主義者にとっては理性は道具\n\t- 功利を最大化するために理性を使う","id":"479fa6456bf90a1b","x":-1860,"y":534,"width":575,"height":266}
+	],
+	"edges":[
+		{"id":"5276b3079ff726d2","fromNode":"029cdb898c97347d","fromSide":"right","toNode":"7fe9e997dfc1d00c","toSide":"left"},
+		{"id":"9e73ce8f59822621","fromNode":"029cdb898c97347d","fromSide":"right","toNode":"f28014626eb80311","toSide":"left"},
+		{"id":"936d31d7142058d1","fromNode":"029cdb898c97347d","fromSide":"right","toNode":"27aefd18f91a2f42","toSide":"left"},
+		{"id":"ddd6c16379eb7f1a","fromNode":"7fe9e997dfc1d00c","fromSide":"right","toNode":"a1d4825efbb4a44a","toSide":"left"},
+		{"id":"c755c3cbc6995585","fromNode":"f28014626eb80311","fromSide":"right","toNode":"35ff9787e54acde5","toSide":"left"},
+		{"id":"e7953c3b26de77f3","fromNode":"27aefd18f91a2f42","fromSide":"right","toNode":"0bd82af43ff62ca1","toSide":"left"},
+		{"id":"973ebd871993d04b","fromNode":"029cdb898c97347d","fromSide":"bottom","toNode":"e703db58820af273","toSide":"top"},
+		{"id":"f57392c9f5355a82","fromNode":"e703db58820af273","fromSide":"bottom","toNode":"9f268536353525ef","toSide":"top"},
+		{"id":"c8f2c8c2c3712667","fromNode":"9f268536353525ef","fromSide":"bottom","toNode":"9ae2b13986b772fe","toSide":"top"},
+		{"id":"0e20efcb6cc04217","fromNode":"e703db58820af273","fromSide":"left","toNode":"3cc2d29f36df166f","toSide":"right"},
+		{"id":"accac9f19bcb9d0f","fromNode":"3cc2d29f36df166f","fromSide":"left","toNode":"479fa6456bf90a1b","toSide":"right"},
+		{"id":"660f7908ddf2e8b6","fromNode":"3cc2d29f36df166f","fromSide":"left","toNode":"230700666a255ea0","toSide":"right"}
+	]
+}
