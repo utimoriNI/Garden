@@ -1,4 +1,6 @@
 {
-	"nodes":[],
+	"nodes":[
+		{"id":"8c1db7a22c266861","x":-660,"y":-340,"width":400,"height":400,"type":"file","file":"500_Fleeting/絵の練習と計画 - ChatGPT.md"}
+	],
 	"edges":[]
 }
