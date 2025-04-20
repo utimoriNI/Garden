@@ -18,9 +18,14 @@
 		{"id":"708a8942b6a9076c","type":"file","file":"998_Resource/Asset/Pasted image 20250420214701.jpg","x":675,"y":940,"width":317,"height":400},
 		{"id":"7038a9b4a0378d81","type":"text","text":"# Leviathan","x":-40,"y":800,"width":278,"height":104},
 		{"id":"1f905250ca2a180c","type":"text","text":"# hks","x":1200,"y":800,"width":278,"height":104},
-		{"id":"1b4a770229032678","x":1200,"y":940,"width":269,"height":400,"type":"file","file":"998_Resource/Asset/Pasted image 20250421081811.jpg"},
-		{"id":"611fa078b93ad6bf","x":1478,"y":940,"width":253,"height":400,"type":"file","file":"998_Resource/Asset/Pasted image 20250421081822.jpg"},
-		{"id":"f2bc433eeff4334a","x":1731,"y":940,"width":281,"height":400,"type":"file","file":"998_Resource/Asset/Pasted image 20250421081926.jpg"}
+		{"id":"1b4a770229032678","type":"file","file":"998_Resource/Asset/Pasted image 20250421081811.jpg","x":1200,"y":940,"width":269,"height":400},
+		{"id":"611fa078b93ad6bf","type":"file","file":"998_Resource/Asset/Pasted image 20250421081822.jpg","x":1478,"y":940,"width":253,"height":399},
+		{"id":"f2bc433eeff4334a","type":"file","file":"998_Resource/Asset/Pasted image 20250421081926.jpg","x":1731,"y":940,"width":281,"height":400},
+		{"id":"96aa2dc33f956e95","type":"text","text":"# モ誰","x":2200,"y":800,"width":278,"height":104},
+		{"id":"dd465cb80f1f416a","x":2200,"y":928,"width":400,"height":212,"type":"file","file":"998_Resource/Asset/94071783_0.jpg"},
+		{"id":"d0b0e7959d1be5d7","x":2600,"y":940,"width":197,"height":400,"type":"file","file":"998_Resource/Asset/97973029_0.jpg"},
+		{"id":"987b5a2fa612a60d","x":2797,"y":928,"width":155,"height":400,"type":"file","file":"998_Resource/Asset/94071779_0.jpg"},
+		{"id":"bcd8b9caa170ef1d","x":2259,"y":1128,"width":341,"height":400,"type":"file","file":"998_Resource/Asset/100018921_0.jpg"}
 	],
 	"edges":[]
 }
