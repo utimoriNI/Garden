@@ -19,12 +19,6 @@
 		{"type":"group","id":"253ed7838c78dd0d","x":3269,"y":2332,"width":838,"height":833,"label":"稲守竜砂"},
 		{"type":"group","id":"547fe6494f4cb840","x":4347,"y":-480,"width":840,"height":831,"label":"nierzhu"},
 		{"type":"group","id":"85bf31eda65b7aac","x":2160,"y":720,"width":840,"height":830,"label":"min"},
-		{"type":"file","file":"998_Resource/Asset/Pasted image 20230524224601.png","id":"fedb59096dc2be94","x":4460,"y":5700,"width":400,"height":366},
-		{"type":"file","file":"998_Resource/Asset/Pasted image 20230524224555.png","id":"00572ef42eaf49ce","x":4877,"y":5300,"width":385,"height":400},
-		{"type":"file","file":"998_Resource/Asset/Pasted image 20230524224611.png","id":"b369786e430fad80","x":4875,"y":5700,"width":382,"height":400},
-		{"type":"file","file":"998_Resource/Asset/Pasted image 20230524224533.png","id":"a670360c2b89e016","x":4870,"y":4880,"width":392,"height":400},
-		{"type":"file","file":"998_Resource/Asset/Pasted image 20230714205428.png","id":"9ecd22d82254d23a","x":5399,"y":-1680,"width":400,"height":339},
-		{"type":"file","file":"998_Resource/Asset/Pasted image 20230714205415.png","id":"89236bfc5ff7c169","x":5809,"y":-2057,"width":400,"height":354},
 		{"type":"file","file":"998_Resource/Asset/Pasted image 20230524212909.png","id":"f7a91dd64c6c0915","x":1740,"y":-458,"width":400,"height":398},
 		{"type":"file","file":"998_Resource/Asset/Pasted image 20230524212947.png","id":"df1856ba0b99fd7a","x":1740,"y":-60,"width":355,"height":400},
 		{"type":"file","file":"998_Resource/Asset/Pasted image 20230524214224.png","id":"75e6c1fb92d76674","x":2580,"y":740,"width":400,"height":392},
@@ -118,7 +112,13 @@
 		{"type":"file","file":"998_Resource/Asset/Pasted image 20230524224447.jpg","id":"3d1806b186de1fab","x":4471,"y":4480,"width":280,"height":400},
 		{"type":"file","file":"998_Resource/Asset/Pasted image 20230524224541.png","id":"15b1128a8c11abf2","x":4471,"y":5300,"width":389,"height":400},
 		{"type":"file","file":"998_Resource/Asset/Pasted image 20230524224252.png","id":"9dc923e847710edf","x":3488,"y":5281,"width":400,"height":387},
-		{"type":"file","file":"998_Resource/Asset/Pasted image 20230524224317.png","id":"8c35deb8cb16d3f3","x":3888,"y":5274,"width":400,"height":394}
+		{"type":"file","file":"998_Resource/Asset/Pasted image 20230524224317.png","id":"8c35deb8cb16d3f3","x":3888,"y":5274,"width":400,"height":394},
+		{"type":"file","file":"998_Resource/Asset/Pasted image 20230524224601.png","id":"fedb59096dc2be94","x":4460,"y":5700,"width":400,"height":366},
+		{"type":"file","file":"998_Resource/Asset/Pasted image 20230524224533.png","id":"a670360c2b89e016","x":4870,"y":4880,"width":392,"height":400},
+		{"type":"file","file":"998_Resource/Asset/Pasted image 20230524224555.png","id":"00572ef42eaf49ce","x":4877,"y":5300,"width":385,"height":400},
+		{"type":"file","file":"998_Resource/Asset/Pasted image 20230524224611.png","id":"b369786e430fad80","x":4875,"y":5700,"width":382,"height":400},
+		{"type":"file","file":"998_Resource/Asset/Pasted image 20230714205428.png","id":"9ecd22d82254d23a","x":5399,"y":-1680,"width":400,"height":339},
+		{"type":"file","file":"998_Resource/Asset/Pasted image 20230714205415.png","id":"89236bfc5ff7c169","x":5809,"y":-2057,"width":400,"height":354}
 	],
 	"edges":[
 		{"id":"7d6e2b39c5e93c03","fromNode":"e8cae08288d7bb82","fromSide":"right","toNode":"56c0e2bf48937be5","toSide":"top"},
