@@ -2,6 +2,7 @@
 tags:
   - Obsidian
   - PKM
+  - 🎁Topic/PKM
 ---
 
 

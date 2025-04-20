@@ -7,7 +7,7 @@ published: 2015-04-07
 created: 2025-02-21
 description: http://omocoro.jp/kiji/50712/
 tags:
-  - Scrap
+  - 🎁Topic/Omoro
 ---
 ![](https://www.youtube.com/watch?v=Z9nFd8mgpfg)  
 

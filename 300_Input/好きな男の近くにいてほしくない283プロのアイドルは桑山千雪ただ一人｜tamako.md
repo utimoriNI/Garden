@@ -1,6 +1,7 @@
 ---
 tags:
-  - Omoro
+  - 🎁Topic/Omoro
+  - 🎁Topic/Omoro
 ---
 
 [[ReadItLater]] [[Article]]

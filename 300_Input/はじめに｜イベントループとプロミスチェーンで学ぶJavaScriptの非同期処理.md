@@ -1,4 +1,8 @@
 ---
+tags:
+  - 🎁Topic/Tech
+---
+
 title: はじめに｜イベントループとプロミスチェーンで学ぶJavaScriptの非同期処理
 date: 2023-07-05 19:52:01
 tags:[Tech, ]

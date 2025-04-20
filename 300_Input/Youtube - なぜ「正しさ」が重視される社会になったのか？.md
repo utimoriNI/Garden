@@ -1,7 +1,7 @@
 ---
 tags:
   - Scrap
-  - 🎁Topic/社会論
+  - 🎁Topic/Society
 ---
 
 

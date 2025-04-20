@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - 🎁Topic/Lexicon
 ---
 **consist of**:: [[Word]]
 [[ReadItLater]] [[Article]]

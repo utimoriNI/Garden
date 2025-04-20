@@ -1,7 +1,7 @@
 ---
 tags:
   - Scrap
-  - Omoro
+  - 🎁Topic/Omoro
   - 🎁Topic/Omoro
 ---
 **consist of**:: [[Omoro]]

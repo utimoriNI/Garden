@@ -7,8 +7,8 @@ published: 2024-11-29
 created: 2024-12-05
 description: 
 tags:
-  - 🎁Topic/社会論
-  - 🎁Topic/人生論
+  - 🎁Topic/Society
+  - 🎁Topic/Life
 image: https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png
 ---
 **consist of**:: [[人生論]]

@@ -1,7 +1,7 @@
 ---
 tags:
   - 🎁Topic/Lexicon
-  - 🎁Topic/人生論
+  - 🎁Topic/Life
 ---
 **consist of**:: [[Word]]
 [[ReadItLater]] [[Article]]
