@@ -1,0 +1,22 @@
+---
+title: "Thread by @yodobasiend"
+source: "https://x.com/yodobasiend/status/1919212371106512996"
+author:
+  - "[[@yodobasiend]]"
+published: 2025-05-04
+created: 2025-05-05
+description:
+tags:
+image: "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png"
+---
+**淀橋遠道** @yodobasiend 2025-05-04
+
+わっかるー！
+
+オタクの醍醐味ってさ、自分のキモさと向き合い、そのユニークさと平凡さを確かめて、肯定することにある。世界に誇れる解放と肯定の文化だよ。
+
+せっかく「メロい」という言葉を手にしたんだ、そいつをよーく観察してみなよ！
+
+> 2025-05-04
+> 
+> 単純にオタク感情表現ミームとしての「メロい」は好きなので、だからこそ「正しい言葉にしようとする」仕草が小賢しくて気に入らないんですよね。ちゃんとオタクのキモい言葉だと自覚した上で使ったほうがいい。
