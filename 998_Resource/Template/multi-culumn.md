@@ -1,7 +1,0 @@
-> [!multi-column]
->
->> [!blank]
->> 
->
->> [!blank] 
->> 

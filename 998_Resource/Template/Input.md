@@ -1,5 +1,0 @@
----
-created: {{DATE}}
-tags: 
-    - 
----
