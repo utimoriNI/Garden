@@ -1,0 +1,13 @@
+{
+  "accentColor": "#a786f3",
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "extended-colorschemes",
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views"
+  ],
+  "textFontFamily": "Arial,メイリオ",
+  "interfaceFontFamily": "メイリオ"
+}

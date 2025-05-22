@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"8c1db7a22c266861","type":"file","file":"500_Fleeting/絵の練習と計画 - ChatGPT.md","x":-660,"y":-340,"width":540,"height":380},
+		{"id":"4baf6c6067e5ef3f","type":"text","text":"# 情理叶","x":40,"y":-340,"width":198,"height":104},
+		{"id":"933b2781b02e5402","type":"file","file":"998_Resource/Asset/@shiny_kanau エンジェルさんの人間姿一ノ瀬志希 失踪理由は実は変身系？.jpg","x":40,"y":-236,"width":235,"height":399},
+		{"id":"bd426d2bf5bea7f7","type":"file","file":"998_Resource/Asset/@shiny_kanau 気分転換するーー一ノ瀬志希.jpg","x":275,"y":-236,"width":400,"height":246},
+		{"id":"b78e5e82ff03d1cc","type":"file","file":"998_Resource/Asset/@shiny_kanau しきしゅうこ塩見周子 一ノ瀬志希とある志希周子Pに応援いただいてありがとう！.jpg","x":275,"y":10,"width":365,"height":400},
+		{"id":"b57343eac9fc7eab","type":"text","text":"# 96","x":780,"y":-340,"width":198,"height":104},
+		{"id":"a1bf94495f7d789d","type":"file","file":"998_Resource/Asset/Pasted image 20250420212456.jpg","x":780,"y":-236,"width":302,"height":400},
+		{"id":"a584c8060030386a","type":"file","file":"998_Resource/Asset/Pasted image 20250420212506.jpg","x":1082,"y":-236,"width":352,"height":400},
+		{"id":"9ca5d1e75e5288b2","type":"file","file":"998_Resource/Asset/Pasted image 20250420212643.jpg","x":780,"y":164,"width":308,"height":400},
+		{"id":"85c18c04ee3c97f2","type":"text","text":"# Dino","x":1540,"y":-340,"width":198,"height":104},
+		{"id":"e40ef88647d5b119","type":"file","file":"998_Resource/Asset/Pasted image 20250420213443.jpg","x":1540,"y":-236,"width":261,"height":400},
+		{"id":"2d2c0ffb221dca8b","type":"file","file":"998_Resource/Asset/Pasted image 20250420213700.jpg","x":1801,"y":-236,"width":399,"height":314},
+		{"id":"c4d398eadfa5c2b5","type":"file","file":"998_Resource/Asset/Pasted image 20250420214004.jpg","x":1801,"y":78,"width":281,"height":400},
+		{"id":"7db8fada13f6a9f5","type":"file","file":"998_Resource/Asset/Pasted image 20250420214547.jpg","x":-42,"y":940,"width":400,"height":400},
+		{"id":"eea04f1107ff458a","type":"file","file":"998_Resource/Asset/Pasted image 20250420214624.jpg","x":358,"y":940,"width":317,"height":400},
+		{"id":"708a8942b6a9076c","type":"file","file":"998_Resource/Asset/Pasted image 20250420214701.jpg","x":675,"y":940,"width":317,"height":400},
+		{"id":"7038a9b4a0378d81","type":"text","text":"# Leviathan","x":-40,"y":800,"width":278,"height":104},
+		{"id":"1f905250ca2a180c","type":"text","text":"# hks","x":1200,"y":800,"width":278,"height":104},
+		{"id":"1b4a770229032678","type":"file","file":"998_Resource/Asset/Pasted image 20250421081811.jpg","x":1200,"y":940,"width":269,"height":400},
+		{"id":"611fa078b93ad6bf","type":"file","file":"998_Resource/Asset/Pasted image 20250421081822.jpg","x":1478,"y":940,"width":253,"height":399},
+		{"id":"f2bc433eeff4334a","type":"file","file":"998_Resource/Asset/Pasted image 20250421081926.jpg","x":1731,"y":940,"width":281,"height":400},
+		{"id":"96aa2dc33f956e95","type":"text","text":"# モ誰","x":2200,"y":800,"width":278,"height":104},
+		{"id":"dd465cb80f1f416a","type":"file","file":"998_Resource/Asset/94071783_0.jpg","x":2200,"y":928,"width":399,"height":212},
+		{"id":"d0b0e7959d1be5d7","type":"file","file":"998_Resource/Asset/97973029_0.jpg","x":2600,"y":940,"width":197,"height":400},
+		{"id":"987b5a2fa612a60d","type":"file","file":"998_Resource/Asset/94071779_0.jpg","x":2797,"y":928,"width":155,"height":399},
+		{"id":"bcd8b9caa170ef1d","type":"file","file":"998_Resource/Asset/100018921_0.jpg","x":2259,"y":1128,"width":341,"height":399}
+	],
+	"edges":[]
+}

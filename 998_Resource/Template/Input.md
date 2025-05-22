@@ -1,0 +1,5 @@
+---
+created: {{DATE}}
+tags: 
+    - 
+---

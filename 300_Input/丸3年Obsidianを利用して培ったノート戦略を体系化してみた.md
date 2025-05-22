@@ -1,0 +1,11 @@
+---
+tags:
+  - Obsidian
+  - PKM
+  - 🎁Topic/PKM
+---
+
+
+[[ReadItLater]] [[Article]]
+
+[https://minerva.mamansoft.net/%F0%9F%93%98Articles/%F0%9F%93%98%E4%B8%B83%E5%B9%B4Obsidian%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E5%9F%B9%E3%81%A3%E3%81%9F%E3%83%8E%E3%83%BC%E3%83%88%E6%88%A6%E7%95%A5%E3%82%92%E4%BD%93%E7%B3%BB%E5%8C%96%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F](https://minerva.mamansoft.net/%F0%9F%93%98Articles/%F0%9F%93%98%E4%B8%B83%E5%B9%B4Obsidian%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E5%9F%B9%E3%81%A3%E3%81%9F%E3%83%8E%E3%83%BC%E3%83%88%E6%88%A6%E7%95%A5%E3%82%92%E4%BD%93%E7%B3%BB%E5%8C%96%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F)
