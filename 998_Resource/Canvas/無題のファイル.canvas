@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"fc50b83080a52784","type":"text","text":"- Irys\n\t- 和装\n\t- 夏\n\t- 涼しげ\n\t- MISAMARU\n\t- どこまで写す？\n\t\t- ファッション誌っぽく\n\t- 肩出し\n\t\t- 花魁っぽくなって嫌だな\n\t- 背景シンプル\n\t\t- アングルを工夫する必要が出てくるな\n\t- 首傾げる\n\t- 腰に手あてる","x":-202,"y":-91,"width":422,"height":391},
-		{"id":"a6f380ce9c50b09b","type":"file","file":"998_Resource/Asset/@masamasa0055z.jpg","x":280,"y":-340,"width":169,"height":215},
-		{"id":"2ca201b237ce9221","type":"file","file":"998_Resource/Asset/pbs 2.jpg","x":280,"y":-125,"width":150,"height":265}
-	],
-	"edges":[]
-}
