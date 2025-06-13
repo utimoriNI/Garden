@@ -1,0 +1,20 @@
+---
+title: "Thread by @ZHyUqzRoVxAE4KR"
+source: "https://x.com/ZHyUqzRoVxAE4KR/status/1933169860433047976"
+author:
+  - "[[@ZHyUqzRoVxAE4KR]]"
+published: 2025-06-12
+created: 2025-06-13
+description: "Kraken Vtuber~ #iomayart🌸https://t.co/zGtO911TK1 🔞https://t.co/qY6EdgmV92 🌸COMM/Adopt Open: https://t.co/S1utCbonVy"
+tags:
+image: "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png"
+---
+**くろもち** @ZHyUqzRoVxAE4KR 2025-06-12
+
+この人標準語嫌いすぎてておもろい
+
+> 2025-06-12
+> 
+> 温泉まで来て標準語のやつ何がしたいねん
+> 
+> ![画像](https://pbs.twimg.com/media/GtP_vb6akAABcp8?format=jpg&name=large)
