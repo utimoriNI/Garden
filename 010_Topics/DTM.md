@@ -1,12 +1,12 @@
 ---
-tags:
-  - 🎁Topic
 cssclasses:
   - cards
   - cards-1-1
 ---
+
 ```dataview
-TABLE WHERE contains(file.outlinks, link(this.file.name))
+LIST
+FROM #🎁Topic/🎵DTM 
 ```
 
 ### その他Topic

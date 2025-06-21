@@ -11,8 +11,8 @@ tags:
   - 🎁Topic/Life
 image: https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png
 ---
-**consist of**:: [[人生論]]
-**consist of**:: [[社会論]]
+**consist of**:: [[Life]]
+**consist of**:: [[Society]]
 
 ## ツイートする
 

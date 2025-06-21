@@ -8,7 +8,8 @@ tags:
 
 
 ```dataview
-TABLE WHERE contains(file.outlinks, link(this.file.name))
+LIST
+FROM #🎁Topic/PKM 
 ```
 
 ### その他Topic

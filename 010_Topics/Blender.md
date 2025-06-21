@@ -2,11 +2,11 @@
 cssclasses:
   - cards
   - cards-1-1
-tags:
-  - 🎁Topic
 ---
+
 ```dataview
-TABLE FROM #🎁Topic/ジェンダー論 
+LIST
+FROM #🎁Topic/🎵DTM 
 ```
 
 ### その他Topic

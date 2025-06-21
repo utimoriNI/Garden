@@ -1,13 +1,12 @@
 ---
-tags:
-  - 🎁Topic
 cssclasses:
   - cards
   - cards-1-1
 ---
+
 ```dataview
 LIST
-FROM #🎁Topic/Lexicon 
+FROM #🎁Topic/Illust 
 ```
 
 ### その他Topic

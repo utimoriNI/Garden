@@ -6,7 +6,8 @@ cssclasses:
   - cards-1-1
 ---
 ```dataview
-TABLE WHERE contains(file.outlinks, link(this.file.name))
+LIST
+FROM #🎁Topic/Omoro 
 ```
 
 ### その他Topic

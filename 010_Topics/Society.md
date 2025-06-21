@@ -6,7 +6,8 @@ tags:
   - 🎁Topic
 ---
 ```dataview
-TABLE FROM #🎁Topic/人生論 
+LIST
+FROM #🎁Topic/Society 
 ```
 
 ### その他Topic
