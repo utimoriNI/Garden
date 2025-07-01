@@ -1,0 +1,36 @@
+{
+  "id": "16193508-5d2f-4989-af76-27201f6384fd",
+  "title": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "5b1772f4-3319-4979-a66e-9d648dfa8b3c",
+      "mentionables": []
+    }
+  ],
+  "createdAt": 1751263663906,
+  "updatedAt": 1751263663906,
+  "schemaVersion": 1
+}
