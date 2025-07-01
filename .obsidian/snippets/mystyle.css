@@ -36,3 +36,7 @@ p {
 .today {
   color: #b4c6ff !important;
 }
+
+markdown-preview-view[data-file-path*="FleetingDB_card"] .card tbody {
+  grid-row-gap: 0;
+}
