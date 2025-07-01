@@ -37,6 +37,6 @@ p {
   color: #b4c6ff !important;
 }
 
-markdown-preview-view[data-file-path*="FleetingDB_card"] .card tbody {
+div.timeline .table-view-table > .cards table.dataview tbody {
   grid-row-gap: 0;
 }

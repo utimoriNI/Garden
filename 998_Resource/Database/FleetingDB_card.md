@@ -2,6 +2,7 @@
 cssclasses:
   - cards
   - cards-cols-1
+  - timeline
 ---
 
 ```dataviewjs
