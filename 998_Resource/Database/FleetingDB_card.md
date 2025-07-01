@@ -1,7 +1,7 @@
 ---
 cssclasses:
   - cards
-  - cards-1-1
+  - cards-cols-1
 ---
 
 ```dataviewjs
