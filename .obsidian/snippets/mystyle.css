@@ -40,4 +40,7 @@ p {
 /* timelineクラス内のdataviewテーブルにも同じスタイルを適用 */
 .markdown-source-view.timeline .dataview.table-view-table tbody {
   grid-row-gap: 0;
+  tr {
+    border-radius: 0;
+  }
 }
