@@ -38,9 +38,15 @@ p {
 }
 
 /* timelineクラス内のdataviewテーブルにも同じスタイルを適用 */
-.markdown-source-view.timeline .dataview.table-view-table tbody {
-  grid-row-gap: 0;
+.markdown-source-view.timeline .dataview.table-view-table {
+  border-collapse: collapse;
+  tbody {
+    grid-row-gap: 0;
+  }
   tr {
     border-radius: 0;
+    border-color: #283038;
+    padding-top: 8px;
+    padding-bottom: 4px;
   }
 }

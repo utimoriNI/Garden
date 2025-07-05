@@ -4,21 +4,34 @@ cssclasses:
   - cards-cols-1
   - timeline
 ---
-
 ```dataviewjs
 const p = dv.pages("#Fleeting");
-dv.table(["title", "createdAt", "preview"], p.sort(x=>x.file.mday, "desc").map(x => {
+
+let rows =await Promise.all(
+	p.map(async x => {
 
 // コンテンツを処理
-
-    let content = x.file.content || "";
+    let content = await dv.io.load(x.file.path);
     content = content.replace(/^---[\s\S]*?---\n/, ''); // YAMLフロントマターを除去
     content = content.replace(/\n+/g, ' ').trim(); // 改行を空白に変換
-   
+    content = content.replace(/^---\s*\[\[\d{4}-\d{2}-\d{2}\]\]\s*/m, ''); // 日付のリンクを除去
+	content = content.replace(/^\s*!\[\[.*?\]\]\s*/gm, ''); // ![[FleetingDB_card]] のような埋め込みリンク行を除去
+
+	  // 画像リンクを除去
+    let noImages = content.replace(/!\[.*?\]\(.*?\)/g, "");
+    // フロントマターを除去
+    let noFrontmatter = noImages.replace(/^---[\s\S]*?---/, "");
+    // 本文全体（必要ならtrimやsliceで調整）
+    let body = noFrontmatter.trim();
+
+
    // プレビューテキストを生成
-    const preview = content.length > 120 ? content.substring(0, 120) + "..." : content;
-	return [x.file.link, x.file.cday, preview || ""]
+    const preview = body.length > 80 ? body.substring(0, 80) + "..." : body;
+	return [x.file.link, preview || "", x.file.cday]
 	})
 );
+
+dv.table(["title", "preview", "createdAt", ], rows);
+
 ```
 
