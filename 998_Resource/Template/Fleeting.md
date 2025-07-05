@@ -1,7 +1,6 @@
 ---
 created: <% tp.file.creation_date() %>
-tags:
-  - Fleeting
+tags: []
 ---
 
 
