@@ -37,10 +37,6 @@ p {
   color: #b4c6ff !important;
 }
 
-.cards table.dataview tbody {
-  grid-row-gap: 0;
-}
-
 /* timelineクラス内のdataviewテーブルにも同じスタイルを適用 */
 .markdown-source-view.timeline .dataview.table-view-table tbody {
   grid-row-gap: 0;
