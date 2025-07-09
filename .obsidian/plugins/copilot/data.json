@@ -40,7 +40,7 @@
   "chatNoteContextTags": [],
   "enableIndexSync": true,
   "debug": false,
-  "enableEncryption": false,
+  "enableEncryption": true,
   "maxSourceChunks": 3,
   "groqApiKey": "",
   "activeModels": [
@@ -54,7 +54,8 @@
       "projectEnabled": false,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "google/gemini-2.5-flash-lite-preview-06-17",
@@ -65,7 +66,8 @@
       "projectEnabled": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "google/gemini-2.5-flash",
@@ -76,7 +78,8 @@
       "projectEnabled": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "google/gemini-2.5-pro",
@@ -87,7 +90,8 @@
       "projectEnabled": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "gpt-4.1",
@@ -98,7 +102,8 @@
       "projectEnabled": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "gpt-4.1-mini",
@@ -109,7 +114,8 @@
       "projectEnabled": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "gpt-4.1-nano",
@@ -119,7 +125,8 @@
       "core": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "o4-mini",
@@ -129,7 +136,8 @@
       "core": true,
       "capabilities": [
         "reasoning"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "claude-3-5-sonnet-latest",
@@ -139,7 +147,8 @@
       "core": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "claude-sonnet-4-20250514",
@@ -149,7 +158,8 @@
       "capabilities": [
         "vision",
         "reasoning"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "claude-3-7-sonnet-latest",
@@ -159,25 +169,29 @@
       "capabilities": [
         "vision",
         "reasoning"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "claude-3-5-haiku-latest",
       "provider": "anthropic",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "grok-3-beta",
       "provider": "xai",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "grok-3-mini-beta",
       "provider": "xai",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "gemini-2.5-flash",
@@ -187,7 +201,8 @@
       "projectEnabled": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "gemini-2.5-pro",
@@ -197,31 +212,36 @@
       "projectEnabled": true,
       "capabilities": [
         "vision"
-      ]
+      ],
+      "apiKey": ""
     },
     {
       "name": "command-r",
       "provider": "cohereai",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "command-r-plus",
       "provider": "cohereai",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "azure-openai",
       "provider": "azure openai",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "deepseek-chat",
       "provider": "deepseek",
       "enabled": true,
-      "isBuiltIn": true
+      "isBuiltIn": true,
+      "apiKey": ""
     },
     {
       "name": "deepseek-reasoner",
@@ -230,7 +250,8 @@
       "isBuiltIn": true,
       "capabilities": [
         "reasoning"
-      ]
+      ],
+      "apiKey": ""
     }
   ],
   "activeEmbeddingModels": [
@@ -241,7 +262,8 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "core": true,
-      "plusExclusive": true
+      "plusExclusive": true,
+      "apiKey": ""
     },
     {
       "name": "copilot-plus-large",
@@ -252,7 +274,8 @@
       "core": true,
       "plusExclusive": true,
       "believerExclusive": true,
-      "dimensions": 1024
+      "dimensions": 1024,
+      "apiKey": ""
     },
     {
       "name": "copilot-plus-multilingual",
@@ -262,7 +285,8 @@
       "isEmbeddingModel": true,
       "core": true,
       "plusExclusive": true,
-      "dimensions": 512
+      "dimensions": 512,
+      "apiKey": ""
     },
     {
       "name": "text-embedding-3-small",
@@ -270,35 +294,40 @@
       "enabled": true,
       "isBuiltIn": true,
       "isEmbeddingModel": true,
-      "core": true
+      "core": true,
+      "apiKey": ""
     },
     {
       "name": "text-embedding-3-large",
       "provider": "openai",
       "enabled": true,
       "isBuiltIn": true,
-      "isEmbeddingModel": true
+      "isEmbeddingModel": true,
+      "apiKey": ""
     },
     {
       "name": "embed-multilingual-light-v3.0",
       "provider": "cohereai",
       "enabled": true,
       "isBuiltIn": true,
-      "isEmbeddingModel": true
+      "isEmbeddingModel": true,
+      "apiKey": ""
     },
     {
       "name": "text-embedding-004",
       "provider": "google",
       "enabled": true,
       "isBuiltIn": true,
-      "isEmbeddingModel": true
+      "isEmbeddingModel": true,
+      "apiKey": ""
     },
     {
       "name": "azure-openai",
       "provider": "azure openai",
       "enabled": true,
       "isBuiltIn": true,
-      "isEmbeddingModel": true
+      "isEmbeddingModel": true,
+      "apiKey": ""
     }
   ],
   "embeddingRequestsPerMin": 90,
