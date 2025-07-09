@@ -50,7 +50,7 @@ p {
     padding-bottom: 4px;
   }
 
-  td > span > a {
-    font-size: 20px;
+  td > span > a[data-tooltip-position="top"] {
+    font-size: 1.18rem;
   }
 }
