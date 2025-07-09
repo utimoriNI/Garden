@@ -156,8 +156,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -167,8 +167,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -252,6 +252,12 @@
         "reasoning"
       ],
       "apiKey": ""
+    },
+    {
+      "name": "gemini-2.0-flash",
+      "provider": "google",
+      "apiKey": "AIzaSyAGu3VByD2h2NPq8erc_3LRXsu3W7a8k-o",
+      "enabled": true
     }
   ],
   "activeEmbeddingModels": [
