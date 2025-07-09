@@ -19,7 +19,7 @@
   "deepseekApiKey": "",
   "defaultChainType": "llm_chain",
   "defaultModelKey": "gpt-4.1|openai",
-  "embeddingModelKey": "text-embedding-3-small|openai",
+  "embeddingModelKey": "text-embedding-004|google",
   "temperature": 0.1,
   "maxTokens": 6000,
   "contextTurns": 15,
