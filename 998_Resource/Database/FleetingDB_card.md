@@ -26,10 +26,17 @@ let rows =await Promise.all(
 
 
    // プレビューテキストを生成
-    const preview = body.length > 80 ? body.substring(0, 80) + "..." : body;
-	return [x.file.link, preview || "", x.file.cday]
+    const preview = body.length > 60 ? body.substring(0, 60) + "..." : body;
+	return [x.file.link, preview || "", x.file.frontmatter.created]
 	})
 );
+
+// createdで新しい順にソート（降順）
+rows.sort((a, b) => {
+    const dateA = new Date(a[2]); // a[2] = created
+    const dateB = new Date(b[2]); // b[2] = created
+    return dateB - dateA; // 新しい順（降順）
+});
 
 dv.table(["title", "preview", "createdAt", ], rows);
 

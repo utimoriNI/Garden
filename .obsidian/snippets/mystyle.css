@@ -49,4 +49,8 @@ p {
     padding-top: 8px;
     padding-bottom: 4px;
   }
+
+  td > span > a {
+    font-size: 20px;
+  }
 }
