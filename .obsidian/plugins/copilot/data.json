@@ -35,7 +35,7 @@
   "customPromptsFolder": "copilot-custom-prompts",
   "indexVaultToVectorStore": "ON MODE SWITCH",
   "qaExclusions": "",
-  "qaInclusions": "",
+  "qaInclusions": "100_Periodic,600_Knowledge,500_Fleeting,300_Input,300_Input%2FBook",
   "chatNoteContextPath": "",
   "chatNoteContextTags": [],
   "enableIndexSync": true,
