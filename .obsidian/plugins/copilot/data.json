@@ -258,6 +258,18 @@
       "provider": "google",
       "apiKey": "AIzaSyAGu3VByD2h2NPq8erc_3LRXsu3W7a8k-o",
       "enabled": true
+    },
+    {
+      "name": "gemini-2.0-flash-lite",
+      "provider": "google",
+      "apiKey": "AIzaSyAGu3VByD2h2NPq8erc_3LRXsu3W7a8k-o",
+      "enabled": true
+    },
+    {
+      "name": "gemini-2.0-flash-lite-001",
+      "provider": "google",
+      "apiKey": "AIzaSyAGu3VByD2h2NPq8erc_3LRXsu3W7a8k-o",
+      "enabled": true
     }
   ],
   "activeEmbeddingModels": [
