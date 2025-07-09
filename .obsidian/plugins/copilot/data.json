@@ -18,7 +18,7 @@
   "mistralApiKey": "",
   "deepseekApiKey": "",
   "defaultChainType": "llm_chain",
-  "defaultModelKey": "gpt-4.1|openai",
+  "defaultModelKey": "google/gemini-2.5-flash|openrouterai",
   "embeddingModelKey": "text-embedding-004|google",
   "temperature": 0.1,
   "maxTokens": 6000,
@@ -67,7 +67,7 @@
       "capabilities": [
         "vision"
       ],
-      "apiKey": ""
+      "apiKey": "AIzaSyAGu3VByD2h2NPq8erc_3LRXsu3W7a8k-o"
     },
     {
       "name": "google/gemini-2.5-flash",
@@ -79,7 +79,7 @@
       "capabilities": [
         "vision"
       ],
-      "apiKey": ""
+      "apiKey": "AIzaSyAGu3VByD2h2NPq8erc_3LRXsu3W7a8k-o"
     },
     {
       "name": "google/gemini-2.5-pro",
