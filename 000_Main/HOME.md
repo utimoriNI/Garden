@@ -3,7 +3,7 @@ cssclasses:
   - cards
   - cards-1-1
 ---
-
+ 
 ```dataview
 TABLE
 FROM "010_Topics"
