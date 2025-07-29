@@ -1,5 +1,5 @@
 {
-  "renderOnMobile": true,
+  "renderOnMobile": false,
   "autoLayoutBalanceIterations": 3,
   "useLivePreviewCache": false,
   "alignTablesToContentAlignment": true,
