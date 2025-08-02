@@ -25,7 +25,6 @@ FROM "110_MOC"
 
 
 --- end-multi-column
-![[無題のカンバン]]
 
 
 ```button
