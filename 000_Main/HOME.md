@@ -27,6 +27,7 @@ FROM "110_MOC"
 --- end-multi-column
 ### ブックマーク
 - [[イラスト課題リスト]]
+- [[Wish List]]
 
 ```button
 - [ ] [[]()]()name add
