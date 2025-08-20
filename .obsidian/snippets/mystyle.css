@@ -65,5 +65,5 @@ body,
 :root,
 body,
 .view-content {
-  --bases-table-text-size: 1rem;
+  --bases-table-text-size: 0.9rem;
 }
