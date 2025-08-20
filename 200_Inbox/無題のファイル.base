@@ -1,0 +1,31 @@
+views:
+  - type: table
+    name: Life
+    filters:
+      and:
+        - file.hasTag("🎁Topic/Life")
+    order:
+      - file.name
+      - url
+      - source
+    sort: []
+    cardSize: 260
+    imageFit: contain
+    imageAspectRatio: 0.3
+    columnSize:
+      file.name: 910
+      note.url: 329
+  - type: table
+    name: Society
+    filters:
+      and:
+        - file.hasTag("🎁Topic/Society")
+    order:
+      - file.name
+      - source
+    rowHeight: medium
+  - type: table
+    name: Omoro
+    filters:
+      and:
+        - file.hasTag("🎁Topic/Omoro")

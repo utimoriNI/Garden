@@ -1,6 +1,6 @@
 {
-  "accentColor": "#687f8d",
-  "cssTheme": "Minimal",
+  "accentColor": "#ded6ff",
+  "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "cards",
@@ -8,12 +8,13 @@
     "MCL Wide Views",
     "MCL Multi Column",
     "extended-colorschemes",
-    "mystyle",
-    "note-height"
+    "note-height",
+    "mystyle"
   ],
   "interfaceFontFamily": "メイリオ",
   "textFontFamily": "IBM Plex Sans,メイリオ,IBM Plex Sans JP",
-  "baseFontSize": 19,
+  "baseFontSize": 21,
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "baseFontSizeAction": true
 }
