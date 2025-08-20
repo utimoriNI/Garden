@@ -1,9 +1,6 @@
-filters:
-  and:
-    - file.folder == "300_Input"
 views:
   - type: table
-    name: View
+    name: Life
     filters:
       and:
         - file.hasTag("🎁Topic/Life")
@@ -18,4 +15,10 @@ views:
     columnSize:
       file.name: 910
       note.url: 329
+    rowHeight: medium
+  - type: table
+    name: Society
+    filters:
+      and:
+        - file.hasTag("🎁Topic/Society")
     rowHeight: medium
