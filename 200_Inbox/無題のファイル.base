@@ -24,3 +24,5 @@ views:
       - file.name
       - source
     rowHeight: medium
+  - type: table
+    name: Omoro
