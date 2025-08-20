@@ -9,9 +9,6 @@ cssclasses:
 - [[イラスト課題リスト]]
 - [[Wish List]]
 
-![[FleetingDB_card|h-300]]
-![[KnowledgeDB_card|h-300]]
-
 ## Money
  - 手取り約200k
  - 固定費内訳
