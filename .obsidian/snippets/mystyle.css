@@ -61,3 +61,9 @@ body,
   --nav-item-size: 1.02em;
   --line-height-tight: 1.2em; /* adjust line-height */
 }
+
+:root,
+body,
+.view-content {
+  --bases-table-text-size: 1.1em;
+}

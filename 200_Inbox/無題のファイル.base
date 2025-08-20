@@ -21,4 +21,7 @@ views:
     filters:
       and:
         - file.hasTag("🎁Topic/Society")
+    order:
+      - file.name
+      - source
     rowHeight: medium
