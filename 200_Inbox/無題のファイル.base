@@ -26,3 +26,6 @@ views:
     rowHeight: medium
   - type: table
     name: Omoro
+    filters:
+      and:
+        - file.hasTag("🎁Topic/Omoro")
