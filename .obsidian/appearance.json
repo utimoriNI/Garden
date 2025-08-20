@@ -1,5 +1,5 @@
 {
-  "accentColor": "#ad98ff",
+  "accentColor": "#ded6ff",
   "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "enabledCssSnippets": [
@@ -8,8 +8,8 @@
     "MCL Wide Views",
     "MCL Multi Column",
     "extended-colorschemes",
-    "mystyle",
-    "note-height"
+    "note-height",
+    "mystyle"
   ],
   "interfaceFontFamily": "メイリオ",
   "textFontFamily": "IBM Plex Sans,メイリオ,IBM Plex Sans JP",
