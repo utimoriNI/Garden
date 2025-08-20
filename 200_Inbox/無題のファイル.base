@@ -3,8 +3,6 @@ filters:
     - file.folder == "300_Input"
 views:
   - type: table
-    name: Table
-  - type: table
     name: View
     filters:
       and:
@@ -15,9 +13,9 @@ views:
       - source
     sort: []
     cardSize: 260
-    image: note.image
     imageFit: contain
     imageAspectRatio: 0.3
     columnSize:
       file.name: 910
       note.url: 329
+    rowHeight: medium

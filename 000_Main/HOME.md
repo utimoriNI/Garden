@@ -4,27 +4,7 @@ cssclasses:
   - cards-1-1
 ---
  
---- start-multi-column: ID_06m6
-```column-settings
-Number of Columns: 2
-Largest Column: standard
-```
-
-```dataview
-TABLE
-FROM "010_Topics"
-```
-
-
---- column-break ---
-
-```dataview
-TABLE
-FROM "110_MOC"
-```
-
-
---- end-multi-column
+![[無題のファイル.base | h-300]]
 ### ブックマーク
 - [[イラスト課題リスト]]
 - [[Wish List]]
