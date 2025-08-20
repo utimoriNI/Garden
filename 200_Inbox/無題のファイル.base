@@ -15,7 +15,6 @@ views:
     columnSize:
       file.name: 910
       note.url: 329
-    rowHeight: medium
   - type: table
     name: Society
     filters:
