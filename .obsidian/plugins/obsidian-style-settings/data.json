@@ -63,5 +63,7 @@
   "minimal-style@@ax3@@dark": "#969696",
   "minimal-style@@ax2@@dark": "#B5DCFF",
   "minimal-style@@frame-icon-color@@dark": "#C8C8C8",
-  "minimal-style@@embed-underline": false
+  "minimal-style@@embed-underline": false,
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
+  "anuppuccin-theme-settings@@ctp-custom-lavender@@dark": "#D4CDDD"
 }
