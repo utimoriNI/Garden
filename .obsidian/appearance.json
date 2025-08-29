@@ -13,7 +13,7 @@
   ],
   "interfaceFontFamily": "メイリオ",
   "textFontFamily": "IBM Plex Sans,メイリオ,IBM Plex Sans JP",
-  "baseFontSize": 21,
+  "baseFontSize": 19,
   "showViewHeader": true,
   "showRibbon": true,
   "baseFontSizeAction": true
