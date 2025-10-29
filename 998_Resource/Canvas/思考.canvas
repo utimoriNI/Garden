@@ -2,7 +2,9 @@
 	"nodes":[
 		{"id":"6d279d6f59635551","type":"file","file":"110_MOC/PKM_MOC.md","x":-460,"y":640,"width":400,"height":660},
 		{"id":"3c480d7d8794f5b6","type":"file","file":"110_MOC/Society_MOC.md","x":-60,"y":640,"width":400,"height":1080},
-		{"id":"f357b3e97ece2209","x":340,"y":660,"width":400,"height":400,"type":"file","file":"110_MOC/人間生活_MOC.canvas"}
+		{"id":"f357b3e97ece2209","type":"file","file":"110_MOC/人間生活_MOC.canvas","x":340,"y":660,"width":400,"height":400},
+		{"id":"b87109ac9624b440","x":1251,"y":1482,"width":369,"height":78,"type":"text","text":"# AI 発展後の社会"},
+		{"id":"ae03aac88b7551aa","x":1720,"y":1380,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[]
 }
