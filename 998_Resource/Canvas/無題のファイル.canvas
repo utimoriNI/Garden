@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"6d279d6f59635551","type":"file","file":"110_MOC/PKM_MOC.md","x":-460,"y":640,"width":400,"height":660},
+		{"id":"3c480d7d8794f5b6","x":-60,"y":640,"width":400,"height":1080,"type":"file","file":"110_MOC/Society_MOC.md"}
+	],
+	"edges":[]
+}
