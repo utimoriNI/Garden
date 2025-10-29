@@ -9,6 +9,7 @@ views:
       - url
       - source
     sort: []
+    limit: 50
     cardSize: 260
     imageFit: contain
     imageAspectRatio: 0.3

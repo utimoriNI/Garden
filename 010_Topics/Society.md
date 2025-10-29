@@ -5,10 +5,8 @@ cssclasses:
 tags:
   - 🎁Topic
 ---
-```dataview
-LIST
-FROM #🎁Topic/Society 
-```
+![[無題のファイル.base]]
+
 
 ### その他Topic
 ```dataview
