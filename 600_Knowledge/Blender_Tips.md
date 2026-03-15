@@ -2,8 +2,8 @@
 created: 2023-10-28 14:21
 tags:
   - Knowledge
-tag: [Blender]
-link: 
+tag:
+  - Blender
 ---
 
 - **Transform Orientations > Normal**

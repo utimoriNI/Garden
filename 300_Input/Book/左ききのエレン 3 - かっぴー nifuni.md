@@ -7,8 +7,7 @@ author:
   - nifuni
 publisher: 集英社
 publish: 2018-05-02
-total: 212
-isbn: 
+isbn:
 cover: http://books.google.com/books/content?id=_UFYDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 created: 2024-01-09 21:37:08
 updated: 2024-01-09 21:37:08
@@ -19,7 +18,9 @@ Status: 読んでる
 ![cover|150](http://books.google.com/books/content?id=_UFYDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api)
 
 # 左ききのエレン 3
-![[IMG_3595.png]] ^ff9775
 
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/7ab3be4385ce85e043ffa9ea1f795eac.png)
+ ^ff9775
 
-![[IMG_3590 1.png]] ^4483d4
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/27abb8e999b9191f85c5cd83a84bfe64.png)
+ ^4483d4

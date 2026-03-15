@@ -1,15 +1,17 @@
 ---
 tag: 📚Book
-title: "BIG THINGS　どデカいことを成し遂げたヤツらはなにをしたのか？"
-author: [ベント・フリウビヤ, ダン・ガードナー, 櫻井祐子]
+title: BIG THINGS　どデカいことを成し遂げたヤツらはなにをしたのか？
+author:
+  - ベント・フリウビヤ
+  - ダン・ガードナー
+  - 櫻井祐子
 publisher: サンマーク出版
 publish: 2024-04-24
-total: 251
-isbn:  PKEY:BT000156253000100101900209
+isbn: PKEY:BT000156253000100101900209
 cover: http://books.google.com/books/content?id=MAIBEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 created: 2024-07-30 22:32:50
 updated: 2024-07-30 22:32:50
-status: 
+status:
 Status: 読んでる
 ---
 

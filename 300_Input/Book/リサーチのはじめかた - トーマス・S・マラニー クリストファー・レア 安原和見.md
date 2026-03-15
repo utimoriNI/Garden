@@ -8,7 +8,6 @@ author:
   - 安原和見
 publisher: 筑摩書房
 publish: 2023-09
-total: 0
 isbn: 4480837256 9784480837257
 cover: http://books.google.com/books/content?id=9u0M0AEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 created: 2023-09-17 11:31:00

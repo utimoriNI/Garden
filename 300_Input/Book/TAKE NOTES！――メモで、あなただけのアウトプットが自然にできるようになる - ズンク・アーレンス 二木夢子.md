@@ -10,8 +10,7 @@ author:
   - 二木夢子
 publisher: 日経BP
 publish: 2021-10-15
-total: 280
-isbn: 
+isbn:
 cover: http://books.google.com/books/content?id=UqZHEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 created: 2023-03-16 12:59:11
 updated: 2023-03-16 12:59:11

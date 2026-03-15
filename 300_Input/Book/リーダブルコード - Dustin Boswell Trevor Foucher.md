@@ -7,7 +7,6 @@ author:
   - Trevor Foucher
 publisher: O'Reilly Media, Inc.
 publish: 2012-06
-total: 237
 isbn: 4873115655 9784873115658
 cover: http://books.google.com/books/content?id=Wx1dLwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 created: 2023-08-26 15:36:10

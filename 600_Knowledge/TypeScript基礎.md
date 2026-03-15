@@ -349,9 +349,11 @@ const TestComponent: React.FC = () => {
 	- `React.ChangeEventHandler<HTMLInputElement>`と表示されるので、`Handler`部分を消して、`e: React.ChangeEvent<HTMLInputElement>`と定義すればよい
 	- `onChange`に設定した関数にホバーすれば、返り値の型が取得できるからそっちの方がいい
 	- `onChange`にホバーした時
-		- ![[Pasted image 20230618132856.png]]
+		- 
+		- ![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/8cf2598bf3f4abebfd4336abe621b750.png)
 	- 関数名にホバーした時
-		- ![[Pasted image 20230618132847.png]]
+		- 
+		- ![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/e9b327f6155fac55d9d8f81349a20024.png)
 
 ## 参考文献
 - [[300_Input/最速で学ぶTypeScript  Udemy|最速で学ぶTypeScript  Udemy]]

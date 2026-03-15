@@ -1,7 +1,6 @@
 ---
 tags:
   - 🎁Topic/Tech
-  - Later
 ---
 [[ReadItLater]] [[Article]]
 # [ブラウザからDBに行き着くまでただまとめる](https://zenn.dev/moko_poi/articles/c2402f13a870a1)

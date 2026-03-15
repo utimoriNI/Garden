@@ -1,19 +1,14 @@
 {
-  "accentColor": "#ded6ff",
-  "cssTheme": "Minimal",
+  "accentColor": "#059467",
+  "cssTheme": "Things",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "cards",
     "MCL Gallery Cards",
-    "MCL Wide Views",
-    "MCL Multi Column",
-    "extended-colorschemes",
-    "note-height",
-    "mystyle"
+    "note-height"
   ],
   "interfaceFontFamily": "メイリオ",
   "textFontFamily": "IBM Plex Sans,メイリオ,IBM Plex Sans JP",
-  "baseFontSize": 20,
+  "baseFontSize": 18,
   "showViewHeader": true,
   "showRibbon": true,
   "baseFontSizeAction": true

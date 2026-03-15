@@ -1,8 +1,3 @@
----
-
-database-plugin: basic
-
----
 
 ```yaml:dbfolder
 name: new database

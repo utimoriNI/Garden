@@ -6,7 +6,6 @@ author:
   - じゃけぇ（岡田拓巳）
 publisher: SBクリエイティブ
 publish: 2021-09-16
-total: 272
 isbn: 481561072X 9784815610722
 cover: http://books.google.com/books/content?id=mK9CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 created: 2023-04-07 20:29:46
@@ -409,7 +408,6 @@ return <p style={contentStyle}>{props.children}</p>;
 #### 再レンダリング
 - カウントアップ用のボタンをクリックすると、画面をリロードしていないのに画面の表示が変わる
 	- これは**コンポーネントが再レンダリングされているから**
-	- 参考:![[Pasted image 20230408171818.png]]
 - Stateが更新された時に、関数コンポーネントは再び頭から処理が実行される
 	- この**変更を検知してコンポーネントを再処理する**ことを再レンダリングする
 

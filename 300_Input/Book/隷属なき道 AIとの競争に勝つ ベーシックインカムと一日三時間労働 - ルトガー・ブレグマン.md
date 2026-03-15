@@ -5,8 +5,7 @@ author:
   - ルトガー・ブレグマン
 publisher: 文藝春秋
 publish: 2017-05-25
-total: 312
-isbn: 
+isbn:
 cover: http://books.google.com/books/content?id=IeDMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 created: 2023-02-26 23:43:52
 updated: 2023-02-26 23:43:52

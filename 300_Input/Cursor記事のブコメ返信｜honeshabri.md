@@ -1,16 +1,14 @@
 ---
-title: "Cursor記事のブコメ返信｜honeshabri"
-source: "https://note.com/honeshabri/n/nc4355af890d1"
+title: Cursor記事のブコメ返信｜honeshabri
+source: https://note.com/honeshabri/n/nc4355af890d1
 author:
   - "[[note（ノート）]]"
 published: 2025-03-24
 created: 2025-04-18
-description: "最近ハマっていたCursorの記事を書いたらブクマがいっぱいついたので、毎度のごとくブコメ返信をする。  Cursorを使った文章執筆は、AIファーストな環境整備から始まる - 本しゃぶりMarkdown形式での情報一元管理と音声入力、そしてCursorというAIエディタの組み合わせで、執筆環境が一変した体験honeshabri.hatenablog.com  Obsidianがハネた   AIエージェントでObsidianがハネてるよなぁ。データはローカルに囲い込まない形式で再利用性が高いのが良い。昨年末、Notionじゃなくてこっちを選んで良かった（今の"
+description: 最近ハマっていたCursorの記事を書いたらブクマがいっぱいついたので、毎度のごとくブコメ返信をする。  Cursorを使った文章執筆は、AIファーストな環境整備から始まる - 本しゃぶりMarkdown形式での情報一元管理と音声入力、そしてCursorというAIエディタの組み合わせで、執筆環境が一変した体験honeshabri.hatenablog.com  Obsidianがハネた   AIエージェントでObsidianがハネてるよなぁ。データはローカルに囲い込まない形式で再利用性が高いのが良い。昨年末、Notionじゃなくてこっちを選んで良かった（今の
 tags:
-  - "Later"
-  - "🎁Topic/"
-  - "Scrap"
-image: "https://assets.st-note.com/production/uploads/images/180645806/rectangle_large_type_2_c90eb142acd167ba0412399f58bff65d.jpeg?fit=bounds&quality=85&width=1280"
+  - 🎁Topic/PKM
+image: https://assets.st-note.com/production/uploads/images/180645806/rectangle_large_type_2_c90eb142acd167ba0412399f58bff65d.jpeg?fit=bounds&quality=85&width=1280
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/180645806/rectangle_large_type_2_c90eb142acd167ba0412399f58bff65d.jpeg?width=1200)
 

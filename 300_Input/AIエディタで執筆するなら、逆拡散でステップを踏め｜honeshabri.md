@@ -1,16 +1,14 @@
 ---
-title: "AIエディタで執筆するなら、逆拡散でステップを踏め｜honeshabri"
-source: "https://note.com/honeshabri/n/ndd8b2ccb9085"
+title: AIエディタで執筆するなら、逆拡散でステップを踏め｜honeshabri
+source: https://note.com/honeshabri/n/ndd8b2ccb9085
 author:
   - "[[note（ノート）]]"
 published: 2025-03-18
 created: 2025-04-18
-description: "Cursorを使い始めてから、このnoteでは何度もその便利さについて触れてきた。特に俺は文章執筆をメインにCursorを使っているわけだが、具体的にどんな方法で執筆しているかについてはまだしっかり書いてこなかったと気づいた。今回はそれについて掘り下げてみたい。  逆拡散執筆法とは何か  俺がCursorに触れ始めたのは音声入力がきっかけだった。音声入力を起点として始めたこの方式は、まさに「生成AI時代ならでは」の執筆法と言える。  どういうことかというと、最初にわっと喋って情報の塊をぶち込み、そこから不要なものを削ぎ落とし、整理し、まとめながら、徐々に完成形に収束させていくプロセスだ"
+description: Cursorを使い始めてから、このnoteでは何度もその便利さについて触れてきた。特に俺は文章執筆をメインにCursorを使っているわけだが、具体的にどんな方法で執筆しているかについてはまだしっかり書いてこなかったと気づいた。今回はそれについて掘り下げてみたい。  逆拡散執筆法とは何か  俺がCursorに触れ始めたのは音声入力がきっかけだった。音声入力を起点として始めたこの方式は、まさに「生成AI時代ならでは」の執筆法と言える。  どういうことかというと、最初にわっと喋って情報の塊をぶち込み、そこから不要なものを削ぎ落とし、整理し、まとめながら、徐々に完成形に収束させていくプロセスだ
 tags:
-  - "Later"
-  - "🎁Topic/"
-  - "Scrap"
-image: "https://assets.st-note.com/production/uploads/images/179682247/rectangle_large_type_2_e44214594a69f9bf82334470b798f526.jpeg?fit=bounds&quality=85&width=1280"
+  - 📦Archive/Life
+image: https://assets.st-note.com/production/uploads/images/179682247/rectangle_large_type_2_e44214594a69f9bf82334470b798f526.jpeg?fit=bounds&quality=85&width=1280
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/179682247/rectangle_large_type_2_e44214594a69f9bf82334470b798f526.jpeg?width=1200)
 

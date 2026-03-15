@@ -4,9 +4,8 @@ tags:
 title: 読書について他二篇
 author:
   - ショウペンハウエル
-publisher: 
+publisher:
 publish: 1983-07
-total: 158
 isbn: 4003363221 9784003363225
 cover: http://books.google.com/books/content?id=gkT-QwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 created: 2023-03-26 17:38:44

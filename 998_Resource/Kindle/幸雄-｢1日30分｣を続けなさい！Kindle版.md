@@ -4,7 +4,7 @@ kindle-sync:
   title: '｢1日30分｣を続けなさい！Kindle版: 人生勝利の勉強法55'
   author: 古市 幸雄
   asin: B06WD8PXW3
-  lastAnnotatedDate: '2019-12-19'
+  lastAnnotatedDate: Invalid date
   bookImageUrl: 'https://m.media-amazon.com/images/I/81kHv1te+0L._SY160.jpg'
   highlightsCount: 3
 ---
@@ -23,5 +23,9 @@ kindle-sync:
 
 ---
 ある項目を学習する → この勉強の 1 週間後に復習する → 最初の復習から 2 週間後に 2 回目の復習をする → 2 回目の復習後 1 カ月以内に 3 回目の復習を — location: [535](kindle://book?action=open&asin=B06WD8PXW3&location=535) ^ref-23143
+
+---
+
+ある項目を学習する → この勉強の 1 週間後に復習する → 最初の復習から 2 週間後に 2 回目の復習をする → 2 回目の復習後 1 カ月以内に 3 回目の復習をする」 — location: [535](kindle://book?action=open&asin=B06WD8PXW3&location=535) ^ref-35658
 
 ---

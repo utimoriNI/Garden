@@ -6,8 +6,7 @@ author:
   - 柴藤亮介
 publisher: 岩波書店
 publish: 2021-11-19
-total: 212
-isbn: 
+isbn:
 cover: http://books.google.com/books/content?id=XHlfEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 created: 2023-04-22 17:10:40
 updated: 2023-04-22 17:10:40

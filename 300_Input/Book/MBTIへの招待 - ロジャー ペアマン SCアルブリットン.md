@@ -5,9 +5,8 @@ title: MBTIへの招待
 author:
   - ロジャー ペアマン
   - S.C.アルブリットン
-publisher: 
+publisher:
 publish: 2002-08
-total: 231
 isbn: 4760821600 9784760821600
 cover: http://books.google.com/books/content?id=hfq0PQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
 created: 2023-09-07 17:50:12

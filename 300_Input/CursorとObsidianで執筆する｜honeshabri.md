@@ -1,16 +1,14 @@
 ---
-title: "CursorとObsidianで執筆する｜honeshabri"
-source: "https://note.com/honeshabri/n/nee1980b6d34d"
+title: CursorとObsidianで執筆する｜honeshabri
+source: https://note.com/honeshabri/n/nee1980b6d34d
 author:
   - "[[note（ノート）]]"
 published: 2025-03-06
 created: 2025-04-18
-description: "この前、Cursorを使った新しい体験について書いた分けだが、今回はCursorとObsidianの連携について書いてみたい。  Obsidianの運用方法とGitの連携問題  Cursorを使うにあたって悩んでいたのが、Obsidianとの連携をどうするかという問題だった。俺はObsidianを気軽にモバイルでも使えるようにiCloud Driveに保管庫を置いている。これによって、前回紹介したショートカットなども問題なく運用できている。  一方で、せっかくCursorを使うならGit管理したいとも考えていた。原稿のような何度も修正する文章はGitHubで管理したいのだが、ここに一つ"
+description: この前、Cursorを使った新しい体験について書いた分けだが、今回はCursorとObsidianの連携について書いてみたい。  Obsidianの運用方法とGitの連携問題  Cursorを使うにあたって悩んでいたのが、Obsidianとの連携をどうするかという問題だった。俺はObsidianを気軽にモバイルでも使えるようにiCloud Driveに保管庫を置いている。これによって、前回紹介したショートカットなども問題なく運用できている。  一方で、せっかくCursorを使うならGit管理したいとも考えていた。原稿のような何度も修正する文章はGitHubで管理したいのだが、ここに一つ
 tags:
-  - "Later"
-  - "🎁Topic/"
-  - "Scrap"
-image: "https://assets.st-note.com/production/uploads/images/177818019/rectangle_large_type_2_1c67123575d8ad6214a04d25365b1918.jpeg?fit=bounds&quality=85&width=1280"
+  - 🎁Topic/PKM
+image: https://assets.st-note.com/production/uploads/images/177818019/rectangle_large_type_2_1c67123575d8ad6214a04d25365b1918.jpeg?fit=bounds&quality=85&width=1280
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/177818019/rectangle_large_type_2_1c67123575d8ad6214a04d25365b1918.jpeg?width=1200)
 

@@ -1,16 +1,14 @@
 ---
-title: "Obsidianでのメモ整理はリンク中心｜honeshabri"
-source: "https://note.com/honeshabri/n/nf288b0d28893"
+title: Obsidianでのメモ整理はリンク中心｜honeshabri
+source: https://note.com/honeshabri/n/nf288b0d28893
 author:
   - "[[note（ノート）]]"
 published: 2025-03-07
 created: 2025-04-18
-description: "マシュマロに答える。 マシュマロ この質問、非常に身につまされる内容だ。メモを取ることとメモを活用することは全く別のスキルであり、多くの人が後者で躓いている。特にデジタルツールを使うと、「取る→忘れる→探せない→あきらめる」という悪循環に陥りがちだ。  ここでは、Obsidianを使ったメモ整理について、一般的なベストプラクティスを簡単に紹介した上で、俺自身が実践している方法を詳しく解説したい。  Obsidianでメモを整理する一般的なアプローチ  Obsidianでメモを管理する一般的な方法としては、以下のようなものがある。    フォルダ・タグ・リンクの組み合わせ：カテゴリごとの"
+description: マシュマロに答える。 マシュマロ この質問、非常に身につまされる内容だ。メモを取ることとメモを活用することは全く別のスキルであり、多くの人が後者で躓いている。特にデジタルツールを使うと、「取る→忘れる→探せない→あきらめる」という悪循環に陥りがちだ。  ここでは、Obsidianを使ったメモ整理について、一般的なベストプラクティスを簡単に紹介した上で、俺自身が実践している方法を詳しく解説したい。  Obsidianでメモを整理する一般的なアプローチ  Obsidianでメモを管理する一般的な方法としては、以下のようなものがある。    フォルダ・タグ・リンクの組み合わせ：カテゴリごとの
 tags:
-  - "Later"
-  - "🎁Topic/"
-  - "Scrap"
-image: "https://assets.st-note.com/production/uploads/images/177976113/rectangle_large_type_2_6983b0e36710d4325a4671c1cda253de.jpeg?fit=bounds&quality=85&width=1280"
+  - 🎁Topic/PKM
+image: https://assets.st-note.com/production/uploads/images/177976113/rectangle_large_type_2_6983b0e36710d4325a4671c1cda253de.jpeg?fit=bounds&quality=85&width=1280
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/177976113/rectangle_large_type_2_6983b0e36710d4325a4671c1cda253de.jpeg?width=1200)
 

@@ -6,8 +6,7 @@ author:
   - ソフィー・ヴァルキエー
 publisher: ディスカヴァー・トゥエンティワン
 publish: 2017-03-24
-total: 209
-isbn: 
+isbn:
 cover: http://books.google.com/books/content?id=mwWDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 created: 2023-02-26 23:39:05
 updated: 2023-02-26 23:39:05

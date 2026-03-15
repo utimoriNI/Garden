@@ -1,7 +1,6 @@
 ---
 tags:
   - 🎁Topic/Omoro
-  - 🎁Topic/Omoro
 ---
 
 [[ReadItLater]] [[Article]]
@@ -20,7 +19,9 @@ tags:
 （別にシャニPの夢女じゃないはずなのに)ここまで危機感を抱くことになった一番大きな要因は、**年齢**だ。  
 10代のアイドル達が事務所のほとんどを占める中、少なくとも20代と見られるシャニPに対して、千雪は数少ない**同年代設定**なのである。
 
-![スクリーンショット 2021-10-19 23.24.44](998_Resource/Asset/スクリーンショット%202021-10-19%2023.24.44.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/db535a3545465a08d5cb20505e8470f5.png)
+
+
 
 シャニPが他のアイドルと接している姿は教育実習生とか個別塾教師とかのお兄ちゃん的存在にも見えるが、千雪に対しては明確に**同世代の「先輩」感**を醸し出してくるのだ。
 
@@ -36,13 +37,17 @@ tags:
 まして夏葉は大学生という身分でもあるので、いくら夏葉が可愛くて格好良くて文句なしにいい女であったところで、世間知らずのお嬢さんをほのぼの見守るという構図を脱し得ないのである。  
 **その点桑山千雪はこれだ。**
 
-![スクリーンショット 2021-10-19 21.55.23](998_Resource/Asset/スクリーンショット%202021-10-19%2021.55.23.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/8f27fdbfbe442b9b316581cd1825b328.png)
+
+
 
 ↑初手から女として見られに来た桑山千雪
 
-![スクリーンショット 2021-10-19 22.53.39](998_Resource/Asset/スクリーンショット%202021-10-19%2022.53.39.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/a65de32f0683c13ed525473e5a58fd67.png)
 
-![スクリーンショット 2021-10-19 22.47.10](998_Resource/Asset/スクリーンショット%202021-10-19%2022.47.10.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/a93e376d9cf4e2d95619a6dea70804f7.png)
+
+
 
 ↑です？なにそれずっる・・・
 
@@ -53,15 +58,16 @@ tags:
 
 おしゃれさんの多い283プロだが、千雪も**美容・ファッションに対し感度が高い**ことが窺える。
 
-![ダウンロード](998_Resource/Asset/ダウンロード.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/94b7b741769a4e3ab1c77cd2d71b97f9.png)
 
 ↑肩掛けカーデで別に太くもない二の腕をカバーする桑山千雪
 
-![ダウンロード (2)](998_Resource/Asset/ダウンロード%20(2).png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/67d04ea07b1663c63d22e51c7173096b.png)
+
 
 ↑出るところが出ていないと着られないタイトなコーデを着こなす桑山千雪
 
-![ダウンロード (1)](998_Resource/Asset/ダウンロード%20(1).png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/18c64e5c28e8978d58026af4fefbb36d.png)
 
 ↑リアルなトレンドのバックプリーツトレンチを取り入れる桑山千雪
 
@@ -78,11 +84,13 @@ tags:
 
 **そしてよく食べる。**
 
-![スクリーンショット 2021-10-19 22.39.01](998_Resource/Asset/スクリーンショット%202021-10-19%2022.39.01.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/bc785c0de04b1b8508b3984527c14c87.png)
 
-![スクリーンショット 2021-10-19 22.39.17](998_Resource/Asset/スクリーンショット%202021-10-19%2022.39.17.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/caf342d52c657ae2b2f56941583b30c3.png)
 
-![スクリーンショット 2021-10-19 22.55.54](998_Resource/Asset/スクリーンショット%202021-10-19%2022.55.54.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/c2136671f207cf5ceb144c945eaae46e.png)
+
+
 
 **こんなことでは！好感度が下がりようがない！**
 
@@ -92,31 +100,34 @@ tags:
 
 主に年齢のために、第一印象ではお姉さん感の強い千雪だが、かわいいもの好きで憧れっぽいところを見せる時の彼女は雰囲気がグッと女の子らしくなる。
 
-![スクリーンショット 2021-10-19 22.09.56](998_Resource/Asset/スクリーンショット%202021-10-19%2022.09.56.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/e54905796b79274da762791667e8bacb.png)
+
+
 
   
 また、**感性が豊か**なのでちょっとしたことで嬉しくなって笑顔を溢すのだ。
 
-![スクリーンショット 2021-10-19 22.14.23](998_Resource/Asset/スクリーンショット%202021-10-19%2022.14.23.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/f04660068b76540b575ae0b1fb3de363.png)
 
-![スクリーンショット 2021-10-19 22.22.40](998_Resource/Asset/スクリーンショット%202021-10-19%2022.22.40.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/53bd0b5d59047180c34d0e1bd7c804da.png)
 
-![スクリーンショット 2021-10-19 22.37.56](998_Resource/Asset/スクリーンショット%202021-10-19%2022.37.56.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/9bde74c524ed878a24489dde716e5878.png)
 
-![スクリーンショット 2021-10-19 22.32.22](998_Resource/Asset/スクリーンショット%202021-10-19%2022.32.22.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/6cce63ac54792e7ef59c11a2d01b1619.png)
 
-![スクリーンショット 2021-10-19 22.54.43](998_Resource/Asset/スクリーンショット%202021-10-19%2022.54.43.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/4dec0c002b7084dc4688aa25aa8e02b1.png)
+
+
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/bd93c86fdb131e55754ee35c7b769ad2.png)
 
   
 ↑「わあ・・・！」って、毎コミュ一回は言ってる気がする。
 
-![スクリーンショット 2021-10-19 22.41.42](998_Resource/Asset/スクリーンショット%202021-10-19%2022.41.42.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/2bb8b486efedb75dc44d5cf389d8f515.png)
 
-![スクリーンショット 2021-10-19 22.43.51](998_Resource/Asset/スクリーンショット%202021-10-19%2022.43.51.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/d7e2dfd34231539e9d7129ce38d75f8d.png)
 
-![スクリーンショット 2021-10-19 22.44.57](998_Resource/Asset/スクリーンショット%202021-10-19%2022.44.57.png)
-
-![スクリーンショット 2021-10-19 22.59.13](998_Resource/Asset/スクリーンショット%202021-10-19%2022.59.13.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/ddcf5bb61e24996a18a779aaa414a24a.png)
 
 ↑どんな些細なイベントも楽しむ千雪。  
 **そんなん、そんな人と一緒にいて楽しくないわけないしそんなん可愛くないわけない**ので本当にずるい。
@@ -124,17 +135,21 @@ tags:
 それでいてほわほわしてる訳でもなくて**ちゃんと賢く**、会話中は冗談めかして嫌味なくからかったり鋭い切り返しを見せることも。  
 **冗談が上手いのは本当に楽しくなっちゃってやばいからやめてほしい。**
 
-![スクリーンショット 2021-10-19 22.39.48](998_Resource/Asset/スクリーンショット%202021-10-19%2022.39.48.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/ad0c5376b1d88c55ecef6f20cfeca269.png)
 
-![スクリーンショット 2021-10-19 23.02.32](998_Resource/Asset/スクリーンショット%202021-10-19%2023.02.32.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/78ac7165f4b4db9ee9e61414079fcd7a.png)
+
+
 
   
 いじった時も**ちゃんと可愛く**反応できる。いじられ上手は愛され上手とでもいうのか。  
 **そんなの絶対好きになるのでやめてほしい。**
 
-![スクリーンショット 2021-10-19 22.00.23](998_Resource/Asset/スクリーンショット%202021-10-19%2022.00.23.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/72aac088dc133f557f855c158abe2956.png)
 
-![スクリーンショット 2021-10-19 22.05.40](998_Resource/Asset/スクリーンショット%202021-10-19%2022.05.40.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/d818c97e67702ef1b47b8d5ceddbe696.png)
+
+
 
 ◯
 
@@ -145,6 +160,8 @@ tags:
 短いながら物凄い人間味を感じて凄かった。好きにならざるを得ない。  
 恐らく同性の方が共感度も高いだろう。
 
-![スクリーンショット 2021-10-19 21.54.21](998_Resource/Asset/スクリーンショット%202021-10-19%2021.54.21.png)
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/654892b8b3b3d66aea3098f340bf4375.png)
+
+
 
 **桑山千雪、好きな男の近くにさえ現れなければ大好きです。**

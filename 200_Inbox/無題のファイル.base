@@ -1,32 +1,46 @@
 views:
-  - type: table
+  - type: cards
     name: Life
     filters:
       and:
         - file.hasTag("🎁Topic/Life")
     order:
       - file.name
-      - url
-      - source
-    sort: []
+      - file.ctime
+    sort:
+      - property: file.ctime
+        direction: DESC
     limit: 50
-    cardSize: 260
+    cardSize: 180
     imageFit: contain
     imageAspectRatio: 0.3
     columnSize:
       file.name: 910
       note.url: 329
-  - type: table
+  - type: cards
     name: Society
     filters:
       and:
         - file.hasTag("🎁Topic/Society")
     order:
       - file.name
-      - source
+      - file.ctime
     rowHeight: medium
-  - type: table
+    cardSize: 170
+  - type: cards
     name: Omoro
     filters:
       and:
         - file.hasTag("🎁Topic/Omoro")
+    order:
+      - file.name
+      - file.ctime
+    cardSize: 170
+  - type: cards
+    name: Illust
+    filters:
+      and:
+        - file.hasTag("🎁Topic/Illust")
+    order:
+      - file.name
+      - file.ctime

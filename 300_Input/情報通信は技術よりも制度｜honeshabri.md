@@ -1,16 +1,14 @@
 ---
-title: "情報通信は技術よりも制度｜honeshabri"
-source: "https://note.com/honeshabri/n/n49dd28dbbe9a"
+title: 情報通信は技術よりも制度｜honeshabri
+source: https://note.com/honeshabri/n/n49dd28dbbe9a
 author:
   - "[[note（ノート）]]"
 published: 2025-03-14
 created: 2025-04-18
-description: "ここのところ「情報と通信の文化史」を読み進めている。  情報と通信の文化史〈新装版〉amzn.to 7,150円(2025年03月14日 22:59時点詳しくはこちら)    Amazon.co.jpで購入する     なぜ読んでいるかといえば、例の週プレの連載のためだ。読み進めてだいぶいいところまで来たのだが、情報と通信というと完全に「技術・テクノロジーの話」というイメージが強かった。しかし、実際に太古の昔から現代に至るまでの歴史を見ていくと、「これは技術より制度の話だ」という印象が強いのである。  王の道  特に印象的"
+description: ここのところ「情報と通信の文化史」を読み進めている。  情報と通信の文化史〈新装版〉amzn.to 7,150円(2025年03月14日 22:59時点詳しくはこちら)    Amazon.co.jpで購入する     なぜ読んでいるかといえば、例の週プレの連載のためだ。読み進めてだいぶいいところまで来たのだが、情報と通信というと完全に「技術・テクノロジーの話」というイメージが強かった。しかし、実際に太古の昔から現代に至るまでの歴史を見ていくと、「これは技術より制度の話だ」という印象が強いのである。  王の道  特に印象的
 tags:
-  - "Later"
-  - "🎁Topic/"
-  - "Scrap"
-image: "https://assets.st-note.com/production/uploads/images/179061256/rectangle_large_type_2_19636c9690bd9c4f5c36a6558ec06c49.jpeg?fit=bounds&quality=85&width=1280"
+  - 📦Archive/Society
+image: https://assets.st-note.com/production/uploads/images/179061256/rectangle_large_type_2_19636c9690bd9c4f5c36a6558ec06c49.jpeg?fit=bounds&quality=85&width=1280
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/179061256/rectangle_large_type_2_19636c9690bd9c4f5c36a6558ec06c49.jpeg?width=1200)
 
