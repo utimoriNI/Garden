@@ -170,7 +170,7 @@
   - [蕎楽亭](https://www.google.com/maps/search/?api=1&query=蕎楽亭+東京都新宿区神楽坂3-6)｜神楽坂
 
 ### 純喫茶
-- 【厳選】純喫茶まとめ｜育実 より
+- [[【厳選】純喫茶まとめ｜育実]] より
   - [カフェアルル](https://www.google.com/maps/search/?api=1&query=カフェアルル+新宿)｜新宿
   - [もくもく](https://www.google.com/maps/search/?api=1&query=もくもく+東京都港区+喫茶店)｜港区
   - [珈琲西武 本店](https://www.google.com/maps/search/?api=1&query=珈琲西武+本店+新宿)｜新宿
