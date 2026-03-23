@@ -11,7 +11,7 @@
     - [T4 kitchin](%E3%82%AB%E3%83%95%E3%82%A7%E3%83%90%E3%83%BC8%E9%81%B8.md)
     - [道玄坂カフェ](%E3%82%AB%E3%83%95%E3%82%A7%E3%83%90%E3%83%BC8%E9%81%B8.md)
 - **純喫茶**
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|茶亭 羽富]]
+    - [茶亭 羽富](https://www.google.com/maps/search/?api=1&query=茶亭+羽富+渋谷)
 - **居酒屋・ビストロ (25選より)**
     - [[渋谷デートで使いたいお店 25選]]
         - [tar](https://www.google.com/maps/place/tar/@35.6610098,139.7011931,17z)
@@ -47,12 +47,12 @@
     - [お茶漬けbar zuzu](%E3%82%AB%E3%83%95%E3%82%A7%E3%83%90%E3%83%BC8%E9%81%B8.md)
     - [アーキテクチャカフェ棲家 (新宿三丁目)](%E3%82%AB%E3%83%95%E3%82%A7%E3%83%90%E3%83%BC8%E9%81%B8.md)
 - **純喫茶**
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|カフェアルル]]
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|珈琲西武 本店]]
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|タイムス]]
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|ニーナナ喫茶]]
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|新宿マリエール]]
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|珈琲貴族エジンバラ]]
+    - [カフェアルル](https://www.google.com/maps/search/?api=1&query=カフェアルル+新宿)
+    - [珈琲西武 本店](https://www.google.com/maps/search/?api=1&query=珈琲西武+本店+新宿)
+    - [タイムス](https://www.google.com/maps/search/?api=1&query=タイムス+新宿+喫茶店)
+    - [ニーナナ喫茶](https://www.google.com/maps/search/?api=1&query=ニーナナ喫茶+新宿)
+    - [新宿マリエール](https://www.google.com/maps/search/?api=1&query=新宿マリエール)
+    - [珈琲貴族エジンバラ](https://www.google.com/maps/search/?api=1&query=珈琲貴族エジンバラ+新宿)
 
 ### 銀座・丸の内・有楽町
 - [[銀座丸の内有楽町あたりのおすすめ飲食店]]
@@ -60,7 +60,7 @@
 ### 池袋
 - [HANA bar](%E3%82%AB%E3%83%95%E3%82%A7%E3%83%90%E3%83%BC8%E9%81%B8.md)
 - **純喫茶**
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|マーガレット]]
+    - [マーガレット](https://www.google.com/maps/search/?api=1&query=マーガレット+池袋+喫茶店)
 
 ### 恵比寿
 - [CAFE MID STAMP](Polysection%20%E6%B8%8B%E8%B0%B7%E3%81%AE%E3%82%AB%E3%83%95%E3%82%A7.md)
@@ -68,8 +68,8 @@
 ### 下北沢
 - [プリンセスタルト (フルーツタルト専門店)](%E4%B8%8B%E5%8C%97%E6%B2%A2%E3%81%AB%E6%97%AC%E3%81%AE%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%82%92%E8%B4%85%E6%B2%A2%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%82%BF%E3%83%AB%E3%83%88%E5%B0%82%E9%96%80%E5%BA%97%E3%80%8C%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%BF%E3%83%AB%E3%83%88%E3%80%8D%E3%81%8COPEN%E4%BA%88%E5%AE%9A.md)
 - **純喫茶**
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|透明薔薇]]
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|Blue Monday]]
+    - [透明薔薇](https://www.google.com/maps/search/?api=1&query=透明薔薇+下北沢)
+    - [Blue Monday](https://www.google.com/maps/search/?api=1&query=Blue+Monday+下北沢+喫茶店)
 
 ### 港区
 - **蕎麦**
@@ -77,7 +77,7 @@
     - [蕎麦切り 酒 大愚](https://www.google.com/maps/search/?api=1&query=蕎麦切り+酒+大愚+東京都港区西新橋1-19-10)
     - [和食 手打ちそば 美舟音（みふね）](https://www.google.com/maps/search/?api=1&query=和食+手打ちそば+美舟音+東京都港区赤坂3-9-15)
 - **純喫茶**
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|もくもく]]
+    - [もくもく](https://www.google.com/maps/search/?api=1&query=もくもく+東京都港区+喫茶店)
 
 ### 中央区
 - **蕎麦**
@@ -92,8 +92,8 @@
 - **蕎麦**
     - [手打蕎麦 じゆうさん](https://www.google.com/maps/search/?api=1&query=手打蕎麦+じゆうさん+東京都中野区江原町3-1-4)
 - **純喫茶**
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|不純喫茶ドープ]]
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|ジンガロ]]
+    - [不純喫茶ドープ](https://www.google.com/maps/search/?api=1&query=不純喫茶ドープ+中野)
+    - [ジンガロ](https://www.google.com/maps/search/?api=1&query=ジンガロ+中野)
 
 ### 東村山
 - **蕎麦**
@@ -111,43 +111,43 @@
 
 ### 阿佐ヶ谷
 - **純喫茶**
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|キャラバンコーヒー]]
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|Gion]]
+    - [キャラバンコーヒー](https://www.google.com/maps/search/?api=1&query=キャラバンコーヒー+阿佐ヶ谷)
+    - [Gion](https://www.google.com/maps/search/?api=1&query=Gion+阿佐ヶ谷+喫茶店)
 
 ### 板橋
 - **純喫茶**
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|カフェテラスピコリーノ]]
+    - [カフェテラスピコリーノ](https://www.google.com/maps/search/?api=1&query=カフェテラスピコリーノ+板橋)
 
 ### 十条
 - **純喫茶**
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|深海]]
+    - [深海](https://www.google.com/maps/search/?api=1&query=深海+十条+喫茶店)
 
 ### 蒲田
 - **純喫茶**
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|喫茶チェリー]]
+    - [喫茶チェリー](https://www.google.com/maps/search/?api=1&query=喫茶チェリー+蒲田)
 
 ### 板橋区
 - **純喫茶**
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|喫茶小雪]]
+    - [喫茶小雪](https://www.google.com/maps/search/?api=1&query=喫茶小雪+板橋区)
 
 ### 新橋
 - **純喫茶**
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|パーラーキムラヤ]]
+    - [パーラーキムラヤ](https://www.google.com/maps/search/?api=1&query=パーラーキムラヤ+新橋)
 
 ### 高円寺
 - **純喫茶**
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|アール座読書館]]
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|高円寺エセルの中庭]]
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|ネルケン]]
+    - [アール座読書館](https://www.google.com/maps/search/?api=1&query=アール座読書館+高円寺)
+    - [高円寺エセルの中庭](https://www.google.com/maps/search/?api=1&query=高円寺エセルの中庭)
+    - [ネルケン](https://www.google.com/maps/search/?api=1&query=ネルケン+高円寺+喫茶店)
 
 ### 荻窪
 - **純喫茶**
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|物豆奇]]
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|邪宗門]]
+    - [物豆奇](https://www.google.com/maps/search/?api=1&query=物豆奇+荻窪)
+    - [邪宗門](https://www.google.com/maps/search/?api=1&query=邪宗門+荻窪)
 
 ### 西荻窪
 - **純喫茶**
-    - [[300_Input/【厳選】純喫茶まとめ｜育実|どんぐり舎]]
+    - [どんぐり舎](https://www.google.com/maps/search/?api=1&query=どんぐり舎+西荻窪)
 
 ## カテゴリ別
 
@@ -170,33 +170,33 @@
   - [蕎楽亭](https://www.google.com/maps/search/?api=1&query=蕎楽亭+東京都新宿区神楽坂3-6)｜神楽坂
 
 ### 純喫茶
-- [[300_Input/【厳選】純喫茶まとめ｜育実|【厳選】純喫茶まとめ｜育実]]
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|カフェアルル]]｜新宿
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|もくもく]]｜港区
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|珈琲西武 本店]]｜新宿
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|マーガレット]]｜池袋
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|キャラバンコーヒー]]｜阿佐ヶ谷
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|カフェテラスピコリーノ]]｜板橋
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|深海]]｜十条
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|タイムス]]｜新宿
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|透明薔薇]]｜下北沢
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|ニーナナ喫茶]]｜新宿
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|Gion]]｜阿佐ヶ谷
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|喫茶チェリー]]｜蒲田
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|不純喫茶ドープ]]｜中野
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|ジンガロ]]｜中野
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|Blue Monday]]｜下北沢
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|喫茶小雪]]｜板橋区
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|パーラーキムラヤ]]｜新橋
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|アール座読書館]]｜高円寺
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|高円寺エセルの中庭]]｜高円寺
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|ネルケン]]｜高円寺
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|新宿マリエール]]｜新宿
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|物豆奇]]｜荻窪
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|どんぐり舎]]｜西荻窪
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|珈琲貴族エジンバラ]]｜新宿
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|邪宗門]]｜荻窪
-	  - [[300_Input/【厳選】純喫茶まとめ｜育実|茶亭 羽富]]｜渋谷
+- 【厳選】純喫茶まとめ｜育実 より
+  - [カフェアルル](https://www.google.com/maps/search/?api=1&query=カフェアルル+新宿)｜新宿
+  - [もくもく](https://www.google.com/maps/search/?api=1&query=もくもく+東京都港区+喫茶店)｜港区
+  - [珈琲西武 本店](https://www.google.com/maps/search/?api=1&query=珈琲西武+本店+新宿)｜新宿
+  - [マーガレット](https://www.google.com/maps/search/?api=1&query=マーガレット+池袋+喫茶店)｜池袋
+  - [キャラバンコーヒー](https://www.google.com/maps/search/?api=1&query=キャラバンコーヒー+阿佐ヶ谷)｜阿佐ヶ谷
+  - [カフェテラスピコリーノ](https://www.google.com/maps/search/?api=1&query=カフェテラスピコリーノ+板橋)｜板橋
+  - [深海](https://www.google.com/maps/search/?api=1&query=深海+十条+喫茶店)｜十条
+  - [タイムス](https://www.google.com/maps/search/?api=1&query=タイムス+新宿+喫茶店)｜新宿
+  - [透明薔薇](https://www.google.com/maps/search/?api=1&query=透明薔薇+下北沢)｜下北沢
+  - [ニーナナ喫茶](https://www.google.com/maps/search/?api=1&query=ニーナナ喫茶+新宿)｜新宿
+  - [Gion](https://www.google.com/maps/search/?api=1&query=Gion+阿佐ヶ谷+喫茶店)｜阿佐ヶ谷
+  - [喫茶チェリー](https://www.google.com/maps/search/?api=1&query=喫茶チェリー+蒲田)｜蒲田
+  - [不純喫茶ドープ](https://www.google.com/maps/search/?api=1&query=不純喫茶ドープ+中野)｜中野
+  - [ジンガロ](https://www.google.com/maps/search/?api=1&query=ジンガロ+中野)｜中野
+  - [Blue Monday](https://www.google.com/maps/search/?api=1&query=Blue+Monday+下北沢+喫茶店)｜下北沢
+  - [喫茶小雪](https://www.google.com/maps/search/?api=1&query=喫茶小雪+板橋区)｜板橋区
+  - [パーラーキムラヤ](https://www.google.com/maps/search/?api=1&query=パーラーキムラヤ+新橋)｜新橋
+  - [アール座読書館](https://www.google.com/maps/search/?api=1&query=アール座読書館+高円寺)｜高円寺
+  - [高円寺エセルの中庭](https://www.google.com/maps/search/?api=1&query=高円寺エセルの中庭)｜高円寺
+  - [ネルケン](https://www.google.com/maps/search/?api=1&query=ネルケン+高円寺+喫茶店)｜高円寺
+  - [新宿マリエール](https://www.google.com/maps/search/?api=1&query=新宿マリエール)｜新宿
+  - [物豆奇](https://www.google.com/maps/search/?api=1&query=物豆奇+荻窪)｜荻窪
+  - [どんぐり舎](https://www.google.com/maps/search/?api=1&query=どんぐり舎+西荻窪)｜西荻窪
+  - [珈琲貴族エジンバラ](https://www.google.com/maps/search/?api=1&query=珈琲貴族エジンバラ+新宿)｜新宿
+  - [邪宗門](https://www.google.com/maps/search/?api=1&query=邪宗門+荻窪)｜荻窪
+  - [茶亭 羽富](https://www.google.com/maps/search/?api=1&query=茶亭+羽富+渋谷)｜渋谷
 
 ### ピザ
 - [[至高ピザの名店 東京12選]]
