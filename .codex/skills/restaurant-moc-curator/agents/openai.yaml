@@ -1,0 +1,7 @@
+﻿interface:
+  display_name: "飲食店 MOC 更新"
+  short_description: "投稿や画像から店名を抽出して Garden の飲食店 MOC を更新する"
+  default_prompt: "$restaurant-moc-curator を使って、この投稿や画像から店名を抽出し、Living - 飲食店MOC.md をエリア別とカテゴリ別の両方で更新してください。"
+
+policy:
+  allow_implicit_invocation: true
