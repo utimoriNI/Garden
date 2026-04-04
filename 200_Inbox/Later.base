@@ -4,3 +4,5 @@ views:
     filters:
       and:
         - file.hasTag("Later")
+    order:
+      - file.name

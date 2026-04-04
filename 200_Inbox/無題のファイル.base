@@ -9,7 +9,7 @@ views:
     order:
       - file.name
       - file.ctime
-      - file.embeds
+      - description
     sort:
       - property: file.ctime
         direction: DESC
