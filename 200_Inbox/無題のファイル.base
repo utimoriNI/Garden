@@ -1,3 +1,5 @@
+formulas:
+  無題: ""
 views:
   - type: cards
     name: Life
@@ -7,6 +9,7 @@ views:
     order:
       - file.name
       - file.ctime
+      - file.embeds
     sort:
       - property: file.ctime
         direction: DESC
