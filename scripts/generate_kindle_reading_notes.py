@@ -173,21 +173,45 @@ def sanitize_filename(value: str) -> str:
     return value
 
 
-def build_filename(book: BookMeta, highlight: Highlight) -> str:
-    return sanitize_filename(
-        f"{book.note_name}__loc-{highlight.location}__{highlight.highlight_id}.md"
-    )
-
-
-def build_group_filename(book: BookMeta, group_id: str) -> str:
-    return sanitize_filename(f"{book.note_name}__group-{group_id}.md")
-
-
 def build_heading(quote: str, limit: int = 32) -> str:
     compact = re.sub(r"\s+", " ", quote).strip()
     if len(compact) <= limit:
         return compact
     return compact[: limit - 1].rstrip() + "…"
+
+
+def normalize_title_text(value: str) -> str:
+    value = re.sub(r"\s+", " ", value).strip()
+    value = value.strip(" 　-")
+    return value
+
+
+def summarize_pick_title(highlight: Highlight) -> str:
+    if highlight.memo:
+        first_line = normalize_title_text(highlight.memo.splitlines()[0])
+        if first_line:
+            return first_line
+
+    quote = normalize_title_text(highlight.quote)
+    for token in ["。", "！", "？", "—"]:
+        if token in quote:
+            quote = quote.split(token, 1)[0]
+            break
+    if len(quote) > 26:
+        quote = quote[:25].rstrip() + "…"
+    return quote or highlight.highlight_id
+
+
+def build_filename(highlight: Highlight) -> str:
+    title = summarize_pick_title(highlight)
+    return sanitize_filename(f"{title}__{highlight.highlight_id}.md")
+
+
+def build_group_filename(group_id: str, highlights: List[Highlight]) -> str:
+    title = next((normalize_title_text(h.group_title or "") for h in highlights if h.group_title), "")
+    if not title:
+        title = summarize_pick_title(highlights[0])
+    return sanitize_filename(f"{title}__group-{group_id}.md")
 
 
 def format_list_block(items: Iterable[str], indent: str = "  ") -> str:
@@ -200,7 +224,7 @@ def build_source_link(book: BookMeta) -> str:
 
 
 def render_note(book: BookMeta, highlight: Highlight) -> str:
-    heading = build_heading(highlight.quote)
+    heading = summarize_pick_title(highlight)
     source_link = build_source_link(book)
     lines = [
         "---",
@@ -256,9 +280,9 @@ def render_note(book: BookMeta, highlight: Highlight) -> str:
 
 def render_group_note(book: BookMeta, group_id: str, highlights: List[Highlight]) -> str:
     source_link = build_source_link(book)
-    title = next((h.group_title for h in highlights if h.group_title), "") or build_heading(
-        highlights[0].quote
-    )
+    title = next((normalize_title_text(h.group_title or "") for h in highlights if h.group_title), "")
+    if not title:
+        title = summarize_pick_title(highlights[0])
     memo_parts = [h.memo for h in highlights if h.memo]
     link_lines = [
         f"- ![[{book.path.with_suffix('').as_posix()}#^{h.highlight_id}]]" for h in highlights
@@ -402,7 +426,7 @@ def main() -> int:
                 singles.append(highlight)
 
         for highlight in singles:
-            filename = build_filename(book, highlight)
+            filename = build_filename(highlight)
             target_path = dest_dir / filename
             if target_path.exists() and not args.overwrite:
                 skipped += 1
@@ -424,7 +448,7 @@ def main() -> int:
                 return 0
 
         for group_id, members in grouped.items():
-            filename = build_group_filename(book, group_id)
+            filename = build_group_filename(group_id, members)
             target_path = dest_dir / filename
             if target_path.exists() and not args.overwrite:
                 skipped += 1
