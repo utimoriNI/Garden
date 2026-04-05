@@ -1,9 +1,13 @@
 ---
 tags:
   - 🎁Topic/Life
-  - 🧩rn/candidate
+type: reading-note
+source_type: web
+source_container:
+topic: []
+moc: []
+status: inbox
 ---
-
 [[ReadItLater]] [[Article]]
 
 # [赤の女王仮説 - Wikipedia](https://ja.wikipedia.org/wiki/%E8%B5%A4%E3%81%AE%E5%A5%B3%E7%8E%8B%E4%BB%AE%E8%AA%AC)

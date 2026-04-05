@@ -2,9 +2,13 @@
 tags:
   - 🎁Topic/Life
   - 🎁Topic/Society
-  - 🧩rn/candidate
+type: reading-note
+source_type: legacy
+source_container:
+topic: []
+moc: []
+status: inbox
 ---
-
 ## はじめに
 - 「推し」という言葉に違和感を感じた理由を探る。
 - この感覚を持つきっかけは、Twitterで見た「メロい」という言葉に関する議論。

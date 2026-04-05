@@ -9,8 +9,13 @@ description:
 tags:
   - 🎁Topic/Society
   - 🎁Topic/Life
-  - 🧩rn/candidate
 image: https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png
+type: reading-note
+source_type: web
+source_container:
+topic: []
+moc: []
+status: inbox
 ---
 **consist of**:: [[Life]]
 **consist of**:: [[Society]]

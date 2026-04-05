@@ -1,7 +1,12 @@
 ---
 tags:
   - 🎁Topic/Life
-  - 🧩rn/candidate
+type: reading-note
+source_type: web
+source_container:
+topic: []
+moc: []
+status: inbox
 ---
 [[ReadItLater]] [[Tweet]]
 
