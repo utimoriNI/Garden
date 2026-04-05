@@ -1,6 +1,7 @@
 ---
 tags:
   - 🎁Topic/Life
+  - 🧩rn/candidate
 ---
 [[ReadItLater]] [[Tweet]]
 
