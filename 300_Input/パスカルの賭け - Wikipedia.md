@@ -2,6 +2,7 @@
 tags:
   - 🎁Topic/Lexicon
   - 🎁Topic/Life
+  - 🧩rn/candidate
 type: reading-note
 source_type: web
 source_container:
