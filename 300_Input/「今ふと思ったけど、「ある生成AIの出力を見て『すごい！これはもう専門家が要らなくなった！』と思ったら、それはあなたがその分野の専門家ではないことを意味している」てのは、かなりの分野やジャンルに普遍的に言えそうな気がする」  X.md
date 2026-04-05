@@ -5,11 +5,17 @@ author:
   - "[[X (formerly Twitter)]]"
 published: 2024-11-29
 created: 2024-12-05
-description: 
+description:
 tags:
   - 🎁Topic/Society
   - 🎁Topic/Life
 image: https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png
+type: reading-note
+source_type: web
+source_container:
+topic: []
+moc: []
+status: inbox
 ---
 **consist of**:: [[Life]]
 **consist of**:: [[Society]]

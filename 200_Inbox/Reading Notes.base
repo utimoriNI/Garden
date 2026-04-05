@@ -1,0 +1,83 @@
+filters:
+  and:
+    - 'file.inFolder("200_Inbox/Reading Notes")'
+    - 'type == "reading-note"'
+
+formulas:
+  days_until_review: 'if(review_due, (date(review_due) - today()).days, "")'
+
+properties:
+  file.name:
+    displayName: "Note"
+  source_book:
+    displayName: "Source"
+  book_title:
+    displayName: "Book"
+  kindle_location:
+    displayName: "Loc"
+  importance:
+    displayName: "Importance"
+  review_score:
+    displayName: "Score"
+  reviewed:
+    displayName: "Reviewed"
+  review_due:
+    displayName: "Due"
+  topic:
+    displayName: "Topic"
+  concept:
+    displayName: "Concept"
+  use_case:
+    displayName: "Use Case"
+  reaction:
+    displayName: "Reaction"
+  formula.days_until_review:
+    displayName: "Days"
+
+views:
+  - type: table
+    name: "Inbox"
+    filters:
+      and:
+        - 'status == "inbox"'
+    order:
+      - file.name
+      - source_book
+      - kindle_location
+      - importance
+      - review_score
+      - reviewed
+      - review_due
+      - topic
+      - concept
+      - use_case
+      - reaction
+
+  - type: table
+    name: "By Book"
+    groupBy:
+      property: source_book
+      direction: ASC
+    order:
+      - file.name
+      - source_book
+      - kindle_location
+      - importance
+      - review_score
+      - reviewed
+      - topic
+      - concept
+
+  - type: table
+    name: "Review Queue"
+    filters:
+      and:
+        - 'reviewed == false'
+    order:
+      - file.name
+      - review_due
+      - formula.days_until_review
+      - importance
+      - review_score
+      - source_book
+      - kindle_location

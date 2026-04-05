@@ -1,8 +1,13 @@
 ---
 tags:
   - 🎁Topic/Lexicon
+type: reading-note
+source_type: web
+source_container:
+topic: []
+moc: []
+status: inbox
 ---
-
 [[ReadItLater]] [[Article]]
 
 # [物見遊山（ものみゆさん）とは？ 意味・読み方・使い方 - 四字熟語一覧 - goo辞書](https://dictionary.goo.ne.jp/word/%E7%89%A9%E8%A6%8B%E9%81%8A%E5%B1%B1_%28%E5%9B%9B%E5%AD%97%E7%86%9F%E8%AA%9E%29/#:~:text=%E3%82%82%E3%81%AE%E3%81%BF%E3%82%86%E3%81%95%E3%82%93%E3%80%90%E7%89%A9%E8%A6%8B,%E3%81%93%E3%81%A1%E3%82%89%E3%82%92%E8%A6%8B%E7%89%A9%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%80%82&text=%E3%80%8C%E7%89%A9%E8%A6%8B%E3%80%8D%E3%81%AF%E3%80%81%E5%90%8D%E6%89%80,%E3%81%AB%E9%81%8A%E3%81%B3%E3%81%AB%E5%87%BA%E3%81%8B%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%80%82)

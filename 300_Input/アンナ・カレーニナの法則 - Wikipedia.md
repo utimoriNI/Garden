@@ -8,6 +8,12 @@ created: 2024-11-15
 description: 
 tags:
   - 🎁Topic/Lexicon
+type: reading-note
+source_type: web
+source_container:
+topic: []
+moc: []
+status: inbox
 ---
 **consist of**:: [[Word]]
 ## アンナ・カレーニナの法則
