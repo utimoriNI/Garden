@@ -212,11 +212,25 @@ def build_filename(highlight: Highlight) -> str:
     return sanitize_filename(f"{title}.md")
 
 
-def build_group_filename(group_id: str, highlights: List[Highlight]) -> str:
+def build_group_filename(highlights: List[Highlight]) -> str:
     title = next((normalize_title_text(h.group_title or "") for h in highlights if h.group_title), "")
     if not title:
         title = resolve_highlight_title(highlights[0])
-    return sanitize_filename(f"{title}__group-{group_id}.md")
+    return sanitize_filename(f"{title}.md")
+
+
+def ensure_unique_path(target_path: Path) -> Path:
+    if not target_path.exists():
+        return target_path
+
+    stem = target_path.stem
+    suffix = target_path.suffix
+    counter = 2
+    while True:
+        candidate = target_path.with_name(f"{stem} {counter}{suffix}")
+        if not candidate.exists():
+            return candidate
+        counter += 1
 
 
 def format_list_block(items: Iterable[str], indent: str = "  ") -> str:
@@ -433,6 +447,8 @@ def main() -> int:
         for highlight in singles:
             filename = build_filename(highlight)
             target_path = dest_dir / filename
+            if not args.overwrite:
+                target_path = ensure_unique_path(target_path)
             if target_path.exists() and not args.overwrite:
                 skipped += 1
                 continue
@@ -453,8 +469,10 @@ def main() -> int:
                 return 0
 
         for group_id, members in grouped.items():
-            filename = build_group_filename(group_id, members)
+            filename = build_group_filename(members)
             target_path = dest_dir / filename
+            if not args.overwrite:
+                target_path = ensure_unique_path(target_path)
             if target_path.exists() and not args.overwrite:
                 skipped += 1
                 continue
