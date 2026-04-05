@@ -132,15 +132,15 @@
       "command": true,
       "appendLink": false,
       "captureTo": "",
-      "captureToActiveFile": false,
+      "captureToActiveFile": true,
       "createFileIfItDoesntExist": {
         "enabled": false,
         "createWithTemplate": false,
         "template": ""
       },
       "format": {
-        "enabled": false,
-        "format": ""
+        "enabled": true,
+        "format": "%% group: 1 %%\n%% title:  %%"
       },
       "insertAfter": {
         "enabled": false,
