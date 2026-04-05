@@ -195,9 +195,13 @@ def format_list_block(items: Iterable[str], indent: str = "  ") -> str:
     return "\n".join(rows) if rows else f"{indent}- {yaml_quote('')}"
 
 
+def build_source_link(book: BookMeta) -> str:
+    return f"[[{book.path.with_suffix('').as_posix()}]]"
+
+
 def render_note(book: BookMeta, highlight: Highlight) -> str:
     heading = build_heading(highlight.quote)
-    source_link = f"[[998_Resource/Kindle/{book.note_name}]]"
+    source_link = build_source_link(book)
     lines = [
         "---",
         "type: reading-note",
@@ -243,7 +247,7 @@ def render_note(book: BookMeta, highlight: Highlight) -> str:
             "## My Take",
             "",
             "## Links",
-            f"- ![[998_Resource/Kindle/{book.note_name}#^{highlight.highlight_id}]]",
+            f"- ![[{book.path.with_suffix('').as_posix()}#^{highlight.highlight_id}]]",
             "",
         ]
     )
@@ -251,13 +255,13 @@ def render_note(book: BookMeta, highlight: Highlight) -> str:
 
 
 def render_group_note(book: BookMeta, group_id: str, highlights: List[Highlight]) -> str:
-    source_link = f"[[998_Resource/Kindle/{book.note_name}]]"
+    source_link = build_source_link(book)
     title = next((h.group_title for h in highlights if h.group_title), "") or build_heading(
         highlights[0].quote
     )
     memo_parts = [h.memo for h in highlights if h.memo]
     link_lines = [
-        f"- ![[998_Resource/Kindle/{book.note_name}#^{h.highlight_id}]]" for h in highlights
+        f"- ![[{book.path.with_suffix('').as_posix()}#^{h.highlight_id}]]" for h in highlights
     ]
     body_quotes = []
     for h in highlights:

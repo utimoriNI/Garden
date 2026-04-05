@@ -1,0 +1,38 @@
+---
+type: reading-note
+source_type: kindle
+source_container: '[[400_Kindle/ジェリー・Z・ミュラー、松本裕-測りすぎ――なぜパフォーマンス評価は失敗するのか？]]'
+source_book: '[[400_Kindle/ジェリー・Z・ミュラー、松本裕-測りすぎ――なぜパフォーマンス評価は失敗するのか？]]'
+book_title: '測りすぎ――なぜパフォーマンス評価は失敗するのか？'
+book_author:
+  - 'ジェリー・Z・ミュラー'
+  - '松本裕'
+source_asin: 'B07RL7RGRW'
+kindle_location: 367
+highlight_id: 'ref-868'
+topic: []
+concept: []
+use_case: []
+reaction: []
+status: inbox
+importance: 3
+review_score: 3
+reviewed: false
+review_due:
+moc: []
+---
+
+# キャンベルの法則」と呼ばれるようになったそのパターンは、「定量…
+
+> キャンベルの法則」と呼ばれるようになったそのパターンは、「定量的な社会指標が社会的意思決定に使われれば使われるほど、汚職の圧力にさらされやすくなり、本来監視するはずの社会プロセスをねじまげ、腐敗させやすくなる（９）」というものだ。イギリス人経済学者が作った類似の法則「グッドハートの法則」は、「管理のために用いられる測定はすべて、信頼できない（ 10）」というものだ。
+
+出典: [[400_Kindle/ジェリー・Z・ミュラー、松本裕-測りすぎ――なぜパフォーマンス評価は失敗するのか？]]
+Kindle: [location 367](kindle://book?action=open&asin=B07RL7RGRW&location=367)
+
+## Memo
+
+
+## My Take
+
+## Links
+- ![[400_Kindle/ジェリー・Z・ミュラー、松本裕-測りすぎ――なぜパフォーマンス評価は失敗するのか？#^ref-868]]
