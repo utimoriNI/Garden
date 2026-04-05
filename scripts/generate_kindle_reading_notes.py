@@ -12,6 +12,9 @@ HIGHLIGHT_PATTERN = re.compile(
     r"^(?P<quote>.+?)\s+— location: \[(?P<location>\d+)\]\((?P<link>[^)]*)\) \^(?P<ref>ref-\d+)\s*$"
 )
 FRONTMATTER_PATTERN = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
+PICK_PATTERN = re.compile(r"^%%\s*pick\s*%%$", re.IGNORECASE)
+GROUP_PATTERN = re.compile(r"^%%\s*group:\s*(?P<group>.+?)\s*%%$", re.IGNORECASE)
+TITLE_PATTERN = re.compile(r"^%%\s*title:\s*(?P<title>.+?)\s*%%$", re.IGNORECASE)
 
 
 @dataclass
@@ -31,6 +34,15 @@ class Highlight:
     kindle_link: str
     highlight_id: str
     memo: str
+    picked: bool
+    group_id: Optional[str]
+    group_title: Optional[str]
+
+
+@dataclass
+class PendingMetadata:
+    group_id: Optional[str] = None
+    group_title: Optional[str] = None
 
 
 def extract_frontmatter_value(frontmatter: str, key: str) -> str:
@@ -83,6 +95,7 @@ def parse_highlights(path: Path) -> List[Highlight]:
     chunks = [chunk.strip() for chunk in re.split(r"\n\s*---\s*\n", body) if chunk.strip()]
 
     highlights: List[Highlight] = []
+    pending = PendingMetadata()
     for chunk in chunks:
         lines = [line.rstrip() for line in chunk.splitlines()]
         while lines and not lines[0].strip():
@@ -93,10 +106,45 @@ def parse_highlights(path: Path) -> List[Highlight]:
             continue
 
         match = HIGHLIGHT_PATTERN.match(lines[0])
+        pick = any(PICK_PATTERN.match(line.strip()) for line in lines)
+        group_matches = [
+            GROUP_PATTERN.match(line.strip())
+            for line in lines
+            if GROUP_PATTERN.match(line.strip())
+        ]
+        title_matches = [
+            TITLE_PATTERN.match(line.strip())
+            for line in lines
+            if TITLE_PATTERN.match(line.strip())
+        ]
+
         if not match:
+            if group_matches:
+                pending.group_id = group_matches[-1].group("group").strip()
+            if title_matches:
+                pending.group_title = title_matches[-1].group("title").strip()
             continue
 
-        memo_lines = [line for line in lines[1:] if line.strip() and line.strip() != "---"]
+        group_id = (
+            group_matches[-1].group("group").strip()
+            if group_matches
+            else pending.group_id
+        )
+        group_title = (
+            title_matches[-1].group("title").strip()
+            if title_matches
+            else pending.group_title
+        )
+
+        memo_lines = [
+            line
+            for line in lines[1:]
+            if line.strip()
+            and line.strip() != "---"
+            and not PICK_PATTERN.match(line.strip())
+            and not GROUP_PATTERN.match(line.strip())
+            and not TITLE_PATTERN.match(line.strip())
+        ]
         memo = "\n".join(memo_lines).strip()
         highlights.append(
             Highlight(
@@ -105,8 +153,12 @@ def parse_highlights(path: Path) -> List[Highlight]:
                 kindle_link=match.group("link").strip(),
                 highlight_id=match.group("ref").strip(),
                 memo=memo,
+                picked=pick,
+                group_id=group_id,
+                group_title=group_title,
             )
         )
+        pending = PendingMetadata()
 
     return highlights
 
@@ -125,6 +177,10 @@ def build_filename(book: BookMeta, highlight: Highlight) -> str:
     return sanitize_filename(
         f"{book.note_name}__loc-{highlight.location}__{highlight.highlight_id}.md"
     )
+
+
+def build_group_filename(book: BookMeta, group_id: str) -> str:
+    return sanitize_filename(f"{book.note_name}__group-{group_id}.md")
 
 
 def build_heading(quote: str, limit: int = 32) -> str:
@@ -146,6 +202,7 @@ def render_note(book: BookMeta, highlight: Highlight) -> str:
         "---",
         "type: reading-note",
         "source_type: kindle",
+        f"source_container: {yaml_quote(source_link)}",
         f"source_book: {yaml_quote(source_link)}",
         f"book_title: {yaml_quote(book.title)}",
         "book_author:",
@@ -193,6 +250,74 @@ def render_note(book: BookMeta, highlight: Highlight) -> str:
     return "\n".join(lines)
 
 
+def render_group_note(book: BookMeta, group_id: str, highlights: List[Highlight]) -> str:
+    source_link = f"[[998_Resource/Kindle/{book.note_name}]]"
+    title = next((h.group_title for h in highlights if h.group_title), "") or build_heading(
+        highlights[0].quote
+    )
+    memo_parts = [h.memo for h in highlights if h.memo]
+    link_lines = [
+        f"- ![[998_Resource/Kindle/{book.note_name}#^{h.highlight_id}]]" for h in highlights
+    ]
+    body_quotes = []
+    for h in highlights:
+        body_quotes.append(f"> {h.quote}")
+        body_quotes.append("")
+
+    lines = [
+        "---",
+        "type: reading-note",
+        "source_type: kindle",
+        f"source_container: {yaml_quote(source_link)}",
+        f"source_book: {yaml_quote(source_link)}",
+        f"book_title: {yaml_quote(book.title)}",
+        "book_author:",
+        format_list_block(book.authors),
+        f"source_asin: {yaml_quote(book.asin)}",
+        f"group_key: {yaml_quote(group_id)}",
+        "topic: []",
+        "concept: []",
+        "use_case: []",
+        "reaction: []",
+        "status: inbox",
+        "importance: 3",
+        "review_score: 3",
+        "reviewed: false",
+        "review_due:",
+        "moc: []",
+        "---",
+        "",
+        f"# {title}",
+        "",
+    ]
+    lines.extend(body_quotes)
+    lines.extend(
+        [
+            f"出典: {source_link}",
+            "",
+            "## Memo",
+        ]
+    )
+    if memo_parts:
+        for idx, memo in enumerate(memo_parts, start=1):
+            if len(memo_parts) > 1:
+                lines.append(f"### Memo {idx}")
+            lines.extend(memo.splitlines())
+            lines.append("")
+    else:
+        lines.append("")
+    lines.extend(
+        [
+            "## My Take",
+            "",
+            "## Links",
+            *link_lines,
+            "",
+        ]
+    )
+    return "\n".join(lines)
+
+
 def make_entry_key(asin: str, highlight_id: str) -> str:
     return f"{asin}::{highlight_id}"
 
@@ -212,11 +337,11 @@ def collect_existing_keys(dest_dir: Path) -> set[str]:
 
 def main() -> int:
     parser = argparse.ArgumentParser(
-        description="Generate one-note-per-highlight reading notes from Kindle import notes."
+        description="Generate reading notes from flagged Kindle import notes."
     )
     parser.add_argument(
         "--source",
-        default="998_Resource/Kindle",
+        default="400_Kindle",
         help="Folder that contains Kindle source notes.",
     )
     parser.add_argument(
@@ -253,7 +378,6 @@ def main() -> int:
     dest_dir.mkdir(parents=True, exist_ok=True)
 
     book_filters = args.book or []
-    existing_keys = set() if args.overwrite else collect_existing_keys(dest_dir)
     created = 0
     skipped = 0
     parse_failures = 0
@@ -263,12 +387,17 @@ def main() -> int:
             continue
 
         book = parse_book(source_path)
-        for highlight in parse_highlights(source_path):
-            entry_key = make_entry_key(book.asin, highlight.highlight_id)
-            if entry_key in existing_keys:
-                skipped += 1
-                continue
+        highlights = parse_highlights(source_path)
 
+        grouped: dict[str, List[Highlight]] = {}
+        singles: List[Highlight] = []
+        for highlight in highlights:
+            if highlight.group_id:
+                grouped.setdefault(highlight.group_id, []).append(highlight)
+            elif highlight.picked:
+                singles.append(highlight)
+
+        for highlight in singles:
             filename = build_filename(book, highlight)
             target_path = dest_dir / filename
             if target_path.exists() and not args.overwrite:
@@ -285,9 +414,29 @@ def main() -> int:
             else:
                 target_path.write_text(note, encoding="utf-8")
 
-            existing_keys.add(entry_key)
             created += 1
+            if args.limit and created >= args.limit:
+                print(f"created={created} skipped={skipped} parse_failures={parse_failures}")
+                return 0
 
+        for group_id, members in grouped.items():
+            filename = build_group_filename(book, group_id)
+            target_path = dest_dir / filename
+            if target_path.exists() and not args.overwrite:
+                skipped += 1
+                continue
+
+            note = render_group_note(book, group_id, members)
+            if not note.strip():
+                parse_failures += 1
+                continue
+
+            if args.dry_run:
+                print(target_path)
+            else:
+                target_path.write_text(note, encoding="utf-8")
+
+            created += 1
             if args.limit and created >= args.limit:
                 print(f"created={created} skipped={skipped} parse_failures={parse_failures}")
                 return 0
