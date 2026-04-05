@@ -186,7 +186,12 @@ def normalize_title_text(value: str) -> str:
     return value
 
 
-def summarize_pick_title(highlight: Highlight) -> str:
+def resolve_highlight_title(highlight: Highlight) -> str:
+    if highlight.group_title:
+        explicit = normalize_title_text(highlight.group_title)
+        if explicit:
+            return explicit
+
     if highlight.memo:
         first_line = normalize_title_text(highlight.memo.splitlines()[0])
         if first_line:
@@ -203,14 +208,14 @@ def summarize_pick_title(highlight: Highlight) -> str:
 
 
 def build_filename(highlight: Highlight) -> str:
-    title = summarize_pick_title(highlight)
-    return sanitize_filename(f"{title}__{highlight.highlight_id}.md")
+    title = resolve_highlight_title(highlight)
+    return sanitize_filename(f"{title}.md")
 
 
 def build_group_filename(group_id: str, highlights: List[Highlight]) -> str:
     title = next((normalize_title_text(h.group_title or "") for h in highlights if h.group_title), "")
     if not title:
-        title = summarize_pick_title(highlights[0])
+        title = resolve_highlight_title(highlights[0])
     return sanitize_filename(f"{title}__group-{group_id}.md")
 
 
@@ -224,7 +229,7 @@ def build_source_link(book: BookMeta) -> str:
 
 
 def render_note(book: BookMeta, highlight: Highlight) -> str:
-    heading = summarize_pick_title(highlight)
+    heading = resolve_highlight_title(highlight)
     source_link = build_source_link(book)
     lines = [
         "---",
@@ -282,7 +287,7 @@ def render_group_note(book: BookMeta, group_id: str, highlights: List[Highlight]
     source_link = build_source_link(book)
     title = next((normalize_title_text(h.group_title or "") for h in highlights if h.group_title), "")
     if not title:
-        title = summarize_pick_title(highlights[0])
+        title = resolve_highlight_title(highlights[0])
     memo_parts = [h.memo for h in highlights if h.memo]
     link_lines = [
         f"- ![[{book.path.with_suffix('').as_posix()}#^{h.highlight_id}]]" for h in highlights
