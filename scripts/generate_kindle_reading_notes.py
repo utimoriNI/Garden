@@ -193,14 +193,21 @@ def render_note(book: BookMeta, highlight: Highlight) -> str:
     return "\n".join(lines)
 
 
-def collect_existing_ids(dest_dir: Path) -> set[str]:
-    ids = set()
+def make_entry_key(asin: str, highlight_id: str) -> str:
+    return f"{asin}::{highlight_id}"
+
+
+def collect_existing_keys(dest_dir: Path) -> set[str]:
+    keys = set()
     for path in dest_dir.glob("*.md"):
         text = path.read_text(encoding="utf-8")
-        match = re.search(r"^highlight_id:\s*['\"]?(ref-\d+)['\"]?\s*$", text, re.MULTILINE)
-        if match:
-            ids.add(match.group(1))
-    return ids
+        highlight_match = re.search(
+            r"^highlight_id:\s*['\"]?(ref-\d+)['\"]?\s*$", text, re.MULTILINE
+        )
+        asin_match = re.search(r"^source_asin:\s*['\"]?(.+?)['\"]?\s*$", text, re.MULTILINE)
+        if highlight_match and asin_match:
+            keys.add(make_entry_key(asin_match.group(1), highlight_match.group(1)))
+    return keys
 
 
 def main() -> int:
@@ -246,7 +253,7 @@ def main() -> int:
     dest_dir.mkdir(parents=True, exist_ok=True)
 
     book_filters = args.book or []
-    existing_ids = set() if args.overwrite else collect_existing_ids(dest_dir)
+    existing_keys = set() if args.overwrite else collect_existing_keys(dest_dir)
     created = 0
     skipped = 0
     parse_failures = 0
@@ -257,7 +264,8 @@ def main() -> int:
 
         book = parse_book(source_path)
         for highlight in parse_highlights(source_path):
-            if highlight.highlight_id in existing_ids:
+            entry_key = make_entry_key(book.asin, highlight.highlight_id)
+            if entry_key in existing_keys:
                 skipped += 1
                 continue
 
@@ -277,7 +285,7 @@ def main() -> int:
             else:
                 target_path.write_text(note, encoding="utf-8")
 
-            existing_ids.add(highlight.highlight_id)
+            existing_keys.add(entry_key)
             created += 1
 
             if args.limit and created >= args.limit:
