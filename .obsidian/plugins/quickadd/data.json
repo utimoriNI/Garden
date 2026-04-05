@@ -126,32 +126,39 @@
       "setFileExistsBehavior": false
     },
     {
-      "id": "b74f8d8f-41b4-424a-ae01-389edcfe36e6",
+      "id": "14db70ac-a519-437a-8419-d9138cf7ccf7",
       "name": "group",
-      "type": "Template",
+      "type": "Capture",
       "command": true,
-      "templatePath": "",
-      "fileNameFormat": {
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
         "enabled": false,
         "format": ""
       },
-      "folder": {
+      "insertAfter": {
         "enabled": false,
-        "folders": [],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
       },
-      "appendLink": false,
+      "prepend": false,
+      "task": false,
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",
         "focus": true
       },
       "openFile": false,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "openFileInMode": "default"
     }
   ],
   "macros": [],
