@@ -1,45 +1,46 @@
-# Garden AGENTS Guide
+# Garden 運用ガイド
 
-This file defines the working conventions for this Obsidian vault.
+このファイルは、この Obsidian Vault で作業するときの基本ルールを定義する。
 
-## Purpose
+## 目的
 
-This vault stores information that may become reusable knowledge assets.
-Work in this repository should preserve that workflow and extend it consistently.
+この Vault には、あとで再利用したい知識や断片を蓄積していく。
+作業時は、その運用を壊さず、一貫した形で拡張することを優先する。
 
-## Core Design
+## 基本方針
 
-There are two separate concerns:
+この Vault では、次の2つを分けて扱う。
 
-1. Whether a note is worth keeping as an asset
-2. What structural type the note has
+1. そのノートを資産として残したいか
+2. そのノートがどの構造タイプに属するか
 
-These concerns must not be mixed.
+この2つを混同しないこと。
 
-## Tags
+## タグの役割
 
 `🎁Topic/...`
-- Means the note is considered worth keeping as an asset.
-- This is a broad asset classification.
-- A note with this tag is not necessarily a `reading-note`.
+- 資産として残したい情報であることを表す大分類
+- `🎁Topic/...` が付いていても、必ずしも `reading-note` ではない
 
 `🧩rn/...`
-- Used for reading-note related sub-classification.
-- `🧩rn/candidate` is a temporary workflow tag.
-- When a note is converted into a reading-note, remove `🧩rn/candidate`.
+- reading-note 関連の小分類に使う
+- `🧩rn/candidate` は一時的な候補タグ
+- `reading-note` に変換したら `🧩rn/candidate` は削除する
 
-## Reading Notes
+## Reading Note の定義
 
-`reading-note` is a structural type for notes that represent a compact reusable unit such as:
-- one quote
-- one concept
-- one claim
-- one scene
-- one phrasing
+`reading-note` は、あとで再利用しやすい最小単位のノートを指す。
+例えば次のようなものが該当する。
 
-Reading notes are identified by frontmatter, not by `🎁Topic/...` alone.
+- 1つの引用
+- 1つの概念
+- 1つの主張
+- 1つの場面
+- 1つの言い回し
 
-Minimum frontmatter:
+`reading-note` かどうかはタグではなく frontmatter で判断する。
+
+最小 frontmatter は次の通り。
 
 ```yaml
 ---
@@ -52,138 +53,141 @@ status: inbox
 ---
 ```
 
-### Property meanings
+### プロパティの意味
 
 `type`
-- Structural note type.
-- Use `reading-note` for notes that should participate in the reading-note workflow.
+- ノートの構造タイプ
+- `reading-note` は一節ノートとして運用するノートに使う
 
 `source_type`
-- Source category such as `kindle`, `web`, `video`, or `legacy`.
+- 出典の種類
+- 例: `kindle`, `web`, `video`, `legacy`
 
 `source_container`
-- Link or pointer to the original source note when known.
+- 元ノートや元ソースへの導線
+- 分からない場合は空欄でよい
 
 `topic`
-- Theme-oriented grouping.
+- テーマ単位の分類
 
 `moc`
-- Links to MOC notes.
+- MOC への接続
 
 `status`
-- Workflow state.
-- Default is `inbox`.
+- 運用上の状態
+- デフォルトは `inbox`
 
-## Source Material Layers
+## ソースレイヤーの考え方
 
-Use these layers intentionally:
+この Vault では、次のレイヤーを意識して扱う。
 
-- Source notes: Kindle imports, web clips, article notes, video notes
-- Candidate notes: notes marked for conversion
-- Reading notes: normalized reusable units
-- Knowledge/MOC notes: higher-level synthesis and organization
+- 原本ノート: Kindle import、Web記事、動画メモなど
+- 候補ノート: 一節ノート化したいが、まだ正規化していないもの
+- Reading Note: 再利用しやすい単位に整えたノート
+- Knowledge / MOC: 抽象化や整理を行ったノート
 
-Do not collapse all layers into one note type.
+すべてを同じ型に寄せず、役割に応じて分けること。
 
-## Kindle Workflow
+## Kindle ハイライト運用
 
-Kindle source notes live in:
+Kindle の原本ノートは次に置く。
 
 - `400_Kindle`
 
-These are treated as editable source notes for selection.
+ここは、抽出フラグを付けるソースノートとして扱う。
 
-### Supported markers in Kindle notes
+### Kindle ノートで使う記法
 
 `%% pick %%`
-- Convert a single highlighted passage into a single reading note.
+- そのハイライトだけを 1 つの reading-note にする
 
 `%% group: ... %%`
-- Group multiple highlighted passages into one reading note.
+- 同じ group を持つ複数ハイライトを 1 つの reading-note にまとめる
 
 `%% title: ... %%`
-- Override the reading note title.
-- Works for both `pick` and `group`.
+- reading-note のタイトルを明示的に指定する
+- `pick` と `group` のどちらでも使える
 
-### Kindle conversion script
+### Kindle 変換スクリプト
 
-Use:
+次を使う。
 
 - [scripts/generate_kindle_reading_notes.py](/Users/isikurahiromitu/Documents/Garden/scripts/generate_kindle_reading_notes.py)
 
-This script:
-- reads flagged notes from `400_Kindle`
-- creates reading notes in `200_Inbox/Reading Notes`
-- supports `pick`, `group`, and `title`
+このスクリプトは次を行う。
 
-## Candidate Conversion Workflow
+- `400_Kindle` のフラグ付きノートを読む
+- `200_Inbox/Reading Notes` に reading-note を生成する
+- `pick`, `group`, `title` に対応する
 
-When notes already exist in the vault and should become reading notes:
+## 候補ノートの変換
 
-1. Add `🧩rn/candidate`
-2. Convert them into `reading-note`
-3. Remove `🧩rn/candidate`
+既に Vault 内にあるノートを reading-note 化したい場合は、次の流れにする。
 
-Use:
+1. `🧩rn/candidate` を付ける
+2. reading-note に変換する
+3. `🧩rn/candidate` を削除する
+
+次を使う。
 
 - [scripts/convert_rn_candidate_notes.py](/Users/isikurahiromitu/Documents/Garden/scripts/convert_rn_candidate_notes.py)
 
-This script:
-- finds notes tagged `🧩rn/candidate`
-- adds the minimum `reading-note` frontmatter when needed
-- removes `🧩rn/candidate`
+このスクリプトは次を行う。
 
-## Legacy Lexicon Migration
+- `🧩rn/candidate` が付いたノートを探す
+- 必要なら最小 frontmatter を追加する
+- `🧩rn/candidate` を tags から削除する
 
-Older notes tagged `🎁Topic/Lexicon` were bulk-migrated into the reading-note schema.
+## 旧 Lexicon ノートの移行
 
-Use:
+`🎁Topic/Lexicon` の旧ノートは、過去の資産として reading-note schema に寄せている。
+
+移行用スクリプト:
 
 - [scripts/migrate_lexicon_to_reading_notes.py](/Users/isikurahiromitu/Documents/Garden/scripts/migrate_lexicon_to_reading_notes.py)
 
-This script is for legacy migration, not everyday note conversion.
+これは日常運用用ではなく、旧資産の一括移行用と考えること。
 
-## Classification Guidance
+## 分類ルール
 
-Use tags for broad and convenient navigation in Obsidian.
-Use frontmatter for structural workflow.
+Obsidian 上で扱いやすくするために、タグは広い分類や見やすさに使う。
+構造的な運用は frontmatter で管理する。
 
-Recommended split:
+推奨する役割分担:
 
-- `🎁Topic/...`: asset category
-- `🧩rn/...`: reading-note specific subcategory
-- `type`: structural note type
-- `source_type`: source kind
-- `status`: workflow state
+- `🎁Topic/...`: 資産カテゴリ
+- `🧩rn/...`: reading-note 関連の小分類
+- `type`: ノート構造
+- `source_type`: 出典種別
+- `status`: 運用状態
 
-Do not use `🎁Topic/...` alone to represent reading-note structure.
+`🎁Topic/...` だけで reading-note を表現しないこと。
 
-## Editing Rules
+## ノート編集時のルール
 
-When modifying notes in this vault:
+この Vault のノートを編集するときは次を守る。
 
-- Preserve existing content unless the task is explicitly a rewrite
-- Prefer adding minimum frontmatter over redesigning a note
-- Do not remove `🎁Topic/...` tags unless explicitly requested
-- Remove `🧩rn/candidate` after successful conversion into a reading note
-- Prefer incremental migration over large conceptual rewrites
+- 明示的な依頼がない限り、本文を大きく書き換えない
+- まずは最小 frontmatter を足す方針を優先する
+- `🎁Topic/...` タグは勝手に外さない
+- `reading-note` 化が済んだら `🧩rn/candidate` を外す
+- 既存ノートを大きく再設計するより、段階的に移行する
 
-## Safe Defaults
+## 安全なデフォルト
 
-If classification is unclear:
+迷った場合は次を優先する。
 
-- set `type: reading-note` only when the note clearly represents one reusable unit
-- otherwise keep the note as-is
-- use `source_type: legacy` when the source cannot be confidently inferred
-- leave `source_container:` blank rather than guessing
-- leave `topic` and `moc` empty rather than inventing values
+- 1ノート = 1断片 と明確に言えないなら `reading-note` にしない
+- 出典が分からなければ `source_type: legacy`
+- `source_container` は推測で埋めず空欄にする
+- `topic` や `moc` は無理に埋めない
 
-## Expected Outcomes
+## この Vault で目指す状態
 
-Work in this repository should make it easier to:
+このリポジトリでの作業は、次をしやすくする方向に寄せる。
 
-- capture reusable fragments
-- normalize them into reading notes
-- review them later
-- connect them to MOCs and knowledge notes
-- preserve source traceability without overfitting the schema
+- 再利用したい断片を残す
+- 断片を reading-note として正規化する
+- 後から見返しやすくする
+- MOC や Knowledge に接続しやすくする
+- 元ソースへの導線を失わない
