@@ -2,6 +2,7 @@
 tags:
   - 🎁Topic/Life
   - 🎁Topic/Society
+  - 🧩rn/candidate
 ---
 
 ## はじめに
