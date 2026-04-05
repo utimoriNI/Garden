@@ -1,8 +1,13 @@
 ---
 tags:
   - 🎁Topic/Lexicon
+type: reading-note
+source_type: web
+source_container:
+topic: []
+moc: []
+status: inbox
 ---
-
 [[ReadItLater]] [[Article]]
 
 #scrap 

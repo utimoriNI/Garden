@@ -2,6 +2,12 @@
 tags:
   - 🎁Topic/Lexicon
   - 🎁Topic/Omoro
+type: reading-note
+source_type: web
+source_container:
+topic: []
+moc: []
+status: inbox
 ---
 **consist of**:: [[Omoro]]
 [[ReadItLater]] [[Article]]
