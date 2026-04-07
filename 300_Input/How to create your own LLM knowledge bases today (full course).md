@@ -8,6 +8,7 @@ created: 2026-04-07
 description: If you're able to learn how to create an LLM knowledge base then you have essentially created your own "external brain" that you can utilise...
 tags:
   - 🎁Topic/PKM
+  - 📂Project/LLMWiki
 image: https://abs.twimg.com/rweb/ssr/default/v2/og/image.png
 ---
 このページは「個人用LLM知識ベース（外部ブレイン）」の作り方を段階的に解説する完全ガイドです。初心者向けはObsidianとチャットAI（例: Claude）を使った手動ワークフロー、フルシステムはCLAUDE.mdで定義されたスキーマとフォルダ構造、開発者向けはClaude Codeやプラグイン、CLI、GitHub Actionsなどでの自動化を扱います。基本サイクルは①rawにソースを集める→②AIがwikiを生成・更新（wiki/にまとめる）→③質問をAIに投げて回答をwikiに保存→④定期的にLint/health-checkで整備、の繰り返し。Obsidianのフォルダ構成、ファイル命名規則（kebab-case）、YAMLフロントマター、重要なプラグイン（Dataview等）、Web ClipperやPDF変換、スケーリングと品質管理（二モデル検証、Lintルール）まで具体的手順やコマンド例を網羅しています。要点は「問い合わせの結果を必ずwikiへ保存する」ことで知識が複利的に成長するということです。
