@@ -1,13 +1,15 @@
 ---
-title: "Thread by @karpathy"
-source: "https://x.com/karpathy/status/2039805659525644595"
+title: Thread by @karpathy
+source: https://x.com/karpathy/status/2039805659525644595
 author:
   - "[[@karpathy]]"
 published: 2026-04-03
 created: 2026-04-07
-description: "LLM知識ベース 最近、とても役立つと感じていること：LLMを使って、さまざまな研究興味のトピックのための個人的な知識ベースを構築すること。この方法で、私の最近のトークン処理量の大部分が、コードの操作に費やされるよりも、知識の操作（Markdownと画像として保存）に費やされる"
+description: LLM知識ベース 最近、とても役立つと感じていること：LLMを使って、さまざまな研究興味のトピックのための個人的な知識ベースを構築すること。この方法で、私の最近のトークン処理量の大部分が、コードの操作に費やされるよりも、知識の操作（Markdownと画像として保存）に費やされる
 tags:
-image: "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png"
+  - 🎁Topic/PKM
+  - 📂Project/LLMWiki
+image: https://abs.twimg.com/rweb/ssr/default/v2/og/image.png
 ---
 
 **Andrej Karpathy** @karpathy [2026-04-02](https://x.com/karpathy/status/2039805659525644595)
