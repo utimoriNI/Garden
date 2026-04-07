@@ -7,6 +7,7 @@ created: 2026-04-07
 description: "llm-wiki. GitHub Gist: instantly share code, notes, and snippets."
 tags:
   - 🎁Topic/PKM
+  - 📂Project/LLMWiki
 image: https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png
 ---
 
