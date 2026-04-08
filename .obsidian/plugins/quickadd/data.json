@@ -175,7 +175,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "%% pick %%"
+        "format": "%% pick %%\n%% title:  %%"
       },
       "insertAfter": {
         "enabled": false,
