@@ -19,6 +19,35 @@ def infer_source_type(path: Path, body: str) -> str:
     return "legacy"
 
 
+def extract_frontmatter_lines(text: str) -> list[str]:
+    match = FRONTMATTER_RE.match(text)
+    if not match:
+        return []
+    return match.group(1).splitlines()
+
+
+def frontmatter_has_candidate_tag(lines: list[str]) -> bool:
+    in_tags_block = False
+    for line in lines:
+        if line.startswith("tags: ["):
+            inside = line[len("tags: [") :].rstrip("]")
+            parts = [part.strip() for part in inside.split(",") if part.strip()]
+            return CANDIDATE_TAG in parts
+
+        if line.startswith("tags:"):
+            in_tags_block = True
+            continue
+
+        if in_tags_block:
+            if line.startswith("  - "):
+                if line[4:].strip() == CANDIDATE_TAG:
+                    return True
+                continue
+            in_tags_block = False
+
+    return False
+
+
 def ensure_key(lines: list[str], key: str, value_lines: list[str]) -> list[str]:
     prefix = f"{key}:"
     for idx, line in enumerate(lines):
@@ -113,7 +142,8 @@ def main() -> int:
         except Exception:
             continue
 
-        if CANDIDATE_TAG not in text:
+        frontmatter_lines = extract_frontmatter_lines(text)
+        if not frontmatter_has_candidate_tag(frontmatter_lines):
             continue
 
         new_text = convert_text(path, text)
