@@ -120,6 +120,10 @@ Kindle の原本ノートは次に置く。
 - `200_Inbox/Reading Notes` に reading-note を生成する
 - `pick`, `group`, `title` に対応する
 
+まとめて処理したい場合は、次の skill を使う。
+
+- [reading-note-pipeline](/Users/isikurahiromitu/Documents/Garden/.codex/skills/reading-note-pipeline/SKILL.md)
+
 ## 候補ノートの変換
 
 既に Vault 内にあるノートを reading-note 化したい場合は、次の流れにする。
