@@ -87,7 +87,9 @@ def parse_json_output(text: str) -> dict:
     cleaned = strip_ansi(text).strip()
     if not cleaned:
         raise ValueError("xurl returned empty output")
-    return json.loads(cleaned)
+    decoder = json.JSONDecoder()
+    parsed, _ = decoder.raw_decode(cleaned)
+    return parsed
 
 
 def run_xurl(command_args: List[str]) -> Tuple[int, str, str]:
@@ -334,15 +336,20 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument("--username", help="registered xurl oauth2 username")
     parser.add_argument("--output", help="write JSON output to file")
 
+    common = argparse.ArgumentParser(add_help=False)
+    common.add_argument("--app", help="registered xurl app name")
+    common.add_argument("--username", help="registered xurl oauth2 username")
+    common.add_argument("--output", help="write JSON output to file")
+
     subparsers = parser.add_subparsers(dest="action", required=True)
 
-    subparsers.add_parser("auth-status", help="check xurl auth status")
+    subparsers.add_parser("auth-status", help="check xurl auth status", parents=[common])
 
-    bookmarks = subparsers.add_parser("bookmarks", help="fetch current user bookmarks")
+    bookmarks = subparsers.add_parser("bookmarks", help="fetch current user bookmarks", parents=[common])
     bookmarks.add_argument("--limit", type=int, default=20)
     bookmarks.add_argument("--next-token")
 
-    search = subparsers.add_parser("search", help="search recent tweets")
+    search = subparsers.add_parser("search", help="search recent tweets", parents=[common])
     search.add_argument("--query", required=True)
     search.add_argument("--limit", type=int, default=20)
     search.add_argument("--next-token")
