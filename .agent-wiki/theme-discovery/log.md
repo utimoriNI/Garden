@@ -35,3 +35,11 @@
 - Promoted the draft into a formal MOC candidate in `110_MOC`
 - Created `110_MOC/指標に回収される人間の価値_MOC.md`
 - Kept the structure human-readable and linked it to `計測と評価の歪み_MOC`
+
+## [2026-04-11] steady-state | moc-link-report
+
+- Added `scripts/generate_moc_link_report.py`
+- Added `.agent-wiki/theme-discovery/configs/human-value-captured-by-metrics.json`
+- Added `.agent-wiki/theme-discovery/WORKFLOW.md`
+- Extended `SCHEMA.md` with steady-state maintenance rules
+- Generated the first candidate report for `指標に回収される人間の価値_MOC`
