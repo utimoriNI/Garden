@@ -1,0 +1,7 @@
+interface:
+  display_name: "xurl X API"
+  short_description: "xurl 経由で X API の検索やブックマーク取得を JSON で扱う"
+  default_prompt: "$xurl を使って、X のブックマーク取得かキーワード検索を行い、あとで整理しやすい JSON で返してください。"
+
+policy:
+  allow_implicit_invocation: true
