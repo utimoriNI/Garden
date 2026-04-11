@@ -14,3 +14,11 @@
 - Deferred 7 notes that currently look more like learning strategy, life design, or standalone aphorism
 - Created `clusters/life-society-batch-01.md`
 - Identified 5 provisional bundles with overlap notes preserved
+
+## [2026-04-11] theme-proposal | life-society-proposals-01
+
+- Reviewed `clusters/life-society-batch-01.md`
+- Promoted 3 strong bundles into mid-level theme candidates
+- Left 2 bundles unpromoted for now due to title instability or thin support
+- Created `themes/life-society-proposals-01.md`
+- Recommended `指標に回収される人間の価値` as the first promotion candidate

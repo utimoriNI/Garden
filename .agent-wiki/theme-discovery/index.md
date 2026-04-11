@@ -9,4 +9,7 @@ This index lists agent-generated discovery artifacts for Life x Society theme fi
 
 ## Theme Proposals
 
+- [life-society-proposals-01](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/themes/life-society-proposals-01.md)
+  - First theme proposal pass. Promotes 3 cluster bundles into mid-level candidates around metricized value, norm-shaped feeling/body, and self-responsibilization.
+
 ## MOC Drafts
