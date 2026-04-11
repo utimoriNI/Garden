@@ -21,6 +21,13 @@ This index lists agent-generated discovery artifacts for Life x Society theme fi
 
 - [human-value-captured-by-metrics-report](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/reports/human-value-captured-by-metrics-report.md)
   - Candidate report for linking new `Life x Society` notes into `指標に回収される人間の価値_MOC`.
+- [life-society-scope-report](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/reports/scopes/life-society-scope-report.md)
+  - Scope-wide report for the `Life x Society` pool, showing MOC coverage and unconnected notes.
+
+## Runs
+
+- [life-society-latest](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/runs/life-society-latest.md)
+  - Latest full maintenance run for the `Life x Society` scope.
 
 ## Workflow
 

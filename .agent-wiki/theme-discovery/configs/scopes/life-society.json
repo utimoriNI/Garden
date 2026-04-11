@@ -1,0 +1,11 @@
+{
+  "name": "Life x Society",
+  "created": "2026-04-11",
+  "reading_notes_dir": "300_Input/Reading Notes",
+  "required_tags": [
+    "🎁Topic/Life",
+    "🎁Topic/Society"
+  ],
+  "report_path": ".agent-wiki/theme-discovery/reports/scopes/life-society-scope-report.md",
+  "run_summary_path": ".agent-wiki/theme-discovery/runs/life-society-latest.md"
+}

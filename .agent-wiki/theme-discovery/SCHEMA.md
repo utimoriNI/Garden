@@ -59,6 +59,8 @@ All outputs live under `.agent-wiki/theme-discovery/`.
   - candidate-link reports for existing human-facing MOCs
 - `configs/`
   - per-MOC config files for report generation
+- `runs/`
+  - latest scope-wide run summaries
 - `index.md`
   - lightweight index of generated files
 - `log.md`
@@ -166,7 +168,8 @@ Once a draft is promoted into `110_MOC`, the ongoing maintenance loop changes.
 
 For promoted MOC candidates:
 
-- generate a candidate-link report from new `reading-note` files
+- run the scope-wide maintenance cycle
+- generate a scope report plus candidate-link reports from new `reading-note` files
 - let a human review the report
 - only after approval, update the human-facing MOC and the note frontmatter
 

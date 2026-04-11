@@ -39,22 +39,26 @@ Minimum expectation:
 
 ### 2. Candidate report generation
 
-Run the report generator for the target MOC.
+Run the theme-discovery cycle for the whole scope.
 
 Current command:
 
 ```bash
-python3 scripts/generate_moc_link_report.py \
-  --config .agent-wiki/theme-discovery/configs/human-value-captured-by-metrics.json
+python3 scripts/run_theme_discovery_cycle.py \
+  --registry .agent-wiki/theme-discovery/configs/moc_registry.json
 ```
 
 This generates:
 
+- `.agent-wiki/theme-discovery/reports/scopes/life-society-scope-report.md`
+- `.agent-wiki/theme-discovery/runs/life-society-latest.md`
 - `.agent-wiki/theme-discovery/reports/human-value-captured-by-metrics-report.md`
+
+The registry can grow as more human-facing MOCs are added.
 
 ### 3. Human review
 
-Review the generated report and decide:
+Review the generated scope report and per-MOC reports, then decide:
 
 - which notes should be connected now
 - which notes should be deferred
@@ -93,6 +97,14 @@ The current maintained path is:
 ## Current Report Config
 
 - `.agent-wiki/theme-discovery/configs/human-value-captured-by-metrics.json`
+
+## Current Scope Config
+
+- `.agent-wiki/theme-discovery/configs/scopes/life-society.json`
+
+## Current Registry
+
+- `.agent-wiki/theme-discovery/configs/moc_registry.json`
 
 ## Principle
 

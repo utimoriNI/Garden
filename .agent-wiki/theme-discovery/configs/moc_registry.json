@@ -1,0 +1,7 @@
+{
+  "created": "2026-04-11",
+  "scope_config": ".agent-wiki/theme-discovery/configs/scopes/life-society.json",
+  "moc_configs": [
+    ".agent-wiki/theme-discovery/configs/human-value-captured-by-metrics.json"
+  ]
+}
