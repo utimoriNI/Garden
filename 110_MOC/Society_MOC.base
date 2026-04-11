@@ -1,0 +1,49 @@
+filters:
+  and:
+    - 'file.inFolder("300_Input/Reading Notes")'
+    - 'type == "reading-note"'
+    - 'file.hasTag("🎁Topic/Society")'
+
+properties:
+  file.name:
+    displayName: "Note"
+  source_type:
+    displayName: "Source Type"
+  source_book:
+    displayName: "Source"
+  book_title:
+    displayName: "Book"
+  status:
+    displayName: "Status"
+  file.tags:
+    displayName: "Tags"
+  file.mtime:
+    displayName: "Updated"
+
+views:
+  - type: table
+    name: "All Society"
+    order:
+      - file.name
+      - file.tags
+      - source_type
+      - source_book
+      - status
+      - file.mtime
+
+  - type: table
+    name: "By Source"
+    groupBy:
+      property: source_book
+      direction: ASC
+    order:
+      - file.name
+      - source_book
+      - source_type
+      - status
+
+  - type: list
+    name: "Recent"
+    order:
+      - file.name
+      - file.mtime
