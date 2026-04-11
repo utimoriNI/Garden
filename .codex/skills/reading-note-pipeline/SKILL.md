@@ -9,7 +9,7 @@ description: Kindle 収集マーカー（%% pick %% / %% group: ... %% / %% titl
 
 - `400_Kindle` にある `%% pick %%` / `%% group: ... %%` / `%% title: ... %%` を読む
 - `🧩rn/candidate` が付いた既存ノートを `reading-note` に寄せる
-- `200_Inbox/Reading Notes` に一節ノートを生成する
+- `300_Input/Reading Notes` に一節ノートを生成する
 - 成功後、`400_Kindle` から収集マーカーを削除する
 - `🧩rn/candidate` は変換時に削除する
 
@@ -26,7 +26,7 @@ description: Kindle 収集マーカー（%% pick %% / %% group: ... %% / %% titl
 
 - 作業ディレクトリは Vault ルート (`/Users/isikurahiromitu/Documents/Garden`) を使う
 - Kindle 原本は `400_Kindle`
-- 生成先は `200_Inbox/Reading Notes`
+- 生成先は `300_Input/Reading Notes`
 - `🧩rn/candidate` は frontmatter の `tags` に付いていることを前提にする
 
 ## 既存スクリプト
@@ -68,7 +68,7 @@ python3 .codex/skills/reading-note-pipeline/scripts/process_reading_note_collect
 
 処理後は次を確認する。
 
-- `200_Inbox/Reading Notes` に新しい一節ノートができている
+- `300_Input/Reading Notes` に新しい一節ノートができている
 - `🧩rn/candidate` が対象ノートの `tags` から消えている
 - `400_Kindle` に `%% pick %%` / `%% group: ... %%` / `%% title: ... %%` が残っていない
 

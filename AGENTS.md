@@ -117,7 +117,7 @@ Kindle の原本ノートは次に置く。
 このスクリプトは次を行う。
 
 - `400_Kindle` のフラグ付きノートを読む
-- `200_Inbox/Reading Notes` に reading-note を生成する
+- `300_Input/Reading Notes` に reading-note を生成する
 - `pick`, `group`, `title` に対応する
 
 まとめて処理したい場合は、次の skill を使う。

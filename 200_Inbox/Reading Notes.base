@@ -1,6 +1,6 @@
 filters:
   and:
-    - 'file.inFolder("200_Inbox/Reading Notes")'
+    - 'file.inFolder("300_Input/Reading Notes")'
     - 'type == "reading-note"'
 
 formulas:

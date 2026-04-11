@@ -393,7 +393,7 @@ def main() -> int:
     )
     parser.add_argument(
         "--dest",
-        default="200_Inbox/Reading Notes",
+        default="300_Input/Reading Notes",
         help="Folder where generated reading notes will be written.",
     )
     parser.add_argument(
