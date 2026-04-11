@@ -1,6 +1,7 @@
 ---
 tags:
   - 🎁Topic/Life
+  - 🎁Topic/Word
 type: reading-note
 source_type: web
 source_container:

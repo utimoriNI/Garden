@@ -1,6 +1,9 @@
 ---
 tags:
-  - 🎁Topic/Lexicon
+  - 🎁Topic/Life
+  - 🎁Topic/Society
+  - 🎁Topic/Learning
+  - 🎁Topic/Word
 type: reading-note
 source_type: web
 source_container:

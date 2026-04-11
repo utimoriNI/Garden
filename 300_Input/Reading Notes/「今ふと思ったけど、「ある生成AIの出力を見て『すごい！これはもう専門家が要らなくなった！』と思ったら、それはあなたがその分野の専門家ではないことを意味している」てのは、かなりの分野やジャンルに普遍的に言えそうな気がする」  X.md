@@ -1,4 +1,9 @@
 ---
+tags:
+  - 🎁Topic/Life
+  - 🎁Topic/Society
+  - 🎁Topic/Tech
+  - 🎁Topic/Illust
 title: 'Xユーザーの理間 高広（C105 月曜西な01a"Strangeness"）さん: 「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」 / X'
 source: https://x.com/Rima_tk/status/1862499521147912663
 author:
@@ -6,9 +11,6 @@ author:
 published: 2024-11-29
 created: 2024-12-05
 description:
-tags:
-  - 🎁Topic/Society
-  - 🎁Topic/Life
 image: https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png
 type: reading-note
 source_type: web

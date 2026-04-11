@@ -1,7 +1,7 @@
 ---
-mean: 賢い選択
 tags:
-  - 🎁Topic/Lexicon
+  - 🎁Topic/Word
+mean: 賢い選択
 type: reading-note
 source_type: legacy
 source_container:

@@ -2,6 +2,7 @@
 tags:
   - 🎁Topic/Life
   - 🎁Topic/Society
+  - 🎁Topic/Rhetoric
 type: reading-note
 source_type: legacy
 source_container:

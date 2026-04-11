@@ -1,6 +1,7 @@
 ---
 tags:
   - 🎁Topic/Life
+  - 🎁Topic/Tech
 type: reading-note
 source_type: web
 source_container:

@@ -1,7 +1,8 @@
 ---
 tags:
-  - 🎁Topic/Lexicon
   - 🎁Topic/Life
+  - 🎁Topic/Learning
+  - 🎁Topic/Word
 type: reading-note
 source_type: web
 source_container:

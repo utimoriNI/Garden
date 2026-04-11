@@ -1,6 +1,7 @@
 ---
 tags:
-  - 🎁Topic/Lexicon
+  - 🎁Topic/Life
+  - 🎁Topic/Rhetoric
 type: reading-note
 source_type: web
 source_container:

@@ -1,4 +1,8 @@
 ---
+tags:
+  - 🎁Topic/Life
+  - 🎁Topic/Society
+  - 🎁Topic/Word
 title: アンナ・カレーニナの法則 - Wikipedia
 source: https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%8A%E3%83%BB%E3%82%AB%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%8A%E3%81%AE%E6%B3%95%E5%89%87
 author:
@@ -6,8 +10,6 @@ author:
 published: 2020-07-17
 created: 2024-11-15
 description: 
-tags:
-  - 🎁Topic/Lexicon
 type: reading-note
 source_type: web
 source_container:

@@ -1,6 +1,7 @@
 ---
 tags:
-  - 🎁Topic/Lexicon
+  - 🎁Topic/Word
+  - 🎁Topic/Omoro
 type: reading-note
 source_type: web
 source_container:

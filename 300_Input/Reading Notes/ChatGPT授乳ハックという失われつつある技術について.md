@@ -1,6 +1,9 @@
 ---
 tags:
-  - 🎁Topic/Lexicon
+  - 🎁Topic/Life
+  - 🎁Topic/Society
+  - 🎁Topic/Tech
+  - 🎁Topic/Rhetoric
   - 🎁Topic/Omoro
 type: reading-note
 source_type: web
