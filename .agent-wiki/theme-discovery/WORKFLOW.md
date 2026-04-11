@@ -63,6 +63,13 @@ python3 scripts/run_theme_discovery_cycle.py \
   --registry .agent-wiki/theme-discovery/configs/society_only_registry.json
 ```
 
+For `All Reading Notes`, use:
+
+```bash
+python3 scripts/run_theme_discovery_cycle.py \
+  --registry .agent-wiki/theme-discovery/configs/all_reading_notes_registry.json
+```
+
 ### 3. Human review
 
 Review the generated scope report and per-MOC reports, then decide:
@@ -149,4 +156,11 @@ then Codex should run:
 ```bash
 python3 scripts/run_theme_discovery_cycle.py \
   --registry .agent-wiki/theme-discovery/configs/society_only_registry.json
+```
+
+If the user asks to inspect the whole `reading-note` layer or to integrate all `reading-note` files into the LLM wiki system, Codex should run:
+
+```bash
+python3 scripts/run_theme_discovery_cycle.py \
+  --registry .agent-wiki/theme-discovery/configs/all_reading_notes_registry.json
 ```

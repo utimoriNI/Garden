@@ -50,3 +50,10 @@
 - Added `.agent-wiki/theme-discovery/configs/society_only_registry.json`
 - Extended natural-language triggers for `Society only`
 - Generated the first `Society only` scope report and latest run summary
+
+## [2026-04-11] scope-added | all-reading-notes
+
+- Added `.agent-wiki/theme-discovery/configs/scopes/all-reading-notes.json`
+- Added `.agent-wiki/theme-discovery/configs/all_reading_notes_registry.json`
+- Added `.agent-wiki/theme-discovery/SYSTEM.md`
+- Extended natural-language triggers for `All Reading Notes`

@@ -21,6 +21,8 @@ This index lists agent-generated discovery artifacts for Life x Society theme fi
 
 - [human-value-captured-by-metrics-report](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/reports/human-value-captured-by-metrics-report.md)
   - Candidate report for linking new `Life x Society` notes into `指標に回収される人間の価値_MOC`.
+- [all-reading-notes-scope-report](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/reports/scopes/all-reading-notes-scope-report.md)
+  - Broad scope report for the entire `reading-note` layer, useful as the base integration view.
 - [life-society-scope-report](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/reports/scopes/life-society-scope-report.md)
   - Scope-wide report for the `Life x Society` pool, showing MOC coverage and unconnected notes.
 - [society-only-scope-report](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/reports/scopes/society-only-scope-report.md)
@@ -28,10 +30,17 @@ This index lists agent-generated discovery artifacts for Life x Society theme fi
 
 ## Runs
 
+- [all-reading-notes-latest](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/runs/all-reading-notes-latest.md)
+  - Latest full maintenance run for the complete `reading-note` layer.
 - [life-society-latest](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/runs/life-society-latest.md)
   - Latest full maintenance run for the `Life x Society` scope.
 - [society-only-latest](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/runs/society-only-latest.md)
   - Latest full maintenance run for the `Society only` scope.
+
+## System
+
+- [SYSTEM.md](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/SYSTEM.md)
+  - Explains how all `reading-note` files, single-tag scopes, and cross-tag scopes fit together.
 
 ## Workflow
 

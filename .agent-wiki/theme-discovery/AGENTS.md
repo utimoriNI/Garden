@@ -48,6 +48,13 @@ The following should be interpreted as a request to run the `Society only` cycle
 - `Society タグだけで関連を見つけて`
 - `Society の reading-note を束ねて`
 
+The following should be interpreted as a request to run the `All Reading Notes` cycle:
+
+- `reading-note 全体を見て`
+- `reading-note 全体を llm wiki に組み込む作業を進めて`
+- `全 reading-note の状況を更新して`
+- `reading-note 全体の棚卸しをして`
+
 The following should be interpreted as a request to inspect the latest outputs without necessarily rerunning:
 
 - `最新の候補を見せて`
@@ -62,10 +69,12 @@ Current standard scope:
 
 Additional supported scope:
 
+- `All Reading Notes`
 - `Society only`
 
 Current registry:
 
+- `.agent-wiki/theme-discovery/configs/all_reading_notes_registry.json`
 - `.agent-wiki/theme-discovery/configs/moc_registry.json`
 - `.agent-wiki/theme-discovery/configs/society_only_registry.json`
 
