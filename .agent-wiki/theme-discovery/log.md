@@ -29,3 +29,9 @@
 - Grouped notes around metricized value, visible effort, and internalized evaluation
 - Added adjacent links to utility and self-responsibilization themes
 - Left final promotion to human review
+
+## [2026-04-11] promotion-candidate | 指標に回収される人間の価値
+
+- Promoted the draft into a formal MOC candidate in `110_MOC`
+- Created `110_MOC/指標に回収される人間の価値_MOC.md`
+- Kept the structure human-readable and linked it to `計測と評価の歪み_MOC`
