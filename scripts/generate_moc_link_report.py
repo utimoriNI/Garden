@@ -18,6 +18,7 @@ READING_NOTE_PREFIX = "300_Input/Reading Notes/"
 class NoteRecord:
     path: Path
     vault_path: str
+    vault_path_no_ext: str
     title: str
     tags: list[str]
     mocs: list[str]
@@ -82,9 +83,11 @@ def extract_title(path: Path, body: str) -> str:
 def load_note(path: Path, vault_root: Path) -> NoteRecord:
     text = path.read_text(encoding="utf-8")
     frontmatter_lines, body = split_frontmatter(text)
+    vault_path = path.relative_to(vault_root).as_posix()
     return NoteRecord(
         path=path,
-        vault_path=path.relative_to(vault_root).as_posix(),
+        vault_path=vault_path,
+        vault_path_no_ext=vault_path.removesuffix(".md"),
         title=extract_title(path, body),
         tags=parse_list_block(frontmatter_lines, "tags"),
         mocs=parse_list_block(frontmatter_lines, "moc"),
@@ -99,6 +102,10 @@ def extract_moc_links(moc_text: str) -> set[str]:
         target = raw_target.split("|", 1)[0].strip()
         if target.startswith(READING_NOTE_PREFIX):
             links.add(target)
+            if target.endswith(".md"):
+                links.add(target.removesuffix(".md"))
+            else:
+                links.add(f"{target}.md")
     return links
 
 
@@ -137,11 +144,15 @@ def build_report(config: dict, notes: list[NoteRecord], linked_notes: set[str], 
         if note.note_type == "reading-note" and all(tag in note.tags for tag in required_tags)
     ]
 
-    already_linked = [note for note in eligible if note.vault_path in linked_notes]
+    already_linked = [
+        note
+        for note in eligible
+        if note.vault_path in linked_notes or note.vault_path_no_ext in linked_notes
+    ]
     candidates = []
 
     for note in eligible:
-        if note.vault_path in linked_notes:
+        if note.vault_path in linked_notes or note.vault_path_no_ext in linked_notes:
             continue
 
         haystack = f"{note.title}\n{note.body}"
