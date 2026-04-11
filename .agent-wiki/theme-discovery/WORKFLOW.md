@@ -111,3 +111,22 @@ The current maintained path is:
 The report layer should automate suggestion and reduce search cost.
 
 The final shape of human-facing MOCs should still be decided by human review.
+
+## Natural-Language Operation
+
+The user should be able to request this workflow in natural language.
+
+Default interpretation:
+
+- if the user asks to `run theme discovery`
+- if the user asks to `update Life x Society candidates`
+- if the user asks for `MOC candidate reports`
+
+then Codex should run the standard cycle:
+
+```bash
+python3 scripts/run_theme_discovery_cycle.py \
+  --registry .agent-wiki/theme-discovery/configs/moc_registry.json
+```
+
+After the run, Codex should summarize the updated reports and the most relevant next review step.
