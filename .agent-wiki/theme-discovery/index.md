@@ -23,11 +23,15 @@ This index lists agent-generated discovery artifacts for Life x Society theme fi
   - Candidate report for linking new `Life x Society` notes into `指標に回収される人間の価値_MOC`.
 - [life-society-scope-report](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/reports/scopes/life-society-scope-report.md)
   - Scope-wide report for the `Life x Society` pool, showing MOC coverage and unconnected notes.
+- [society-only-scope-report](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/reports/scopes/society-only-scope-report.md)
+  - Scope-wide report for the `Society` tag on its own, useful for discovering within-tag themes and unconnected notes.
 
 ## Runs
 
 - [life-society-latest](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/runs/life-society-latest.md)
   - Latest full maintenance run for the `Life x Society` scope.
+- [society-only-latest](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/runs/society-only-latest.md)
+  - Latest full maintenance run for the `Society only` scope.
 
 ## Workflow
 

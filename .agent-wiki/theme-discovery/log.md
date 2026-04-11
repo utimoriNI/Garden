@@ -43,3 +43,10 @@
 - Added `.agent-wiki/theme-discovery/WORKFLOW.md`
 - Extended `SCHEMA.md` with steady-state maintenance rules
 - Generated the first candidate report for `指標に回収される人間の価値_MOC`
+
+## [2026-04-11] scope-added | society-only
+
+- Added `.agent-wiki/theme-discovery/configs/scopes/society-only.json`
+- Added `.agent-wiki/theme-discovery/configs/society_only_registry.json`
+- Extended natural-language triggers for `Society only`
+- Generated the first `Society only` scope report and latest run summary

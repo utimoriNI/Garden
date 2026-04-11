@@ -41,6 +41,13 @@ The following should all be interpreted as a request to run the standard cycle:
 - `reading-note から今のMOC候補を見直して`
 - `テーマ発見フローを更新して`
 
+The following should be interpreted as a request to run the `Society only` cycle:
+
+- `Society 単体で theme discovery を回して`
+- `Society の候補を更新して`
+- `Society タグだけで関連を見つけて`
+- `Society の reading-note を束ねて`
+
 The following should be interpreted as a request to inspect the latest outputs without necessarily rerunning:
 
 - `最新の候補を見せて`
@@ -53,9 +60,14 @@ Current standard scope:
 
 - `Life x Society`
 
+Additional supported scope:
+
+- `Society only`
+
 Current registry:
 
 - `.agent-wiki/theme-discovery/configs/moc_registry.json`
+- `.agent-wiki/theme-discovery/configs/society_only_registry.json`
 
 ## Safety
 

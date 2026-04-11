@@ -56,6 +56,13 @@ This generates:
 
 The registry can grow as more human-facing MOCs are added.
 
+For `Society only`, use:
+
+```bash
+python3 scripts/run_theme_discovery_cycle.py \
+  --registry .agent-wiki/theme-discovery/configs/society_only_registry.json
+```
+
 ### 3. Human review
 
 Review the generated scope report and per-MOC reports, then decide:
@@ -130,3 +137,16 @@ python3 scripts/run_theme_discovery_cycle.py \
 ```
 
 After the run, Codex should summarize the updated reports and the most relevant next review step.
+
+Additional interpretation:
+
+- if the user asks to `run Society-only discovery`
+- if the user asks to `update Society candidates`
+- if the user asks to `find relations only within Society`
+
+then Codex should run:
+
+```bash
+python3 scripts/run_theme_discovery_cycle.py \
+  --registry .agent-wiki/theme-discovery/configs/society_only_registry.json
+```
