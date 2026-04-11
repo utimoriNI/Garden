@@ -1,6 +1,6 @@
 # Theme Discovery Workflow
 
-This document defines the steady-state workflow for keeping the `Life x Society` theme discovery flow running with low overhead.
+This document defines the steady-state workflow for keeping the `Life / Society / Learning` theme discovery flow running with low overhead.
 
 ## Goal
 
@@ -39,14 +39,52 @@ Minimum expectation:
 
 ### 2. Candidate report generation
 
-Run the theme-discovery cycle for the whole scope.
+Run the theme-discovery cycle for the scope you want to inspect.
 
-Current command:
+Primary thematic source layer:
+
+```bash
+python3 scripts/run_theme_discovery_cycle.py \
+  --registry .agent-wiki/theme-discovery/configs/core_thinking_topics_registry.json
+```
+
+This updates the union scope for notes tagged with at least one of `Life`, `Society`, or `Learning`.
+
+Current single-tag commands:
+
+```bash
+python3 scripts/run_theme_discovery_cycle.py \
+  --registry .agent-wiki/theme-discovery/configs/life_only_registry.json
+```
+
+```bash
+python3 scripts/run_theme_discovery_cycle.py \
+  --registry .agent-wiki/theme-discovery/configs/society_only_registry.json
+```
+
+```bash
+python3 scripts/run_theme_discovery_cycle.py \
+  --registry .agent-wiki/theme-discovery/configs/learning_only_registry.json
+```
+
+Current cross-tag commands:
 
 ```bash
 python3 scripts/run_theme_discovery_cycle.py \
   --registry .agent-wiki/theme-discovery/configs/moc_registry.json
 ```
+
+```bash
+python3 scripts/run_theme_discovery_cycle.py \
+  --registry .agent-wiki/theme-discovery/configs/life_learning_registry.json
+```
+
+```bash
+python3 scripts/run_theme_discovery_cycle.py \
+  --registry .agent-wiki/theme-discovery/configs/society_learning_registry.json
+```
+
+The current maintained MOC-linked cross-tag path is still `Life x Society`.
 
 This generates:
 
@@ -55,13 +93,6 @@ This generates:
 - `.agent-wiki/theme-discovery/reports/human-value-captured-by-metrics-report.md`
 
 The registry can grow as more human-facing MOCs are added.
-
-For `Society only`, use:
-
-```bash
-python3 scripts/run_theme_discovery_cycle.py \
-  --registry .agent-wiki/theme-discovery/configs/society_only_registry.json
-```
 
 For `All Reading Notes`, use:
 
@@ -112,13 +143,25 @@ The current maintained path is:
 
 - `.agent-wiki/theme-discovery/configs/human-value-captured-by-metrics.json`
 
-## Current Scope Config
+## Current Scope Configs
 
+- `.agent-wiki/theme-discovery/configs/scopes/core-thinking-topics.json`
+- `.agent-wiki/theme-discovery/configs/scopes/life-only.json`
+- `.agent-wiki/theme-discovery/configs/scopes/society-only.json`
+- `.agent-wiki/theme-discovery/configs/scopes/learning-only.json`
 - `.agent-wiki/theme-discovery/configs/scopes/life-society.json`
+- `.agent-wiki/theme-discovery/configs/scopes/life-learning.json`
+- `.agent-wiki/theme-discovery/configs/scopes/society-learning.json`
 
-## Current Registry
+## Current Registries
 
+- `.agent-wiki/theme-discovery/configs/core_thinking_topics_registry.json`
+- `.agent-wiki/theme-discovery/configs/life_only_registry.json`
 - `.agent-wiki/theme-discovery/configs/moc_registry.json`
+- `.agent-wiki/theme-discovery/configs/learning_only_registry.json`
+- `.agent-wiki/theme-discovery/configs/life_learning_registry.json`
+- `.agent-wiki/theme-discovery/configs/society_learning_registry.json`
+- `.agent-wiki/theme-discovery/configs/society_only_registry.json`
 
 ## Principle
 
@@ -133,10 +176,17 @@ The user should be able to request this workflow in natural language.
 Default interpretation:
 
 - if the user asks to `run theme discovery`
-- if the user asks to `update Life x Society candidates`
-- if the user asks for `MOC candidate reports`
+- if the user asks to `update Life / Society / Learning candidates`
+- if the user asks for the main thematic discovery layer
 
-then Codex should run the standard cycle:
+then Codex should run the core thematic cycle:
+
+```bash
+python3 scripts/run_theme_discovery_cycle.py \
+  --registry .agent-wiki/theme-discovery/configs/core_thinking_topics_registry.json
+```
+
+If the user specifically asks to `update Life x Society candidates` or asks for `MOC candidate reports`, Codex should run:
 
 ```bash
 python3 scripts/run_theme_discovery_cycle.py \
@@ -147,6 +197,17 @@ After the run, Codex should summarize the updated reports and the most relevant 
 
 Additional interpretation:
 
+- if the user asks to `run Life-only discovery`
+- if the user asks to `update Life candidates`
+- if the user asks to `find relations only within Life`
+
+then Codex should run:
+
+```bash
+python3 scripts/run_theme_discovery_cycle.py \
+  --registry .agent-wiki/theme-discovery/configs/life_only_registry.json
+```
+
 - if the user asks to `run Society-only discovery`
 - if the user asks to `update Society candidates`
 - if the user asks to `find relations only within Society`
@@ -156,6 +217,35 @@ then Codex should run:
 ```bash
 python3 scripts/run_theme_discovery_cycle.py \
   --registry .agent-wiki/theme-discovery/configs/society_only_registry.json
+```
+
+- if the user asks to `run Learning-only discovery`
+- if the user asks to `update Learning candidates`
+- if the user asks to `find relations only within Learning`
+
+then Codex should run:
+
+```bash
+python3 scripts/run_theme_discovery_cycle.py \
+  --registry .agent-wiki/theme-discovery/configs/learning_only_registry.json
+```
+
+- if the user asks to `run Life x Learning discovery`
+
+then Codex should run:
+
+```bash
+python3 scripts/run_theme_discovery_cycle.py \
+  --registry .agent-wiki/theme-discovery/configs/life_learning_registry.json
+```
+
+- if the user asks to `run Society x Learning discovery`
+
+then Codex should run:
+
+```bash
+python3 scripts/run_theme_discovery_cycle.py \
+  --registry .agent-wiki/theme-discovery/configs/society_learning_registry.json
 ```
 
 If the user asks to inspect the whole `reading-note` layer or to integrate all `reading-note` files into the LLM wiki system, Codex should run:
