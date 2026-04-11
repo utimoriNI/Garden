@@ -1,0 +1,48 @@
+{
+  "name": "Human Value Captured by Metrics",
+  "created": "2026-04-11",
+  "reading_notes_dir": "300_Input/Reading Notes",
+  "moc_path": "110_MOC/指標に回収される人間の価値_MOC.md",
+  "report_path": ".agent-wiki/theme-discovery/reports/human-value-captured-by-metrics-report.md",
+  "required_tags": [
+    "🎁Topic/Life",
+    "🎁Topic/Society"
+  ],
+  "keywords": [
+    "指標",
+    "評価",
+    "成果",
+    "成果主義",
+    "能力主義",
+    "努力",
+    "実力",
+    "年収",
+    "外見",
+    "価値",
+    "承認",
+    "インポスター",
+    "成功"
+  ],
+  "section_hints": {
+    "個人は指標と結びつけられて価値づけられる": [
+      "指標",
+      "年収",
+      "外見",
+      "価値",
+      "能力主義"
+    ],
+    "成果主義は見える努力だけを残す": [
+      "成果",
+      "成果主義",
+      "努力",
+      "実力"
+    ],
+    "評価は自己像にも侵入する": [
+      "インポスター",
+      "承認",
+      "成功",
+      "自己"
+    ]
+  },
+  "high_priority_score": 2
+}

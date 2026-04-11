@@ -16,3 +16,13 @@ This index lists agent-generated discovery artifacts for Life x Society theme fi
 
 - [human-value-captured-by-metrics](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/moc-drafts/human-value-captured-by-metrics.md)
   - Draft MOC for the theme `指標に回収される人間の価値`, centered on metricized personhood, visible effort, and internalized evaluation.
+
+## Reports
+
+- [human-value-captured-by-metrics-report](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/reports/human-value-captured-by-metrics-report.md)
+  - Candidate report for linking new `Life x Society` notes into `指標に回収される人間の価値_MOC`.
+
+## Workflow
+
+- [WORKFLOW.md](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/WORKFLOW.md)
+  - Steady-state loop for keeping theme discovery and MOC linking running with human approval.

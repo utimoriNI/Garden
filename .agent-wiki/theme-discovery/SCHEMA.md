@@ -55,6 +55,10 @@ All outputs live under `.agent-wiki/theme-discovery/`.
   - theme proposals at mid-level granularity
 - `moc-drafts/`
   - draft MOCs for promising themes
+- `reports/`
+  - candidate-link reports for existing human-facing MOCs
+- `configs/`
+  - per-MOC config files for report generation
 - `index.md`
   - lightweight index of generated files
 - `log.md`
@@ -155,6 +159,20 @@ Whenever files are added:
 
 - update `index.md`
 - append an entry to `log.md`
+
+## Steady-State Maintenance
+
+Once a draft is promoted into `110_MOC`, the ongoing maintenance loop changes.
+
+For promoted MOC candidates:
+
+- generate a candidate-link report from new `reading-note` files
+- let a human review the report
+- only after approval, update the human-facing MOC and the note frontmatter
+
+The current steady-state workflow is documented in:
+
+- `.agent-wiki/theme-discovery/WORKFLOW.md`
 
 ## Query Behavior
 
