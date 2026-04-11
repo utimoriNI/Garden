@@ -2,6 +2,10 @@
 
 Created: 2026-04-11
 
+## Scope Filter
+
+- Required all tags: `🎁Topic/Society`
+
 ## Summary
 
 - Eligible `reading-note`: 42

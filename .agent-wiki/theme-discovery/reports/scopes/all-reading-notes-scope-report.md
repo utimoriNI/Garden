@@ -2,6 +2,10 @@
 
 Created: 2026-04-11
 
+## Scope Filter
+
+- No tag filter
+
 ## Summary
 
 - Eligible `reading-note`: 218

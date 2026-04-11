@@ -57,3 +57,13 @@
 - Added `.agent-wiki/theme-discovery/configs/all_reading_notes_registry.json`
 - Added `.agent-wiki/theme-discovery/SYSTEM.md`
 - Extended natural-language triggers for `All Reading Notes`
+
+## [2026-04-11] scope-expanded | life-society-learning
+
+- Reframed the primary thematic layer as `Life / Society / Learning`
+- Extended `run_theme_discovery_cycle.py` to support both `required_all_tags` and `required_any_tags`
+- Added `Core Thinking Topics` as a union scope for notes tagged with at least one of `Life`, `Society`, or `Learning`
+- Added new single-tag scopes: `Life only`, `Learning only`
+- Added new cross-tag scopes: `Life x Learning`, `Society x Learning`
+- Generated first scope reports and latest run summaries for all new scopes
+- Updated system docs and human-facing guidance to clarify that other tags currently remain preservation-oriented unless explicitly promoted
