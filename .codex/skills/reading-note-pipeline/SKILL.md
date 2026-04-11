@@ -28,6 +28,7 @@ description: Kindle 収集マーカー（%% pick %% / %% group: ... %% / %% titl
 - Kindle 原本は `400_Kindle`
 - 生成先は `300_Input/Reading Notes`
 - `🧩rn/candidate` は frontmatter の `tags` に付いていることを前提にする
+- [タグ保存用.md](/Users/isikurahiromitu/Documents/Garden/200_Inbox/タグ保存用.md) はサジェスト用なので candidate 変換の対象外とする
 
 ## 既存スクリプト
 
@@ -83,4 +84,5 @@ rg -n "%% (pick|group:|title:)" 400_Kindle -g '*.md'
 
 - `400_Kindle` 以外の説明文や日報に書かれた `%% pick %%` などは削除しない
 - `🧩rn/candidate` は説明文の文字列ではなく frontmatter の `tags` だけを対象にする
+- [タグ保存用.md](/Users/isikurahiromitu/Documents/Garden/200_Inbox/タグ保存用.md) は変換しない
 - 変換や生成に失敗したら、収集マーカー削除には進まない

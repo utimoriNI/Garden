@@ -26,6 +26,7 @@
 - reading-note 関連の小分類に使う
 - `🧩rn/candidate` は一時的な候補タグ
 - `reading-note` に変換したら `🧩rn/candidate` は削除する
+- ただし [タグ保存用.md](/Users/isikurahiromitu/Documents/Garden/200_Inbox/タグ保存用.md) はサジェスト用なので変換対象から除外する
 
 ## Reading Note の定義
 
@@ -141,6 +142,7 @@ Kindle の原本ノートは次に置く。
 - `🧩rn/candidate` が付いたノートを探す
 - 必要なら最小 frontmatter を追加する
 - `🧩rn/candidate` を tags から削除する
+- [タグ保存用.md](/Users/isikurahiromitu/Documents/Garden/200_Inbox/タグ保存用.md) は除外する
 
 ## 旧 Lexicon ノートの移行
 

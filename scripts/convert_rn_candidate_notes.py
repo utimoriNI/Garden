@@ -8,6 +8,9 @@ from pathlib import Path
 
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n?", re.DOTALL)
 CANDIDATE_TAG = "🧩rn/candidate"
+EXCLUDED_PATHS = {
+    Path("200_Inbox/タグ保存用.md"),
+}
 
 
 def infer_source_type(path: Path, body: str) -> str:
@@ -137,6 +140,8 @@ def main() -> int:
 
     updated = 0
     for path in sorted(Path(".").rglob("*.md")):
+        if path in EXCLUDED_PATHS:
+            continue
         try:
             text = path.read_text(encoding="utf-8")
         except Exception:
