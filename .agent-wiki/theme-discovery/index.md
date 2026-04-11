@@ -13,3 +13,6 @@ This index lists agent-generated discovery artifacts for Life x Society theme fi
   - First theme proposal pass. Promotes 3 cluster bundles into mid-level candidates around metricized value, norm-shaped feeling/body, and self-responsibilization.
 
 ## MOC Drafts
+
+- [human-value-captured-by-metrics](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/moc-drafts/human-value-captured-by-metrics.md)
+  - Draft MOC for the theme `指標に回収される人間の価値`, centered on metricized personhood, visible effort, and internalized evaluation.

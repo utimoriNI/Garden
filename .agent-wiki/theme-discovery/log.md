@@ -22,3 +22,10 @@
 - Left 2 bundles unpromoted for now due to title instability or thin support
 - Created `themes/life-society-proposals-01.md`
 - Recommended `指標に回収される人間の価値` as the first promotion candidate
+
+## [2026-04-11] moc-draft | human-value-captured-by-metrics
+
+- Created a first MOC draft for `指標に回収される人間の価値`
+- Grouped notes around metricized value, visible effort, and internalized evaluation
+- Added adjacent links to utility and self-responsibilization themes
+- Left final promotion to human review
