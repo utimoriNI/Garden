@@ -130,8 +130,9 @@ Kindle の原本ノートは次に置く。
 既に Vault 内にあるノートを reading-note 化したい場合は、次の流れにする。
 
 1. `🧩rn/candidate` を付ける
-2. reading-note に変換する
-3. `🧩rn/candidate` を削除する
+2. 必要なら本文のどこかに `%% title: ... %%` を書いて、変換後の reading-note タイトルを指定する
+3. reading-note に変換する
+4. `🧩rn/candidate` を削除する
 
 次を使う。
 
@@ -140,8 +141,10 @@ Kindle の原本ノートは次に置く。
 このスクリプトは次を行う。
 
 - `🧩rn/candidate` が付いたノートを探す
+- 本文中の `%% title: ... %%` があれば、変換後の reading-note タイトルとして使う
 - 必要なら最小 frontmatter を追加する
 - `🧩rn/candidate` を tags から削除する
+- `%% title: ... %%` を使った場合は、ファイル名と frontmatter の `title` をその値に合わせる
 - [タグ保存用.md](/Users/isikurahiromitu/Documents/Garden/200_Inbox/タグ保存用.md) は除外する
 
 ## 旧 Lexicon ノートの移行

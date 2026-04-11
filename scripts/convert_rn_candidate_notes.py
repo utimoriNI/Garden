@@ -7,6 +7,7 @@ from pathlib import Path
 
 
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n?", re.DOTALL)
+TITLE_DIRECTIVE_RE = re.compile(r"^%%\s*title:\s*(?P<title>.+?)\s*%%$", re.IGNORECASE)
 CANDIDATE_TAG = "🧩rn/candidate"
 EXCLUDED_PATHS = {
     Path("200_Inbox/タグ保存用.md"),
@@ -27,6 +28,36 @@ def extract_frontmatter_lines(text: str) -> list[str]:
     if not match:
         return []
     return match.group(1).splitlines()
+
+
+def yaml_quote(value: str) -> str:
+    return "'" + value.replace("'", "''") + "'"
+
+
+def sanitize_filename(value: str) -> str:
+    value = re.sub(r"[/:*?\"<>|]", "-", value)
+    value = re.sub(r"\s+", " ", value).strip()
+    return value
+
+
+def normalize_title_text(value: str) -> str:
+    value = re.sub(r"\s+", " ", value).strip()
+    return value.strip(" 　-")
+
+
+def extract_title_directive(body: str) -> str:
+    for line in body.splitlines():
+        match = TITLE_DIRECTIVE_RE.match(line.strip())
+        if match:
+            return normalize_title_text(match.group("title"))
+    return ""
+
+
+def remove_title_directive(body: str) -> str:
+    lines = [line for line in body.splitlines() if not TITLE_DIRECTIVE_RE.match(line.strip())]
+    text = "\n".join(lines)
+    text = re.sub(r"\n{3,}", "\n\n", text)
+    return text
 
 
 def frontmatter_has_candidate_tag(lines: list[str]) -> bool:
@@ -69,6 +100,29 @@ def ensure_key(lines: list[str], key: str, value_lines: list[str]) -> list[str]:
     return lines
 
 
+def target_path_for_title(path: Path, explicit_title: str) -> Path:
+    if not explicit_title:
+        return path
+    filename = sanitize_filename(f"{explicit_title}.md")
+    if not filename:
+        return path
+    return path.with_name(filename)
+
+
+def ensure_unique_path(target_path: Path, current_path: Path) -> Path:
+    if target_path == current_path or not target_path.exists():
+        return target_path
+
+    stem = target_path.stem
+    suffix = target_path.suffix
+    counter = 2
+    while True:
+        candidate = target_path.with_name(f"{stem} {counter}{suffix}")
+        if candidate == current_path or not candidate.exists():
+            return candidate
+        counter += 1
+
+
 def remove_candidate_tag(lines: list[str]) -> list[str]:
     result: list[str] = []
     in_tags_block = False
@@ -104,7 +158,7 @@ def remove_candidate_tag(lines: list[str]) -> list[str]:
     return result
 
 
-def convert_text(path: Path, text: str) -> str:
+def convert_text(path: Path, text: str) -> tuple[str, Path]:
     match = FRONTMATTER_RE.match(text)
     if match:
         frontmatter_lines = match.group(1).splitlines()
@@ -113,10 +167,14 @@ def convert_text(path: Path, text: str) -> str:
         frontmatter_lines = []
         body = text
 
+    explicit_title = extract_title_directive(body)
+    body = remove_title_directive(body)
     frontmatter_lines = remove_candidate_tag(frontmatter_lines)
     source_type = infer_source_type(path, body)
 
     frontmatter_lines = ensure_key(frontmatter_lines, "type", ["type: reading-note"])
+    if explicit_title:
+        frontmatter_lines = ensure_key(frontmatter_lines, "title", [f"title: {yaml_quote(explicit_title)}"])
     if not any(line.startswith("source_type:") for line in frontmatter_lines):
         frontmatter_lines = ensure_key(frontmatter_lines, "source_type", [f"source_type: {source_type}"])
     if not any(line.startswith("source_container:") for line in frontmatter_lines):
@@ -128,7 +186,9 @@ def convert_text(path: Path, text: str) -> str:
     if not any(line.startswith("status:") for line in frontmatter_lines):
         frontmatter_lines = ensure_key(frontmatter_lines, "status", ["status: inbox"])
 
-    return "---\n" + "\n".join(frontmatter_lines).rstrip() + "\n---\n" + body.lstrip("\n")
+    new_text = "---\n" + "\n".join(frontmatter_lines).rstrip() + "\n---\n" + body.lstrip("\n")
+    target_path = ensure_unique_path(target_path_for_title(path, explicit_title), path)
+    return new_text, target_path
 
 
 def main() -> int:
@@ -151,14 +211,19 @@ def main() -> int:
         if not frontmatter_has_candidate_tag(frontmatter_lines):
             continue
 
-        new_text = convert_text(path, text)
-        if new_text == text:
+        new_text, target_path = convert_text(path, text)
+        if new_text == text and target_path == path:
             continue
 
         if args.dry_run:
-            print(path.as_posix())
+            if target_path != path:
+                print(f"{path.as_posix()} -> {target_path.as_posix()}")
+            else:
+                print(path.as_posix())
         else:
             path.write_text(new_text, encoding="utf-8")
+            if target_path != path:
+                path.rename(target_path)
         updated += 1
 
     print(f"updated={updated}")
