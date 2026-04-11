@@ -275,6 +275,17 @@ def fetch_bookmarks(args: argparse.Namespace) -> Tuple[dict, int]:
 
 
 def fetch_search(args: argparse.Namespace) -> Tuple[dict, int]:
+    if args.limit < 10 or args.limit > 100:
+        return (
+            error_payload(
+                "invalid_argument",
+                "search --limit must be between 10 and 100",
+                parameter="limit",
+                value=args.limit,
+            ),
+            2,
+        )
+
     endpoint = "/2/tweets/search/recent?{query}".format(
         query=build_query(
             {
@@ -351,7 +362,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     search = subparsers.add_parser("search", help="search recent tweets", parents=[common])
     search.add_argument("--query", required=True)
-    search.add_argument("--limit", type=int, default=20)
+    search.add_argument("--limit", type=int, default=10)
     search.add_argument("--next-token")
 
     return parser
