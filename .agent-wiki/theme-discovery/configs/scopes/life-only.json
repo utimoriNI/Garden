@@ -1,0 +1,10 @@
+{
+  "name": "Life Only",
+  "created": "2026-04-11",
+  "reading_notes_dir": "300_Input/Reading Notes",
+  "required_all_tags": [
+    "🎁Topic/Life"
+  ],
+  "report_path": ".agent-wiki/theme-discovery/reports/scopes/life-only-scope-report.md",
+  "run_summary_path": ".agent-wiki/theme-discovery/runs/life-only-latest.md"
+}

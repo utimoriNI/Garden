@@ -91,13 +91,38 @@ def load_note(path: Path, vault_root: Path) -> NoteRecord:
     )
 
 
+def note_matches_scope(note: NoteRecord, scope_config: dict) -> bool:
+    if note.note_type != "reading-note":
+        return False
+
+    required_all = scope_config.get("required_all_tags", scope_config.get("required_tags", []))
+    required_any = scope_config.get("required_any_tags", [])
+
+    if required_all and not all(tag in note.tags for tag in required_all):
+        return False
+    if required_any and not any(tag in note.tags for tag in required_any):
+        return False
+    return True
+
+
+def build_filter_summary(scope_config: dict) -> list[str]:
+    lines: list[str] = []
+    required_all = scope_config.get("required_all_tags", scope_config.get("required_tags", []))
+    required_any = scope_config.get("required_any_tags", [])
+
+    if required_all:
+        joined = ", ".join(f"`{tag}`" for tag in required_all)
+        lines.append(f"- Required all tags: {joined}")
+    if required_any:
+        joined = ", ".join(f"`{tag}`" for tag in required_any)
+        lines.append(f"- Required any tag: {joined}")
+    if not lines:
+        lines.append("- No tag filter")
+    return lines
+
+
 def build_scope_report(scope_config: dict, notes: list[NoteRecord], generated_reports: list[str]) -> str:
-    required_tags = scope_config["required_tags"]
-    eligible = [
-        note
-        for note in notes
-        if note.note_type == "reading-note" and all(tag in note.tags for tag in required_tags)
-    ]
+    eligible = [note for note in notes if note_matches_scope(note, scope_config)]
     eligible.sort(key=lambda item: item.title)
 
     source_counts = Counter(note.source_type or "unknown" for note in eligible)
@@ -108,6 +133,10 @@ def build_scope_report(scope_config: dict, notes: list[NoteRecord], generated_re
     lines.append(f"# {scope_config['name']} Scope Report")
     lines.append("")
     lines.append(f"Created: {scope_config['created']}")
+    lines.append("")
+    lines.append("## Scope Filter")
+    lines.append("")
+    lines.extend(build_filter_summary(scope_config))
     lines.append("")
     lines.append("## Summary")
     lines.append("")

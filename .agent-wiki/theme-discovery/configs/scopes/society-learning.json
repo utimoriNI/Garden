@@ -1,0 +1,11 @@
+{
+  "name": "Society x Learning",
+  "created": "2026-04-11",
+  "reading_notes_dir": "300_Input/Reading Notes",
+  "required_all_tags": [
+    "🎁Topic/Society",
+    "🎁Topic/Learning"
+  ],
+  "report_path": ".agent-wiki/theme-discovery/reports/scopes/society-learning-scope-report.md",
+  "run_summary_path": ".agent-wiki/theme-discovery/runs/society-learning-latest.md"
+}

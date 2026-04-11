@@ -1,0 +1,12 @@
+{
+  "name": "Core Thinking Topics",
+  "created": "2026-04-11",
+  "reading_notes_dir": "300_Input/Reading Notes",
+  "required_any_tags": [
+    "🎁Topic/Life",
+    "🎁Topic/Society",
+    "🎁Topic/Learning"
+  ],
+  "report_path": ".agent-wiki/theme-discovery/reports/scopes/core-thinking-topics-scope-report.md",
+  "run_summary_path": ".agent-wiki/theme-discovery/runs/core-thinking-topics-latest.md"
+}
