@@ -194,6 +194,36 @@
       },
       "openFile": false,
       "openFileInMode": "default"
+    },
+    {
+      "id": "1e2168e1-f037-4f78-9d61-dfd7bad536d8",
+      "name": "Knowledge (copy)",
+      "type": "Template",
+      "command": true,
+      "templatePath": "998_Resource/Template/Knowledge.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{mvalue}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "600_Knowledge"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [],
