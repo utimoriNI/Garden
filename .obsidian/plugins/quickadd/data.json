@@ -196,7 +196,7 @@
       "openFileInMode": "default"
     },
     {
-      "id": "233fb7d7-60bf-4115-9015-4133df28a844",
+      "id": "0eb320b3-e440-490b-9b89-1069cd67d4c0",
       "name": "Reading",
       "type": "Template",
       "command": true,
@@ -218,7 +218,7 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": true,
+      "openFile": false,
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
