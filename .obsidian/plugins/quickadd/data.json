@@ -200,16 +200,14 @@
       "name": "Knowledge (copy)",
       "type": "Template",
       "command": true,
-      "templatePath": "998_Resource/Template/Knowledge.md",
+      "templatePath": "998_Resource/Template/Reading Note.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{mvalue}}"
       },
       "folder": {
         "enabled": true,
-        "folders": [
-          "600_Knowledge"
-        ],
+        "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
         "chooseFromSubfolders": false
