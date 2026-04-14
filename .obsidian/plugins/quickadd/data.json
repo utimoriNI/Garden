@@ -196,17 +196,17 @@
       "openFileInMode": "default"
     },
     {
-      "id": "1e2168e1-f037-4f78-9d61-dfd7bad536d8",
-      "name": "Knowledge (copy)",
+      "id": "233fb7d7-60bf-4115-9015-4133df28a844",
+      "name": "Reading",
       "type": "Template",
       "command": true,
-      "templatePath": "998_Resource/Template/Reading Note.md",
+      "templatePath": "",
       "fileNameFormat": {
-        "enabled": true,
-        "format": "{{mvalue}}"
+        "enabled": false,
+        "format": ""
       },
       "folder": {
-        "enabled": true,
+        "enabled": false,
         "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -218,7 +218,7 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": true,
+      "openFile": false,
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
