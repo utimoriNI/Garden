@@ -95,6 +95,33 @@ def split_blocks(body: str) -> list[str]:
     return [block.strip("\n") for block in re.split(r"\n\s*\n", body) if block.strip()]
 
 
+def is_quote_block(block: str) -> bool:
+    lines = [line.strip() for line in block.splitlines() if line.strip()]
+    return bool(lines) and all(line.startswith(">") for line in lines)
+
+
+def is_linkish_block(block: str) -> bool:
+    lines = [line.strip() for line in block.splitlines() if line.strip()]
+    if not lines:
+        return False
+    return all(
+        line.startswith("[") and "](" in line
+        or line.startswith("![](")
+        for line in lines
+    )
+
+
+def resolve_content_block(content_blocks: list[str]) -> Optional[str]:
+    if not content_blocks:
+        return None
+    if len(content_blocks) >= 2:
+        previous = content_blocks[-1]
+        before_previous = content_blocks[-2]
+        if is_linkish_block(previous) and is_quote_block(before_previous):
+            return before_previous.strip() + "\n\n" + previous.strip()
+    return content_blocks[-1].strip()
+
+
 def marker_block_metadata(block: str) -> Optional[tuple[bool, Optional[str], Optional[str]]]:
     lines = [line.strip() for line in block.splitlines() if line.strip()]
     if not lines or not all(MARKER_LINE_PATTERN.match(line) for line in lines):
@@ -119,25 +146,26 @@ def extract_candidates(path: Path) -> list[CandidateBlock]:
     blocks = split_blocks(body)
 
     results: list[CandidateBlock] = []
-    previous_content: Optional[str] = None
+    content_history: list[str] = []
     for block in blocks:
         metadata = marker_block_metadata(block)
         if metadata:
-            if previous_content is None:
+            resolved_content = resolve_content_block(content_history)
+            if resolved_content is None:
                 continue
             picked, group_id, explicit_title = metadata
             results.append(
                 CandidateBlock(
-                    content=previous_content.strip(),
+                    content=resolved_content,
                     picked=picked,
                     group_id=group_id,
                     explicit_title=explicit_title,
                 )
             )
-            previous_content = None
+            content_history = []
             continue
 
-        previous_content = block
+        content_history.append(block)
 
     return results
 

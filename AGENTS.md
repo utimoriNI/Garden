@@ -125,6 +125,20 @@ Kindle の原本ノートは次に置く。
 
 - [reading-note-pipeline](/Users/isikurahiromitu/Documents/Garden/.codex/skills/reading-note-pipeline/SKILL.md)
 
+## 300_Input の引用・発言抽出運用
+
+`300_Input` 内の Web クリップや動画クリップでも、本文中に `%% pick %%` / `%% group: ... %%` / `%% title: ... %%` を使って一節ノート化してよい。
+
+次を使う。
+
+- [scripts/generate_input_reading_notes.py](/Users/isikurahiromitu/Documents/Garden/scripts/generate_input_reading_notes.py)
+
+このスクリプトは次を行う。
+
+- `300_Input` の marker 付きブロックを読む
+- `300_Input/Reading Notes` に reading-note を生成する
+- 処理済みの `pick`, `group`, `title` を元ノートから削除する
+
 ## 候補ノートの変換
 
 既に Vault 内にあるノートを reading-note 化したい場合は、次の流れにする。

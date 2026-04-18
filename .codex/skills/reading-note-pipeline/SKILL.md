@@ -8,6 +8,7 @@ description: Kindle 収集マーカー（%% pick %% / %% group: ... %% / %% titl
 この skill は、この Vault で一節ノート化の一連の流れをまとめて実行するときに使う。
 
 - `400_Kindle` にある `%% pick %%` / `%% group: ... %%` / `%% title: ... %%` を読む
+- `300_Input` にある `%% pick %%` / `%% group: ... %%` / `%% title: ... %%` を読む
 - `🧩rn/candidate` が付いた既存ノートを `reading-note` に寄せる
 - `300_Input/Reading Notes` に一節ノートを生成する
 - 成功後、`400_Kindle` から収集マーカーを削除する
@@ -48,8 +49,9 @@ python3 .codex/skills/reading-note-pipeline/scripts/process_reading_note_collect
 
 1. `🧩rn/candidate` が付いたノートを `reading-note` 化する
 2. Kindle 収集マーカーから一節ノートを生成する
-3. `400_Kindle` の `%% pick %%` / `%% group: ... %%` / `%% title: ... %%` を削除する
-4. `400_Kindle` に収集マーカーが残っていないか確認する
+3. `300_Input` の marker 付き引用や発言から一節ノートを生成する
+4. `400_Kindle` の `%% pick %%` / `%% group: ... %%` / `%% title: ... %%` を削除する
+5. `400_Kindle` に収集マーカーが残っていないか確認する
 
 ## 個別実行が必要な場合
 
