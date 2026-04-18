@@ -77,6 +77,7 @@ def main() -> int:
     if not args.cleanup_only:
         run_python_script("scripts/convert_rn_candidate_notes.py")
         run_python_script("scripts/generate_kindle_reading_notes.py")
+        run_python_script("scripts/generate_input_reading_notes.py")
 
     cleanup_kindle_markers()
 
