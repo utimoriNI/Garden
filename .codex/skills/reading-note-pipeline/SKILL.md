@@ -12,6 +12,7 @@ description: Kindle 収集マーカー（%% pick %% / %% group: ... %% / %% titl
 - `300_Input/Reading Notes` に一節ノートを生成する
 - 成功後、`400_Kindle` から収集マーカーを削除する
 - `🧩rn/candidate` は変換時に削除する
+- candidate から変換したノートも `300_Input/Reading Notes` に集約する
 
 ## 使う場面
 

@@ -9,6 +9,7 @@ from pathlib import Path
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n?", re.DOTALL)
 TITLE_DIRECTIVE_RE = re.compile(r"^%%\s*title:\s*(?P<title>.+?)\s*%%$", re.IGNORECASE)
 CANDIDATE_TAG = "🧩rn/candidate"
+READING_NOTES_DIR = Path("300_Input/Reading Notes")
 EXCLUDED_PATHS = {
     Path("200_Inbox/タグ保存用.md"),
 }
@@ -101,12 +102,13 @@ def ensure_key(lines: list[str], key: str, value_lines: list[str]) -> list[str]:
 
 
 def target_path_for_title(path: Path, explicit_title: str) -> Path:
-    if not explicit_title:
-        return path
-    filename = sanitize_filename(f"{explicit_title}.md")
+    if explicit_title:
+        filename = sanitize_filename(f"{explicit_title}.md")
+    else:
+        filename = path.name
     if not filename:
         return path
-    return path.with_name(filename)
+    return READING_NOTES_DIR / filename
 
 
 def ensure_unique_path(target_path: Path, current_path: Path) -> Path:
@@ -199,6 +201,7 @@ def main() -> int:
     args = parser.parse_args()
 
     updated = 0
+    READING_NOTES_DIR.mkdir(parents=True, exist_ok=True)
     for path in sorted(Path(".").rglob("*.md")):
         if path in EXCLUDED_PATHS:
             continue

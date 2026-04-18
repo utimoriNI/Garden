@@ -143,6 +143,7 @@ Kindle の原本ノートは次に置く。
 - `🧩rn/candidate` が付いたノートを探す
 - 本文中の `%% title: ... %%` があれば、変換後の reading-note タイトルとして使う
 - 必要なら最小 frontmatter を追加する
+- 変換後のノートを `300_Input/Reading Notes` に集約する
 - `🧩rn/candidate` を tags から削除する
 - `%% title: ... %%` を使った場合は、ファイル名と frontmatter の `title` をその値に合わせる
 - [タグ保存用.md](/Users/isikurahiromitu/Documents/Garden/200_Inbox/タグ保存用.md) は除外する
