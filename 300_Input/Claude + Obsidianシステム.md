@@ -7,7 +7,7 @@ published: 2026-03-22
 created: 2026-04-03
 description: これは私の完全なClaude + Obsidianシステムです。文字通り、あらゆるものについてすべてを知っている従業員がいるような気分です。 チェックしてみてください：
 tags:
-  - Later
+  - 📦Archive/PKM
 image: https://abs.twimg.com/rweb/ssr/default/v2/og/image.png
 ---
 **Fraser Cottrell | Ad Creative For Meta & TikTok** @sourfraser 2026-03-21
