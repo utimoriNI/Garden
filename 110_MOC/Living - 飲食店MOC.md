@@ -243,7 +243,7 @@
     - [ピッツェリア フォルノ](https://www.google.com/maps/place/PIZZERIA+FORNO/@35.626516,139.715166,17z)
     - [ピッツェリア ヴォラーレ](https://www.google.com/maps/place/Pizzeria+Volare/@35.617516,139.664166,17z)
     - [ダ・ガエターノ](https://www.google.com/maps/place/Pizzeria+da+Gaetano/@35.660516,139.743166,17z)
-- [むにぐるめのピザまとめポスト](https://x.com/muni_gurume/status/2056359192882188744?s=20)
+- [「世界一のピザが、今、東京にある」反応メモ](https://x.com/Riko_Murai/status/2038428584130589153?s=20)
     - [聖林館 (中目黒)](https://www.google.com/maps/search/?api=1&query=%E8%81%96%E6%9E%97%E9%A4%A8+%E4%B8%AD%E7%9B%AE%E9%BB%92)
     - [PST / Pizza Studio Tamaki (東麻布)](https://www.google.com/maps/search/?api=1&query=Pizza+Studio+Tamaki+%E6%9D%B1%E9%BA%BB%E5%B8%83)
     - [ベッラ・ナポリ (清澄白河)](https://www.google.com/maps/search/?api=1&query=%E3%83%99%E3%83%83%E3%83%A9%E3%83%BB%E3%83%8A%E3%83%9D%E3%83%AA+%E6%B8%85%E6%BE%84%E7%99%BD%E6%B2%B3)
