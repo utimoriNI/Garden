@@ -63,11 +63,16 @@
 - [HANA bar](%E3%82%AB%E3%83%95%E3%82%A7%E3%83%90%E3%83%BC8%E9%81%B8.md)
 - **純喫茶**
     - [マーガレット](https://www.google.com/maps/search/?api=1&query=マーガレット+池袋+喫茶店)
+- **ピザ**
+    - [ピッツァ ボルサ (池袋)](https://www.google.com/maps/search/?api=1&query=PIZZA+BORSA+%E6%B1%A0%E8%A2%8B)
 
 ### 恵比寿
 - [CAFE MID STAMP](Polysection%20%E6%B8%8B%E8%B0%B7%E3%81%AE%E3%82%AB%E3%83%95%E3%82%A7.md)
 - **パンケーキ**
     - [アクイーユ (恵比寿)](https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%82%AF%E3%82%A4%E3%83%BC%E3%83%A6+%E6%81%B5%E6%AF%94%E5%AF%BF+%E3%83%91%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%AD)
+- **ピザ**
+    - [ダ・ミケーレ (恵比寿)](https://www.google.com/maps/search/?api=1&query=Antica+Pizzeria+da+Michele+%E6%81%B5%E6%AF%94%E5%AF%BF)
+    - [パルテノペ (恵比寿)](https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%AB%E3%83%86%E3%83%8E%E3%83%9A+%E6%81%B5%E6%AF%94%E5%AF%BF%E5%BA%97)
 
 ### 下北沢
 - [プリンセスタルト (フルーツタルト専門店)](%E4%B8%8B%E5%8C%97%E6%B2%A2%E3%81%AB%E6%97%AC%E3%81%AE%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%82%92%E8%B4%85%E6%B2%A2%E3%81%AB%E4%BD%BF%E3%81%A3%E3%81%9F%E3%83%95%E3%83%AB%E3%83%BC%E3%83%84%E3%82%BF%E3%83%AB%E3%83%88%E5%B0%82%E9%96%80%E5%BA%97%E3%80%8C%E3%83%97%E3%83%AA%E3%83%B3%E3%82%BB%E3%82%B9%E3%82%BF%E3%83%AB%E3%83%88%E3%80%8D%E3%81%8COPEN%E4%BA%88%E5%AE%9A.md)
@@ -82,15 +87,25 @@
     - [和食 手打ちそば 美舟音（みふね）](https://www.google.com/maps/search/?api=1&query=和食+手打ちそば+美舟音+東京都港区赤坂3-9-15)
 - **純喫茶**
     - [もくもく](https://www.google.com/maps/search/?api=1&query=もくもく+東京都港区+喫茶店)
+- **ピザ**
+    - [PST / Pizza Studio Tamaki (東麻布)](https://www.google.com/maps/search/?api=1&query=Pizza+Studio+Tamaki+%E6%9D%B1%E9%BA%BB%E5%B8%83)
+    - [ピッツァ ストラーダ (麻布十番)](https://www.google.com/maps/search/?api=1&query=%E3%83%94%E3%83%83%E3%83%84%E3%82%A1+%E3%82%B9%E3%83%88%E3%83%A9%E3%83%BC%E3%83%80+%E9%BA%BB%E5%B8%83%E5%8D%81%E7%95%AA)
+    - [SAVOY (麻布十番)](https://www.google.com/maps/search/?api=1&query=SAVOY+%E9%BA%BB%E5%B8%83%E5%8D%81%E7%95%AA)
 
 ### 中央区
 - **蕎麦**
     - [馥や](https://www.google.com/maps/search/?api=1&query=馥や+東京都中央区日本橋小伝馬町14-19)
     - [つきじ 文化人](https://www.google.com/maps/search/?api=1&query=つきじ+文化人+東京都中央区築地1-12-16)
 
+### 江東区
+- **ピザ**
+    - [ベッラ・ナポリ (清澄白河)](https://www.google.com/maps/search/?api=1&query=%E3%83%99%E3%83%83%E3%83%A9%E3%83%BB%E3%83%8A%E3%83%9D%E3%83%AA+%E6%B8%85%E6%BE%84%E7%99%BD%E6%B2%B3)
+
 ### 目黒
 - **蕎麦**
     - [蕎や 月心](https://www.google.com/maps/search/?api=1&query=蕎や+月心+東京都目黒区中町2-44-15)
+- **ピザ**
+    - [聖林館 (中目黒)](https://www.google.com/maps/search/?api=1&query=%E8%81%96%E6%9E%97%E9%A4%A8+%E4%B8%AD%E7%9B%AE%E9%BB%92)
 
 ### 中野
 - **蕎麦**
@@ -113,6 +128,10 @@
     - [神楽坂 大川や](https://www.google.com/maps/search/?api=1&query=神楽坂+大川や+東京都新宿区神楽坂6-25)
     - [蕎楽亭](https://www.google.com/maps/search/?api=1&query=蕎楽亭+東京都新宿区神楽坂3-6)
 
+### 永福町
+- **ピザ**
+    - [ラ・ピッコラ・ターヴォラ (永福町)](https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%83%BB%E3%83%94%E3%83%83%E3%82%B3%E3%83%A9%E3%83%BB%E3%82%BF%E3%83%BC%E3%83%B4%E3%82%A9%E3%83%A9+%E6%B0%B8%E7%A6%8F%E7%94%BA)
+
 ### 秋葉原
 - **パンケーキ**
     - [みつばちcoffee (秋葉原)](https://www.google.com/maps/search/?api=1&query=%E3%81%BF%E3%81%A4%E3%81%B0%E3%81%A1coffee+%E7%A7%8B%E8%91%89%E5%8E%9F+%E3%83%91%E3%83%B3%E3%82%B1%E3%83%BC%E3%82%AD)
@@ -122,6 +141,10 @@
 - **純喫茶**
     - [キャラバンコーヒー](https://www.google.com/maps/search/?api=1&query=キャラバンコーヒー+阿佐ヶ谷)
     - [Gion](https://www.google.com/maps/search/?api=1&query=Gion+阿佐ヶ谷+喫茶店)
+
+### 石神井公園
+- **ピザ**
+    - [ジターリア ダ フィリッポ (石神井公園)](https://www.google.com/maps/search/?api=1&query=%E3%83%94%E3%83%83%E3%83%84%E3%82%A7%E3%83%AA%E3%82%A2+%E3%82%B8%E3%82%BF%E3%83%BC%E3%83%AA%E3%82%A2+%E3%83%80+%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%9D+%E7%9F%B3%E7%A5%9E%E4%BA%95%E5%85%AC%E5%9C%92)
 
 ### 浅草
 - **パンケーキ**
@@ -241,6 +264,17 @@
     - [ピッツェリア フォルノ](https://www.google.com/maps/place/PIZZERIA+FORNO/@35.626516,139.715166,17z)
     - [ピッツェリア ヴォラーレ](https://www.google.com/maps/place/Pizzeria+Volare/@35.617516,139.664166,17z)
     - [ダ・ガエターノ](https://www.google.com/maps/place/Pizzeria+da+Gaetano/@35.660516,139.743166,17z)
+- [むにぐるめのピザまとめポスト](https://x.com/muni_gurume/status/2056359192882188744?s=20)
+    - [聖林館 (中目黒)](https://www.google.com/maps/search/?api=1&query=%E8%81%96%E6%9E%97%E9%A4%A8+%E4%B8%AD%E7%9B%AE%E9%BB%92)
+    - [PST / Pizza Studio Tamaki (東麻布)](https://www.google.com/maps/search/?api=1&query=Pizza+Studio+Tamaki+%E6%9D%B1%E9%BA%BB%E5%B8%83)
+    - [ベッラ・ナポリ (清澄白河)](https://www.google.com/maps/search/?api=1&query=%E3%83%99%E3%83%83%E3%83%A9%E3%83%BB%E3%83%8A%E3%83%9D%E3%83%AA+%E6%B8%85%E6%BE%84%E7%99%BD%E6%B2%B3)
+    - [ダ・ミケーレ (恵比寿)](https://www.google.com/maps/search/?api=1&query=Antica+Pizzeria+da+Michele+%E6%81%B5%E6%AF%94%E5%AF%BF)
+    - [ラ・ピッコラ・ターヴォラ (永福町)](https://www.google.com/maps/search/?api=1&query=%E3%83%A9%E3%83%BB%E3%83%94%E3%83%83%E3%82%B3%E3%83%A9%E3%83%BB%E3%82%BF%E3%83%BC%E3%83%B4%E3%82%A9%E3%83%A9+%E6%B0%B8%E7%A6%8F%E7%94%BA)
+    - [ピッツァ ストラーダ (麻布十番)](https://www.google.com/maps/search/?api=1&query=%E3%83%94%E3%83%83%E3%83%84%E3%82%A1+%E3%82%B9%E3%83%88%E3%83%A9%E3%83%BC%E3%83%80+%E9%BA%BB%E5%B8%83%E5%8D%81%E7%95%AA)
+    - [SAVOY (麻布十番)](https://www.google.com/maps/search/?api=1&query=SAVOY+%E9%BA%BB%E5%B8%83%E5%8D%81%E7%95%AA)
+    - [パルテノペ (恵比寿)](https://www.google.com/maps/search/?api=1&query=%E3%83%91%E3%83%AB%E3%83%86%E3%83%8E%E3%83%9A+%E6%81%B5%E6%AF%94%E5%AF%BF%E5%BA%97)
+    - [ジターリア ダ フィリッポ (石神井公園)](https://www.google.com/maps/search/?api=1&query=%E3%83%94%E3%83%83%E3%83%84%E3%82%A7%E3%83%AA%E3%82%A2+%E3%82%B8%E3%82%BF%E3%83%BC%E3%83%AA%E3%82%A2+%E3%83%80+%E3%83%95%E3%82%A3%E3%83%AA%E3%83%83%E3%83%9D+%E7%9F%B3%E7%A5%9E%E4%BA%95%E5%85%AC%E5%9C%92)
+    - [ピッツァ ボルサ (池袋)](https://www.google.com/maps/search/?api=1&query=PIZZA+BORSA+%E6%B1%A0%E8%A2%8B)
 
 ### スイーツ
 - [[東京 シュークリーム]]
