@@ -222,6 +222,36 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "b93b787a-9e15-44f9-8640-b60e48ea51ef",
+      "name": "Knowledge (copy)",
+      "type": "Template",
+      "command": true,
+      "templatePath": "998_Resource/Template/イラスト制作手順書.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{mvalue}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "800_Project/イラスト"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [],
