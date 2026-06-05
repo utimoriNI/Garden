@@ -121,7 +121,9 @@ tags:
 - 模写ならラフから線画でもいいかな
 	- 作品ならカラーラフが必要
 - ベースの色を影の暗さで塗ってるけど、普通にベースの色でいいかも？
-	- カラーラフ制作の時は
+	- カラーラフ制作の時は普通の色で色置いて、乗算で影を置けるといいかも
+	- [Site Unreachable](https://x.com/mochi_upamo/status/2062711517070717058/photo/1)
+	- ![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/ef8a9280227fdb106c427b593ee3ea47.png)
 
 **次回に残す手順**
 - 
