@@ -3,9 +3,6 @@ formulas:
 views:
   - type: cards
     name: Life
-    filters:
-      and:
-        - file.hasTag("🎁Topic/Life")
     order:
       - file.name
       - file.ctime
