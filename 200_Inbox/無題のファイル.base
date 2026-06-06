@@ -3,6 +3,9 @@ formulas:
 views:
   - type: cards
     name: Life
+    filters:
+      and:
+        - file.inFolder("300_Input/Reading Notes")
     order:
       - file.name
       - file.ctime
