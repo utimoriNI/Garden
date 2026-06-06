@@ -8,10 +8,14 @@ created: 2026-05-23
 description: ロッドオブエイジスじゃなくて"板東of○二s"が存在している前提で話が進み、 架空のマージンから板東○二の分間CSを計算したのちに、「こんな組合せどうでしょうか?」っていうデュオ提案をしてくるのかと思いきや、 本当に架空の話を共有してきただけの怪文書でマジで神すぎる
 tags:
   - 🎁Topic/Omoro
-  - 🧩rn/candidate
 image: https://abs.twimg.com/rweb/ssr/default/v2/og/image.png
+type: reading-note
+source_type: web
+source_container:
+topic: []
+moc: []
+status: inbox
 ---
-
 ロッドオブエイジスじゃなくて"板東of○二s"が存在している前提で話が進み、
 
 架空のマージンから板東○二の分間CSを計算したのちに、「こんな組合せどうでしょうか?」っていうデュオ提案をしてくるのかと思いきや、
