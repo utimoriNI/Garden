@@ -175,7 +175,7 @@ tags:
 		- 影(乗算)
 		- ベース
 
-
+![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/53bc54338a98c6214b1be5cd5c1f853b.jpeg)
 
 **色分け / レイヤー構成**
 - 
