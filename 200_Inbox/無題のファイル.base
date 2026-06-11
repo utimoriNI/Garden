@@ -5,7 +5,7 @@ views:
     name: Life
     filters:
       and:
-        - file.hasTag("🎁Topic/Life")
+        - file.inFolder("300_Input/Reading Notes")
     order:
       - file.name
       - file.ctime

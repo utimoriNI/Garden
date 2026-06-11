@@ -8,10 +8,14 @@ created: 2026-05-23
 description: 僕もそんな感じですよ！ いい感じのプリセットを見つけることしかできないです おすすめプリセット↓ Slap Bass→名前通りバチバチのスラップがさらにバチバチに garage drum... 続き→https://marshmallow-qa.com/messages/bcf6
 tags:
   - 🎁Topic/🎵DTM
-  - 🧩rn/candidate
 image: https://abs.twimg.com/rweb/ssr/default/v2/og/image.png
+type: reading-note
+source_type: web
+source_container:
+topic: []
+moc: []
+status: inbox
 ---
-
 僕もそんな感じですよ！
 
 いい感じのプリセットを見つけることしかできないです
