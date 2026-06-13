@@ -3,10 +3,12 @@
   const state = {
     topic: null,
     noteId: null,
+    bundleKey: null,
     search: "",
   };
 
   const topicListEl = document.getElementById("topic-list");
+  const bundleListEl = document.getElementById("bundle-list");
   const noteListEl = document.getElementById("note-list");
   const detailEl = document.getElementById("detail");
   const topicTitleEl = document.getElementById("topic-title");
@@ -46,6 +48,18 @@
     return topic.replace(/^Topic\//, "");
   }
 
+  function currentTopicRecord() {
+    return data.topics.find((item) => item.name === state.topic) || null;
+  }
+
+  function activeBundle() {
+    const record = currentTopicRecord();
+    if (!record || !Array.isArray(record.bundles)) {
+      return null;
+    }
+    return record.bundles.find((bundle) => bundle.key === state.bundleKey) || null;
+  }
+
   function noteMatchesSearch(note, search) {
     if (!search) {
       return true;
@@ -69,9 +83,12 @@
     if (!record) {
       return [];
     }
+    const bundle = activeBundle();
+    const bundleIds = bundle ? new Set(bundle.noteIds) : null;
     return record.noteIds
       .map((noteId) => data.notes[noteId])
       .filter(Boolean)
+      .filter((note) => !bundleIds || bundleIds.has(note.id))
       .filter((note) => noteMatchesSearch(note, state.search));
   }
 
@@ -83,6 +100,9 @@
     if (state.noteId) {
       parts.set("note", state.noteId);
     }
+    if (state.bundleKey) {
+      parts.set("bundle", state.bundleKey);
+    }
     window.location.hash = parts.toString();
   }
 
@@ -90,6 +110,10 @@
     const params = new URLSearchParams(window.location.hash.slice(1));
     const fallbackTopic = data.topics[0] ? data.topics[0].name : null;
     state.topic = params.get("topic") || fallbackTopic;
+    state.bundleKey = params.get("bundle");
+    if (state.bundleKey && !activeBundle()) {
+      state.bundleKey = null;
+    }
     const notes = topicNotes(state.topic);
     state.noteId = params.get("note") || (notes[0] ? notes[0].id : null);
   }
@@ -110,6 +134,46 @@
     topicListEl.querySelectorAll("[data-topic]").forEach((button) => {
       button.addEventListener("click", () => {
         state.topic = button.getAttribute("data-topic");
+        state.bundleKey = null;
+        const notes = topicNotes(state.topic);
+        state.noteId = notes[0] ? notes[0].id : null;
+        setHash();
+        render();
+      });
+    });
+  }
+
+  function renderBundles() {
+    const record = currentTopicRecord();
+    const bundles = record && Array.isArray(record.bundles) ? record.bundles : [];
+    if (!bundles.length) {
+      bundleListEl.innerHTML = `<div class="bundle-empty">この topic 内の小さな束はまだ少なめです。</div>`;
+      return;
+    }
+
+    const allActive = state.bundleKey ? "" : "active";
+    bundleListEl.innerHTML = `
+      <button class="bundle-chip ${allActive}" data-bundle-key="">
+        <span>All</span>
+        <strong>${record.count}</strong>
+      </button>
+      ${bundles
+        .map((bundle) => {
+          const active = bundle.key === state.bundleKey ? "active" : "";
+          return `
+            <button class="bundle-chip ${active}" data-bundle-key="${escapeHtml(bundle.key)}" title="${escapeHtml(bundle.value)}">
+              <span class="bundle-kind">${escapeHtml(bundle.kindLabel)}</span>
+              <span>${escapeHtml(bundle.label)}</span>
+              <strong>${bundle.count}</strong>
+            </button>
+          `;
+        })
+        .join("")}
+    `;
+
+    bundleListEl.querySelectorAll("[data-bundle-key]").forEach((button) => {
+      button.addEventListener("click", () => {
+        state.bundleKey = button.getAttribute("data-bundle-key") || null;
         const notes = topicNotes(state.topic);
         state.noteId = notes[0] ? notes[0].id : null;
         setHash();
@@ -120,8 +184,11 @@
 
   function renderNoteList() {
     const notes = topicNotes(state.topic);
+    const bundle = activeBundle();
     topicTitleEl.textContent = state.topic ? slugTopic(state.topic) : "No topic";
-    topicMetaEl.textContent = `${notes.length} notes / ${data.noteCount} total`;
+    topicMetaEl.textContent = bundle
+      ? `${notes.length} notes in ${bundle.kindLabel}: ${bundle.label}`
+      : `${notes.length} notes / ${data.noteCount} total`;
 
     if (!notes.length) {
       noteListEl.innerHTML = `<div class="empty">該当する note がありません。</div>`;
@@ -137,12 +204,14 @@
       .map((note) => {
         const active = note.id === state.noteId ? "active" : "";
         const topics = note.topics.map((topic) => `<span class="pill">${escapeHtml(slugTopic(topic))}</span>`).join("");
+        const source = note.sourceContainer || note.sourceBook || note.sourceType || "unknown";
         return `
           <button class="note-card ${active}" data-note-id="${escapeHtml(note.id)}">
             <div class="note-card-header">
               <h3>${escapeHtml(note.title)}</h3>
               <span class="source-type">${escapeHtml(note.sourceType || "unknown")}</span>
             </div>
+            <div class="note-card-source">${escapeHtml(source)}</div>
             <div class="pill-row">${topics}</div>
             <p>${escapeHtml(note.preview || "本文プレビューなし")}</p>
           </button>
@@ -184,17 +253,23 @@
     if (!note) {
       return "";
     }
-    const reasons = item.reasons
-      .map((reason) => `<span class="reason">${escapeHtml(reason)}</span>`)
+    const reasons = item.reasons || [];
+    const reasonHtml = reasons
+      .map((reason) => {
+        if (typeof reason === "string") {
+          return `<span class="reason">${escapeHtml(reason)}</span>`;
+        }
+        return `<span class="reason reason-${escapeHtml(reason.type || "other")}"><b>${escapeHtml(reason.label || "Related")}</b>${escapeHtml(reason.value || "")}</span>`;
+      })
       .join("");
     return `
       <button class="related-card" data-note-id="${escapeHtml(note.id)}">
         <div class="related-card-header">
           <h4>${escapeHtml(note.title)}</h4>
-          <span>${item.score}</span>
+          <span class="score">${item.score}</span>
         </div>
         <p>${escapeHtml(note.preview || "本文プレビューなし")}</p>
-        <div class="reason-row">${reasons}</div>
+        <div class="reason-row">${reasonHtml}</div>
       </button>
     `;
   }
@@ -259,12 +334,14 @@
 
   function render() {
     renderTopics();
+    renderBundles();
     renderNoteList();
     renderDetail();
   }
 
   searchInputEl.addEventListener("input", (event) => {
     state.search = event.target.value.trim();
+    renderBundles();
     renderNoteList();
     renderDetail();
   });
