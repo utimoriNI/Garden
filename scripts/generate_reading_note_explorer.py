@@ -13,7 +13,7 @@ FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n?", re.DOTALL)
 WIKILINK_RE = re.compile(r"!?(\[\[[^\]]+\]\])")
 TOPIC_PREFIXES = ("🎁Topic/", "Topic/")
 SECTION_HEADINGS = ("Fragment", "Memo", "My Take", "Links")
-PREVIEW_LIMIT = 150
+PREVIEW_LIMIT = 110
 
 
 @dataclass
