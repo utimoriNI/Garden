@@ -266,7 +266,11 @@ button {
   gap: 8px;
   overflow-x: auto;
   padding: 2px 2px 8px;
-  scrollbar-width: thin;
+  scrollbar-width: none;
+}
+
+.bundle-list::-webkit-scrollbar {
+  display: none;
 }
 
 .bundle-chip {
@@ -345,12 +349,17 @@ button {
 }
 
 .note-card-header,
-.related-card-header,
-.detail-header {
+.related-card-header {
   display: flex;
   justify-content: space-between;
   gap: 14px;
   align-items: start;
+  min-width: 0;
+}
+
+.detail-header {
+  display: grid;
+  gap: 10px;
   min-width: 0;
 }
 
@@ -452,11 +461,11 @@ button {
 }
 
 .path-link {
-  max-width: 280px;
+  max-width: 100%;
   color: var(--accent);
   font-size: 12px;
   line-height: 1.5;
-  text-align: right;
+  text-align: left;
   text-decoration: none;
   overflow-wrap: anywhere;
 }
@@ -584,7 +593,6 @@ button {
   }
 
   .column-header,
-  .detail-header,
   .note-card-header,
   .related-card-header {
     flex-direction: column;

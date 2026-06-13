@@ -195,6 +195,10 @@ def clean_section_text(text: str) -> str:
             continue
         if stripped.startswith("Kindle:"):
             continue
+        if stripped.startswith("!["):
+            continue
+        if WIKILINK_RE.sub("", stripped).strip() == "":
+            continue
         if stripped == "%content%":
             continue
         cleaned_lines.append(line.rstrip())

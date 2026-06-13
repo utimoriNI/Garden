@@ -1,5 +1,5 @@
 window.READING_NOTE_EXPLORER_DATA = {
-  "generatedAt": "2026-06-13T11:41:29",
+  "generatedAt": "2026-06-13T11:42:00",
   "noteCount": 223,
   "topicCount": 10,
   "topics": [
@@ -1455,7 +1455,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Article ChatGPTのDALL·E 3による画像生成は非常に強力だ。 だがプロンプトエンジニアリングを駆使すれば、さらに限界を超えた表現が可能となる。 ブックマーク保存をおすすめします...",
+      "preview": "ChatGPTのDALL·E 3による画像生成は非常に強力だ。 だがプロンプトエンジニアリングを駆使すれば、さらに限界を超えた表現が可能となる。 ブックマーク保存をおすすめします。 インフルエンサーたちが隠した技術 1...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
@@ -1795,7 +1795,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Tweet キズナアイあたりが目指してたっぽい「モツが代替わりしてもガワの存在は永遠」という思想というか共同幻想に乗っかれる適性のある客はそんなに多くなくて 結局単なる覆面タレントに落ち着き た...",
+      "preview": "キズナアイあたりが目指してたっぽい「モツが代替わりしてもガワの存在は永遠」という思想というか共同幻想に乗っかれる適性のある客はそんなに多くなくて 結局単なる覆面タレントに落ち着き ただそれ故に広まった感 — 骨 (@b...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
@@ -2050,7 +2050,7 @@ window.READING_NOTE_EXPLORER_DATA = {
         "アンナ・カレーニナの法則 - Wikipedia"
       ],
       "fragment": "",
-      "memo": "[[アンナ・カレーニナの法則 - Wikipedia]]",
+      "memo": "",
       "myTake": "",
       "preview": "トルストイの指摘はひとつの原則であり、男と女の結婚生活以外にも、いろいろな事柄にあてはまる。われわれは、成功や失敗の原因をひとつにしぼる単純明快な説明を好む傾向にあるが、物事はたいていの場合、失敗の原因となりうるいくつ...",
       "related": [
@@ -3918,7 +3918,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Article こんいちは〜( ᐢ o̴̶̷̤&nbsp;̫ o̴̶̷̤ ᐢ )💗💗 りりちゃんです❣️❣️ かるく自己紹介 DV毒親育ち高卒勉強できない昼職飛んで20歳からホス狂いになり4年間...",
+      "preview": "こんいちは〜( ᐢ o̴̶̷̤&nbsp;̫ o̴̶̷̤ ᐢ )💗💗 りりちゃんです❣️❣️ かるく自己紹介 DV毒親育ち高卒勉強できない昼職飛んで20歳からホス狂いになり4年間ずっっと歌舞伎町のホストクラブに通ってる...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
@@ -4763,7 +4763,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "憧れは理解から最も遠い感情だよ ReadItLater Article ホーム ムーミンの世界 名言 あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ",
+      "preview": "ホーム ムーミンの世界 名言 あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
@@ -6001,7 +6001,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "--- 2023-04-04",
+      "preview": "---",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
@@ -6159,7 +6159,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "--- 2024-08-14",
+      "preview": "---",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
@@ -10644,7 +10644,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Tweet ずっと醜美の話をしてる女，競プロの色でマウンティングしてる学生，未だにセンター試験の話をしてるおっさん，h-indexしか頭にない学者，年収の話しかしないビジネスアカウント，生きてる...",
+      "preview": "ずっと醜美の話をしてる女，競プロの色でマウンティングしてる学生，未だにセンター試験の話をしてるおっさん，h-indexしか頭にない学者，年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
@@ -11412,7 +11412,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Tweet 男「どうだ、念願のちんぽの味は」 男(美味しいって言え…) ちんぽ(美味しいって言え…) おばさん(美味しいって言え…) 女「ほうれん草の臭みは無く、咥え手の技術が試される1本となり...",
+      "preview": "男「どうだ、念願のちんぽの味は」 男(美味しいって言え…) ちんぽ(美味しいって言え…) おばさん(美味しいって言え…) 女「ほうれん草の臭みは無く、咥え手の技術が試される1本となりました」 — さばかん (@m4e\\...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
@@ -14410,7 +14410,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "実際には誰よりもその仕事に相応しいのに、自分は適任でないと思い込む症状 TAKE NOTES！――メモで、あなただけのアウトプットが自然にできるようになる - ズンク・アーレンス 二木夢子 優秀な人は、まだマスターして...",
+      "preview": "実際には誰よりもその仕事に相応しいのに、自分は適任でないと思い込む症状 優秀な人は、まだマスターしていないことに気づいてしまい、どんどん自分のハードルを上げていきます",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
@@ -15106,7 +15106,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Article",
+      "preview": "",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
@@ -15640,7 +15640,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "Friend: キャンベルの法則 - Wikipedia ReadItLater Article",
+      "preview": "Friend: キャンベルの法則 - Wikipedia",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
@@ -16006,7 +16006,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Article",
+      "preview": "",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
@@ -16362,7 +16362,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Article",
+      "preview": "",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
@@ -17322,7 +17322,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Article なにか作品を見ても、「これは自分にとって関係のないことだな」と思ってしまう。ファンタジー、SF、お仕事もの……この世のあらゆるエンターテインメントは、人を気持ちよくさせるための娯...",
+      "preview": "なにか作品を見ても、「これは自分にとって関係のないことだな」と思ってしまう。ファンタジー、SF、お仕事もの……この世のあらゆるエンターテインメントは、人を気持ちよくさせるための娯楽装置として作られている。 だけど、そん...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
@@ -17672,7 +17672,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Article パスカルの賭け（パスカルのかけ、フランス語: Pari de Pascal, 英: Pascal's Wager, Pascal's Gambit）は、フランスの哲学者ブレーズ・...",
+      "preview": "パスカルの賭け（パスカルのかけ、フランス語: Pari de Pascal, 英: Pascal's Wager, Pascal's Gambit）は、フランスの哲学者ブレーズ・パスカルが提案したもので、理性によって神...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
@@ -18066,7 +18066,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "2:33:00~\n- 優しさと誠実さは反比例する\n\t- 「一生大事にする」は優しいけど誠実じゃない\n\t- 優しさはその時の感情のため 誠実さは長期的な自律性のため\n\t- つまりフロントロードとスケーリングってこと\n\t\t- [[]]\n\n2:34:45~\n- 一緒に嘘を信じられるか\n\t- 「一生大事にする」「あなたしかいない」はファンタジー\n\t- 嘘を一緒に信じる人間関係は重い\n\t\t- コミュニケーション：発言を通じて話し手と聞き手で約束事を構築する営み\n\t\t\t- 話し手と聞き手で共通認識を作る\n\t\t\t- [[会話を哲学する - 三木那由他]]\n\t\t- スマイトファイト絶対勝てるからファイト見て\n\t\t\t- [LoL - げまげまDX練習初日からミクロもマクロもコールも完璧にこなすELに驚愕するじゃすぱー w/ EL sign たぬき忍者 らいじん Rainbrain - YouTube](https://youtu.be/HwUF2gGfTgU?si=ZbURopGEzAnebr0r)\n\t- 自分が信じているファンタジーを遂行する\n\t\t- 嘘を真実に近づけ続けることが向き合うということ\n\t\t- 言い換えると3,4/10くらいの気持ちを共有しあって10/10に近づけることができること",
       "myTake": "",
-      "preview": "2026-04-15",
+      "preview": "2:33:00~ 優しさと誠実さは反比例する 「一生大事にする」は優しいけど誠実じゃない 優しさはその時の感情のため 誠実さは長期的な自律性のため つまりフロントロードとスケーリングってこと [[]] 2:34:45~...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
@@ -19104,7 +19104,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Article #scrap Parent: Word 哲学上の未解決問題 | 目が見えていなかった人間が視力を獲得した場合、目が見えていなかった時に触覚その他で理解していた概念を視覚で認識出来...",
+      "preview": "#scrap Parent: Word 哲学上の未解決問題 | 目が見えていなかった人間が視力を獲得した場合、目が見えていなかった時に触覚その他で理解していた概念を視覚で認識出来るか。 | ![]( | | --- |...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
@@ -19464,7 +19464,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "もし僕がいま２５歳なら、こんな５０のやりたいことがある。 - 松浦弥太郎より 好きなイラストレーター 好きな時間 好きなブロガー --- 2024-12-11 FleetingDBcard",
+      "preview": "もし僕がいま２５歳なら、こんな５０のやりたいことがある。 - 松浦弥太郎より 好きなイラストレーター 好きな時間 好きなブロガー ---",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/感性の老いに打ち勝つ抽象化.md",
@@ -20773,7 +20773,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "--- 心理学をつくった実験30 - 大芦治 人間はコンピュータではない 外界に対する性格な認識をするのではなく、生きながら外界を認識する必要がある うつ病などの精神的健康の低下は、このような自己防衛の機能が壊れてしま...",
+      "preview": "--- 人間はコンピュータではない 外界に対する性格な認識をするのではなく、生きながら外界を認識する必要がある うつ病などの精神的健康の低下は、このような自己防衛の機能が壊れてしまった結果ではないか 都合の良い解釈は健...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/動機付けに重要なのは自分が環境をコントロールできているという認知.md",
@@ -21319,7 +21319,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Tweet 働き始めてからこれやってるけど楽しい。 油絵ベース読書PCゲーム始めた。 油絵は3枚描いて、ベースはドレミファソラシドが弾けるようになった。全然向いてない。 積読は30冊くらいある。...",
+      "preview": "働き始めてからこれやってるけど楽しい。 油絵ベース読書PCゲーム始めた。 油絵は3枚描いて、ベースはドレミファソラシドが弾けるようになった。全然向いてない。 積読は30冊くらいある。 ゲームは難しくてほとんどクリアでき...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
@@ -22565,7 +22565,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "計測の科学 - ジェームズ・ヴィンセント 小坂恵理 自分の中で計測できるものしか見ないってこと ReadItLater Article f:id:kitos:20200616132753j:plain 大学院に入ったば...",
+      "preview": "自分の中で計測できるものしか見ないってこと 大学院に入ったばかりの頃、配属された研究室で研修を受けた。 僕は先輩について回って、実験機器を使ってみたり、実験ノートのとり方を教えてもらったりした。 ある日、先輩が先生たち...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/学びのプロセスは3次元.md",
@@ -23105,7 +23105,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Article 人付き合いは大切だと言われるが、実際どれくらい大切なのか。 俺みたいなタイプは知識として教えて欲しい。 人脈と成功の本はこれを読め。 やっぱり人脈か 学生時代に触れた言葉で印象に...",
+      "preview": "人付き合いは大切だと言われるが、実際どれくらい大切なのか。 俺みたいなタイプは知識として教えて欲しい。 人脈と成功の本はこれを読め。 やっぱり人脈か 学生時代に触れた言葉で印象に残っているものがある。それは「人・本・旅...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
@@ -23688,7 +23688,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Tweet これは本当にその通りで、今や外見の良さも「努力の証」として能力主義的に評価されていることは、SNSのかわいい女の子の写真に「たくさん努力したんだろうな」というコメントが多数観測される...",
+      "preview": "これは本当にその通りで、今や外見の良さも「努力の証」として能力主義的に評価されていることは、SNSのかわいい女の子の写真に「たくさん努力したんだろうな」というコメントが多数観測されることからもわかる。逆にいえば、今まで...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
@@ -24080,7 +24080,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "他人の活動をみて「自分には思いつかないな、彼は天才なのかもしれないな」と思うことがあるかもしれません。それは、あなたが1番手前の箱しか見ていないからそう感じるのです #Scrap 人は知ってることしか見えない",
+      "preview": "他人の活動をみて「自分には思いつかないな、彼は天才なのかもしれないな」と思うことがあるかもしれません。それは、あなたが1番手前の箱しか見ていないからそう感じるのです #Scrap",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
@@ -24237,7 +24237,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "見出し画像 他人が欲しがっているから、持っているから 自分も欲しいと錯覚する。 Ferica いいなと思ったら応援しよう！ コメント 他人が欲しがっているから、持っているから 自分も欲しいと錯覚する。｜Ferica",
+      "preview": "他人が欲しがっているから、持っているから 自分も欲しいと錯覚する。 Ferica いいなと思ったら応援しよう！ コメント 他人が欲しがっているから、持っているから 自分も欲しいと錯覚する。｜Ferica",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
@@ -25078,7 +25078,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "IMG3595.png",
+      "preview": "",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
@@ -25872,7 +25872,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Article 女性＝サイコパス説｜rei heaco65 こういう人はモテたいんじゃなくて横にモテる女を連れることで憧れのホモソ村に入れて欲しいんだよね だからホモソ村の男が好きそうなモテ女が...",
+      "preview": "女性＝サイコパス説｜rei heaco65 こういう人はモテたいんじゃなくて横にモテる女を連れることで憧れのホモソ村に入れて欲しいんだよね だからホモソ村の男が好きそうなモテ女が好き ブスの地味女が横にいてもホモソ村の...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
@@ -26172,7 +26172,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Tweet 私はめちゃくちゃ個人主義的な人間で、権威に懐疑的で個人の尊厳や意思を何より重視したいと思っているけど、こういう考えが権威に都合のよい自己責任論に絡めとられやすく、とにかく「人に迷惑を...",
+      "preview": "私はめちゃくちゃ個人主義的な人間で、権威に懐疑的で個人の尊厳や意思を何より重視したいと思っているけど、こういう考えが権威に都合のよい自己責任論に絡めとられやすく、とにかく「人に迷惑をかける他者」に厳しい視線を育てやすい...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
@@ -26696,7 +26696,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Tweet あー、これあるよな。「優しい人だと思ったら、単に色々なものに無関心だった人」のパターンな。「実家のカレーが何肉か答えられない」ってエピソードはかなり的確だ。 だいたいどういう問題があ...",
+      "preview": "あー、これあるよな。「優しい人だと思ったら、単に色々なものに無関心だった人」のパターンな。「実家のカレーが何肉か答えられない」ってエピソードはかなり的確だ。 だいたいどういう問題があって、普段どんな感じなのかがありあり...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
@@ -27220,7 +27220,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Article 公正世界仮説（こうせいせかいかせつ、just-world hypothesis）または公正世界誤謬（こうせいせかいごびゅう、just-world fallacy）とは、人間の行い...",
+      "preview": "公正世界仮説（こうせいせかいかせつ、just-world hypothesis）または公正世界誤謬（こうせいせかいごびゅう、just-world fallacy）とは、人間の行いに対して公正な結果が返ってくるものである...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
@@ -27786,7 +27786,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "--- 2024-04-24 個人コミュニケーションKPI 色々話した結果、才能がなければコミュニケーションを分解して単純なKPIにしてそれを達成しに行くというのがよいという結論にたどり着いた。 たとえば、「この懇親会...",
+      "preview": "--- 色々話した結果、才能がなければコミュニケーションを分解して単純なKPIにしてそれを達成しに行くというのがよいという結論にたどり着いた。 たとえば、「この懇親会ではこの人に話してこの過去の資料の感想を伝える」とか...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
@@ -29256,7 +29256,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "--- 参考：心理学をつくった実験30 - 大芦治 心理学をつくった実験30 - 大芦治 2023.09現在特に苦しさを感じずになんとなく楽しく生きることができているのは、自分で普段の生活をコントロールできている自覚が...",
+      "preview": "--- 参考：心理学をつくった実験30 - 大芦治 2023.09現在特に苦しさを感じずになんとなく楽しく生きることができているのは、自分で普段の生活をコントロールできている自覚があるからではないか。 収入は十分ではな...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
@@ -29538,7 +29538,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Tweet ベルギーのビルボールドに住んでいて、香港で生活したいと思っている人にとって、一番難しいのは、香港に行くことではない。ビルボールドを離れることである。 ジャック・ブレル 含蓄がある。新...",
+      "preview": "ベルギーのビルボールドに住んでいて、香港で生活したいと思っている人にとって、一番難しいのは、香港に行くことではない。ビルボールドを離れることである。 ジャック・ブレル 含蓄がある。新しいことを始めるよりも、古いことをや...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
@@ -30300,7 +30300,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Tweet 「心の美しさをどこかに置いてきてしまったら人間おしまい」と宣う部分には同意できないが。ひとは皆、過去の言説の積み重ねの構造の中で、何が「美しい」と思うか、その判断基準を予め強い力で規...",
+      "preview": "「心の美しさをどこかに置いてきてしまったら人間おしまい」と宣う部分には同意できないが。ひとは皆、過去の言説の積み重ねの構造の中で、何が「美しい」と思うか、その判断基準を予め強い力で規定されている世の中に投げだされている...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
@@ -30769,7 +30769,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "自分が好きなものが明確になってきて、好きな特徴を持たないものを受け入れにくくなった状態が感性が古くなるってことなんじゃないか --- 2024-12-08 FleetingDBcard",
+      "preview": "自分が好きなものが明確になってきて、好きな特徴を持たないものを受け入れにくくなった状態が感性が古くなるってことなんじゃないか ---",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ランキング作ってみるの良さそう.md",
@@ -31907,7 +31907,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "--- 大規模言語モデルは新たな知能か - 岡野原大輔 自分が知りたいことについて、ベースとなるアプローチを決めると考えが進みやすそう 直感的なイメージとしては、抽象度が高い問題は帰納的アプローチ、抽象度が低い問題は演...",
+      "preview": "--- 自分が知りたいことについて、ベースとなるアプローチを決めると考えが進みやすそう 直感的なイメージとしては、抽象度が高い問題は帰納的アプローチ、抽象度が低い問題は演繹的アプローチ",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
@@ -32301,7 +32301,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "image image",
+      "preview": "",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ.md",
@@ -35157,7 +35157,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Article 1 良い機会だ。一つ概要を知っておくといい 2 一体いつから(関連タグが無いと)錯覚していた？ 3 最後に関連項目でも記そうか 良い機会だ。一つ概要を知っておくといい 『BLEA...",
+      "preview": "1 良い機会だ。一つ概要を知っておくといい 2 一体いつから(関連タグが無いと)錯覚していた？ 3 最後に関連項目でも記そうか 良い機会だ。一つ概要を知っておくといい 『BLEACH』20巻170話にて本性を現した藍染...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
@@ -35522,7 +35522,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Tweet 計測の科学 - ジェームズ・ヴィンセント 小坂恵理 結局「成果主義」というのを「頑張って成果出したヤツが報われる」システムだと思ったら「頑張ったアピールしないと切られる」ルールだった...",
+      "preview": "結局「成果主義」というのを「頑張って成果出したヤツが報われる」システムだと思ったら「頑張ったアピールしないと切られる」ルールだったと気付くのが遅かったという。 — 射的屋 (@syatekiya931) August...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/体調最悪でも2日寝てなくても友達に裏切られても女にフラれてもその中で 歯くいしばってひねり出した仕事がお前の実力のすべてだ。クソみたいな日にいいもんつくるのがプロだ。.md",
@@ -38953,7 +38953,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "人生をゴールから「逆算」して自分を追い詰めるの、そろそろやめませんか？｜jMatsuzaki🔥 未来に期待することで退屈をしのごうとしていたわけです。痛みを一時的に和らげるモルヒネのようなもので、「今は不本意な生活をし...",
+      "preview": "未来に期待することで退屈をしのごうとしていたわけです。痛みを一時的に和らげるモルヒネのようなもので、「今は不本意な生活をしているけれど、未来はもっとよくなるはず」と考えれば少しは気分が晴れたのです。 この生き方はどう考...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
@@ -39702,7 +39702,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "--- 永田希-再読だけが創造的な読書術である 自分の興味や持っている知識、その時に触れている情報で本の面白さは変わる 面白さが感じなかったら他の本を手に取っていい 本を読む前は既知の知識を確認する 再読だけが創造的な...",
+      "preview": "--- 自分の興味や持っている知識、その時に触れている情報で本の面白さは変わる 面白さが感じなかったら他の本を手に取っていい",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
@@ -40136,7 +40136,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Tweet 旧来のお上品なインテリ言論が突き上げを喰らって「本音重視」が叫ばれる昨今だが、その本音というものが、結局は暴力の美化や正当化に行き着いちゃう感が濃厚すぎて萎える。 — マライ・メント...",
+      "preview": "旧来のお上品なインテリ言論が突き上げを喰らって「本音重視」が叫ばれる昨今だが、その本音というものが、結局は暴力の美化や正当化に行き着いちゃう感が濃厚すぎて萎える。 — マライ・メントライン＠職業はドイツ人 (@mare...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
@@ -40468,7 +40468,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部へようこそ Parent: Rhetoric",
+      "preview": "Parent: Rhetoric",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
@@ -40920,7 +40920,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "| | | | | | | ----------- | ----- | --- | ---- | --- | | 今日明日(きょうあす) | 見え透いた | 環状線 | 所在ない | | --- 2025-07-11",
+      "preview": "| | | | | | | ----------- | ----- | --- | ---- | --- | | 今日明日(きょうあす) | 見え透いた | 環状線 | 所在ない | | ---",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/完全5度.md",
@@ -41377,7 +41377,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "--- 2023-04-28",
+      "preview": "---",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
@@ -42116,7 +42116,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "左ききのエレン 3 - かっぴー nifuni",
+      "preview": "",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
@@ -42716,7 +42716,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "Tommy @tommysan07 2026-01-27 「ファッションにお金使うくらいなら経験に投資したい。服はGUで十分。」云々言われた時に言い返したい言葉。 画像",
+      "preview": "Tommy @tommysan07 2026-01-27 「ファッションにお金使うくらいなら経験に投資したい。服はGUで十分。」云々言われた時に言い返したい言葉。",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
@@ -42876,7 +42876,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Article 意味 例文 慣用句 画像 物見遊山の解説 - 学研 四字熟語辞典 ものみゆさん【物見遊山】 気晴らしにあちらこちらを見物すること。 注記 「物見」は、名所や盛り場に行って見ること...",
+      "preview": "意味 例文 慣用句 画像 物見遊山の解説 - 学研 四字熟語辞典 ものみゆさん【物見遊山】 気晴らしにあちらこちらを見物すること。 注記 「物見」は、名所や盛り場に行って見ること。見物すること。「遊山」は、山野や水辺に...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
@@ -43317,7 +43317,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "--- 2023-04-02 経緯 三星ななみが卒業した 【ご報告】卒業します。今までありがとうございました。無期限の活動休止【三星ナナミ】【切り抜き / ななてん / Vtuber / セキララ】 - YouTube...",
+      "preview": "--- 経緯 三星ななみが卒業した 【ご報告】卒業します。今までありがとうございました。無期限の活動休止【三星ナナミ】【切り抜き / ななてん / Vtuber / セキララ】 - YouTube <iframe wi...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
@@ -43990,7 +43990,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Tweet これ興味深いんだけど、要するに美容院で画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいて、そこから外れた状態を滑稽なほど恐れているんですよね。早い話が「女なのに服装が...",
+      "preview": "これ興味深いんだけど、要するに美容院で画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいて、そこから外れた状態を滑稽なほど恐れているんですよね。早い話が「女なのに服装がだらしない」みたいな抑圧を男にも輸出...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
@@ -44322,7 +44322,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "難解な本を読む技術 - 高田明典 論理や概念を積み上げる登山型と様々概念を列挙するハイキング型 登山型の本 ある概念や論理を前提とし、そこから論理を展開をするという形式の本。 途中から読んでも理解できない場合が多く、最...",
+      "preview": "論理や概念を積み上げる登山型と様々概念を列挙するハイキング型 登山型の本 ある概念や論理を前提とし、そこから論理を展開をするという形式の本。 途中から読んでも理解できない場合が多く、最初から地道に読む必要がある。 哲学...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
@@ -46524,7 +46524,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Article （紺屋は白い生地を紺（こん）に染めるのが商売であるが、それが白いままの袴を着けているというので） 他人のことにかまけて、自分の専門技術が役に立たないことをいう。転じて、人には口や...",
+      "preview": "（紺屋は白い生地を紺（こん）に染めるのが商売であるが、それが白いままの袴を着けているというので） 他人のことにかまけて、自分の専門技術が役に立たないことをいう。転じて、人には口やかましくいうが、自分のこととなると、から...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
@@ -47503,7 +47503,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "--- 2024-12-11 FleetingDBcard",
+      "preview": "---",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ランキング作ってみるの良さそう.md",
@@ -47909,7 +47909,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Tweet あなたがされてるのは期待ではなく能力や知識を持ってることの義務化と前提化です。 やればできる(できるまでやれ)の亜種です。 — コクリス＠ヤルセナイン (@naitomisuto1)...",
+      "preview": "あなたがされてるのは期待ではなく能力や知識を持ってることの義務化と前提化です。 やればできる(できるまでやれ)の亜種です。 — コクリス＠ヤルセナイン (@naitomisuto1) August 12, 2024",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
@@ -48471,7 +48471,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Article キャリアの話になると、学生に向けて「自分の本当にやりたいことに向き合いましょう」というメッセージが発せられることが多い。それに対する学生側のよくある悩みは「やりたいことが見つかり...",
+      "preview": "キャリアの話になると、学生に向けて「自分の本当にやりたいことに向き合いましょう」というメッセージが発せられることが多い。それに対する学生側のよくある悩みは「やりたいことが見つかりません」「やりたいことがよく分かりません...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
@@ -49036,7 +49036,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "--- 2024-01-14",
+      "preview": "---",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
@@ -49595,7 +49595,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Tweet そう！「謙虚なわきまえ人が嫌われて図々しい無遠慮な人が好かれる変な世界」なんじゃなくて、「素直な人が好まれて『自分を押し殺してる気配の強い人』が遠巻きにされる世界」なんだと思う 自分...",
+      "preview": "そう！「謙虚なわきまえ人が嫌われて図々しい無遠慮な人が好かれる変な世界」なんじゃなくて、「素直な人が好まれて『自分を押し殺してる気配の強い人』が遠巻きにされる世界」なんだと思う 自分曲げ度が見られてると言うか… — 三...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
@@ -50096,7 +50096,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "--- 息吹 - テッド チャン わたしがあなたに伝えたいのはこういうことだ。自由意志を持っているふりをしろ。たとえそうではないことを知っていても、自分の決断に意味があるかのようにふるまうことがもっとも重要だ。 現実が...",
+      "preview": "--- わたしがあなたに伝えたいのはこういうことだ。自由意志を持っているふりをしろ。たとえそうではないことを知っていても、自分の決断に意味があるかのようにふるまうことがもっとも重要だ。 現実がどうなのかは重要じゃない。...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/情報を集めれば理屈で答えが出せるのが判断、情報を集めることができない中で答えを出さないといけないのが決断.md",
@@ -51106,7 +51106,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ぶっきらぼうな対応をしてる人に対してあえて親切に振る舞う --- 2024-09-01",
+      "preview": "ぶっきらぼうな対応をしてる人に対してあえて親切に振る舞う ---",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
@@ -51595,7 +51595,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "--- 2024-07-30",
+      "preview": "---",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
@@ -51980,7 +51980,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Article 赤の女王仮説（あかのじょおうかせつ、英: Red Queen's Hypothesis）は、進化に関する仮説の一つ。「他の生物種との絶えざる競争の中で，ある生物種が生き残るために...",
+      "preview": "赤の女王仮説（あかのじょおうかせつ、英: Red Queen's Hypothesis）は、進化に関する仮説の一つ。「他の生物種との絶えざる競争の中で，ある生物種が生き残るためには、常に持続的な進化をしていかなくてはな...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
@@ -52408,7 +52408,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Tweet 自分にもヤバ要素はあって油断すると「こんなにしてあげたのに」と見返りを求めたり、「自分は頑張ってるのにそれに比べてあいつはぬるい」と八つ当たりを始めたりしそうなので「身を削らない」を...",
+      "preview": "自分にもヤバ要素はあって油断すると「こんなにしてあげたのに」と見返りを求めたり、「自分は頑張ってるのにそれに比べてあいつはぬるい」と八つ当たりを始めたりしそうなので「身を削らない」を念頭に置くことでヤバの芽に餌をやらな...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
@@ -53148,7 +53148,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "image image 100%発生する事象はない 事象が発生する確率を把握して最善の結果を出すための行動をとり続けることができる人間が勝つ",
+      "preview": "100%発生する事象はない 事象が発生する確率を把握して最善の結果を出すための行動をとり続けることができる人間が勝つ",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/情報を集めれば理屈で答えが出せるのが判断、情報を集めることができない中で答えを出さないといけないのが決断.md",
@@ -54052,7 +54052,7 @@ window.READING_NOTE_EXPLORER_DATA = {
       "fragment": "",
       "memo": "",
       "myTake": "",
-      "preview": "ReadItLater Article 面白い数のパラドックス（おもしろいかずのパラドックス）は、数学ジョークの一つである。すべての自然数を「面白い」「面白くない」として分類しようとする試みから生じる。 パラドックスは...",
+      "preview": "面白い数のパラドックス（おもしろいかずのパラドックス）は、数学ジョークの一つである。すべての自然数を「面白い」「面白くない」として分類しようとする試みから生じる。 パラドックスは、「すべての自然数は面白い」と述べている...",
       "related": [
         {
           "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
