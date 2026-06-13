@@ -1,5 +1,5 @@
 window.READING_NOTE_EXPLORER_DATA = {
-  "generatedAt": "2026-06-13T11:20:22",
+  "generatedAt": "2026-06-13T11:24:59",
   "noteCount": 223,
   "topicCount": 10,
   "topics": [

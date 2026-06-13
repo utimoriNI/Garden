@@ -13,6 +13,26 @@
   const topicMetaEl = document.getElementById("topic-meta");
   const searchInputEl = document.getElementById("search-input");
 
+  if (!data || !Array.isArray(data.topics) || !data.notes) {
+    topicTitleEl.textContent = "Explorer data not found";
+    topicMetaEl.textContent = "";
+    noteListEl.innerHTML = `
+      <div class="empty">
+        このページは素材テンプレートです。生成済みの
+        <code>.agent-wiki/reading-note-explorer/index.html</code>
+        を開いてください。
+      </div>
+    `;
+    detailEl.innerHTML = `
+      <div class="empty">
+        先に <code>python3 scripts/generate_reading_note_explorer.py</code> を実行すると、
+        必要な <code>data.js</code> を含んだ閲覧用ページが出力されます。
+      </div>
+    `;
+    searchInputEl.disabled = true;
+    return;
+  }
+
   function escapeHtml(value) {
     return value
       .replaceAll("&", "&amp;")
