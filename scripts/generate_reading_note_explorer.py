@@ -11,6 +11,7 @@ import re
 
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n?", re.DOTALL)
 WIKILINK_RE = re.compile(r"!?(\[\[[^\]]+\]\])")
+MARKDOWN_LINK_RE = re.compile(r"!?\[([^\]]+)\]\([^)]+\)")
 TOPIC_PREFIXES = ("🎁Topic/", "Topic/")
 SECTION_HEADINGS = ("Fragment", "Memo", "My Take", "Links")
 PREVIEW_LIMIT = 110
@@ -97,10 +98,26 @@ def canonical_link_target(value: str) -> str:
     return stripped.strip()
 
 
+def display_link(match: re.Match[str]) -> str:
+    value = match.group(1)
+    target = value[2:-2]
+    if "|" in target:
+        return target.split("|", 1)[1].strip()
+    return canonical_link_target(target)
+
+
+def clean_inline_text(text: str) -> str:
+    text = MARKDOWN_LINK_RE.sub(r"\1", text)
+    text = WIKILINK_RE.sub(display_link, text)
+    text = re.sub(r"https?://\S+", "", text)
+    text = re.sub(r"[*_`>]", "", text)
+    return " ".join(text.split()).strip()
+
+
 def extract_title(path: Path, body: str) -> str:
     for line in body.splitlines():
         if line.startswith("# "):
-            return line[2:].strip()
+            return clean_inline_text(line[2:].strip())
     return path.stem
 
 
@@ -133,7 +150,11 @@ def strip_title_block(body: str, title: str) -> str:
     result: list[str] = []
     skipped_title = False
     for line in lines:
-        if not skipped_title and line.strip() == f"# {title}":
+        if (
+            not skipped_title
+            and line.startswith("# ")
+            and clean_inline_text(line[2:].strip()) == title
+        ):
             skipped_title = True
             continue
         result.append(line)
@@ -191,16 +212,6 @@ def build_preview(sections: dict[str, str]) -> str:
     return ""
 
 
-def display_link(match: re.Match[str]) -> str:
-    value = match.group(1)
-    target = value[2:-2]
-    if target.startswith("["):
-        target = target[1:]
-    if "|" in target:
-        return target.split("|", 1)[1].strip()
-    return canonical_link_target(target)
-
-
 def plain_preview_text(text: str) -> str:
     text = re.sub(r"%%.*?%%", " ", text, flags=re.DOTALL)
     text = re.sub(r"```.*?```", " ", text, flags=re.DOTALL)
@@ -208,10 +219,7 @@ def plain_preview_text(text: str) -> str:
     text = re.sub(r"^\s*[-*]\s+", "", text, flags=re.MULTILINE)
     text = re.sub(r"\*\*consist of\*\*::.*", " ", text, flags=re.IGNORECASE)
     text = re.sub(r"\*\*([^*]+)\*\*::", r"\1:", text)
-    text = WIKILINK_RE.sub(display_link, text)
-    text = re.sub(r"[*_`>]", "", text)
-    text = re.sub(r"https?://\S+", "", text)
-    return " ".join(text.split())
+    return clean_inline_text(text)
 
 
 def compact_text(text: str, limit: int) -> str:
