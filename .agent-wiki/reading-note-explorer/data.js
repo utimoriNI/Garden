@@ -1,0 +1,28559 @@
+window.READING_NOTE_EXPLORER_DATA = {
+  "generatedAt": "2026-06-13T11:20:22",
+  "noteCount": 223,
+  "topicCount": 10,
+  "topics": [
+    {
+      "name": "Topic/Life",
+      "count": 168,
+      "noteIds": [
+        "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+        "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+        "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+        "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+        "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+        "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+        "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+        "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+        "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+        "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+        "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+        "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+        "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+        "300_Input/Reading Notes/お前の人生歪める権利を俺にくれ.md",
+        "300_Input/Reading Notes/お酒が嫌いなのは、美味しくお酒を飲むことを楽しんでるのではなく酔った状態を楽しもうとするから.md",
+        "300_Input/Reading Notes/かき氷を楽しめる人間と楽しめない人間.md",
+        "300_Input/Reading Notes/きっと息子の人生にわたしの出番がやってきたのではなく、わたしの人生に息子の出番がやってきたのだろう.md",
+        "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+        "300_Input/Reading Notes/こういうふうに、目に入る情報を自らいちいちマイナス….md",
+        "300_Input/Reading Notes/このように肉食哺乳類は、餌の経済効率が悪いので、食….md",
+        "300_Input/Reading Notes/この星との摩擦.md",
+        "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+        "300_Input/Reading Notes/その言葉の持つ響きは、除夜の鐘が百八回分まとめて鳴らされたかのように巨大だった。.md",
+        "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+        "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+        "300_Input/Reading Notes/でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。.md",
+        "300_Input/Reading Notes/ところが実際の発明の多くは、人間の好奇心の産物であ….md",
+        "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+        "300_Input/Reading Notes/なんでもない路上の風景の 隙間 から、来たるべきア….md",
+        "300_Input/Reading Notes/ひらめきなどない。あるのは知識だけ.md",
+        "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+        "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+        "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+        "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+        "300_Input/Reading Notes/よって、 多くの人が「満たしたいと思っている感情」….md",
+        "300_Input/Reading Notes/わたしたちは、扉をあけておきたいという不合理な衝動….md",
+        "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+        "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+        "300_Input/Reading Notes/アルフォートは水色が好き~と呟いたら「気が合うね私は青色が好き」と返ってきた.md",
+        "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+        "300_Input/Reading Notes/インポスター症候群.md",
+        "300_Input/Reading Notes/オーボエは息が余る.md",
+        "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+        "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+        "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+        "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+        "300_Input/Reading Notes/ファンタジーは人間関係のブースター.md",
+        "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+        "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+        "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+        "300_Input/Reading Notes/ランキング作ってみるの良さそう.md",
+        "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+        "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+        "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+        "300_Input/Reading Notes/不正確な認知は自己防衛のため.md",
+        "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+        "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+        "300_Input/Reading Notes/井の中の蛙 世界が完結している.md",
+        "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+        "300_Input/Reading Notes/人の作る異本は生い立ち、教育、感じ方に影響を受ける.md",
+        "300_Input/Reading Notes/人は知ってることしか見えない.md",
+        "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+        "300_Input/Reading Notes/人間に社会が期待していることと人間らしさの相反.md",
+        "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+        "300_Input/Reading Notes/他人が天才だと思うのは1番手前の箱しか見ていないから.md",
+        "300_Input/Reading Notes/他人が欲しがっているから、持っているから　自分も欲しいと錯覚する。｜Ferica.md",
+        "300_Input/Reading Notes/仲がいいと思っていたはずの友達がほかの子と座っていたり、順風満帆に座れるはずだった偶数グループが補助席のせいで分裂騒動を起こしたり.md",
+        "300_Input/Reading Notes/会話のエンゲージは持ち物を褒めるが最強.md",
+        "300_Input/Reading Notes/体内の宗教.md",
+        "300_Input/Reading Notes/体調最悪でも2日寝てなくても友達に裏切られても女にフラれてもその中で 歯くいしばってひねり出した仕事がお前の実力のすべてだ。クソみたいな日にいいもんつくるのがプロだ。.md",
+        "300_Input/Reading Notes/何の役に立つのかと問う前に自分の価値観が正しいかを疑え.md",
+        "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+        "300_Input/Reading Notes/何故ホモソ批判はガバガバになってしまうのか｜さいたま.md",
+        "300_Input/Reading Notes/個人主義は自己責任論を増強する.md",
+        "300_Input/Reading Notes/優しいなんてなあ、褒めるとこがないやつに言う台詞やろ？ うち、わかってんねん.md",
+        "300_Input/Reading Notes/優しい人だと思ったら、単に色々なものに無関心だった人.md",
+        "300_Input/Reading Notes/全部意味ない、命削っただけ」←そもそも人生はそういうものでした.md",
+        "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+        "300_Input/Reading Notes/共依存の共依存たる所以は依存される側にもある.md",
+        "300_Input/Reading Notes/具体的な目標を設定してから人と会う.md",
+        "300_Input/Reading Notes/内なる欲求が活発になったタイミングの知識は二度と消えない.md",
+        "300_Input/Reading Notes/出遅れた夏紀はとりあえずピースすることにした。.md",
+        "300_Input/Reading Notes/動機付けに重要なのは自分が環境をコントロールできているという認知.md",
+        "300_Input/Reading Notes/古いことをやめる方が圧倒的に労力がいる。.md",
+        "300_Input/Reading Notes/夏紀だって一度はなってみたい、学校が好きな人間に.md",
+        "300_Input/Reading Notes/外見の美しさは分かりやすいが、内面を何をもって美しいとするか謎.md",
+        "300_Input/Reading Notes/多様性とは、都合よく使える美しい言葉ではない。.md",
+        "300_Input/Reading Notes/好きなものが明確になるとそれ以外のものを許容しにくくなる.md",
+        "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。 2.md",
+        "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。.md",
+        "300_Input/Reading Notes/子育ての正解は大人になってから親の子育てを肯定できるかどうか.md",
+        "300_Input/Reading Notes/学びのプロセスは3次元.md",
+        "300_Input/Reading Notes/学習の演繹的アプローチと帰納的アプローチ.md",
+        "300_Input/Reading Notes/己の非力を痛感できる強さ、絶望する才能.md",
+        "300_Input/Reading Notes/市場規範は社会規範を侵略する.md",
+        "300_Input/Reading Notes/彼氏彼女と言わずに大切な人と呼んでいる等という小手先の言葉選びによる多様性の尊重が礼賛される時代.md",
+        "300_Input/Reading Notes/後先考えず動けるほど幼くはないし、全てを受け止め切れるほど大人ではない.md",
+        "300_Input/Reading Notes/必要ドリブンのつまらなさとどう付き合うか.md",
+        "300_Input/Reading Notes/思想や情動も論理で説明できると思っている人たちが打ち立てる規制は、生身の人間の内側にはいつまで経っても到達しない.md",
+        "300_Input/Reading Notes/恋人たちに残された時間は、未練を殺すには短すぎたが、将来を誓い合うには充分だった.md",
+        "300_Input/Reading Notes/悠真の言う「重い」は私の恋愛感情の話ではなかった.md",
+        "300_Input/Reading Notes/情報が溢れることで情報を無視できるようになった.md",
+        "300_Input/Reading Notes/情報を集めれば理屈で答えが出せるのが判断、情報を集めることができない中で答えを出さないといけないのが決断.md",
+        "300_Input/Reading Notes/感性の老いに打ち勝つ抽象化.md",
+        "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+        "300_Input/Reading Notes/成果主義は頑張ったアピールをしないと切られるルール.md",
+        "300_Input/Reading Notes/手の変幻 書き出し.md",
+        "300_Input/Reading Notes/打算を優しさと受け止められるのは、正直心地がいいものとは言えなかった.md",
+        "300_Input/Reading Notes/挑戦するまでの全能感は燃料であり、失敗の経験は洞察である.md",
+        "300_Input/Reading Notes/授業を取引と捉えているが授業を受けないと授業の価値はわからない.md",
+        "300_Input/Reading Notes/接続助詞の が には4つの用法がある.md",
+        "300_Input/Reading Notes/推しという言葉の違和感について - ChatGPT.md",
+        "300_Input/Reading Notes/文章を良いと感じる理由は共感か驚き.md",
+        "300_Input/Reading Notes/既読なんて以ての外だ.md",
+        "300_Input/Reading Notes/日々の生活ってお宝を埋めてるみたい.md",
+        "300_Input/Reading Notes/時間の匂い.md",
+        "300_Input/Reading Notes/時間を何倍にも濃縮したような沈黙.md",
+        "300_Input/Reading Notes/未来への期待より現状への満足を原動力に生きる.md",
+        "300_Input/Reading Notes/末席を汚す.md",
+        "300_Input/Reading Notes/本には旬がある.md",
+        "300_Input/Reading Notes/本書についていえば、つぎのような要約となる──「歴….md",
+        "300_Input/Reading Notes/本音重視が暴力の美化や正当化につながる.md",
+        "300_Input/Reading Notes/桜、滝とかは元々美しいのではなく、人間の創造性によって美しくなる.md",
+        "300_Input/Reading Notes/毎日は種まきみたいなもので、未来の楽しみをいっぱいいろんなとこに埋めてるんやろうなって.md",
+        "300_Input/Reading Notes/気を遣わない・人間関係に頭を使うな.md",
+        "300_Input/Reading Notes/沈黙は彫刻刀に似ている.md",
+        "300_Input/Reading Notes/温度パラメータを下げるとは自分がいるべきローカルを見つけること.md",
+        "300_Input/Reading Notes/無理だって言われていちいち諦めてたら……誰も何もできねぇだろ…!!!オレは…何かになるんだ…何かにならなきゃ…退屈で生きていけねぇよ….md",
+        "300_Input/Reading Notes/焼きなまし法的人生論.md",
+        "300_Input/Reading Notes/物は経験の質をブーストさせる装置.md",
+        "300_Input/Reading Notes/物見遊山（ものみゆさん）とは？ 意味・読み方・使い方 - 四字熟語一覧 - goo辞書.md",
+        "300_Input/Reading Notes/狩猟採集から農耕は段階的に遷移していった.md",
+        "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+        "300_Input/Reading Notes/画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいる.md",
+        "300_Input/Reading Notes/登山型の本とハイキング型の本.md",
+        "300_Input/Reading Notes/社会はやってきていないことで溢れている.md",
+        "300_Input/Reading Notes/私たち人間は、どんなに論理的に正しいことを言われた….md",
+        "300_Input/Reading Notes/私としては、二人セットで〝親〟だったときよりも今の….md",
+        "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか 2.md",
+        "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか.md",
+        "300_Input/Reading Notes/私は本書の考察を通じて、自然環境の障壁が少ない場所….md",
+        "300_Input/Reading Notes/私は本書の考察を通じて、自然環境の障壁が少ない場所では技術が伝播しやすかった点を強調してきた.md",
+        "300_Input/Reading Notes/管見.md",
+        "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+        "300_Input/Reading Notes/結果が出えへんかったら、努力ってなかったことにされてしまうん？　あのときのうちらの演奏、ほんまにほかの金賞の学校より劣ってた？.md",
+        "300_Input/Reading Notes/聞き飽きた言葉に納得感を与える力.md",
+        "300_Input/Reading Notes/能力は改善し続けないと徐々に劣化する.md",
+        "300_Input/Reading Notes/能力や知識を持ってることの義務化と前提化.md",
+        "300_Input/Reading Notes/自分がいかに凡人か突きつけられ、呼吸が一瞬止まるから。.md",
+        "300_Input/Reading Notes/自分のやりたいことを正確に把握するのは難しい.md",
+        "300_Input/Reading Notes/自分の頭でじっくり考え抜いた知識の方が、はるかに価値がある.md",
+        "300_Input/Reading Notes/自分は人に決断の負担をかけて生きている.md",
+        "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+        "300_Input/Reading Notes/自分を押し殺してる気配の強い人が遠巻きにされる世界.md",
+        "300_Input/Reading Notes/自分自身が「この人の話ならば聞こうと思える言動を日….md",
+        "300_Input/Reading Notes/自由意志があるフリをしろ.md",
+        "300_Input/Reading Notes/茶飲み友達は大切.md",
+        "300_Input/Reading Notes/薄氷の上に立っているような、そんな気分.md",
+        "300_Input/Reading Notes/親切心で殺す.md",
+        "300_Input/Reading Notes/解釈の幅が面白さにつながる.md",
+        "300_Input/Reading Notes/言い回しがすごい好き.md",
+        "300_Input/Reading Notes/誰かに名付けられている苦しみがこの世界の全てだと思っているそのおめでたい考え方が 羨ましい.md",
+        "300_Input/Reading Notes/赤の女王仮説 - Wikipedia.md",
+        "300_Input/Reading Notes/身を削らないを念頭に置くことでヤバの芽に餌をやらない.md",
+        "300_Input/Reading Notes/運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ.md",
+        "300_Input/Reading Notes/過ちを謝ることさえ誤って、ボタンはずっと掛け違う。.md",
+        "300_Input/Reading Notes/重要かもしれないことのあいだを行ったり来たりしてい….md",
+        "300_Input/Reading Notes/面倒くさいことは1度の決断で、誘惑は継続的な決断で実行に移す.md"
+      ]
+    },
+    {
+      "name": "Topic/Rhetoric",
+      "count": 46,
+      "noteIds": [
+        "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+        "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+        "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+        "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+        "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+        "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+        "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+        "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+        "300_Input/Reading Notes/その声は、ピアノのミスタッチみたいに響いた.md",
+        "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+        "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+        "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+        "300_Input/Reading Notes/ほうれん草の臭みは無く、.md",
+        "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+        "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+        "300_Input/Reading Notes/アタシは勝ちたい。立華にも、龍聖にも、どの学校にも。北宇治が一番やって言われたい。.md",
+        "300_Input/Reading Notes/アタシは悔しい。めっちゃ悔しいねん.md",
+        "300_Input/Reading Notes/ウォーリーを知らない状態でウォーリーを探せをやってる.md",
+        "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+        "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+        "300_Input/Reading Notes/マックのポテトはマックのポテトってジャンル.md",
+        "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。 2.md",
+        "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+        "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+        "300_Input/Reading Notes/仲がいいと思っていたはずの友達がほかの子と座っていたり、順風満帆に座れるはずだった偶数グループが補助席のせいで分裂騒動を起こしたり.md",
+        "300_Input/Reading Notes/体調最悪でも2日寝てなくても友達に裏切られても女にフラれてもその中で 歯くいしばってひねり出した仕事がお前の実力のすべてだ。クソみたいな日にいいもんつくるのがプロだ。.md",
+        "300_Input/Reading Notes/冷めたフライドポテトをつまみ、優子はその端を小さくかじった。.md",
+        "300_Input/Reading Notes/出たいかどうかと出られるかどうかは別の話だと私は思うけど.md",
+        "300_Input/Reading Notes/出遅れた夏紀はとりあえずピースすることにした。.md",
+        "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。 2.md",
+        "300_Input/Reading Notes/当然の顔で肯定するには、夏紀の面の皮の厚さが少しばかり足りなかった。.md",
+        "300_Input/Reading Notes/情報を集めれば理屈で答えが出せるのが判断、情報を集めることができない中で答えを出さないといけないのが決断.md",
+        "300_Input/Reading Notes/推しという言葉の違和感について - ChatGPT.md",
+        "300_Input/Reading Notes/文章を書く時は日本語を別の言語として取り扱わなければいけない.md",
+        "300_Input/Reading Notes/月って欠けるから好きだな、とふと思う。.md",
+        "300_Input/Reading Notes/未練を殺すには短すぎたが、将来を誓い合うには充分だった。.md",
+        "300_Input/Reading Notes/根拠のない確信を抱きながら、久美子はマウスピースに息を吹き込む。楽器はブルブルと震え、それからゆっくりと芯の通った音を吐き出した.md",
+        "300_Input/Reading Notes/歌詞に使いたい言葉.md",
+        "300_Input/Reading Notes/無理だって言われていちいち諦めてたら……誰も何もできねぇだろ…!!!オレは…何かになるんだ…何かにならなきゃ…退屈で生きていけねぇよ….md",
+        "300_Input/Reading Notes/物見遊山（ものみゆさん）とは？ 意味・読み方・使い方 - 四字熟語一覧 - goo辞書.md",
+        "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか 2.md",
+        "300_Input/Reading Notes/稼ぐために書き始めたとたん、質が下がる.md",
+        "300_Input/Reading Notes/結果が出えへんかったら、努力ってなかったことにされてしまうん？　あのときのうちらの演奏、ほんまにほかの金賞の学校より劣ってた？.md",
+        "300_Input/Reading Notes/綺麗に折り畳まれていたはずの雑巾がぐちゃりと乱れ、内側に隠していたはずの汚れをあらわにしていた.md",
+        "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+        "300_Input/Reading Notes/運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ.md"
+      ]
+    },
+    {
+      "name": "Topic/Society",
+      "count": 42,
+      "noteIds": [
+        "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+        "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+        "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+        "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+        "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+        "300_Input/Reading Notes/この星との摩擦.md",
+        "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+        "300_Input/Reading Notes/だけど四十代も後半を迎えた今、還ってきているのは、….md",
+        "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+        "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+        "300_Input/Reading Notes/インポスター症候群.md",
+        "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+        "300_Input/Reading Notes/キャンベルの法則」と呼ばれるようになったそのパター….md",
+        "300_Input/Reading Notes/グッドハートの法則.md",
+        "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+        "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+        "300_Input/Reading Notes/人は簡単に測定できる要素に注目することで問題を単純化する.md",
+        "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+        "300_Input/Reading Notes/人間に社会が期待していることと人間らしさの相反.md",
+        "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+        "300_Input/Reading Notes/体調最悪でも2日寝てなくても友達に裏切られても女にフラれてもその中で 歯くいしばってひねり出した仕事がお前の実力のすべてだ。クソみたいな日にいいもんつくるのがプロだ。.md",
+        "300_Input/Reading Notes/何の役に立つのかと問う前に自分の価値観が正しいかを疑え.md",
+        "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+        "300_Input/Reading Notes/何故ホモソ批判はガバガバになってしまうのか｜さいたま.md",
+        "300_Input/Reading Notes/個人主義は自己責任論を増強する.md",
+        "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+        "300_Input/Reading Notes/創造性は社会的な創造性と日常的な気づきの2種類がある.md",
+        "300_Input/Reading Notes/市場規範は社会規範を侵略する.md",
+        "300_Input/Reading Notes/思想や情動も論理で説明できると思っている人たちが打ち立てる規制は、生身の人間の内側にはいつまで経っても到達しない.md",
+        "300_Input/Reading Notes/成果主義は頑張ったアピールをしないと切られるルール.md",
+        "300_Input/Reading Notes/推しという言葉の違和感について - ChatGPT.md",
+        "300_Input/Reading Notes/文句を言うなら誰にでも評価されるレベルになってから.md",
+        "300_Input/Reading Notes/本音重視が暴力の美化や正当化につながる.md",
+        "300_Input/Reading Notes/温度パラメータを下げるとは自分がいるべきローカルを見つけること.md",
+        "300_Input/Reading Notes/測定執着とは、それが実践されたときに意図せぬ好まし….md",
+        "300_Input/Reading Notes/焼きなまし法的人生論.md",
+        "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+        "300_Input/Reading Notes/理想の選び方によっては、問題を拡大再生産する.md",
+        "300_Input/Reading Notes/画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいる.md",
+        "300_Input/Reading Notes/社会はやってきていないことで溢れている.md",
+        "300_Input/Reading Notes/自分のやりたいことを正確に把握するのは難しい.md",
+        "300_Input/Reading Notes/遅延評価的勉強法.md"
+      ]
+    },
+    {
+      "name": "Topic/Learning",
+      "count": 39,
+      "noteIds": [
+        "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+        "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+        "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+        "300_Input/Reading Notes/すぐに役に立つものはすぐに役に立たなくなる.md",
+        "300_Input/Reading Notes/はじめて見る東京は、非常に非人間的なバカでかい町で….md",
+        "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+        "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+        "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+        "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+        "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+        "300_Input/Reading Notes/プロはチェスの盤面を塊として記憶できる.md",
+        "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+        "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+        "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+        "300_Input/Reading Notes/人の作る異本は生い立ち、教育、感じ方に影響を受ける.md",
+        "300_Input/Reading Notes/人は知ってることしか見えない.md",
+        "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+        "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+        "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+        "300_Input/Reading Notes/具体的な目標を設定してから人と会う.md",
+        "300_Input/Reading Notes/学びのプロセスは3次元.md",
+        "300_Input/Reading Notes/学習の演繹的アプローチと帰納的アプローチ.md",
+        "300_Input/Reading Notes/意味を理解するとははたらきを理解すること.md",
+        "300_Input/Reading Notes/感性の老いに打ち勝つ抽象化.md",
+        "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+        "300_Input/Reading Notes/授業を取引と捉えているが授業を受けないと授業の価値はわからない.md",
+        "300_Input/Reading Notes/文章を書く時は日本語を別の言語として取り扱わなければいけない.md",
+        "300_Input/Reading Notes/本には旬がある.md",
+        "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+        "300_Input/Reading Notes/理想の選び方によっては、問題を拡大再生産する.md",
+        "300_Input/Reading Notes/登山型の本とハイキング型の本.md",
+        "300_Input/Reading Notes/稼ぐために書き始めたとたん、質が下がる.md",
+        "300_Input/Reading Notes/能力は改善し続けないと徐々に劣化する.md",
+        "300_Input/Reading Notes/自分の頭でじっくり考え抜いた知識の方が、はるかに価値がある.md",
+        "300_Input/Reading Notes/著作の主観的退屈=退屈の第一形式.md",
+        "300_Input/Reading Notes/著作の客観的退屈=退屈の第一形式.md",
+        "300_Input/Reading Notes/説明深度の錯覚.md",
+        "300_Input/Reading Notes/遅延評価的勉強法.md",
+        "300_Input/Reading Notes/面倒くさいことは1度の決断で、誘惑は継続的な決断で実行に移す.md"
+      ]
+    },
+    {
+      "name": "Topic/Word",
+      "count": 30,
+      "noteIds": [
+        "300_Input/Reading Notes/[[アンナ・カレーニナの法則 - Wikipedia]].md",
+        "300_Input/Reading Notes/make senceって感じ.md",
+        "300_Input/Reading Notes/wise choice.md",
+        "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+        "300_Input/Reading Notes/インポスター症候群.md",
+        "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+        "300_Input/Reading Notes/グッドハートの法則.md",
+        "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md",
+        "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md",
+        "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+        "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+        "300_Input/Reading Notes/人は簡単に測定できる要素に注目することで問題を単純化する.md",
+        "300_Input/Reading Notes/他人が欲しがっているから、持っているから　自分も欲しいと錯覚する。｜Ferica.md",
+        "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+        "300_Input/Reading Notes/完全5度.md",
+        "300_Input/Reading Notes/意味を理解するとははたらきを理解すること.md",
+        "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+        "300_Input/Reading Notes/拡大したら火星と見分けがつかない.md",
+        "300_Input/Reading Notes/末席を汚す.md",
+        "300_Input/Reading Notes/歌詞に使いたい言葉.md",
+        "300_Input/Reading Notes/理想の選び方によっては、問題を拡大再生産する.md",
+        "300_Input/Reading Notes/管見.md",
+        "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+        "300_Input/Reading Notes/自由意志があるフリをしろ.md",
+        "300_Input/Reading Notes/説明深度の錯覚.md",
+        "300_Input/Reading Notes/赤の女王仮説 - Wikipedia.md",
+        "300_Input/Reading Notes/超法規的措置.md",
+        "300_Input/Reading Notes/軌を一にする.md",
+        "300_Input/Reading Notes/遅延評価的勉強法.md",
+        "300_Input/Reading Notes/面白い数のパラドックス - Wikipedia.md"
+      ]
+    },
+    {
+      "name": "Topic/Omoro",
+      "count": 16,
+      "noteIds": [
+        "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+        "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+        "300_Input/Reading Notes/こいつの最高ステータス絶対「とくぼう」だろって直感で分かるとき.md",
+        "300_Input/Reading Notes/ほうれん草の臭みは無く、.md",
+        "300_Input/Reading Notes/インポスター症候群.md",
+        "300_Input/Reading Notes/ウォーリーを知らない状態でウォーリーを探せをやってる.md",
+        "300_Input/Reading Notes/ダイアン津田が個人でやっていて、しかも大成功している貿易.md",
+        "300_Input/Reading Notes/マックのポテトはマックのポテトってジャンル.md",
+        "300_Input/Reading Notes/ローランドがやってる病院.md",
+        "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+        "300_Input/Reading Notes/全部意味ない、命削っただけ」←そもそも人生はそういうものでした.md",
+        "300_Input/Reading Notes/坂東of英二s.md",
+        "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+        "300_Input/Reading Notes/産業革命する前のハム太郎.md",
+        "300_Input/Reading Notes/自分のやりたいことを正確に把握するのは難しい.md",
+        "300_Input/Reading Notes/面白い数のパラドックス - Wikipedia.md"
+      ]
+    },
+    {
+      "name": "Topic/Tech",
+      "count": 7,
+      "noteIds": [
+        "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+        "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+        "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+        "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+        "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+        "300_Input/Reading Notes/学習の演繹的アプローチと帰納的アプローチ.md",
+        "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md"
+      ]
+    },
+    {
+      "name": "Topic/Illust",
+      "count": 3,
+      "noteIds": [
+        "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+        "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+        "300_Input/Reading Notes/白・グレー・黒で影をつける練習.md"
+      ]
+    },
+    {
+      "name": "Topic/DTM",
+      "count": 2,
+      "noteIds": [
+        "300_Input/Reading Notes/完全5度.md",
+        "300_Input/Reading Notes/歌詞に使いたい言葉.md"
+      ]
+    },
+    {
+      "name": "Topic/🎵DTM",
+      "count": 1,
+      "noteIds": [
+        "300_Input/Reading Notes/neutronオススメプリセット 1.md"
+      ]
+    }
+  ],
+  "notes": {
+    "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md": {
+      "id": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+      "path": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+      "title": "[ChatGPT授乳ハックという失われつつある技術について](https://honeshabri.hatenablog.com/entry/Madonna-Hack)",
+      "topics": [
+        "Topic/Life",
+        "Topic/Omoro",
+        "Topic/Rhetoric",
+        "Topic/Society",
+        "Topic/Tech"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society",
+        "🎁Topic/Tech",
+        "🎁Topic/Rhetoric",
+        "🎁Topic/Omoro"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Omoro"
+      ],
+      "links": [
+        "Omoro",
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Omoro]] [[ReadItLater]] [[Article]] ChatGPTのDALL·E 3による画像生成は非常に強力だ。 だがプロンプトエンジニアリングを駆使すれば、さらに限界を超えた表現が可能となる。 ブックマーク保存をおすすめします。 ![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.am...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 29,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech",
+            "shared link: Article"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分のやりたいことを正確に把握するのは難しい.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ほうれん草の臭みは無く、.md",
+          "score": 17,
+          "reasons": [
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Omoro",
+            "shared link: Omoro",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ウォーリーを知らない状態でウォーリーを探せをやってる.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Omoro",
+            "shared link: Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マックのポテトはマックのポテトってジャンル.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Omoro",
+            "shared link: Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/体調最悪でも2日寝てなくても友達に裏切られても女にフラれてもその中で 歯くいしばってひねり出した仕事がお前の実力のすべてだ。クソみたいな日にいいもんつくるのがプロだ。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/推しという言葉の違和感について - ChatGPT.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md": {
+      "id": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+      "path": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+      "title": "[骨](https://twitter.com/boneta_hone/status/1826459462334632017)",
+      "topics": [
+        "Topic/Life",
+        "Topic/Tech"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Tech"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "ReadItLater",
+        "Tweet"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[ReadItLater]] [[Tweet]] > キズナアイあたりが目指してたっぽい「モツが代替わりしてもガワの存在は永遠」という思想というか共同幻想に乗っかれる適性のある客はそんなに多くなくて > 結局単なる覆面タレントに落ち着き > ただそれ故に広まった感 [https://t.co/iDb1pkxeV8](https://t.co/iDb1pkxeV8) > > — 骨 (@boneta\\_hone) [August 22...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Tech",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Tech",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/学習の演繹的アプローチと帰納的アプローチ.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/個人主義は自己責任論を増強する.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しい人だと思ったら、単に色々なものに無関心だった人.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/古いことをやめる方が圧倒的に労力がいる。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/[[アンナ・カレーニナの法則 - Wikipedia]].md": {
+      "id": "300_Input/Reading Notes/[[アンナ・カレーニナの法則 - Wikipedia]].md",
+      "path": "300_Input/Reading Notes/[[アンナ・カレーニナの法則 - Wikipedia]].md",
+      "title": "[[アンナ・カレーニナの法則 - Wikipedia]]",
+      "topics": [
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Word"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/彰-銃・病原菌・鉄　上巻",
+      "sourceBook": "400_Kindle/彰-銃・病原菌・鉄　上巻",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "アンナ・カレーニナの法則 - Wikipedia"
+      ],
+      "fragment": "",
+      "memo": "[[アンナ・カレーニナの法則 - Wikipedia]]",
+      "myTake": "",
+      "preview": "> トルストイの指摘はひとつの原則であり、男と女の結婚生活以外にも、いろいろな事柄にあてはまる。われわれは、成功や失敗の原因をひとつにしぼる単純明快な説明を好む傾向にあるが、物事はたいていの場合、失敗の原因となりうるいくつもの要素を回避できてはじめて成功する。トルストイの「アンナ・カレーニナの原則」は、まさにこの点をいいあてている。そして人類史を大きく変えた動物の家畜化の問題も、この原則によって説明",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/make senceって感じ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/wise choice.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人は簡単に測定できる要素に注目することで問題を単純化する.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/他人が欲しがっているから、持っているから　自分も欲しいと錯覚する。｜Ferica.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/make senceって感じ.md": {
+      "id": "300_Input/Reading Notes/make senceって感じ.md",
+      "path": "300_Input/Reading Notes/make senceって感じ.md",
+      "title": "make senceって感じ",
+      "topics": [
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Word"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "\"筋が通っている、つじつまが合う\"",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/[[アンナ・カレーニナの法則 - Wikipedia]].md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/wise choice.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人は簡単に測定できる要素に注目することで問題を単純化する.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/他人が欲しがっているから、持っているから　自分も欲しいと錯覚する。｜Ferica.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/neutronオススメプリセット 1.md": {
+      "id": "300_Input/Reading Notes/neutronオススメプリセット 1.md",
+      "path": "300_Input/Reading Notes/neutronオススメプリセット 1.md",
+      "title": "neutronオススメプリセット 1",
+      "topics": [
+        "Topic/🎵DTM"
+      ],
+      "tags": [
+        "🎁Topic/🎵DTM"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "僕もそんな感じですよ！ いい感じのプリセットを見つけることしかできないです おすすめプリセット↓ Slap Bass→名前通りバチバチのスラップがさらにバチバチに garage drum... 続き→https://marshmallow-qa.com/messages/bcf632ab-e8f7-418f-820e-a2942b50394e?utm\\_medium=twitter&utm\\_source=answer… #マシュマロ...",
+      "related": []
+    },
+    "300_Input/Reading Notes/wise choice.md": {
+      "id": "300_Input/Reading Notes/wise choice.md",
+      "path": "300_Input/Reading Notes/wise choice.md",
+      "title": "wise choice",
+      "topics": [
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Word"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "賢い選択",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/[[アンナ・カレーニナの法則 - Wikipedia]].md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/make senceって感じ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人は簡単に測定できる要素に注目することで問題を単純化する.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/他人が欲しがっているから、持っているから　自分も欲しいと錯覚する。｜Ferica.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md": {
+      "id": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+      "path": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+      "title": "「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X",
+      "topics": [
+        "Topic/Illust",
+        "Topic/Life",
+        "Topic/Society",
+        "Topic/Tech"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society",
+        "🎁Topic/Tech",
+        "🎁Topic/Illust"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Life",
+        "Society"
+      ],
+      "links": [
+        "Life",
+        "Society"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Life]] **consist of**:: [[Society]] ## ツイートする ## 会話 今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする [ ![つけおきしてやくだけ](https://pbs.twimg.com/...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared consist of: Society",
+            "shared link: Life",
+            "shared link: Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/本音重視が暴力の美化や正当化につながる.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Society",
+            "shared link: Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/焼きなまし法的人生論.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいる.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Society",
+            "shared link: Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md": {
+      "id": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+      "path": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+      "title": "「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば…",
+      "topics": [
+        "Topic/Life",
+        "Topic/Omoro"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Omoro"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/全部意味ない、命削っただけ」←そもそも人生はそういうものでした.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分のやりたいことを正確に把握するのは難しい.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md": {
+      "id": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+      "path": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+      "title": "「地元に残った子達が結婚が早い理由も分かったよ",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-可哀想な蠅",
+      "sourceBook": "400_Kindle/武田綾乃-可哀想な蠅",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 「地元に残った子達が結婚が早い理由も分かったよ。だって、迷う必要がないもん。子供を産んでも自分の親に頼れるし。結婚相手が同級生だったりしたら尚更だよね。お互いの親のことも知ってるし、どちらの実家も近い。助けてくれる人の数が違う。勿論、頼れない人もいるだろうけど、地元から出た人と比べたら物理的な障壁の数が違う」",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md": {
+      "id": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+      "path": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+      "title": "「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**中島 智** @nakashima001 [2025-06-08](https://x.com/nakashima001/status/1931805908251869514) 情報摂取でも体験でも「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまうことがままある。有意化、情報化がもつ罠である。体験的直観もまた、精緻に言語化しようとするほど “作りもの...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人間に社会が期待していることと人間らしさの相反.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md": {
+      "id": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+      "path": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+      "title": "「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。無条件の優しさを感じるたびに胃の奥がソワソワして、いたたまれない気持ちになる。だけどそんなことを口に出せるはずもなく、夏紀は「ありがとうございます」と二人の先輩に会釈した — location: [754](kindle://book?action=open&asin=B08R3NMW4F&location=754) ^ref-36637 **consist of...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/出遅れた夏紀はとりあえずピースすることにした。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。 2.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか 2.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/結果が出えへんかったら、努力ってなかったことにされてしまうん？　あのときのうちらの演奏、ほんまにほかの金賞の学校より劣ってた？.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md": {
+      "id": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+      "path": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+      "title": "「表出する」ということと「存在する」ということはま…",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/ブレイディみかこ-ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）",
+      "sourceBook": "400_Kindle/ブレイディみかこ-ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 「表出する」ということと「存在する」ということはまた別物なのだ",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/きっと息子の人生にわたしの出番がやってきたのではなく、わたしの人生に息子の出番がやってきたのだろう.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/ブレイディみかこ-ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/なんでもない路上の風景の 隙間 から、来たるべきア….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/ブレイディみかこ-ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md": {
+      "id": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+      "path": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+      "title": "[【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note](https://archive.md/Owyye)",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Learning",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[ReadItLater]] [[Article]] こんいちは〜( ᐢ o̴̶̷̤&nbsp;̫ o̴̶̷̤ ᐢ )💗💗 りりちゃんです❣️❣️ ## かるく自己紹介 DV毒親育ち高卒勉強できない昼職飛んで20歳からホス狂いになり4年間ずっっと歌舞伎町のホストクラブに通ってる元ホームレス滞納しまくり社不ヴぉんなツイッタラーりりまんこです❣️( ᐢ o̴̶̷̤&nbsp;̫ o̴̶̷̤ ᐢ ) ## このマニュアルを読んでほしい人...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人は知ってることしか見えない.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/物見遊山（ものみゆさん）とは？ 意味・読み方・使い方 - 四字熟語一覧 - goo辞書.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: ReadItLater"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md": {
+      "id": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+      "path": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+      "title": "あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う",
+      "topics": [
+        "Topic/Rhetoric",
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Society",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "「たまにさ、『音楽を評価するなんてできないから、コンクールは気にしなくていい』とか言う人いるやん？ アタシ、あれって勝者だけに許された台詞やと思うねんな。下手くそなやつが言ってもそんなもんは負け惜しみやんか — location: [2485](kindle://book?action=open&asin=B07T1GWTYR&location=2485) ^ref-22208 --- 「もし圧倒的な上手さがあれば、コンクールで評価さ...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。立華にも、龍聖にも、どの学校にも。北宇治が一番やって言われたい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。 2.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md": {
+      "id": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+      "path": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+      "title": "あらゆる分野における最も有効かつ最強の練習法とは、…",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/アンダース・エリクソン、ロバート・プール、土方奈美-超一流になるのは才能か努力か？",
+      "sourceBook": "400_Kindle/アンダース・エリクソン、ロバート・プール、土方奈美-超一流になるのは才能か努力か？",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> あらゆる分野における最も有効かつ最強の練習法とは、人間の身体や脳の適応性をうまく活かし、以前は不可能だったことを成し遂げる能力を徐々に獲得していくものであるから",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/能力は改善し続けないと徐々に劣化する.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/アンダース・エリクソン、ロバート・プール、土方奈美-超一流になるのは才能か努力か？"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の作る異本は生い立ち、教育、感じ方に影響を受ける.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md": {
+      "id": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+      "path": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+      "title": "[あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ | 名言 | ムーミン公式サイト](https://www.moomin.co.jp/moomins/quotes/101)",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "Scrap",
+        "🎁Topic/Life",
+        "🎁Topic/Learning",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Rhetoric"
+      ],
+      "links": [
+        "Rhetoric",
+        "憧れは理解から最も遠い感情だよ",
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Rhetoric]] [[憧れは理解から最も遠い感情だよ]] [[ReadItLater]] [[Article]] - [ホーム](https://www.moomin.co.jp/) - [ムーミンの世界](https://www.moomin.co.jp/moomins/) - [名言](https://www.moomin.co.jp/moomins/quotes/) - あんまりだれかを...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 17,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/情報を集めれば理屈で答えが出せるのが判断、情報を集めることができない中で答えを出さないといけないのが決断.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/無理だって言われていちいち諦めてたら……誰も何もできねぇだろ…!!!オレは…何かになるんだ…何かにならなきゃ…退屈で生きていけねぇよ….md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md": {
+      "id": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+      "path": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+      "title": "いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃",
+        "Rhetoric"
+      ],
+      "links": [
+        "MyFavorite武田綾乃",
+        "Rhetoric"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "こんなに大好きな友達ともいつかは離れ離れになってしまって、ほとんど会わなくなってしまうのだろうか。とくに理由なんてものはなく、ただ当たり前みたいな顔をして、友達から知り合いへと移り変わってしまうのだろうか。それが大人になるということなのか。 久美子は知っている。友情は永遠ではないことを。中学時代に毎日顔を合わせていた友達も、すぐに疎遠になってしまった。いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。そうすれば、こんなふ...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/出遅れた夏紀はとりあえずピースすることにした。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md": {
+      "id": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+      "path": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+      "title": "うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[MyFavorite武田綾乃]] 副部長という肩書きは自分には重すぎると感じていたはずなのに、いざ手放すとなると名残惜しさを覚えている。呼ばれるたびに胸のうちでひっそりと湧き上がっていた気後れと照れに、まさか寂しさまでもが加わるとは思わなかった。 「来年こそ全国に行きますから」そう力強く言い切る久美子に、夏紀は一瞬だけ目を逸らしたい衝動に駆られた。うっかり太陽を直視してしまったときのような、濃縮し...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/出遅れた夏紀はとりあえずピースすることにした。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。 2.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか 2.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/結果が出えへんかったら、努力ってなかったことにされてしまうん？　あのときのうちらの演奏、ほんまにほかの金賞の学校より劣ってた？.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/お前の人生歪める権利を俺にくれ.md": {
+      "id": "300_Input/Reading Notes/お前の人生歪める権利を俺にくれ.md",
+      "path": "300_Input/Reading Notes/お前の人生歪める権利を俺にくれ.md",
+      "title": "お前の人生歪める権利を俺にくれ",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/渡航、ぽんかん(8)-やはり俺の青春ラブコメはまちがっている。14",
+      "sourceBook": "400_Kindle/渡航、ぽんかん(8)-やはり俺の青春ラブコメはまちがっている。14",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 意志の問題だ。……だから、お前の人生歪める権利を俺にくれ",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/お酒が嫌いなのは、美味しくお酒を飲むことを楽しんでるのではなく酔った状態を楽しもうとするから.md": {
+      "id": "300_Input/Reading Notes/お酒が嫌いなのは、美味しくお酒を飲むことを楽しんでるのではなく酔った状態を楽しもうとするから.md",
+      "path": "300_Input/Reading Notes/お酒が嫌いなのは、美味しくお酒を飲むことを楽しんでるのではなく酔った状態を楽しもうとするから.md",
+      "title": "お酒が嫌いなのは、美味しくお酒を飲むことを楽しんでるのではなく酔った状態を楽しもうとするから",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Fleeting",
+        "Thinking",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "2023-04-04"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "--- [[2023-04-04]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/かき氷を楽しめる人間と楽しめない人間.md": {
+      "id": "300_Input/Reading Notes/かき氷を楽しめる人間と楽しめない人間.md",
+      "path": "300_Input/Reading Notes/かき氷を楽しめる人間と楽しめない人間.md",
+      "title": "かき氷を楽しめる人間と楽しめない人間",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Fleeting",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "2024-08-14"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "--- [[2024-08-14]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/きっと息子の人生にわたしの出番がやってきたのではなく、わたしの人生に息子の出番がやってきたのだろう.md": {
+      "id": "300_Input/Reading Notes/きっと息子の人生にわたしの出番がやってきたのではなく、わたしの人生に息子の出番がやってきたのだろう.md",
+      "path": "300_Input/Reading Notes/きっと息子の人生にわたしの出番がやってきたのではなく、わたしの人生に息子の出番がやってきたのだろう.md",
+      "title": "きっと息子の人生にわたしの出番がやってきたのではな…",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/ブレイディみかこ-ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）",
+      "sourceBook": "400_Kindle/ブレイディみかこ-ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> きっと息子の人生にわたしの出番がやってきたのではなく、わたしの人生に息子の出番がやってきたのだろう",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/ブレイディみかこ-ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/なんでもない路上の風景の 隙間 から、来たるべきア….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/ブレイディみかこ-ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md": {
+      "id": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+      "path": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+      "title": "こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**九月の『読む』ラジオ** @kugatsu\\_readio [2025-12-11](https://x.com/kugatsu_readio/status/1999151121898885335) コミュニケーションで話題を奪ったり、自己開示がメインになったりしてしまう、という話な。 これはねえ、あなたの言うような「他人に興味がない」ままでもいいから、「会話そのものに興味を持つ」といいと思うよ。あなたの思う理想の会話ってどんなん...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人間に社会が期待していることと人間らしさの相反.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/こいつの最高ステータス絶対「とくぼう」だろって直感で分かるとき.md": {
+      "id": "300_Input/Reading Notes/こいつの最高ステータス絶対「とくぼう」だろって直感で分かるとき.md",
+      "path": "300_Input/Reading Notes/こいつの最高ステータス絶対「とくぼう」だろって直感で分かるとき.md",
+      "title": "こいつの最高ステータス絶対「とくぼう」だろって直感で分かるとき",
+      "topics": [
+        "Topic/Omoro"
+      ],
+      "tags": [
+        "🎁Topic/Omoro"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "誰かと話してて、こいつの最高ステータス絶対「とくぼう」だろって直感で分かるときない？",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ほうれん草の臭みは無く、.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ウォーリーを知らない状態でウォーリーを探せをやってる.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ダイアン津田が個人でやっていて、しかも大成功している貿易.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マックのポテトはマックのポテトってジャンル.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ローランドがやってる病院.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/全部意味ない、命削っただけ」←そもそも人生はそういうものでした.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/坂東of英二s.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/こういうふうに、目に入る情報を自らいちいちマイナス….md": {
+      "id": "300_Input/Reading Notes/こういうふうに、目に入る情報を自らいちいちマイナス….md",
+      "path": "300_Input/Reading Notes/こういうふうに、目に入る情報を自らいちいちマイナス….md",
+      "title": "こういうふうに、目に入る情報を自らいちいちマイナス…",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/朝井リョウ-イン・ザ・メガチャーチ",
+      "sourceBook": "400_Kindle/朝井リョウ-イン・ザ・メガチャーチ",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> こういうふうに、目に入る情報を自らいちいちマイナスな方向へと誘導してしまう夜は危険だ。頭ではそうわかってはいるのに、じゃあどこまで気分を落とせるのかやってみようか、という自分も顔を出すのだから、人間は厄介だ。",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/悠真の言う「重い」は私の恋愛感情の話ではなかった.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-イン・ザ・メガチャーチ"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/既読なんて以ての外だ.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-イン・ザ・メガチャーチ"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/社会はやってきていないことで溢れている.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-イン・ザ・メガチャーチ"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私としては、二人セットで〝親〟だったときよりも今の….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-イン・ザ・メガチャーチ"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/このように肉食哺乳類は、餌の経済効率が悪いので、食….md": {
+      "id": "300_Input/Reading Notes/このように肉食哺乳類は、餌の経済効率が悪いので、食….md",
+      "path": "300_Input/Reading Notes/このように肉食哺乳類は、餌の経済効率が悪いので、食….md",
+      "title": "このように肉食哺乳類は、餌の経済効率が悪いので、食…",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/彰-銃・病原菌・鉄　上巻",
+      "sourceBook": "400_Kindle/彰-銃・病原菌・鉄　上巻",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> このように肉食哺乳類は、餌の経済効率が悪いので、食用目的で家畜化されたものは皆無である（肉食哺乳類は肉が堅いとかまずいという理由で家畜化されなかったわけではない。われわれはしょっちゅう肉食の魚を口にしている。また私個人の体験からいわせてもらえば、ライオンバーガーのおいしさは保証できる",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/本書についていえば、つぎのような要約となる──「歴….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/彰-銃・病原菌・鉄　上巻"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/狩猟採集から農耕は段階的に遷移していった.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/彰-銃・病原菌・鉄　上巻"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/この星との摩擦.md": {
+      "id": "300_Input/Reading Notes/この星との摩擦.md",
+      "path": "300_Input/Reading Notes/この星との摩擦.md",
+      "title": "この星との摩擦",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "sourceBook": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 自分を社会に引っかけておいてくれるものが、何もない。 さあ。 この星との摩擦がない今。 アクセルを。 > 「親が死んで、自分を死なないでいさせてくれる最後の 砦 がなくなった」 > いま必要なのはきっと、どんな岸に立つ人でも見下ろせばその存在を確認できる、大きな大きな網だ。別の岸に飛び移りたいけれど距離があるからと 躊躇うとき、もうどの岸からも降りてしまいたいと 膝 をつくとき、その足元に網が広がっていればどれだけ安心するだろうか...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/思想や情動も論理で説明できると思っている人たちが打ち立てる規制は、生身の人間の内側にはいつまで経っても到達しない.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/すぐに役に立つものはすぐに役に立たなくなる.md": {
+      "id": "300_Input/Reading Notes/すぐに役に立つものはすぐに役に立たなくなる.md",
+      "path": "300_Input/Reading Notes/すぐに役に立つものはすぐに役に立たなくなる.md",
+      "title": "すぐに役に立つものはすぐに役に立たなくなる",
+      "topics": [
+        "Topic/Learning"
+      ],
+      "tags": [
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/種田輝豊-20ヵ国語ペラペラ　――私の外国語学習法",
+      "sourceBook": "400_Kindle/種田輝豊-20ヵ国語ペラペラ　――私の外国語学習法",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "すぐに役に立つものはすぐに役に立たなくなる",
+      "myTake": "",
+      "preview": "> 作文力を基盤にもたない解釈力は、あぶなっかしい解読力であり、読解力ではありえない。また、こういった安定した基礎のない知識は、ものの一年か二年放っておいただけで、それこそ雲散霧消してしまいかねない、揮発性の知識である",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/はじめて見る東京は、非常に非人間的なバカでかい町で….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same source: 400_Kindle/種田輝豊-20ヵ国語ペラペラ　――私の外国語学習法"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プロはチェスの盤面を塊として記憶できる.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md": {
+      "id": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+      "path": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+      "title": "ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。",
+      "topics": [
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃",
+        "Rhetoric"
+      ],
+      "links": [
+        "MyFavorite武田綾乃",
+        "Rhetoric"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "「うちが辞めたら、希美の誘いがなかったことになるやんか」 ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。優子は双眸を目一杯開き、こちらの顔を探るように凝視 — location: [1091](kindle://book?action=open&asin=B08R3NMW4F&location=1091) ^ref-39441 **consist of**:: [[MyFavorite武田綾乃]] **...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/月って欠けるから好きだな、とふと思う。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/未練を殺すには短すぎたが、将来を誓い合うには充分だった。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md": {
+      "id": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+      "path": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+      "title": "その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**九月の『読む』ラジオ** @kugatsu\\_readio [2025-12-11](https://x.com/kugatsu_readio/status/1999151121898885335) コミュニケーションで話題を奪ったり、自己開示がメインになったりしてしまう、という話な。 これはねえ、あなたの言うような「他人に興味がない」ままでもいいから、「会話そのものに興味を持つ」といいと思うよ。あなたの思う理想の会話ってどんなん...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人間に社会が期待していることと人間らしさの相反.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/その声は、ピアノのミスタッチみたいに響いた.md": {
+      "id": "300_Input/Reading Notes/その声は、ピアノのミスタッチみたいに響いた.md",
+      "path": "300_Input/Reading Notes/その声は、ピアノのミスタッチみたいに響いた.md",
+      "title": "その声は、ピアノのミスタッチみたいに響いた",
+      "topics": [
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "sourceBook": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 「なんかさ」 その声は、ピアノのミスタッチみたいに響いた。 「出かけるための準備とかしながら、自分の性欲が、ちゃんと社会とか経済とか、そういう目に見える流れの中に組み込まれてるってこういうことなんだって思ったんだよね」",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ほうれん草の臭みは無く、.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/その言葉の持つ響きは、除夜の鐘が百八回分まとめて鳴らされたかのように巨大だった。.md": {
+      "id": "300_Input/Reading Notes/その言葉の持つ響きは、除夜の鐘が百八回分まとめて鳴らされたかのように巨大だった。.md",
+      "path": "300_Input/Reading Notes/その言葉の持つ響きは、除夜の鐘が百八回分まとめて鳴らされたかのように巨大だった。.md",
+      "title": "その言葉の持つ響きは、除夜の鐘が百八回分まとめて鳴らされたかのように巨大だった。",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "sourceBook": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 「でも、こうやって卑屈になるのにも、もう飽きたかな」 と、引き抜いたティッシュで勢いよく 洟 をかんだ。 こうやって卑屈になるのにも、もう飽きたかな。 その言葉の持つ響きは、除夜の鐘が百八回分まとめて鳴らされたかのように巨大だった。",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/体内の宗教.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/多様性とは、都合よく使える美しい言葉ではない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/彼氏彼女と言わずに大切な人と呼んでいる等という小手先の言葉選びによる多様性の尊重が礼賛される時代.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/思想や情動も論理で説明できると思っている人たちが打ち立てる規制は、生身の人間の内側にはいつまで経っても到達しない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/沈黙は彫刻刀に似ている.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/誰かに名付けられている苦しみがこの世界の全てだと思っているそのおめでたい考え方が 羨ましい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md": {
+      "id": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+      "path": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+      "title": "それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃",
+        "Rhetoric"
+      ],
+      "links": [
+        "MyFavorite武田綾乃",
+        "Rhetoric"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "鼓膜を揺さぶる音が、夏紀の意識を塗り潰す。理由のない焦燥も、嫌悪も、何もかもがかき消えて、ただ指先の動きにがむしゃらになる。 心の内側の、すっかり燃え尽きて灰になってしまった部分。そこに、小さく何かが芽吹くのを感じる。 それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。 — location: [1724](kindle://book?action=open&asin=B08R3NMW4F&lo...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/出遅れた夏紀はとりあえずピースすることにした。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md": {
+      "id": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+      "path": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+      "title": "それを衝動と呼ぶにはいささか理性が残りすぎていた。",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Rhetoric",
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "Rhetoric",
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "室内にいる先輩たちは、手を叩いて大声で笑い合った。 「ほんま、いなくなってくれてよかったわ！」 あ、と思った。脳の回路が焼き切れる。網膜の奥がスパークして、激流のような感情が夏紀を脳の内側から支配した。勝手に右手が扉をつかむ。勝手に左足がレールを越える。だべる三年生部員たちへ歩み寄り、夏紀はその椅子の背もたれに手を置いた。それを衝動と呼ぶにはいささか理性が残りすぎていた。 — location: [952](kindle://book...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/出遅れた夏紀はとりあえずピースすることにした。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/だけど四十代も後半を迎えた今、還ってきているのは、….md": {
+      "id": "300_Input/Reading Notes/だけど四十代も後半を迎えた今、還ってきているのは、….md",
+      "path": "300_Input/Reading Notes/だけど四十代も後半を迎えた今、還ってきているのは、….md",
+      "title": "だけど四十代も後半を迎えた今、還ってきているのは、…",
+      "topics": [
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Society"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/朝井リョウ-イン・ザ・メガチャーチ",
+      "sourceBook": "400_Kindle/朝井リョウ-イン・ザ・メガチャーチ",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> だけど四十代も後半を迎えた今、還ってきているのは、当時エネルギーを注いでこなかったことのほうばかりだ。 真代や澄香との会話。 家の中でも生産性のある人間として動くこと。 仕事で得た肩書が通用しない場所で、他者との関係性を築くこと。 そういうことをサボってきたツケが、月に一度の全く盛り上がらないビデオ通話であり、独りで啜るインスタント味噌汁なのだろう。",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/社会はやってきていないことで溢れている.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same source: 400_Kindle/朝井リョウ-イン・ザ・メガチャーチ"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。.md": {
+      "id": "300_Input/Reading Notes/でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。.md",
+      "path": "300_Input/Reading Notes/でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。.md",
+      "title": "でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃",
+        "Life"
+      ],
+      "links": [
+        "MyFavorite武田綾乃",
+        "Life"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[MyFavorite武田綾乃]] **consist of**:: [[Life]] 「うちはトランペットやったからマイ楽器って選択肢もあるにはあってんけど、でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。そうしたら、何かを続けられなくなったときに別の何かが自分を助けてくれるやろ？ だからさ、ギターをやりたいなって」 「その理屈でいくならギターじ...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/毎日は種まきみたいなもので、未来の楽しみをいっぱいいろんなとこに埋めてるんやろうなって.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: Life",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/ところが実際の発明の多くは、人間の好奇心の産物であ….md": {
+      "id": "300_Input/Reading Notes/ところが実際の発明の多くは、人間の好奇心の産物であ….md",
+      "path": "300_Input/Reading Notes/ところが実際の発明の多くは、人間の好奇心の産物であ….md",
+      "title": "ところが実際の発明の多くは、人間の好奇心の産物であ…",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/彰-銃・病原菌・鉄　下巻",
+      "sourceBook": "400_Kindle/彰-銃・病原菌・鉄　下巻",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> ところが実際の発明の多くは、人間の好奇心の産物であって、何か特定のものを作りだそうとして生みだされたわけではない。発明をどのように応用するかは、発明がなされたあとに考えだされている",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/私は本書の考察を通じて、自然環境の障壁が少ない場所….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/彰-銃・病原菌・鉄　下巻"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私は本書の考察を通じて、自然環境の障壁が少ない場所では技術が伝播しやすかった点を強調してきた.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/彰-銃・病原菌・鉄　下巻"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md": {
+      "id": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+      "path": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+      "title": "なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "説得力が段違いや",
+      "myTake": "",
+      "preview": "> 「久美子はなんでも抱え込みすぎ」 そう言って、彼女は手に力を込めた。吐き出された息が、久美子の耳をさわさわとくすぐる。 「自分にできることだけを精一杯頑張ればいいんやって。なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/時間の匂い.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/オーボエは息が余る.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/なんでもない路上の風景の 隙間 から、来たるべきア….md": {
+      "id": "300_Input/Reading Notes/なんでもない路上の風景の 隙間 から、来たるべきア….md",
+      "path": "300_Input/Reading Notes/なんでもない路上の風景の 隙間 から、来たるべきア….md",
+      "title": "なんでもない路上の風景の 隙間 から、来たるべきア…",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/ブレイディみかこ-ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）",
+      "sourceBook": "400_Kindle/ブレイディみかこ-ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> なんでもない路上の風景の 隙間 から、来たるべきア・ホール・ニュー・ワールドが 垣間見 えた気がした",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/ブレイディみかこ-ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/きっと息子の人生にわたしの出番がやってきたのではなく、わたしの人生に息子の出番がやってきたのだろう.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/ブレイディみかこ-ぼくはイエローでホワイトで、ちょっとブルー（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/はじめて見る東京は、非常に非人間的なバカでかい町で….md": {
+      "id": "300_Input/Reading Notes/はじめて見る東京は、非常に非人間的なバカでかい町で….md",
+      "path": "300_Input/Reading Notes/はじめて見る東京は、非常に非人間的なバカでかい町で….md",
+      "title": "はじめて見る東京は、非常に非人間的なバカでかい町で…",
+      "topics": [
+        "Topic/Learning"
+      ],
+      "tags": [
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/種田輝豊-20ヵ国語ペラペラ　――私の外国語学習法",
+      "sourceBook": "400_Kindle/種田輝豊-20ヵ国語ペラペラ　――私の外国語学習法",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> はじめて見る東京は、非常に非人間的なバカでかい町であっ",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/すぐに役に立つものはすぐに役に立たなくなる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same source: 400_Kindle/種田輝豊-20ヵ国語ペラペラ　――私の外国語学習法"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プロはチェスの盤面を塊として記憶できる.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/ひらめきなどない。あるのは知識だけ.md": {
+      "id": "300_Input/Reading Notes/ひらめきなどない。あるのは知識だけ.md",
+      "path": "300_Input/Reading Notes/ひらめきなどない。あるのは知識だけ.md",
+      "title": "ひらめきなどない。あるのは知識だけ",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/隆-究極の鍛錬",
+      "sourceBook": "400_Kindle/隆-究極の鍛錬",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "見つめる鍋は煮えない",
+      "myTake": "",
+      "preview": "> 課題への創造的な解決策を見つけようとすれば、知識はあればあるほどよく、知識は友人であり、敵ではないということだ",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md": {
+      "id": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+      "path": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+      "title": "[ふくさん](https://twitter.com/fukusanity/status/1821013377545908406)",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "Scrap",
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Life"
+      ],
+      "links": [
+        "Life",
+        "ReadItLater",
+        "Tweet"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Life]] [[ReadItLater]] [[Tweet]] > ずっと醜美の話をしてる女，競プロの色でマウンティングしてる学生，未だにセンター試験の話をしてるおっさん，h-indexしか頭にない学者，年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観 > > — ふくさん (@fukusani...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/焼きなまし法的人生論.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/個人主義は自己責任論を増強する.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しい人だと思ったら、単に色々なものに無関心だった人.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/古いことをやめる方が圧倒的に労力がいる。.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/成果主義は頑張ったアピールをしないと切られるルール.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/本音重視が暴力の美化や正当化につながる.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいる.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md": {
+      "id": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+      "path": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+      "title": "べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃",
+        "Rhetoric"
+      ],
+      "links": [
+        "MyFavorite武田綾乃",
+        "Rhetoric"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。あれだけ濃密な時間をともにしたというのに、いったい自分に何が残ったというのだろう。すぐ間近にいた人間も、いつの日か思い出のなかの住民になってしまう。音楽室に集まって同じメンバーで合奏することは、これから先、二度とない。 — location: [2781](kindle://book?action=open&asin=B08R3NMW4F&location=2781) ^...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/出遅れた夏紀はとりあえずピースすることにした。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/ほうれん草の臭みは無く、.md": {
+      "id": "300_Input/Reading Notes/ほうれん草の臭みは無く、.md",
+      "path": "300_Input/Reading Notes/ほうれん草の臭みは無く、.md",
+      "title": "[さばかん](https://twitter.com/m4e_iu/status/1850843752631541909)",
+      "topics": [
+        "Topic/Omoro",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Rhetoric",
+        "🎁Topic/Omoro"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Rhetoric",
+        "Omoro"
+      ],
+      "links": [
+        "Rhetoric",
+        "Omoro",
+        "ReadItLater",
+        "Tweet"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Rhetoric]] **consist of**:: [[Omoro]] [[ReadItLater]] [[Tweet]] > 男「どうだ、念願のちんぽの味は」 > > 男(美味しいって言え…) > ちんぽ(美味しいって言え…) > おばさん(美味しいって言え…) > > 女「ほうれん草の臭みは無く、咥え手の技術が試される1本となりました」 > > — さばかん (@m4e\\_iu) [Oct...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 17,
+          "reasons": [
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Omoro",
+            "shared link: Omoro",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ウォーリーを知らない状態でウォーリーを探せをやってる.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Omoro",
+            "shared link: Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マックのポテトはマックのポテトってジャンル.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Omoro",
+            "shared link: Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: ReadItLater",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Rhetoric",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md": {
+      "id": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+      "path": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+      "title": "まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。",
+      "topics": [
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃",
+        "Rhetoric"
+      ],
+      "links": [
+        "MyFavorite武田綾乃",
+        "Rhetoric"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "両目の上にのせた腕で、瞼越しに眼球を押す。まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。 — location: [2756](kindle://book?action=open&asin=B08R3NMW4F&location=2756) ^ref-32285 **consist of**:: [[MyFavorite武田綾乃]] **consist of**:: [[Rhetoric]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/月って欠けるから好きだな、とふと思う。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/未練を殺すには短すぎたが、将来を誓い合うには充分だった。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md": {
+      "id": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+      "path": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+      "title": "もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "Scrap",
+        "🎁Topic/Life",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Rhetoric"
+      ],
+      "links": [
+        "Rhetoric"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Rhetoric]] 自分が凡人だということに、夏紀はうすうす気づいている。天才にもなれず、変人にもなりきれず、特別に憧れを抱きながらも普通の生き方を選んでしまう。漠然とした将来への不安は、結局はそれなのだ。こうなりたくないと思っていた大人に、気づけば自分から近づいている。 もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。屋上の柵にもたれかかって、脚を伸ばして、それで終わりだ。だが、...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/情報を集めれば理屈で答えが出せるのが判断、情報を集めることができない中で答えを出さないといけないのが決断.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/無理だって言われていちいち諦めてたら……誰も何もできねぇだろ…!!!オレは…何かになるんだ…何かにならなきゃ…退屈で生きていけねぇよ….md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/仲がいいと思っていたはずの友達がほかの子と座っていたり、順風満帆に座れるはずだった偶数グループが補助席のせいで分裂騒動を起こしたり.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md": {
+      "id": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+      "path": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+      "title": "やる気は行動の原因ではなく結果",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life"
+      ],
+      "tags": [
+        "Knowledge",
+        "🎁Topic/Life",
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Life"
+      ],
+      "links": [
+        "脳を活性化し、パフォーマンスを上げるランニングとは",
+        "Life",
+        "2024-10-20"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**source**:: [[脳を活性化し、パフォーマンスを上げるランニングとは]] **consist of**:: [[Life]] >よく「やる気ってどうしたら出るんですかね」なんて、よく分からない質問をしてくる人がいます。 > >多くの人は、やる気というのは行動を起こす原因だと勘違いしています。 >実は、やる気は行動の原因ではなく「結果」です。だからやり始めない限り、やる気はでません。 > >やる気が出たから走るというのはダメ...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/本には旬がある.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/よって、 多くの人が「満たしたいと思っている感情」….md": {
+      "id": "300_Input/Reading Notes/よって、 多くの人が「満たしたいと思っている感情」….md",
+      "path": "300_Input/Reading Notes/よって、 多くの人が「満たしたいと思っている感情」….md",
+      "title": "よって、 多くの人が「満たしたいと思っている感情」…",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/渉-神トーーク 「伝え方しだい」で人生は思い通り",
+      "sourceBook": "400_Kindle/渉-神トーーク 「伝え方しだい」で人生は思い通り",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> よって、 多くの人が「満たしたいと思っている感情」を満たすことができる人に私たちがなれば、自然と私たちの元に人が集まり人望と影響力を得ることにつながっていきます",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/私たち人間は、どんなに論理的に正しいことを言われた….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/渉-神トーーク 「伝え方しだい」で人生は思い通り"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分自身が「この人の話ならば聞こうと思える言動を日….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/渉-神トーーク 「伝え方しだい」で人生は思い通り"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/わたしたちは、扉をあけておきたいという不合理な衝動….md": {
+      "id": "300_Input/Reading Notes/わたしたちは、扉をあけておきたいという不合理な衝動….md",
+      "path": "300_Input/Reading Notes/わたしたちは、扉をあけておきたいという不合理な衝動….md",
+      "title": "わたしたちは、扉をあけておきたいという不合理な衝動…",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/淳子-予想どおりに不合理　　行動経済学が明かす「あなたがそれを選ぶわけ」",
+      "sourceBook": "400_Kindle/淳子-予想どおりに不合理　　行動経済学が明かす「あなたがそれを選ぶわけ」",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> わたしたちは、扉をあけておきたいという不合理な衝動を抱えている",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/市場規範は社会規範を侵略する.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/淳子-予想どおりに不合理　　行動経済学が明かす「あなたがそれを選ぶわけ」"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/重要かもしれないことのあいだを行ったり来たりしてい….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/淳子-予想どおりに不合理　　行動経済学が明かす「あなたがそれを選ぶわけ」"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/アタシはさ、特別になりたい.md": {
+      "id": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+      "path": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+      "title": "アタシはさ、特別になりたい",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部へようこそ",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部へようこそ",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 「アタシはさ、特別になりたい」 「特別？」 「そう。他人から称賛されたい。ほかのやつらと同じって、思われたくない」 少女の指が力なく落ちる。白いワンピースが、風に乗ってはためいた。 「だから、アタシはトランペットをやってる」 「トランペットを吹いてたら、特別になれるの？」 「なれる」 麗奈は即答した。 「だからアタシは、吹奏楽をやってんねん。特別でありたい",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/優しいなんてなあ、褒めるとこがないやつに言う台詞やろ？ うち、わかってんねん.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部へようこそ",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/オーボエは息が余る.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/恋人たちに残された時間は、未練を殺すには短すぎたが、将来を誓い合うには充分だった.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md": {
+      "id": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+      "path": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+      "title": "アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章 前編",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章 前編",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "ストイックな人間がシンプルなこと言うの好き\nじが",
+      "myTake": "",
+      "preview": "> 「アタシは勝ちたい。立華にも、龍聖にも、どの学校にも。北宇治が一番やって言われたい。そのためには、ここにいる全員が本気で音楽に打ち込む必要があります。去年の夏の、あの関西大会のときみたいな思いはもう二度としたくない。全員で、全力を尽くしましょ",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章 前編",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章 前編",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/オーボエは息が余る.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しいなんてなあ、褒めるとこがないやつに言う台詞やろ？ うち、わかってんねん.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/恋人たちに残された時間は、未練を殺すには短すぎたが、将来を誓い合うには充分だった.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/アタシは勝ちたい。立華にも、龍聖にも、どの学校にも。北宇治が一番やって言われたい。.md": {
+      "id": "300_Input/Reading Notes/アタシは勝ちたい。立華にも、龍聖にも、どの学校にも。北宇治が一番やって言われたい。.md",
+      "path": "300_Input/Reading Notes/アタシは勝ちたい。立華にも、龍聖にも、どの学校にも。北宇治が一番やって言われたい。.md",
+      "title": "アタシは勝ちたい。立華にも、龍聖にも、どの学校にも。北宇治が一番やって言われたい。",
+      "topics": [
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "「アタシは勝ちたい。立華にも、龍聖にも、どの学校にも。北宇治が一番やって言われたい。そのためには、ここにいる全員が本気で音楽に打ち込む必要があります。去年の夏の、あの関西大会のときみたいな思いはもう二度としたくない。全員で、全力を尽くしましょう — location: [3431](kindle://book?action=open&asin=B07T4PDDTB&location=3431) ^ref-5994 **consist...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。 2.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/冷めたフライドポテトをつまみ、優子はその端を小さくかじった。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/アタシは悔しい。めっちゃ悔しいねん.md": {
+      "id": "300_Input/Reading Notes/アタシは悔しい。めっちゃ悔しいねん.md",
+      "path": "300_Input/Reading Notes/アタシは悔しい。めっちゃ悔しいねん.md",
+      "title": "アタシは悔しい。めっちゃ悔しいねん",
+      "topics": [
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "Rhetoric"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "吐き出された声が、久美子の心臓にまっすぐに突き刺さる。 「アタシは悔しい。めっちゃ悔しいねん」 絞り出すように告げられたその声は、久美子の脳にいやにはっきりと刻み込まれた。 中学生最後のコンクール。 そのときのことを考えると、久美子はいつだって彼女の瞳を思い出す。そしてそれを思い出すたびに、久美子は無性にあの夏から逃げ出したくなるのだった — location: [48](kindle://book?action=open&asin=...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ほうれん草の臭みは無く、.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/仲がいいと思っていたはずの友達がほかの子と座っていたり、順風満帆に座れるはずだった偶数グループが補助席のせいで分裂騒動を起こしたり.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/アルフォートは水色が好き~と呟いたら「気が合うね私は青色が好き」と返ってきた.md": {
+      "id": "300_Input/Reading Notes/アルフォートは水色が好き~と呟いたら「気が合うね私は青色が好き」と返ってきた.md",
+      "path": "300_Input/Reading Notes/アルフォートは水色が好き~と呟いたら「気が合うね私は青色が好き」と返ってきた.md",
+      "title": "アルフォートは水色が好き~と呟いたら「気が合うね私は青色が好き」と返ってきた",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[2026-02-16](https://x.com/unsweeeeet/status/2023369689162998161) アルフォートは水色が好き~と呟いたら「気が合うね私は青色が好き」と返ってきた。 嗜好が違うゆえにお互いを補完できる形にあることを\"気が合う\"と表現するこの子と世界を創れると思った",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md": {
+      "id": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+      "path": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+      "title": "アンナ・カレーニナの法則 - Wikipedia",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Word"
+      ],
+      "links": [
+        "Word"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Word]] ## アンナ・カレーニナの法則 **アンナ・カレーニナの法則**（[英語](https://ja.wikipedia.org/wiki/%E8%8B%B1%E8%AA%9E \"英語\"): Anna Karenina principle）は、多数の要素によってその成功、失敗が左右されるような事象について、失敗の原因がたくさんありうることを指す法則である[^:1-1]。 [ロシア](ht...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/遅延評価的勉強法.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/インポスター症候群.md": {
+      "id": "300_Input/Reading Notes/インポスター症候群.md",
+      "path": "300_Input/Reading Notes/インポスター症候群.md",
+      "title": "インポスター症候群",
+      "topics": [
+        "Topic/Life",
+        "Topic/Omoro",
+        "Topic/Society",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society",
+        "🎁Topic/Word",
+        "🎁Topic/Omoro"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "TAKE NOTES！――メモで、あなただけのアウトプットが自然にできるようになる - ズンク・アーレンス 二木夢子"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "実際には誰よりもその仕事に相応しいのに、自分は適任でないと思い込む症状 [[TAKE NOTES！――メモで、あなただけのアウトプットが自然にできるようになる - ズンク・アーレンス 二木夢子]] > 優秀な人は、まだマスターしていないことに気づいてしまい、どんどん自分のハードルを上げていきます",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分のやりたいことを正確に把握するのは難しい.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/ウォーリーを知らない状態でウォーリーを探せをやってる.md": {
+      "id": "300_Input/Reading Notes/ウォーリーを知らない状態でウォーリーを探せをやってる.md",
+      "path": "300_Input/Reading Notes/ウォーリーを知らない状態でウォーリーを探せをやってる.md",
+      "title": "ウォーリーを知らない状態でウォーリーを探せをやってる",
+      "topics": [
+        "Topic/Omoro",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Rhetoric",
+        "🎁Topic/Omoro"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Omoro"
+      ],
+      "links": [
+        "Omoro"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Omoro]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Omoro",
+            "shared link: Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ほうれん草の臭みは無く、.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Omoro",
+            "shared link: Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マックのポテトはマックのポテトってジャンル.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Omoro",
+            "shared link: Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつの最高ステータス絶対「とくぼう」だろって直感で分かるとき.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/オーボエは息が余る.md": {
+      "id": "300_Input/Reading Notes/オーボエは息が余る.md",
+      "path": "300_Input/Reading Notes/オーボエは息が余る.md",
+      "title": "オーボエは息が余る",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> ほかの管楽器では息が足りんくなって苦しくなっちゃうけど、オーボエは逆に息が余っちゃうねんな。これだけ聞くとなんや楽やなって思うかもしれんけど、息を少しずつ使うっていうことは、つまりは息を止めてるのに近い状態を続けるハメになるってことなわけ。演奏しているうちに肺のなかに二酸化炭素がたまっちゃって苦しいん",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/時間を何倍にも濃縮したような沈黙.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/薄氷の上に立っているような、そんな気分.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しいなんてなあ、褒めるとこがないやつに言う台詞やろ？ うち、わかってんねん.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md": {
+      "id": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+      "path": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+      "title": "[キャンベルの法則 - Wikipedia](https://ja.m.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%99%E3%83%AB%E3%81%AE%E6%B3%95%E5%89%87)",
+      "topics": [
+        "Topic/Society",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Society",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Word"
+      ],
+      "links": [
+        "Word",
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Word]] [[ReadItLater]] [[Article]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/遅延評価的勉強法.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/面白い数のパラドックス - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 11,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人は簡単に測定できる要素に注目することで問題を単純化する.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/キャンベルの法則」と呼ばれるようになったそのパター….md": {
+      "id": "300_Input/Reading Notes/キャンベルの法則」と呼ばれるようになったそのパター….md",
+      "path": "300_Input/Reading Notes/キャンベルの法則」と呼ばれるようになったそのパター….md",
+      "title": "キャンベルの法則」と呼ばれるようになったそのパター…",
+      "topics": [
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Society"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/ジェリー・Z・ミュラー、松本裕-測りすぎ――なぜパフォーマンス評価は失敗するのか？",
+      "sourceBook": "400_Kindle/ジェリー・Z・ミュラー、松本裕-測りすぎ――なぜパフォーマンス評価は失敗するのか？",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> キャンベルの法則」と呼ばれるようになったそのパターンは、「定量的な社会指標が社会的意思決定に使われれば使われるほど、汚職の圧力にさらされやすくなり、本来監視するはずの社会プロセスをねじまげ、腐敗させやすくなる（９）」というものだ。イギリス人経済学者が作った類似の法則「グッドハートの法則」は、「管理のために用いられる測定はすべて、信頼できない（ 10）」というものだ。",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/人は簡単に測定できる要素に注目することで問題を単純化する.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same source: 400_Kindle/ジェリー・Z・ミュラー、松本裕-測りすぎ――なぜパフォーマンス評価は失敗するのか？"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/測定執着とは、それが実践されたときに意図せぬ好まし….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same source: 400_Kindle/ジェリー・Z・ミュラー、松本裕-測りすぎ――なぜパフォーマンス評価は失敗するのか？"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/だけど四十代も後半を迎えた今、還ってきているのは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/グッドハートの法則.md": {
+      "id": "300_Input/Reading Notes/グッドハートの法則.md",
+      "path": "300_Input/Reading Notes/グッドハートの法則.md",
+      "title": "グッドハートの法則",
+      "topics": [
+        "Topic/Society",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Society",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Word"
+      ],
+      "links": [
+        "Word",
+        "キャンベルの法則 - Wikipedia",
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**::[[Word]] **Friend**:: [[キャンベルの法則 - Wikipedia]] [[ReadItLater]] [[Article]] [https://blog.sa2taka.com/til/2023-10-11-goodhart/](https://blog.sa2taka.com/til/2023-10-11-goodhart/)",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/遅延評価的勉強法.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/面白い数のパラドックス - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 11,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人は簡単に測定できる要素に注目することで問題を単純化する.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md": {
+      "id": "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md",
+      "path": "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md",
+      "title": "[コモンズの悲劇 - Wikipedia](https://ja.m.wikipedia.org/wiki/%E3%82%B3%E3%83%A2%E3%83%B3%E3%82%BA%E3%81%AE%E6%82%B2%E5%8A%87)",
+      "topics": [
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Word"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Word"
+      ],
+      "links": [
+        "ReadItLater",
+        "Article",
+        "Word"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[ReadItLater]] [[Article]] **consist of**:: [[Word]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/面白い数のパラドックス - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 11,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/遅延評価的勉強法.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/赤の女王仮説 - Wikipedia.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md": {
+      "id": "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md",
+      "path": "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md",
+      "title": "[ゴルディロックスの原理 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%AB%E3%83%87%E3%82%A3%E3%83%AD%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E5%8E%9F%E7%90%86)",
+      "topics": [
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Word"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Word"
+      ],
+      "links": [
+        "Word",
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Word]] [[ReadItLater]] [[Article]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/面白い数のパラドックス - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 11,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/遅延評価的勉強法.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/赤の女王仮説 - Wikipedia.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md": {
+      "id": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+      "path": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+      "title": "スマホと本は脳の使い方が違う",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**かぽ** @thecure2392 [2025-10-28](https://x.com/thecure2392/status/1983021053795303432) 知人がデジタルデトックスを始めてから格段に本が読めるようになったと言っていたが、脳の情報処理が切り替わったということだと思う。 スマホをたくさん見ている状態で本を読むというのは、読みやすい新書やエッセイのような軽い文体のものを除けば、相当な認知負荷に耐えられる人で...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の作る異本は生い立ち、教育、感じ方に影響を受ける.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人は知ってることしか見えない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md": {
+      "id": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+      "path": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+      "title": "ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章 前編",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章 前編",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> サンフェスの練習が始まってすぐは裏でよく泣いてました。成長するまでどうして待ってあげられないんだろう。北宇治は人数的には余裕があるのに、どうして音楽の楽しさを知る前に足を引っ張るなって怒られなきゃいけないんだろうって、そう思ったんです。ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにしろと怒られるのはちっとも楽しくないじゃないですか",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章 前編",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章 前編",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/ダイアン津田が個人でやっていて、しかも大成功している貿易.md": {
+      "id": "300_Input/Reading Notes/ダイアン津田が個人でやっていて、しかも大成功している貿易.md",
+      "path": "300_Input/Reading Notes/ダイアン津田が個人でやっていて、しかも大成功している貿易.md",
+      "title": "ダイアン津田が個人でやっていて、しかも大成功している貿易",
+      "topics": [
+        "Topic/Omoro"
+      ],
+      "tags": [
+        "🎁Topic/Omoro"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "【ダイアン津田が個人でやっていて、しかも大成功している貿易】 麦 ━━━━━▶︎ フランス 津田 ◀︎━━━━━ スー",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつの最高ステータス絶対「とくぼう」だろって直感で分かるとき.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ほうれん草の臭みは無く、.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ウォーリーを知らない状態でウォーリーを探せをやってる.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マックのポテトはマックのポテトってジャンル.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ローランドがやってる病院.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/全部意味ない、命削っただけ」←そもそも人生はそういうものでした.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/坂東of英二s.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md": {
+      "id": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+      "path": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+      "title": "[トラぺジウムが人生に残る大傑作だった｜ジスロマック](https://note.com/yomooog/n/nb42f8f92f104)",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life",
+        "Topic/Rhetoric",
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society",
+        "🎁Topic/Learning",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[ReadItLater]] [[Article]] なにか作品を見ても、**「これは自分にとって関係のないことだな」**と思ってしまう。ファンタジー、SF、お仕事もの……この世のあらゆるエンターテインメントは、人を気持ちよくさせるための娯楽装置として作られている。 だけど、そんな気持ちのいい作品を見るたび、心のどこかで「人生そんな上手くいかねーよ」と思ってしまう。だから、ずっと心のどこかで、なにもかもが「他人事」な気がしていた。あ...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 24,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/体調最悪でも2日寝てなくても友達に裏切られても女にフラれてもその中で 歯くいしばってひねり出した仕事がお前の実力のすべてだ。クソみたいな日にいいもんつくるのがプロだ。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/推しという言葉の違和感について - ChatGPT.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md": {
+      "id": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+      "path": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+      "title": "[パスカルの賭け - Wikipedia](https://ja.m.wikipedia.org/wiki/%E3%83%91%E3%82%B9%E3%82%AB%E3%83%AB%E3%81%AE%E8%B3%AD%E3%81%91)",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Learning",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Word"
+      ],
+      "links": [
+        "Word",
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Word]] [[ReadItLater]] [[Article]] **パスカルの賭け**（パスカルのかけ、[フランス語](https://ja.m.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E8%AA%9E \"フランス語\"): Pari de Pascal, [英](https://ja.m.wikipedia.org/wi...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 24,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 21,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/遅延評価的勉強法.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/ファンタジーは人間関係のブースター.md": {
+      "id": "300_Input/Reading Notes/ファンタジーは人間関係のブースター.md",
+      "path": "300_Input/Reading Notes/ファンタジーは人間関係のブースター.md",
+      "title": "ファンタジーは人間関係のブースター",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "thought",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "2026-04-15",
+        "会話を哲学する - 三木那由他",
+        "離席したら悪口を言われるのか、検証しました。"
+      ],
+      "fragment": "",
+      "memo": "2:33:00~\n- 優しさと誠実さは反比例する\n\t- 「一生大事にする」は優しいけど誠実じゃない\n\t- 優しさはその時の感情のため 誠実さは長期的な自律性のため\n\t- つまりフロントロードとスケーリングってこと\n\t\t- [[]]\n\n2:34:45~\n- 一緒に嘘を信じられるか\n\t- 「一生大事にする」「あなたしかいない」はファンタジー\n\t- 嘘を一緒に信じる人間関係は重い\n\t\t- コミュニケーション：発言を通じて話し手と聞き手で約束事を構築する営み\n\t\t\t- 話し手と聞き手で共通認識を作る\n\t\t\t- [[会話を哲学する - 三木那由他]]\n\t\t- スマイトファイト絶対勝てるからファイト見て\n\t\t\t- [LoL - げまげまDX練習初日からミクロもマクロもコールも完璧にこなすELに驚愕するじゃすぱー w/ EL sign たぬき忍者 らいじん Rainbrain - YouTube](https://youtu.be/HwUF2gGfTgU?si=ZbURopGEzAnebr0r)\n\t- 自分が信じているファンタジーを遂行する\n\t\t- 嘘を真実に近づけ続けることが向き合うということ\n\t\t- 言い換えると3,4/10くらいの気持ちを共有しあって10/10に近づけることができること",
+      "myTake": "",
+      "preview": "[[2026-04-15]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md": {
+      "id": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+      "path": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+      "title": "プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部、波乱の第二楽章 前編",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部、波乱の第二楽章 前編",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "彼女らへの認識を奏者から女子高生へ転換させる文章。\nこれをすごい滑らかに書くから現実の刹那性が漂ってて気持ちいい気がする。",
+      "myTake": "",
+      "preview": "> どこか満足そうな顔で、麗奈が眼差しを和らげる。同じ物語でも、受け取り方は千差万別だ。リズと青い鳥。最後には離れ離れになる二人の少女に、自分はどんな意味を見いだすのだろう。プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。 「あーあ、もったいない」 そう言って、葉月が揶揄するようにこちらを指差す。久美子はそれを指先で拾い上げると、そのまま口のなかに放り込んだ。三秒ルール、と麗奈が笑った...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/オーボエは息が余る.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しいなんてなあ、褒めるとこがないやつに言う台詞やろ？ うち、わかってんねん.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/恋人たちに残された時間は、未練を殺すには短すぎたが、将来を誓い合うには充分だった.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/プロはチェスの盤面を塊として記憶できる.md": {
+      "id": "300_Input/Reading Notes/プロはチェスの盤面を塊として記憶できる.md",
+      "path": "300_Input/Reading Notes/プロはチェスの盤面を塊として記憶できる.md",
+      "title": "プロはチェスの盤面を塊として記憶できる",
+      "topics": [
+        "Topic/Learning"
+      ],
+      "tags": [
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/隆-究極の鍛錬",
+      "sourceBook": "400_Kindle/隆-究極の鍛錬",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "相互関係を考慮できる",
+      "myTake": "",
+      "preview": "> 塊理論（chunk theory）という考え方を研究者が提唱した。被験者はいずれもおおよそ同じ数の塊の情報を記憶していた。素人にとっては、チェスの一マスに置かれた駒が一つの情報の塊だった。一方、何年にもわたり実戦での駒の動かし方を研究してきた達人にとっては、一つの塊ははるかに大きかった",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/すぐに役に立つものはすぐに役に立たなくなる.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/はじめて見る東京は、非常に非人間的なバカでかい町で….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md": {
+      "id": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+      "path": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+      "title": "マイナスをゼロにする努力は楽しくない",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Learning",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "成長論",
+        "Rhetoric"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "consist of:: [[成長論]] **Parent**:: [[Rhetoric]] サンフェスの練習が始まってすぐは裏でよく泣いてました。成長するまでどうして待ってあげられないんだろう。北宇治は人数的には余裕があるのに、どうして音楽の楽しさを知る前に足を引っ張るなって怒られなきゃいけないんだろうって、そう思ったんです。ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにしろと怒られるのはちっとも楽しくないじゃないですか —...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 17,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人は知ってることしか見えない.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/仲がいいと思っていたはずの友達がほかの子と座っていたり、順風満帆に座れるはずだった偶数グループが補助席のせいで分裂騒動を起こしたり.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/マックのポテトはマックのポテトってジャンル.md": {
+      "id": "300_Input/Reading Notes/マックのポテトはマックのポテトってジャンル.md",
+      "path": "300_Input/Reading Notes/マックのポテトはマックのポテトってジャンル.md",
+      "title": "マックのポテトはマックのポテトってジャンル",
+      "topics": [
+        "Topic/Omoro",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Rhetoric",
+        "🎁Topic/Omoro"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Omoro"
+      ],
+      "links": [
+        "Omoro"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Omoro]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Omoro",
+            "shared link: Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ほうれん草の臭みは無く、.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Omoro",
+            "shared link: Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ウォーリーを知らない状態でウォーリーを探せをやってる.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Omoro",
+            "shared link: Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつの最高ステータス絶対「とくぼう」だろって直感で分かるとき.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md": {
+      "id": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+      "path": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+      "title": "[モリヌークス問題 - Wikipedia](https://ja.m.wikipedia.org/wiki/%E3%83%A2%E3%83%AA%E3%83%8C%E3%83%BC%E3%82%AF%E3%82%B9%E5%95%8F%E9%A1%8C)",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Learning",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "ReadItLater",
+        "Article",
+        "Word"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[ReadItLater]] [[Article]] #scrap **Parent**:: [[Word]] [哲学上の未解決問題](https://ja.m.wikipedia.org/wiki/%E5%93%B2%E5%AD%A6%E4%B8%8A%E3%81%AE%E6%9C%AA%E8%A7%A3%E6%B1%BA%E5%95%8F%E9%A1%8C \"哲学上の未解決問題\") | 目が見えていなかった人間が視力を獲得した場...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 21,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 21,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+          "score": 16,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人は知ってることしか見えない.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/赤の女王仮説 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: ReadItLater"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/ランキング作ってみるの良さそう.md": {
+      "id": "300_Input/Reading Notes/ランキング作ってみるの良さそう.md",
+      "path": "300_Input/Reading Notes/ランキング作ってみるの良さそう.md",
+      "title": "ランキング作ってみるの良さそう",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Fleeting",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "もし僕がいま２５歳なら、こんな５０のやりたいことがある。 - 松浦弥太郎",
+        "2024-12-11",
+        "FleetingDB_card"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[もし僕がいま２５歳なら、こんな５０のやりたいことがある。 - 松浦弥太郎]]より 好きなイラストレーター 好きな時間 好きなブロガー --- [[2024-12-11]] ![[FleetingDB_card]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/感性の老いに打ち勝つ抽象化.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: 2024-12-11",
+            "shared link: FleetingDB_card"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/聞き飽きた言葉に納得感を与える力.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: 2024-12-11",
+            "shared link: FleetingDB_card"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/好きなものが明確になるとそれ以外のものを許容しにくくなる.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: FleetingDB_card"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/ローランドがやってる病院.md": {
+      "id": "300_Input/Reading Notes/ローランドがやってる病院.md",
+      "path": "300_Input/Reading Notes/ローランドがやってる病院.md",
+      "title": "ローランドがやってる病院",
+      "topics": [
+        "Topic/Omoro"
+      ],
+      "tags": [
+        "🎁Topic/Omoro"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "【ローランドがやってる病院】 俺科 俺以外科",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつの最高ステータス絶対「とくぼう」だろって直感で分かるとき.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ほうれん草の臭みは無く、.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ウォーリーを知らない状態でウォーリーを探せをやってる.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ダイアン津田が個人でやっていて、しかも大成功している貿易.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マックのポテトはマックのポテトってジャンル.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/全部意味ない、命削っただけ」←そもそも人生はそういうものでした.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/坂東of英二s.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md": {
+      "id": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+      "path": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+      "title": "一年という時間は、気弱な少女を強くするには充分な長さだった。",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部のホントの話",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部のホントの話",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 「でも、私やったら多分、そこまでして楽器やろうってならんやろうから。このサークルだって、途中で嫌になるかもしれへんし」 「それはそのときにならんとわからんやん。嫌になるときはあるかもしれんけど、やっててよかったって思うときもあるかもしれんし」 「晴香はあった？ 部長やっててよかったって思ったとき」 「あったよ、いっぱい」 晴香は即答した。その声音の力強さに、葵は圧倒された。その短い台詞には、自分自身を誇る気持ちが込められていた。一...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/恋人たちに残された時間は、未練を殺すには短すぎたが、将来を誓い合うには充分だった.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部のホントの話",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/打算を優しさと受け止められるのは、正直心地がいいものとは言えなかった.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部のホントの話",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/オーボエは息が余る.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しいなんてなあ、褒めるとこがないやつに言う台詞やろ？ うち、わかってんねん.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md": {
+      "id": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+      "path": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+      "title": "一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "子供としての感情を発露させるシーンと現実を突きつけるシーンのギャップがいいな",
+      "myTake": "",
+      "preview": "> 「滝先生が来て、この部活はめちゃくちゃ変わりました。みんな一生懸命やるようになって、いつの間にか北宇治も強豪校の仲間入りです。でも、大変なんはこれからやと思っています。多分来年から、みんなはいろいろなことを要求されるようになるでしょう。一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/時間の匂い.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/オーボエは息が余る.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。 2.md": {
+      "id": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。 2.md",
+      "path": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。 2.md",
+      "title": "三年生ほど滝先生を絶対視することはできない。 2",
+      "topics": [
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "一年生、二年生にとって、北宇治は入部した時点で強豪校なんです。私たちは北宇治が弱小だった時代を知らない。滝先生は確かに素晴らしい顧問だと思っていますが、でもきっと、三年生ほど滝先生を絶対視することはできない。それだけは、頭の片隅に留めておいてほしいんです — location: [3504](kindle://book?action=open&asin=B07T4PDDTB&location=3504) ^ref-16007 **co...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。立華にも、龍聖にも、どの学校にも。北宇治が一番やって言われたい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/冷めたフライドポテトをつまみ、優子はその端を小さくかじった。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md": {
+      "id": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+      "path": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+      "title": "三年生ほど滝先生を絶対視することはできない。",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章 前編",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章 前編",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 一年生、二年生にとって、北宇治は入部した時点で強豪校なんです。私たちは北宇治が弱小だった時代を知らない。滝先生は確かに素晴らしい顧問だと思っていますが、でもきっと、三年生ほど滝先生を絶対視することはできない。それだけは、頭の片隅に留めておいてほしいん",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章 前編",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章 前編",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/オーボエは息が余る.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しいなんてなあ、褒めるとこがないやつに言う台詞やろ？ うち、わかってんねん.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/恋人たちに残された時間は、未練を殺すには短すぎたが、将来を誓い合うには充分だった.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/不正確な認知は自己防衛のため.md": {
+      "id": "300_Input/Reading Notes/不正確な認知は自己防衛のため.md",
+      "path": "300_Input/Reading Notes/不正確な認知は自己防衛のため.md",
+      "title": "不正確な認知は自己防衛のため",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Knowledge",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "心理学をつくった実験30 - 大芦治",
+        "2023-08-15"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "--- ![[心理学をつくった実験30 - 大芦治#^62dbf9]] - **人間はコンピュータではない** - 外界に対する性格な認識をするのではなく、生きながら外界を認識する必要がある - うつ病などの精神的健康の低下は、このような自己防衛の機能が壊れてしまった結果ではないか - 都合の良い解釈は健康である証拠 - 事実に基づいた正確な解釈と、人間の認知機能に頼ったファジーな解釈をする場面を使い分ける必要がありそう - こんなこ...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/動機付けに重要なのは自分が環境をコントロールできているという認知.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: 心理学をつくった実験30 - 大芦治"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/学習の演繹的アプローチと帰納的アプローチ.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: 2023-08-15"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md": {
+      "id": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+      "path": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+      "title": "中世古さん、あなたがソロを吹きますか",
+      "topics": [
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Rhetoric",
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "Rhetoric",
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Rhetoric]] **consist of**:: [[MyFavorite武田綾乃]] 「中世古さん、あなたがソロを吹きますか？」 あちこちから息を呑む音が聞こえた。麗奈は大きく目を見開き、ひどく傷ついた顔をした。その瞳が、くしゃりとゆがむ。滝だってわかっているはずだ。麗奈と香織のあいだには、越えられない壁がそびえ立っていることを。抗議の意味を込めて、久美子は滝をにらみつける。それでも滝は表...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/月って欠けるから好きだな、とふと思う。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/未練を殺すには短すぎたが、将来を誓い合うには充分だった。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/中途半端な人生楽しい。.md": {
+      "id": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+      "path": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+      "title": "[🟩](https://twitter.com/U_1F7E9/status/1832620905144647750)",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life"
+      ],
+      "tags": [
+        "Scrap",
+        "🎁Topic/Life",
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Life"
+      ],
+      "links": [
+        "Life",
+        "ReadItLater",
+        "Tweet",
+        "でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Life]] [[ReadItLater]] [[Tweet]] > 働き始めてからこれやってるけど楽しい。 > 油絵ベース読書PCゲーム始めた。 > 油絵は3枚描いて、ベースはドレミファソラシドが弾けるようになった。全然向いてない。 > 積読は30冊くらいある。 > ゲームは難しくてほとんどクリアできてない。 > 中途半端な人生楽しい。 [https://t.co/uZntlvArCZ](htt...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/本には旬がある.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しい人だと思ったら、単に色々なものに無関心だった人.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/古いことをやめる方が圧倒的に労力がいる。.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を押し殺してる気配の強い人が遠巻きにされる世界.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: ReadItLater"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md": {
+      "id": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+      "path": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+      "title": "「あー、はいはい",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 「あー、はいはい。照れんでもいいって」 「うっざ！ ウザすぎ！」 露骨に嫌そうな顔をする夏紀に対し、優子は愉快そうに笑い声を上げた。緑色の廊下に、二人分の影が落ちる。それがひとつに重なるのを眺めながら、久美子はくすりと笑みをこぼし",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/オーボエは息が余る.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/時間を何倍にも濃縮したような沈黙.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/薄氷の上に立っているような、そんな気分.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しいなんてなあ、褒めるとこがないやつに言う台詞やろ？ うち、わかってんねん.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/井の中の蛙 世界が完結している.md": {
+      "id": "300_Input/Reading Notes/井の中の蛙 世界が完結している.md",
+      "path": "300_Input/Reading Notes/井の中の蛙 世界が完結している.md",
+      "title": "井の中の蛙 世界が完結している",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/辻村　深月-傲慢と善良",
+      "sourceBook": "400_Kindle/辻村　深月-傲慢と善良",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> この人たちは──世界が完結しているのだ。 自分の目に見える範囲にある情報がすべてで、その情報同士をつなぎあわせることには一生懸命だけど、そこの外に別の価値観や世界があることには気づかないし、興味もない。 ──井の中の 蛙、という言葉を思い出した。とても狭い範囲の常識と知識で生きている。",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md": {
+      "id": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+      "path": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+      "title": "人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society",
+        "Topic/Tech"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society",
+        "🎁Topic/Tech"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Life"
+      ],
+      "links": [
+        "Life"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Life]] **Shiro Kawai** @anohana [2024-12-07](https://x.com/anohana/status/1865493177219612688) LLMは原理的にhallucinationを避けられない、とする論文。 でも\"Phantoms in the Brain\"とか読んでると人間の脳も基本的にはhallucinateしまくってて、現実の制約(物理的...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/焼きなまし法的人生論.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/人の作る異本は生い立ち、教育、感じ方に影響を受ける.md": {
+      "id": "300_Input/Reading Notes/人の作る異本は生い立ち、教育、感じ方に影響を受ける.md",
+      "path": "300_Input/Reading Notes/人の作る異本は生い立ち、教育、感じ方に影響を受ける.md",
+      "title": "人の作る異本は生い立ち、教育、感じ方に影響を受ける",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/外山滋比古-異本論",
+      "sourceBook": "400_Kindle/外山滋比古-異本論",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "読者が作者になる(ピエールバイヤール)",
+      "myTake": "",
+      "preview": "> われわれはだれしも自分だけの異本をつくっている。ほかの人の異本とは多少ともかならず違っている。ひとりの人のつくる異本は、その人間の生い立ち、教育、ものの考え方、感じ方、生活の細部などによっても影響を受ける > 一般の文学作品についても、演劇の舞台と観客の関係に近いものが成立する。作品そのものは舞台に相当する。内のコンテクストである。読者はそれを文字を通してのぞく観客である。外のコンテクストに立っている。当然、わかりにくさを感じる。...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人は知ってることしか見えない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/人は知ってることしか見えない.md": {
+      "id": "300_Input/Reading Notes/人は知ってることしか見えない.md",
+      "path": "300_Input/Reading Notes/人は知ってることしか見えない.md",
+      "title": "[人は知ってることしか見えない](https://www.ki1tos.com/entry/2020/06/23/174141)",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "成長論"
+      ],
+      "links": [
+        "計測の科学 - ジェームズ・ヴィンセント 小坂恵理",
+        "成長論",
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[計測の科学 - ジェームズ・ヴィンセント 小坂恵理]] 自分の中で計測できるものしか見ないってこと **consist of**:: [[成長論]] [[ReadItLater]] [[Article]] ![f:id:kitos:20200616132753j:plain](https://cdn-ak.f.st-hatena.com/images/fotolife/k/kitos/20200616/20200616132753...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/学びのプロセスは3次元.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: 成長論",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分の頭でじっくり考え抜いた知識の方が、はるかに価値がある.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: 成長論",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: ReadItLater"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/人は簡単に測定できる要素に注目することで問題を単純化する.md": {
+      "id": "300_Input/Reading Notes/人は簡単に測定できる要素に注目することで問題を単純化する.md",
+      "path": "300_Input/Reading Notes/人は簡単に測定できる要素に注目することで問題を単純化する.md",
+      "title": "人は簡単に測定できる要素に注目することで問題を単純化する",
+      "topics": [
+        "Topic/Society",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Society",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/ジェリー・Z・ミュラー、松本裕-測りすぎ――なぜパフォーマンス評価は失敗するのか？",
+      "sourceBook": "400_Kindle/ジェリー・Z・ミュラー、松本裕-測りすぎ――なぜパフォーマンス評価は失敗するのか？",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "見た目とかとか",
+      "myTake": "",
+      "preview": "> 人間には、もっとも簡単に測定できる要素に焦点を絞ることで問題を単純化するという性質がある（１）。だがもっとも簡単に測定できるものがもっとも重要なものであることはまれで、実際にはまったく重要ではない場合がある。これが、測定基準の欠陥の中で第一の要因だ。 > 求められる成果が複雑なものなのに、簡単なものしか測定しない というものだ。ほとんどの仕事には複数の責任が伴い、ほとんどの組織には複数の目標がある。たったひとつの責任または目標に測...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/理想の選び方によっては、問題を拡大再生産する.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/遅延評価的勉強法.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則」と呼ばれるようになったそのパター….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same source: 400_Kindle/ジェリー・Z・ミュラー、松本裕-測りすぎ――なぜパフォーマンス評価は失敗するのか？"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/測定執着とは、それが実践されたときに意図せぬ好まし….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same source: 400_Kindle/ジェリー・Z・ミュラー、松本裕-測りすぎ――なぜパフォーマンス評価は失敗するのか？"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/[[アンナ・カレーニナの法則 - Wikipedia]].md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/make senceって感じ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md": {
+      "id": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+      "path": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+      "title": "[人付き合いって大事かなと思ったら読みたい3冊](https://honeshabri.hatenablog.com/entry/networking_and_success)",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life",
+        "Topic/Omoro",
+        "Topic/Rhetoric",
+        "Topic/Society",
+        "Topic/Tech"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society",
+        "🎁Topic/Learning",
+        "🎁Topic/Tech",
+        "🎁Topic/Rhetoric",
+        "🎁Topic/Omoro"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[ReadItLater]] [[Article]] 人付き合いは大切だと言われるが、実際どれくらい大切なのか。 俺みたいなタイプは知識として教えて欲しい。 人脈と成功の本はこれを読め。 ## やっぱり人脈か 学生時代に触れた言葉で印象に残っているものがある。それは**「人・本・旅」**だ。ライフネット生命の**出口治明**の言葉で、彼は人間が学ぶ方法はこの3つだと常々言っている[\\*1](https://honeshabri.ha...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 29,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech",
+            "shared link: Article"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+          "score": 25,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 24,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分のやりたいことを正確に把握するのは難しい.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/体調最悪でも2日寝てなくても友達に裏切られても女にフラれてもその中で 歯くいしばってひねり出した仕事がお前の実力のすべてだ。クソみたいな日にいいもんつくるのがプロだ。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/人間に社会が期待していることと人間らしさの相反.md": {
+      "id": "300_Input/Reading Notes/人間に社会が期待していることと人間らしさの相反.md",
+      "path": "300_Input/Reading Notes/人間に社会が期待していることと人間らしさの相反.md",
+      "title": "人間に社会が期待していることと人間らしさの相反",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/外山滋比古-異本論",
+      "sourceBook": "400_Kindle/外山滋比古-異本論",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "人間に社会が期待していることと人間らしさの相反",
+      "myTake": "",
+      "preview": "> 外界のものが人間の頭を通過すればそこに必ず何らかの変化がおこる。入るときと、出るときがまったく同じであれば、その人間は人間として生きていないことになる。人間の人間らしさは新しいコピーをつくることにあるのであって、それは自覚していないことの方が多いが、とにかく、人間は原形をそのまま伝承するには適していない",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md": {
+      "id": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+      "path": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+      "title": "[後藤友洋](https://twitter.com/chiro51/status/1822196444033343770)",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "Scrap",
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Life",
+        "Society"
+      ],
+      "links": [
+        "ReadItLater",
+        "Tweet",
+        "Life",
+        "Society"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[ReadItLater]] [[Tweet]] **consist of**:: [[Life]] **consist of**:: [[Society]] > これは本当にその通りで、今や外見の良さも「努力の証」として能力主義的に評価されていることは、SNSのかわいい女の子の写真に「たくさん努力したんだろうな」というコメントが多数観測されることからもわかる。逆にいえば、今までは軽蔑すべき行為として控えられていた外見の悪さへの言及...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared consist of: Society",
+            "shared link: Life",
+            "shared link: Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/本音重視が暴力の美化や正当化につながる.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Society",
+            "shared link: ReadItLater",
+            "shared link: Society",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいる.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Society",
+            "shared link: ReadItLater",
+            "shared link: Society",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/焼きなまし法的人生論.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/個人主義は自己責任論を増強する.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しい人だと思ったら、単に色々なものに無関心だった人.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/古いことをやめる方が圧倒的に労力がいる。.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/成果主義は頑張ったアピールをしないと切られるルール.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/他人が天才だと思うのは1番手前の箱しか見ていないから.md": {
+      "id": "300_Input/Reading Notes/他人が天才だと思うのは1番手前の箱しか見ていないから.md",
+      "path": "300_Input/Reading Notes/他人が天才だと思うのは1番手前の箱しか見ていないから.md",
+      "title": "他人が天才だと思うのは1番手前の箱しか見ていないから",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "人は知ってることしか見えない"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "- 他人の活動をみて「自分には思いつかないな、彼は天才なのかもしれないな」と思うことがあるかもしれません。それは、あなたが1番手前の箱しか見ていないからそう感じるのです #Scrap [[人は知ってることしか見えない]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/他人が欲しがっているから、持っているから　自分も欲しいと錯覚する。｜Ferica.md": {
+      "id": "300_Input/Reading Notes/他人が欲しがっているから、持っているから　自分も欲しいと錯覚する。｜Ferica.md",
+      "path": "300_Input/Reading Notes/他人が欲しがっているから、持っているから　自分も欲しいと錯覚する。｜Ferica.md",
+      "title": "他人が欲しがっているから、持っているから　自分も欲しいと錯覚する。｜Ferica",
+      "topics": [
+        "Topic/Life",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "![見出し画像](https://assets.st-note.com/production/uploads/images/168427144/rectangle_large_type_2_770a988087eea08e05a58780f24a0bfd.jpeg?width=1200) ## 他人が欲しがっているから、持っているから 自分も欲しいと錯覚する。 [Ferica](https://note.com/asap) ## いい...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/末席を汚す.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/管見.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自由意志があるフリをしろ.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/赤の女王仮説 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/仲がいいと思っていたはずの友達がほかの子と座っていたり、順風満帆に座れるはずだった偶数グループが補助席のせいで分裂騒動を起こしたり.md": {
+      "id": "300_Input/Reading Notes/仲がいいと思っていたはずの友達がほかの子と座っていたり、順風満帆に座れるはずだった偶数グループが補助席のせいで分裂騒動を起こしたり.md",
+      "path": "300_Input/Reading Notes/仲がいいと思っていたはずの友達がほかの子と座っていたり、順風満帆に座れるはずだった偶数グループが補助席のせいで分裂騒動を起こしたり.md",
+      "title": "仲がいいと思っていたはずの友達がほかの子と座っていたり、順風満帆に座れるはずだった偶数グループが補助席のせいで分裂騒動を起こしたり",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "Rhetoric"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**Parent**:: [[Rhetoric]] 仲がいいと思っていたはずの友達がほかの子と座っていたり、順風満帆に座れるはずだった偶数グループが補助席のせいで分裂騒動を起こしたりと、なんでもないように見える日常の風景のなかにはドロドロとしたドラマが潜んでいる。こういうところを見ると、久美子はいつも自分が学生であることにうんざりする — location: [1301](kindle://book?action=open&asin=...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/情報を集めれば理屈で答えが出せるのが判断、情報を集めることができない中で答えを出さないといけないのが決断.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/無理だって言われていちいち諦めてたら……誰も何もできねぇだろ…!!!オレは…何かになるんだ…何かにならなきゃ…退屈で生きていけねぇよ….md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/会話のエンゲージは持ち物を褒めるが最強.md": {
+      "id": "300_Input/Reading Notes/会話のエンゲージは持ち物を褒めるが最強.md",
+      "path": "300_Input/Reading Notes/会話のエンゲージは持ち物を褒めるが最強.md",
+      "title": "会話のエンゲージは持ち物を褒めるが最強",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Knowledge",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "2024-05-29"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "--- 2024/5/25のBBQで強く感じた。 女性は特に、持ち物や身だしなみを褒めて話し始める傾向があった。 ネイル、髪色、ヘッドホンなど 相当な陰でない限り、人に見られることを意識して身だしなみを考えるため、そこを褒めて嫌がる人は少ない。 [[2024-05-29]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/体内の宗教.md": {
+      "id": "300_Input/Reading Notes/体内の宗教.md",
+      "path": "300_Input/Reading Notes/体内の宗教.md",
+      "title": "体内の宗教",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "sourceBook": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 体内の宗教が同じ人の死は、当人の死のみに収束しない。その死は、同じ宗教の他者を殺すことでもある。 翻って、宗教が同じ人が心身共に健康で生きているというだけで、手放しそうになる明日を手繰り寄せられるときがある。その人が生きている世界なら自分も生きていけるのかもしれないと、そう信じられる瞬間が確かにある。",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その言葉の持つ響きは、除夜の鐘が百八回分まとめて鳴らされたかのように巨大だった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/多様性とは、都合よく使える美しい言葉ではない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/彼氏彼女と言わずに大切な人と呼んでいる等という小手先の言葉選びによる多様性の尊重が礼賛される時代.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/思想や情動も論理で説明できると思っている人たちが打ち立てる規制は、生身の人間の内側にはいつまで経っても到達しない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/沈黙は彫刻刀に似ている.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/誰かに名付けられている苦しみがこの世界の全てだと思っているそのおめでたい考え方が 羨ましい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/体調最悪でも2日寝てなくても友達に裏切られても女にフラれてもその中で 歯くいしばってひねり出した仕事がお前の実力のすべてだ。クソみたいな日にいいもんつくるのがプロだ。.md": {
+      "id": "300_Input/Reading Notes/体調最悪でも2日寝てなくても友達に裏切られても女にフラれてもその中で 歯くいしばってひねり出した仕事がお前の実力のすべてだ。クソみたいな日にいいもんつくるのがプロだ。.md",
+      "path": "300_Input/Reading Notes/体調最悪でも2日寝てなくても友達に裏切られても女にフラれてもその中で 歯くいしばってひねり出した仕事がお前の実力のすべてだ。クソみたいな日にいいもんつくるのがプロだ。.md",
+      "title": "体調最悪でも2日寝てなくても友達に裏切られても女にフラれてもその中で 歯くいしばってひねり出した仕事がお前の実力のすべてだ。クソみたいな日にいいもんつくるのがプロだ。",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric",
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "仕事論"
+      ],
+      "links": [
+        "仕事論",
+        "IMG_3595.png"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[仕事論]] ![[IMG_3595.png]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/成果主義は頑張ったアピールをしないと切られるルール.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: 仕事論",
+            "shared link: 仕事論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/推しという言葉の違和感について - ChatGPT.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/何の役に立つのかと問う前に自分の価値観が正しいかを疑え.md": {
+      "id": "300_Input/Reading Notes/何の役に立つのかと問う前に自分の価値観が正しいかを疑え.md",
+      "path": "300_Input/Reading Notes/何の役に立つのかと問う前に自分の価値観が正しいかを疑え.md",
+      "title": "何の役に立つのかと問う前に自分の価値観が正しいかを疑え",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/内田樹-下流志向　学ばない子どもたち　働かない若者たち",
+      "sourceBook": "400_Kindle/内田樹-下流志向　学ばない子どもたち　働かない若者たち",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 「何の役に立つのか？」という問いを立てる人は、ことの有用無用についてのその人自身の価値観の正しさをすでに自明の前提にしています。有用であると「私」が決定したものは有用であり、無用であると「私」が決定したものは無用である",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md": {
+      "id": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+      "path": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+      "title": "何一つ悪と見なさない人間にとって、善もまた存在しない",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society",
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Life"
+      ],
+      "links": [
+        "読書について他二篇 - ショウペンハウエルA",
+        "Life"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "だが今や、ほとんどの本は悪書で、書かなければよかったのにと思われるものばかりだ。したがってめったなことで褒めてはいけない。 ちょうど現代では対人関係を気づかい、金言「お仲間になって褒めたたえなさい。そうすれば、君がその場にいなくても褒めてもらえる」（ホラティウス（14）『風刺詩』二、五、七二）に感化されて、めったなことでけなさないように。 社会では、いたるところにうごめく頭の鈍い能無しに対して寛容でなければならないが、この寛容の精神を...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/本には旬がある.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/焼きなまし法的人生論.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/何故ホモソ批判はガバガバになってしまうのか｜さいたま.md": {
+      "id": "300_Input/Reading Notes/何故ホモソ批判はガバガバになってしまうのか｜さいたま.md",
+      "path": "300_Input/Reading Notes/何故ホモソ批判はガバガバになってしまうのか｜さいたま.md",
+      "title": "[何故ホモソ批判はガバガバになってしまうのか｜さいたま](https://note.com/meisounote/n/nf39c80d80df4)",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "ジェンダー論"
+      ],
+      "links": [
+        "ジェンダー論",
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[ジェンダー論]] [[ReadItLater]] [[Article]] [女性＝サイコパス説｜rei](https://note.com/beatangel/n/n0cfb0cbe8c71) [https://b.hatena.ne.jp/entry/s/note.com/beatangel/n/n0cfb0cbe8c71](https://b.hatena.ne.jp/entry/s/note...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分のやりたいことを正確に把握するのは難しい.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/個人主義は自己責任論を増強する.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/成果主義は頑張ったアピールをしないと切られるルール.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/本音重視が暴力の美化や正当化につながる.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいる.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/個人主義は自己責任論を増強する.md": {
+      "id": "300_Input/Reading Notes/個人主義は自己責任論を増強する.md",
+      "path": "300_Input/Reading Notes/個人主義は自己責任論を増強する.md",
+      "title": "[たぬき](https://twitter.com/tanuki0818yn/status/1821432427778310264)",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "ReadItLater",
+        "Tweet"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[ReadItLater]] [[Tweet]] > 私はめちゃくちゃ個人主義的な人間で、権威に懐疑的で個人の尊厳や意思を何より重視したいと思っているけど、こういう考えが権威に都合のよい自己責任論に絡めとられやすく、とにかく「人に迷惑をかける他者」に厳しい視線を育てやすいということを、最近よく考える。 > > — たぬき (@tanuki0818yn) [August 8, 2024](https://twitter.com/tan...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/成果主義は頑張ったアピールをしないと切られるルール.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/本音重視が暴力の美化や正当化につながる.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいる.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何故ホモソ批判はガバガバになってしまうのか｜さいたま.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分のやりたいことを正確に把握するのは難しい.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/優しいなんてなあ、褒めるとこがないやつに言う台詞やろ？ うち、わかってんねん.md": {
+      "id": "300_Input/Reading Notes/優しいなんてなあ、褒めるとこがないやつに言う台詞やろ？ うち、わかってんねん.md",
+      "path": "300_Input/Reading Notes/優しいなんてなあ、褒めるとこがないやつに言う台詞やろ？ うち、わかってんねん.md",
+      "title": "優しいなんてなあ、褒めるとこがないやつに言う台詞やろ？ うち、わかってんねん",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部へようこそ",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部へようこそ",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 「小笠原部長だって、あすか先輩にはないいいところをたくさん持ってますよ。私たち後輩は、みんなちゃんと知ってます」 「じゃあそれを言ってみいや！」 感動して納得してくれると思いきや、予想外の反応をされた。 「そ、それはですね……」 久美子の口端がひくりと引きつる。 「ほら、先輩って気配りもできて優しいし、」 「ほかには？」 「ほかには……ほら、後輩にもちゃんと挨拶してくれるし、優しいじゃないですか」 「ほかには？」 「え……あ！ あ...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部へようこそ",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/オーボエは息が余る.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/恋人たちに残された時間は、未練を殺すには短すぎたが、将来を誓い合うには充分だった.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/優しい人だと思ったら、単に色々なものに無関心だった人.md": {
+      "id": "300_Input/Reading Notes/優しい人だと思ったら、単に色々なものに無関心だった人.md",
+      "path": "300_Input/Reading Notes/優しい人だと思ったら、単に色々なものに無関心だった人.md",
+      "title": "[九月の『読む』ラジオ](https://twitter.com/kugatsu_readio/status/1832010627663249495)",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Scrap",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Life"
+      ],
+      "links": [
+        "ReadItLater",
+        "Tweet",
+        "Life"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[ReadItLater]] [[Tweet]] **consist of**:: [[Life]] > あー、これあるよな。「優しい人だと思ったら、単に色々なものに無関心だった人」のパターンな。「実家のカレーが何肉か答えられない」ってエピソードはかなり的確だ。 > > だいたいどういう問題があって、普段どんな感じなのかがありありと見えた。なるほどな。… [pic.twitter.com/eccJOXs8eM](https://t....",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/古いことをやめる方が圧倒的に労力がいる。.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を押し殺してる気配の強い人が遠巻きにされる世界.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/動機付けに重要なのは自分が環境をコントロールできているという認知.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/己の非力を痛感できる強さ、絶望する才能.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/全部意味ない、命削っただけ」←そもそも人生はそういうものでした.md": {
+      "id": "300_Input/Reading Notes/全部意味ない、命削っただけ」←そもそも人生はそういうものでした.md",
+      "path": "300_Input/Reading Notes/全部意味ない、命削っただけ」←そもそも人生はそういうものでした.md",
+      "title": "全部意味ない、命削っただけ」←そもそも人生はそういうものでした",
+      "topics": [
+        "Topic/Life",
+        "Topic/Omoro"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Omoro"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**UⅠ** @U1\\_oz3 2025-06-05 「全部意味ない、命削っただけ」←そもそも人生はそういうものでした > 2025-06-05 > > バス代ケチってチャリで大学に来るも、片道30分は無謀。光の強さと気温でぐったりちゃって一限ブッチ。全部意味ない、命削っただけ",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分のやりたいことを正確に把握するのは難しい.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md": {
+      "id": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+      "path": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+      "title": "[公正世界仮説 - Wikipedia](https://ja.wikipedia.org/wiki/%E5%85%AC%E6%AD%A3%E4%B8%96%E7%95%8C%E4%BB%AE%E8%AA%AC)",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life",
+        "Topic/Society",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society",
+        "🎁Topic/Learning",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Word"
+      ],
+      "links": [
+        "Word",
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Word]] [[ReadItLater]] [[Article]] **公正世界仮説**（こうせいせかいかせつ、**just-world hypothesis**）または**公正世界誤謬**（こうせいせかいごびゅう、**just-world fallacy**）とは、人間の行いに対して公正な結果が返ってくるものである、と考える[認知バイアス](https://ja.wikipedia.org/w...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 24,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 21,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/遅延評価的勉強法.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/共依存の共依存たる所以は依存される側にもある.md": {
+      "id": "300_Input/Reading Notes/共依存の共依存たる所以は依存される側にもある.md",
+      "path": "300_Input/Reading Notes/共依存の共依存たる所以は依存される側にもある.md",
+      "title": "共依存の共依存たる所以は依存される側にもある",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/渡航、ぽんかん(8)-やはり俺の青春ラブコメはまちがっている。12",
+      "sourceBook": "400_Kindle/渡航、ぽんかん(8)-やはり俺の青春ラブコメはまちがっている。12",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 共依存の共依存たる 所以 は依存する側だけにあるのではなく、依存される側のほうにもあるのだと。 曰く、他者に必要とされることで自分の存在価値を 見 出だし、満足感や安心感を得ていると。",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/後先考えず動けるほど幼くはないし、全てを受け止め切れるほど大人ではない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/渡航、ぽんかん(8)-やはり俺の青春ラブコメはまちがっている。12"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/具体的な目標を設定してから人と会う.md": {
+      "id": "300_Input/Reading Notes/具体的な目標を設定してから人と会う.md",
+      "path": "300_Input/Reading Notes/具体的な目標を設定してから人と会う.md",
+      "title": "具体的な目標を設定してから人と会う",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life"
+      ],
+      "tags": [
+        "Knowledge",
+        "🎁Topic/Life",
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "2024-04-24",
+        "個人コミュニケーションKPI"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "--- [[2024-04-24]] [[個人コミュニケーションKPI]] > 色々話した結果、才能がなければコミュニケーションを分解して単純なKPIにしてそれを達成しに行くというのがよいという結論にたどり着いた。 > たとえば、「この懇親会ではこの人に話してこの過去の資料の感想を伝える」とか。そこまでブレイクダウンできていれば自分でもできそうに思えた。できた / できなかったの基準も明確である。 誰かと会う予定があるときは、上記のよ...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の作る異本は生い立ち、教育、感じ方に影響を受ける.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/内なる欲求が活発になったタイミングの知識は二度と消えない.md": {
+      "id": "300_Input/Reading Notes/内なる欲求が活発になったタイミングの知識は二度と消えない.md",
+      "path": "300_Input/Reading Notes/内なる欲求が活発になったタイミングの知識は二度と消えない.md",
+      "title": "内なる欲求が活発になったタイミングの知識は二度と消えない",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "成長論"
+      ],
+      "links": [
+        "成長論"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "ちょうど内なる欲求が活発になった絶好のタイミングであらわれたものなので、しっかり根をおろし、二度と消えることはない — location: [66](kindle://book?action=open&asin=B015F4CCQA&location=66) ^ref-31113 #Scrap めちゃくちゃ良いこと言うじゃん **consist of**:: [[成長論]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/人は知ってることしか見えない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: 成長論",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/学びのプロセスは3次元.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: 成長論",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/己の非力を痛感できる強さ、絶望する才能.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: 成長論",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分の頭でじっくり考え抜いた知識の方が、はるかに価値がある.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: 成長論",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: 成長論",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/冷めたフライドポテトをつまみ、優子はその端を小さくかじった。.md": {
+      "id": "300_Input/Reading Notes/冷めたフライドポテトをつまみ、優子はその端を小さくかじった。.md",
+      "path": "300_Input/Reading Notes/冷めたフライドポテトをつまみ、優子はその端を小さくかじった。.md",
+      "title": "冷めたフライドポテトをつまみ、優子はその端を小さくかじった。",
+      "topics": [
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "冷めたフライドポテトをつまみ、優子はその端を小さくかじった。しなしなになったポテトの油が敷かれた紙に染みている。まどろっこしい食べ方だな、と夏紀はフンと鼻を鳴らす。三本ほどポテトをつかみ、大口を開けてなかへ放り込む。 — location: [2834](kindle://book?action=open&asin=B08R3NMW4F&location=2834) ^ref-44176 **consist of**:: [[MyFa...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。立華にも、龍聖にも、どの学校にも。北宇治が一番やって言われたい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。 2.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/出たいかどうかと出られるかどうかは別の話だと私は思うけど.md": {
+      "id": "300_Input/Reading Notes/出たいかどうかと出られるかどうかは別の話だと私は思うけど.md",
+      "path": "300_Input/Reading Notes/出たいかどうかと出られるかどうかは別の話だと私は思うけど.md",
+      "title": "出たいかどうかと出られるかどうかは別の話だと私は思うけど",
+      "topics": [
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "「出たいかどうかと出られるかどうかは別の話だと私は思うけど」 たとえそれらが別問題だとしても、結局出られないのならば考えたって意味がないと思う。だが、それを目の前にいる先輩に告げるのは憚られた。 — location: [725](kindle://book?action=open&asin=B08R3NMW4F&location=725) ^ref-12070 **consist of**:: [[MyFavorite武田綾乃]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。立華にも、龍聖にも、どの学校にも。北宇治が一番やって言われたい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。 2.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/出遅れた夏紀はとりあえずピースすることにした。.md": {
+      "id": "300_Input/Reading Notes/出遅れた夏紀はとりあえずピースすることにした。.md",
+      "path": "300_Input/Reading Notes/出遅れた夏紀はとりあえずピースすることにした。.md",
+      "title": "出遅れた夏紀はとりあえずピースすることにした。",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "あの日、廊下で待ち構えていた三人に向かってみぞれが放ったのは「受かった」というシンプルなひと言だけだった。優子はなぜか泣き、希美は大人びた笑みをたたえてみぞれの背中をなでた。出遅れた夏紀はとりあえずピースすることにした。 — location: [1313](kindle://book?action=open&asin=B08R3NMW4F&location=1313) ^ref-15066 **consist of**:: [[My...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。 2.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか 2.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/結果が出えへんかったら、努力ってなかったことにされてしまうん？　あのときのうちらの演奏、ほんまにほかの金賞の学校より劣ってた？.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/創造性は社会的な創造性と日常的な気づきの2種類がある.md": {
+      "id": "300_Input/Reading Notes/創造性は社会的な創造性と日常的な気づきの2種類がある.md",
+      "path": "300_Input/Reading Notes/創造性は社会的な創造性と日常的な気づきの2種類がある.md",
+      "title": "創造性は社会的な創造性と日常的な気づきの2種類がある",
+      "topics": [
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Society"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/豊-人工知能は人間を超えるか",
+      "sourceBook": "400_Kindle/豊-人工知能は人間を超えるか",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> よく創造性がコンピュータで実現できるかと聞かれるが、創造性というのは、２つの意味があり、区別しなければならない。１つは個人の中で日常的に起こっている創造性で、もう１つは社会的な創造性である。 概念の獲得、あるいは特徴量の獲得は創造性そのものである。個人の内部で日常的に起こっているので、特に創造的であるとは思わないかもしれないが、あることに「気づく」のは創造的な行為である",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/だけど四十代も後半を迎えた今、還ってきているのは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/動機付けに重要なのは自分が環境をコントロールできているという認知.md": {
+      "id": "300_Input/Reading Notes/動機付けに重要なのは自分が環境をコントロールできているという認知.md",
+      "path": "300_Input/Reading Notes/動機付けに重要なのは自分が環境をコントロールできているという認知.md",
+      "title": "動機付けに重要なのは自分が環境をコントロールできているという認知",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Knowledge",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Life"
+      ],
+      "links": [
+        "心理学をつくった実験30 - 大芦治",
+        "Life",
+        "2023-09-18"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "--- 参考：[[心理学をつくった実験30 - 大芦治]] ![[心理学をつくった実験30 - 大芦治#デシの内発的動機付け]] 2023.09現在特に苦しさを感じずになんとなく楽しく生きることができているのは、自分で普段の生活をコントロールできている自覚があるからではないか。 収入は十分ではなく、月2, 3万円の貯金ができれば良い方という状態ではあるが、どのように時間を使うかをなんとなくコントロールできている気がする。 年収がいくら...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しい人だと思ったら、単に色々なものに無関心だった人.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/古いことをやめる方が圧倒的に労力がいる。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/己の非力を痛感できる強さ、絶望する才能.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/情報を集めれば理屈で答えが出せるのが判断、情報を集めることができない中で答えを出さないといけないのが決断.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/古いことをやめる方が圧倒的に労力がいる。.md": {
+      "id": "300_Input/Reading Notes/古いことをやめる方が圧倒的に労力がいる。.md",
+      "path": "300_Input/Reading Notes/古いことをやめる方が圧倒的に労力がいる。.md",
+      "title": "[東畑 開人　『雨の日の心理学』](https://twitter.com/ktowhata/status/1832282926257729829)",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Scrap",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Life"
+      ],
+      "links": [
+        "ReadItLater",
+        "Tweet",
+        "Life"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[ReadItLater]] [[Tweet]] **consist of**:: [[Life]] > ベルギーのビルボールドに住んでいて、香港で生活したいと思っている人にとって、一番難しいのは、香港に行くことではない。ビルボールドを離れることである。 > ジャック・ブレル > 含蓄がある。新しいことを始めるよりも、古いことをやめる方が圧倒的に労力がいる。 [pic.twitter.com/vY5esKuDsP](https://...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しい人だと思ったら、単に色々なものに無関心だった人.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を押し殺してる気配の強い人が遠巻きにされる世界.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/動機付けに重要なのは自分が環境をコントロールできているという認知.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/己の非力を痛感できる強さ、絶望する才能.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/坂東of英二s.md": {
+      "id": "300_Input/Reading Notes/坂東of英二s.md",
+      "path": "300_Input/Reading Notes/坂東of英二s.md",
+      "title": "坂東of英二s",
+      "topics": [
+        "Topic/Omoro"
+      ],
+      "tags": [
+        "🎁Topic/Omoro"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "ロッドオブエイジスじゃなくて\"板東of○二s\"が存在している前提で話が進み、 架空のマージンから板東○二の分間CSを計算したのちに、「こんな組合せどうでしょうか?」っていうデュオ提案をしてくるのかと思いきや、 本当に架空の話を共有してきただけの怪文書でマジで神すぎる ![画像](https://pbs.twimg.com/media/HII29quaQAAwjmt?format=png&name=large)",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつの最高ステータス絶対「とくぼう」だろって直感で分かるとき.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ほうれん草の臭みは無く、.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ウォーリーを知らない状態でウォーリーを探せをやってる.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ダイアン津田が個人でやっていて、しかも大成功している貿易.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マックのポテトはマックのポテトってジャンル.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ローランドがやってる病院.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/全部意味ない、命削っただけ」←そもそも人生はそういうものでした.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/夏紀だって一度はなってみたい、学校が好きな人間に.md": {
+      "id": "300_Input/Reading Notes/夏紀だって一度はなってみたい、学校が好きな人間に.md",
+      "path": "300_Input/Reading Notes/夏紀だって一度はなってみたい、学校が好きな人間に.md",
+      "title": "夏紀だって一度はなってみたい、学校が好きな人間に",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "目を閉じると、瞼の裏に希美の後ろ姿が浮かぶ。揺れるポニーテール。 踵 を最初につける、快活な歩き方。彼女のような人生を送ってみたいと少しだけ思う。夏紀だって一度はなってみたい、学校が好きな人間に — location: [428](kindle://book?action=open&asin=B08R3NMW4F&location=428) ^ref-45485 **consist of**:: [[MyFavorite武田綾乃]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/出遅れた夏紀はとりあえずピースすることにした。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。 2.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/毎日は種まきみたいなもので、未来の楽しみをいっぱいいろんなとこに埋めてるんやろうなって.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか 2.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/結果が出えへんかったら、努力ってなかったことにされてしまうん？　あのときのうちらの演奏、ほんまにほかの金賞の学校より劣ってた？.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/外見の美しさは分かりやすいが、内面を何をもって美しいとするか謎.md": {
+      "id": "300_Input/Reading Notes/外見の美しさは分かりやすいが、内面を何をもって美しいとするか謎.md",
+      "path": "300_Input/Reading Notes/外見の美しさは分かりやすいが、内面を何をもって美しいとするか謎.md",
+      "title": "[Oda's🦚Kammer](https://twitter.com/OcciDentArs/status/1822470361746919647)",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "ReadItLater",
+        "Tweet"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[ReadItLater]] [[Tweet]] > 「心の美しさをどこかに置いてきてしまったら人間おしまい」と宣う部分には同意できないが。ひとは皆、過去の言説の積み重ねの構造の中で、何が「美しい」と思うか、その判断基準を予め強い力で規定されている世の中に投げだされている。外見の方がその力は強いが、内面も何をもって美しいとするか謎。 [https://t.co/1RdzIQB5mN](https://t.co/1RdzIQB5mN)...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/個人主義は自己責任論を増強する.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しい人だと思ったら、単に色々なものに無関心だった人.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/古いことをやめる方が圧倒的に労力がいる。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/成果主義は頑張ったアピールをしないと切られるルール.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/本音重視が暴力の美化や正当化につながる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/能力や知識を持ってることの義務化と前提化.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を押し殺してる気配の強い人が遠巻きにされる世界.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/多様性とは、都合よく使える美しい言葉ではない。.md": {
+      "id": "300_Input/Reading Notes/多様性とは、都合よく使える美しい言葉ではない。.md",
+      "path": "300_Input/Reading Notes/多様性とは、都合よく使える美しい言葉ではない。.md",
+      "title": "多様性とは、都合よく使える美しい言葉ではない。",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "sourceBook": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 夏月は思う。 多様性とは、都合よく使える美しい言葉ではない。自分の想像力の限界を突き付けられる言葉のはずだ。時に吐き気を催し、時に目を瞑りたくなるほど、自分にとって都合の悪いものがすぐ傍で呼吸していることを思い知らされる言葉のはずだ。 > こっちはそんな、一緒に乗り越えよう、みたいな殊勝な態度でどうにかなる世界にいない。マイノリティを利用するだけ利用したドラマでこれが多様性だとか令和だとか盛り上がれるようなおめでたい人生じゃない。...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その言葉の持つ響きは、除夜の鐘が百八回分まとめて鳴らされたかのように巨大だった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/体内の宗教.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/彼氏彼女と言わずに大切な人と呼んでいる等という小手先の言葉選びによる多様性の尊重が礼賛される時代.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/思想や情動も論理で説明できると思っている人たちが打ち立てる規制は、生身の人間の内側にはいつまで経っても到達しない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/沈黙は彫刻刀に似ている.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/誰かに名付けられている苦しみがこの世界の全てだと思っているそのおめでたい考え方が 羨ましい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/好きなものが明確になるとそれ以外のものを許容しにくくなる.md": {
+      "id": "300_Input/Reading Notes/好きなものが明確になるとそれ以外のものを許容しにくくなる.md",
+      "path": "300_Input/Reading Notes/好きなものが明確になるとそれ以外のものを許容しにくくなる.md",
+      "title": "好きなものが明確になるとそれ以外のものを許容しにくくなる",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Fleeting",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "2024-12-08",
+        "FleetingDB_card"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "自分が好きなものが明確になってきて、好きな特徴を持たないものを受け入れにくくなった状態が感性が古くなるってことなんじゃないか --- [[2024-12-08]] ![[FleetingDB_card]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ランキング作ってみるの良さそう.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: FleetingDB_card"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/感性の老いに打ち勝つ抽象化.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: FleetingDB_card"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/聞き飽きた言葉に納得感を与える力.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: FleetingDB_card"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。 2.md": {
+      "id": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。 2.md",
+      "path": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。 2.md",
+      "title": "嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。 2",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "「ずっとね、自分で決めることを避けてたの。受験でも、なんでもそう。文句を言いながらも、親の言うとおりになんでもやってきた。流されてばっかりだった」 姉が久美子に自分の話をするのは、これが初めてかもしれない。話に水を差さないよう、久美子は静かに相槌を打つ。 「自分の責任になるのが怖かったのよ。親に言われたとおりにしてたら、間違ってても親のせいにできるじゃない。私は悪くないんだ、お母さんがああしろって言ったから。そんなふうに言い訳できるよ...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/出遅れた夏紀はとりあえずピースすることにした。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか 2.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/結果が出えへんかったら、努力ってなかったことにされてしまうん？　あのときのうちらの演奏、ほんまにほかの金賞の学校より劣ってた？.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。.md": {
+      "id": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。.md",
+      "path": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。.md",
+      "title": "嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "### Memo 1\nぐるじ～～～\n\n### Memo 2\n久美子を客観的に見ると、自分の夢に向かってがんばっているように見えるけど、久美子の中では後ろめたさがまだありそう",
+      "myTake": "",
+      "preview": "> 「ずっとね、自分で決めることを避けてたの。受験でも、なんでもそう。文句を言いながらも、親の言うとおりになんでもやってきた。流されてばっかりだった」 姉が久美子に自分の話をするのは、これが初めてかもしれない。話に水を差さないよう、久美子は静かに相槌を打つ。 「自分の責任になるのが怖かったのよ。親に言われたとおりにしてたら、間違ってても親のせいにできるじゃない。私は悪くないんだ、お母さんがああしろって言ったから。そんなふうに言い訳でき...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/時間の匂い.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/オーボエは息が余る.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/子育ての正解は大人になってから親の子育てを肯定できるかどうか.md": {
+      "id": "300_Input/Reading Notes/子育ての正解は大人になってから親の子育てを肯定できるかどうか.md",
+      "path": "300_Input/Reading Notes/子育ての正解は大人になってから親の子育てを肯定できるかどうか.md",
+      "title": "子育ての正解は大人になってから親の子育てを肯定できるかどうか",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/辻村深月-噛みあわない会話と、ある過去について",
+      "sourceBook": "400_Kindle/辻村深月-噛みあわない会話と、ある過去について",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 「成長した子どもが、大人になってから親の子育てを肯定できるかどうか」 スミちゃんが言って、私を見た。 「人生は長いからさ。大人になってから子どもに自分がやってきたことを肯定してもらえないと、いざ対等な状態になった子どもに見捨てられることになるよ。感謝されないし、仲良くしてもらえない。保護者と被保護者はいずれ、介護だなんだで逆転するんだしさ」",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/学びのプロセスは3次元.md": {
+      "id": "300_Input/Reading Notes/学びのプロセスは3次元.md",
+      "path": "300_Input/Reading Notes/学びのプロセスは3次元.md",
+      "title": "学びのプロセスは3次元",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "成長論"
+      ],
+      "links": [
+        "成長論"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "- 情報収集 モデル化 検証は3次元 #Scrap - 情報収集は箱を横に並べる - モデル化は箱を上に積み上げる - 実践・検証は奥行方向に **consist of**:: [[成長論]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/人は知ってることしか見えない.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: 成長論",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分の頭でじっくり考え抜いた知識の方が、はるかに価値がある.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: 成長論",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/学習の演繹的アプローチと帰納的アプローチ.md": {
+      "id": "300_Input/Reading Notes/学習の演繹的アプローチと帰納的アプローチ.md",
+      "path": "300_Input/Reading Notes/学習の演繹的アプローチと帰納的アプローチ.md",
+      "title": "学習の演繹的アプローチと帰納的アプローチ",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life",
+        "Topic/Tech"
+      ],
+      "tags": [
+        "Knowledge",
+        "PKM",
+        "🎁Topic/Life",
+        "🎁Topic/Learning",
+        "🎁Topic/Tech"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "大規模言語モデルは新たな知能か - 岡野原大輔",
+        "2023-08-15"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "--- ![[大規模言語モデルは新たな知能か - 岡野原大輔#大規模言語モデルは新たな知能か#知識獲得のための演繹的なアプローチ・帰納的なアプローチ]] - 自分が知りたいことについて、ベースとなるアプローチを決めると考えが進みやすそう - 直感的なイメージとしては、**抽象度が高い問題は帰納的アプローチ、抽象度が低い問題は演繹的アプローチ** [[2023-08-15]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/完全5度.md": {
+      "id": "300_Input/Reading Notes/完全5度.md",
+      "path": "300_Input/Reading Notes/完全5度.md",
+      "title": "完全5度",
+      "topics": [
+        "Topic/DTM",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/DTM",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "5度の音程の中で全音+全音+半音+全音の間隔のこと [【音程】図解でわかる！5度音程｜完全5度 現役ピアノ講師がわかりやすく解説しています](https://yurupiano.com/perfect5th/)",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/歌詞に使いたい言葉.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/DTM",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/[[アンナ・カレーニナの法則 - Wikipedia]].md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/make senceって感じ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/wise choice.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/己の非力を痛感できる強さ、絶望する才能.md": {
+      "id": "300_Input/Reading Notes/己の非力を痛感できる強さ、絶望する才能.md",
+      "path": "300_Input/Reading Notes/己の非力を痛感できる強さ、絶望する才能.md",
+      "title": "己の非力を痛感できる強さ、絶望する才能",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Scrap",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "成長論",
+        "Life"
+      ],
+      "links": [
+        "成長論",
+        "Life"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[成長論]] **consist of**:: [[Life]] ![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/7c8c62c91b686a252e0481ef64f92173.png) ![image](https://garden-storage-228689237525-...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared consist of: 成長論",
+            "shared link: Life",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人は知ってることしか見えない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: 成長論",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しい人だと思ったら、単に色々なものに無関心だった人.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/内なる欲求が活発になったタイミングの知識は二度と消えない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: 成長論",
+            "shared link: 成長論"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/市場規範は社会規範を侵略する.md": {
+      "id": "300_Input/Reading Notes/市場規範は社会規範を侵略する.md",
+      "path": "300_Input/Reading Notes/市場規範は社会規範を侵略する.md",
+      "title": "市場規範は社会規範を侵略する",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/淳子-予想どおりに不合理　　行動経済学が明かす「あなたがそれを選ぶわけ」",
+      "sourceBook": "400_Kindle/淳子-予想どおりに不合理　　行動経済学が明かす「あなたがそれを選ぶわけ」",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 社会規範が市場規範と衝突すると、社会規範が長いあいだどこかへ消えてしまうのだ。社会的な人間関係はそう簡単には修復できない。バラの花も一度ピークが過ぎてしまうともうもどせないように、社会規範は一度でも市場規範に負けると、まずもどってこない。 > やりとりに金銭が絡まないとき、わたしたちがあまり利己追求をせず、他者の幸福をもっと気にしはじめることを意味する > 社会規範は人々に他者の幸福を思いださせ、その結果、利用できる資源に負担をか...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/当然の顔で肯定するには、夏紀の面の皮の厚さが少しばかり足りなかった。.md": {
+      "id": "300_Input/Reading Notes/当然の顔で肯定するには、夏紀の面の皮の厚さが少しばかり足りなかった。.md",
+      "path": "300_Input/Reading Notes/当然の顔で肯定するには、夏紀の面の皮の厚さが少しばかり足りなかった。.md",
+      "title": "当然の顔で肯定するには、夏紀の面の皮の厚さが少しばかり足りなかった。",
+      "topics": [
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "シンプルな称賛に、夏紀は照れをごまかすように頬をかく。「そうやろ」と当然の顔で肯定するには、夏紀の面の皮の厚さが少しばかり足りなかった。 — location: [2365](kindle://book?action=open&asin=B08R3NMW4F&location=2365) ^ref-22502 **consist of**:: [[MyFavorite武田綾乃]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。立華にも、龍聖にも、どの学校にも。北宇治が一番やって言われたい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。 2.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/彼氏彼女と言わずに大切な人と呼んでいる等という小手先の言葉選びによる多様性の尊重が礼賛される時代.md": {
+      "id": "300_Input/Reading Notes/彼氏彼女と言わずに大切な人と呼んでいる等という小手先の言葉選びによる多様性の尊重が礼賛される時代.md",
+      "path": "300_Input/Reading Notes/彼氏彼女と言わずに大切な人と呼んでいる等という小手先の言葉選びによる多様性の尊重が礼賛される時代.md",
+      "title": "彼氏彼女と言わずに大切な人と呼んでいる等という小手…",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "sourceBook": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 彼氏彼女と言わずに大切な人と呼んでいる等という小手先の言葉選びによる多様性の尊重が礼賛される時代",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その言葉の持つ響きは、除夜の鐘が百八回分まとめて鳴らされたかのように巨大だった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/体内の宗教.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/多様性とは、都合よく使える美しい言葉ではない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/思想や情動も論理で説明できると思っている人たちが打ち立てる規制は、生身の人間の内側にはいつまで経っても到達しない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/沈黙は彫刻刀に似ている.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/誰かに名付けられている苦しみがこの世界の全てだと思っているそのおめでたい考え方が 羨ましい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/後先考えず動けるほど幼くはないし、全てを受け止め切れるほど大人ではない.md": {
+      "id": "300_Input/Reading Notes/後先考えず動けるほど幼くはないし、全てを受け止め切れるほど大人ではない.md",
+      "path": "300_Input/Reading Notes/後先考えず動けるほど幼くはないし、全てを受け止め切れるほど大人ではない.md",
+      "title": "後先考えず動けるほど幼くはないし、全てを受け止め切れるほど大人ではない",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/渡航、ぽんかん(8)-やはり俺の青春ラブコメはまちがっている。12",
+      "sourceBook": "400_Kindle/渡航、ぽんかん(8)-やはり俺の青春ラブコメはまちがっている。12",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 俺たちは後先考えずに動けるほど幼くはないし、全て受け止めきれるほど大人ではないのだ。",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/共依存の共依存たる所以は依存される側にもある.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/渡航、ぽんかん(8)-やはり俺の青春ラブコメはまちがっている。12"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/必要ドリブンのつまらなさとどう付き合うか.md": {
+      "id": "300_Input/Reading Notes/必要ドリブンのつまらなさとどう付き合うか.md",
+      "path": "300_Input/Reading Notes/必要ドリブンのつまらなさとどう付き合うか.md",
+      "title": "必要ドリブンのつまらなさとどう付き合うか",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Fleeting",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "2024-11-19"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "必要なこと、やらなきゃいけないことって基本的につまらないものだなと思った これ逆かもしれん 「必要である」という属性がつまらなくさせているのか、「つまらないもの」というものの中で要不要が分かれてるだけなのか どちらにせよ必要ドリブンでやってることってつまらない --- [[2024-11-19]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/思想や情動も論理で説明できると思っている人たちが打ち立てる規制は、生身の人間の内側にはいつまで経っても到達しない.md": {
+      "id": "300_Input/Reading Notes/思想や情動も論理で説明できると思っている人たちが打ち立てる規制は、生身の人間の内側にはいつまで経っても到達しない.md",
+      "path": "300_Input/Reading Notes/思想や情動も論理で説明できると思っている人たちが打ち立てる規制は、生身の人間の内側にはいつまで経っても到達しない.md",
+      "title": "思想や情動も論理で説明できると思っている人たちが打ち立てる規制は、生身の人間の内側にはいつまで経っても到達しない",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "sourceBook": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 世間が判断する〝性的なもの〟が、いかに限定的で画一的か。それを排斥すれば世の中に漂う〝性的な感情〟や〝性的な視線〟も一緒に排斥できるという幸せな思い込みは、単純で直線的だからこそ強い力を持つ。思想や情動も論理で説明できると思っている人たちが打ち立てる規制は、生身の人間の内側にはいつまで経っても到達しない。 > 人間は結局、自分のことしか知り得ない。社会とは、究極的に狭い視野しか持ち合わせていない個人の集まりだ。それなのにいつだって...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/恋人たちに残された時間は、未練を殺すには短すぎたが、将来を誓い合うには充分だった.md": {
+      "id": "300_Input/Reading Notes/恋人たちに残された時間は、未練を殺すには短すぎたが、将来を誓い合うには充分だった.md",
+      "path": "300_Input/Reading Notes/恋人たちに残された時間は、未練を殺すには短すぎたが、将来を誓い合うには充分だった.md",
+      "title": "恋人たちに残された時間は、未練を殺すには短すぎたが、将来を誓い合うには充分だった",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部のホントの話",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部のホントの話",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "おしゃれです",
+      "myTake": "",
+      "preview": "> 店内に置かれた時計が、タイムリミットが迫っていることを示している。恋人たちに残された時間は、未練を殺すには短すぎたが、将来を誓い合うには充分だった",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部のホントの話",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/打算を優しさと受け止められるのは、正直心地がいいものとは言えなかった.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部のホントの話",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/オーボエは息が余る.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しいなんてなあ、褒めるとこがないやつに言う台詞やろ？ うち、わかってんねん.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/悠真の言う「重い」は私の恋愛感情の話ではなかった.md": {
+      "id": "300_Input/Reading Notes/悠真の言う「重い」は私の恋愛感情の話ではなかった.md",
+      "path": "300_Input/Reading Notes/悠真の言う「重い」は私の恋愛感情の話ではなかった.md",
+      "title": "悠真の言う「重い」は私の恋愛感情の話ではなかった",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/朝井リョウ-イン・ザ・メガチャーチ",
+      "sourceBook": "400_Kindle/朝井リョウ-イン・ザ・メガチャーチ",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 悠真の言う「重い」は私の恋愛感情の話ではなかった。物事の捉え方がいちいち重い、それがちょっとしんどい、という話だった。そのあと、他に好きな子ができたという話もちゃっかりされたけれど。 会話をしていても楽しいと思えない、明るい気持ちにならない。軽く話したことを真面目に受け止められすぎて、正直疲れることがある。冗談が通じないことが多いから、喋りながら緊張するようになった──。",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/こういうふうに、目に入る情報を自らいちいちマイナス….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-イン・ザ・メガチャーチ"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/既読なんて以ての外だ.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-イン・ザ・メガチャーチ"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/社会はやってきていないことで溢れている.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-イン・ザ・メガチャーチ"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私としては、二人セットで〝親〟だったときよりも今の….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-イン・ザ・メガチャーチ"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/情報が溢れることで情報を無視できるようになった.md": {
+      "id": "300_Input/Reading Notes/情報が溢れることで情報を無視できるようになった.md",
+      "path": "300_Input/Reading Notes/情報が溢れることで情報を無視できるようになった.md",
+      "title": "情報が溢れることで情報を無視できるようになった",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/内田樹-下流志向　学ばない子どもたち　働かない若者たち",
+      "sourceBook": "400_Kindle/内田樹-下流志向　学ばない子どもたち　働かない若者たち",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "### Memo 1\n問題の本質\n\n### Memo 2\n情報が溢れることで、情報を無視できるようになった",
+      "myTake": "",
+      "preview": "> 僕は「わからないこと」より、この「わからないことがあっても気にならない」ことの方に危機の徴候を感知するのです > 若い人たちにとっては、 世界そのものが意味の穴だらけ なんです。チーズみたいに。そこらじゅうにぼこぼこ意味の空白が",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/何の役に立つのかと問う前に自分の価値観が正しいかを疑え.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/内田樹-下流志向　学ばない子どもたち　働かない若者たち"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/授業を取引と捉えているが授業を受けないと授業の価値はわからない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/内田樹-下流志向　学ばない子どもたち　働かない若者たち"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/情報を集めれば理屈で答えが出せるのが判断、情報を集めることができない中で答えを出さないといけないのが決断.md": {
+      "id": "300_Input/Reading Notes/情報を集めれば理屈で答えが出せるのが判断、情報を集めることができない中で答えを出さないといけないのが決断.md",
+      "path": "300_Input/Reading Notes/情報を集めれば理屈で答えが出せるのが判断、情報を集めることができない中で答えを出さないといけないのが決断.md",
+      "title": "情報を集めれば理屈で答えが出せるのが判断、情報を集めることができない中で答えを出さないといけないのが決断",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "Scrap",
+        "Knowledge",
+        "🎁Topic/Life",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Life",
+        "Rhetoric"
+      ],
+      "links": [
+        "判断と決断の違いと決断のコツ",
+        "運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ",
+        "Life",
+        "Rhetoric"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**based on**:: [[判断と決断の違いと決断のコツ]] **similar**:: [[運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ]] **consist of**:: [[Life]] **consist of**:: [[Rhetoric]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Life",
+            "shared consist of: Rhetoric",
+            "shared link: Life",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/無理だって言われていちいち諦めてたら……誰も何もできねぇだろ…!!!オレは…何かになるんだ…何かにならなきゃ…退屈で生きていけねぇよ….md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自由意志があるフリをしろ.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared consist of: Rhetoric",
+            "shared link: Life",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/仲がいいと思っていたはずの友達がほかの子と座っていたり、順風満帆に座れるはずだった偶数グループが補助席のせいで分裂騒動を起こしたり.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/意味を理解するとははたらきを理解すること.md": {
+      "id": "300_Input/Reading Notes/意味を理解するとははたらきを理解すること.md",
+      "path": "300_Input/Reading Notes/意味を理解するとははたらきを理解すること.md",
+      "title": "意味を理解するとははたらきを理解すること",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Learning",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/信原幸弘-「覚える」と「わかる」　──知の仕組みとその可能性",
+      "sourceBook": "400_Kindle/信原幸弘-「覚える」と「わかる」　──知の仕組みとその可能性",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "経験主義的だな",
+      "myTake": "",
+      "preview": "> 意味が働きだとすれば、意味を理解することは働きを理解することである。言葉にせよ、物事にせよ、ただそれを暗記するだけではなく、その意味を理解することが重要だというのは、ようするにそれがどんな働きをするのかを理解することが重要だということなのである。 > 言葉の意味の理解の浅さと深さの違いは、どれくらい多くの文脈でその言葉の働きを知っているかの違いとして説明できよう。",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/理想の選び方によっては、問題を拡大再生産する.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/説明深度の錯覚.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/遅延評価的勉強法.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/[[アンナ・カレーニナの法則 - Wikipedia]].md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/make senceって感じ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/wise choice.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/感性の老いに打ち勝つ抽象化.md": {
+      "id": "300_Input/Reading Notes/感性の老いに打ち勝つ抽象化.md",
+      "path": "300_Input/Reading Notes/感性の老いに打ち勝つ抽象化.md",
+      "title": "感性の老いに打ち勝つ抽象化",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life"
+      ],
+      "tags": [
+        "Fleeting",
+        "🎁Topic/Life",
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "2024-12-11",
+        "FleetingDB_card"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "- 感性が古いという表現がある - 例えば、最近のエンタメを楽しめずに、昔のエンタメの方が好きだと言い続けていれば、感性が古いと言われるだろう - 感性が古いこと自体は悪くないと思うが、新しいものを享受できない大人に自分はなりたくない - そこで、如何にして感性の老いに打ち勝つかを考えたい - 前提として、そもそも感性は古くなっていくのかという疑問がある - 新しいものを受け入れていく姿勢でいれば、感性は古くならないだろう - しかし...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の作る異本は生い立ち、教育、感じ方に影響を受ける.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md": {
+      "id": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+      "path": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+      "title": "[憧れは理解から最も遠い感情だよ](https://dic.pixiv.net/a/%E6%86%A7%E3%82%8C%E3%81%AF%E7%90%86%E8%A7%A3%E3%81%8B%E3%82%89%E6%9C%80%E3%82%82%E9%81%A0%E3%81%84%E6%84%9F%E6%83%85%E3%81%A0%E3%82%88)",
+      "topics": [
+        "Topic/Illust",
+        "Topic/Learning",
+        "Topic/Life",
+        "Topic/Word"
+      ],
+      "tags": [
+        "Scrap",
+        "🎁Topic/Life",
+        "🎁Topic/Learning",
+        "🎁Topic/Illust",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Rhetoric"
+      ],
+      "links": [
+        "Rhetoric",
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Rhetoric]] [[ReadItLater]] [[Article]] - [1 良い機会だ。一つ概要を知っておくといい](https://dic.pixiv.net/a/%E6%86%A7%E3%82%8C%E3%81%AF%E7%90%86%E8%A7%A3%E3%81%8B%E3%82%89%E6%9C%80%E3%82%82%E9%81%A0%E3%81%84%E6%84%9F%E6...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自由意志があるフリをしろ.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人は知ってることしか見えない.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/赤の女王仮説 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/成果主義は頑張ったアピールをしないと切られるルール.md": {
+      "id": "300_Input/Reading Notes/成果主義は頑張ったアピールをしないと切られるルール.md",
+      "path": "300_Input/Reading Notes/成果主義は頑張ったアピールをしないと切られるルール.md",
+      "title": "[射的屋](https://twitter.com/syatekiya931/status/1823465408596418789)",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "Scrap",
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "仕事論"
+      ],
+      "links": [
+        "仕事論",
+        "ReadItLater",
+        "Tweet",
+        "計測の科学 - ジェームズ・ヴィンセント 小坂恵理"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[仕事論]] [[ReadItLater]] [[Tweet]] [[計測の科学 - ジェームズ・ヴィンセント 小坂恵理]] > 結局「成果主義」というのを「頑張って成果出したヤツが報われる」システムだと思ったら「頑張ったアピールしないと切られる」ルールだったと気付くのが遅かったという。 > > — 射的屋 (@syatekiya931) [August 13, 2024](https://twit...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/体調最悪でも2日寝てなくても友達に裏切られても女にフラれてもその中で 歯くいしばってひねり出した仕事がお前の実力のすべてだ。クソみたいな日にいいもんつくるのがプロだ。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: 仕事論",
+            "shared link: 仕事論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/個人主義は自己責任論を増強する.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/本音重視が暴力の美化や正当化につながる.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいる.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何故ホモソ批判はガバガバになってしまうのか｜さいたま.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分のやりたいことを正確に把握するのは難しい.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/手の変幻 書き出し.md": {
+      "id": "300_Input/Reading Notes/手の変幻 書き出し.md",
+      "path": "300_Input/Reading Notes/手の変幻 書き出し.md",
+      "title": "手の変幻 書き出し",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/清岡卓行-手の変幻",
+      "sourceBook": "400_Kindle/清岡卓行-手の変幻",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "### Memo 1\n書き出しから惹き付けられる\n\n### Memo 2\n部分的な具象の放棄。ある全体性への偶然な肉追",
+      "myTake": "",
+      "preview": "> ミロのヴィーナスを眺めながら、彼女がこんなにも魅惑的であるためには、両腕を失っていなければならなかったのだと、ぼくはふとふしぎな思いにとらわれたことがある。つまり、そこには、美術作品の運命という制作者のあずかり知らぬなにものかも、微妙な協力をしているように思われてならなかったのである > いや、もっと適確に言うならば、彼女はその両腕を、自分の美しさのために、無意識的に隠してきたのであった。よりよく国境を渡って行くために、そしてまた...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/言い回しがすごい好き.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/清岡卓行-手の変幻"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/打算を優しさと受け止められるのは、正直心地がいいものとは言えなかった.md": {
+      "id": "300_Input/Reading Notes/打算を優しさと受け止められるのは、正直心地がいいものとは言えなかった.md",
+      "path": "300_Input/Reading Notes/打算を優しさと受け止められるのは、正直心地がいいものとは言えなかった.md",
+      "title": "打算を優しさと受け止められるのは、正直心地がいいものとは言えなかった",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部のホントの話",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部のホントの話",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 「黄前部長は優しいですね！」 ぴかぴかと光る純粋な尊敬が、久美子の心臓の裏側にある柔らかい部分を突き刺した。一瞬だけ脳裏をよぎったのは、一年生時の 小笠原 と自分のやり取りだ。 打算を優しさと受け止められるのは、正直心地がいいものとは言えなかった",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部のホントの話",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/恋人たちに残された時間は、未練を殺すには短すぎたが、将来を誓い合うには充分だった.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部のホントの話",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/オーボエは息が余る.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しいなんてなあ、褒めるとこがないやつに言う台詞やろ？ うち、わかってんねん.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/拡大したら火星と見分けがつかない.md": {
+      "id": "300_Input/Reading Notes/拡大したら火星と見分けがつかない.md",
+      "path": "300_Input/Reading Notes/拡大したら火星と見分けがつかない.md",
+      "title": "拡大したら火星と見分けがつかない",
+      "topics": [
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Word"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "Rhetoric"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "- 21:52 #scrap 拡大したら火星と見分けがつかない [米菓ーストリートの名探偵が、せんべいの謎をバリバリ解く！ - YouTube](https://youtu.be/HkZtmcXcm9A?si=KhGrXj96XtYj4GLu&t=742) **Parent**:: [[Rhetoric]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自由意志があるフリをしろ.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/[[アンナ・カレーニナの法則 - Wikipedia]].md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/make senceって感じ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/wise choice.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/挑戦するまでの全能感は燃料であり、失敗の経験は洞察である.md": {
+      "id": "300_Input/Reading Notes/挑戦するまでの全能感は燃料であり、失敗の経験は洞察である.md",
+      "path": "300_Input/Reading Notes/挑戦するまでの全能感は燃料であり、失敗の経験は洞察である.md",
+      "title": "挑戦するまでの全能感は燃料であり、失敗の経験は洞察である",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Fleeting",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "なぜ私たちは燃え尽きてしまうのか - ジョナサン・マレシック",
+        "2024-08-10"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "- 洞察(失敗)は重要でありつつ、全能感(燃料)が無いと元も子もないんだなと - [How to overcome your mistakes](https://youtu.be/eBz7iUJu9UM?si=cJ9ERMLEwHd0jYMl) - 入門の授業を受けた生徒は、ポジティブなフィードバックを得る先生を好み、高いレベルの授業を受けた生徒は、改善点を的確に指摘してくれる先生を好む話と似ているな [[なぜ私たちは燃え尽きてしまう...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/授業を取引と捉えているが授業を受けないと授業の価値はわからない.md": {
+      "id": "300_Input/Reading Notes/授業を取引と捉えているが授業を受けないと授業の価値はわからない.md",
+      "path": "300_Input/Reading Notes/授業を取引と捉えているが授業を受けないと授業の価値はわからない.md",
+      "title": "授業を取引と捉えているが授業を受けないと授業の価値はわからない",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/内田樹-下流志向　学ばない子どもたち　働かない若者たち",
+      "sourceBook": "400_Kindle/内田樹-下流志向　学ばない子どもたち　働かない若者たち",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 消費主体は、自分の前に差し出されたものを何よりもまず「商品」としてとらえる。そして、それが約束するサービスや機能が支払う代価に対して適切かどうかを判断し、取引として適切であると思えば金を出して商品を手に入れる。 消費主体にとって、「 自分にその用途や有用性が理解できない商品」 というのは存在しない のです。そのようなものはそもそも商品としては認識されない。ですから、先ほどの小学校に入ったときに、先生に「ひらがなを習うと、何の役に立...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の作る異本は生い立ち、教育、感じ方に影響を受ける.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/接続助詞の が には4つの用法がある.md": {
+      "id": "300_Input/Reading Notes/接続助詞の が には4つの用法がある.md",
+      "path": "300_Input/Reading Notes/接続助詞の が には4つの用法がある.md",
+      "title": "接続助詞の が には4つの用法がある",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/悦太郎-悪文",
+      "sourceBook": "400_Kindle/悦太郎-悪文",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 接続助詞の「が」の用法は、逆接法だけではない。「現代語の助詞・助動詞」（国立国語研究所報告 3） によれば、「が」には四つの用法がある。 > （1） 二つの事柄を並べあげる際の、つなぎの役目をする。共存または時間的推移。 〔例〕 そののち、実験の分野においても、中間子の研究が世界の主流となり、いろいろの重要な結果があいついで報告された が、そのうちに再び理論と実験の間に大きな矛盾が芽ばえてきたのである。 > （2） 題目・場面など...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/推しという言葉の違和感について - ChatGPT.md": {
+      "id": "300_Input/Reading Notes/推しという言葉の違和感について - ChatGPT.md",
+      "path": "300_Input/Reading Notes/推しという言葉の違和感について - ChatGPT.md",
+      "title": "推しという言葉の違和感について - ChatGPT",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric",
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "推しと言う言葉の違和感について - raw"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "## はじめに - 「推し」という言葉に違和感を感じた理由を探る。 - この感覚を持つきっかけは、Twitterで見た「メロい」という言葉に関する議論。 ## メロいについての議論 - 「メロい」という言葉に性的なニュアンスが含まれるかどうかが話題。 - あるツイートでは、「メロ」を正しい言葉にしようとする行為が小賢しいと批判。 - 自分の感情を他者に見せられるような言葉でスポイルして表現することへの違和感。 ## 自分の考え - 自...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/体調最悪でも2日寝てなくても友達に裏切られても女にフラれてもその中で 歯くいしばってひねり出した仕事がお前の実力のすべてだ。クソみたいな日にいいもんつくるのがプロだ。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/文句を言うなら誰にでも評価されるレベルになってから.md": {
+      "id": "300_Input/Reading Notes/文句を言うなら誰にでも評価されるレベルになってから.md",
+      "path": "300_Input/Reading Notes/文句を言うなら誰にでも評価されるレベルになってから.md",
+      "title": "文句を言うなら誰にでも評価されるレベルになってから",
+      "topics": [
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Society"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> でも、誰が聞いても上手い学校ってあるやん。こいつらプロか、みたいな。あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/だけど四十代も後半を迎えた今、還ってきているのは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/文章を書く時は日本語を別の言語として取り扱わなければいけない.md": {
+      "id": "300_Input/Reading Notes/文章を書く時は日本語を別の言語として取り扱わなければいけない.md",
+      "path": "300_Input/Reading Notes/文章を書く時は日本語を別の言語として取り扱わなければいけない.md",
+      "title": "文章を書く時は日本語を別の言語として取り扱わなければいけない",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Learning",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Life"
+      ],
+      "links": [
+        "Life",
+        "日本語の作文技術 - 本多勝一"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Life]] 私たちは日本語に慣れ、日本語というものを意識していない。これは当り前のことである。しかし、その日本語で文章を書くという時は、この日本語への慣れを捨てなければいけない。日本語というものが意識されないのでは駄目である。話したり、聞いたりしている間はそれでよいが、文章を書くという段になると、日本語をハッキリ客体として意識しなければいけない。自分と日本語との融合関係を脱出して、日本語を自分の...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/情報を集めれば理屈で答えが出せるのが判断、情報を集めることができない中で答えを出さないといけないのが決断.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/本には旬がある.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/稼ぐために書き始めたとたん、質が下がる.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/文章を良いと感じる理由は共感か驚き.md": {
+      "id": "300_Input/Reading Notes/文章を良いと感じる理由は共感か驚き.md",
+      "path": "300_Input/Reading Notes/文章を良いと感じる理由は共感か驚き.md",
+      "title": "文章を良いと感じる理由は共感か驚き",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/三宅香帆-「好き」を言語化する技術 推しの素晴らしさを語りたいのに「やばい！」しかでてこない",
+      "sourceBook": "400_Kindle/三宅香帆-「好き」を言語化する技術 推しの素晴らしさを語りたいのに「やばい！」しかでてこない",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> この短歌がいいと感じるのは、「共感」か「驚き」のどちらかである、と。 「共感」とは、自分も同じような体験や感情を知っていて、それをぴったりくる言葉にしてもらったことへの快感です。 > 一方で「驚き」とは、それまで見たことのないような未知の手法に出会ったときの快感です。",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/既読なんて以ての外だ.md": {
+      "id": "300_Input/Reading Notes/既読なんて以ての外だ.md",
+      "path": "300_Input/Reading Notes/既読なんて以ての外だ.md",
+      "title": "既読なんて以ての外だ",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/朝井リョウ-イン・ザ・メガチャーチ",
+      "sourceBook": "400_Kindle/朝井リョウ-イン・ザ・メガチャーチ",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 既読なんて以ての外だ。あれはもう爆弾の導火線に火を点けるようなもので、既読をつけたその瞬間から、最適な返信を生み出さなきゃ死ぬ、みたいな地獄のレースが勝手に始まる。その状況を予想しただけで、脳が疲れる。だから先延ばしにしてしまう。",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/こういうふうに、目に入る情報を自らいちいちマイナス….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-イン・ザ・メガチャーチ"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/悠真の言う「重い」は私の恋愛感情の話ではなかった.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-イン・ザ・メガチャーチ"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/社会はやってきていないことで溢れている.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-イン・ザ・メガチャーチ"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私としては、二人セットで〝親〟だったときよりも今の….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-イン・ザ・メガチャーチ"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/日々の生活ってお宝を埋めてるみたい.md": {
+      "id": "300_Input/Reading Notes/日々の生活ってお宝を埋めてるみたい.md",
+      "path": "300_Input/Reading Notes/日々の生活ってお宝を埋めてるみたい.md",
+      "title": "日々の生活ってお宝を埋めてるみたい",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章 後編",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章 後編",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> お出かけ中に街なかで演奏してる子供を見かけたりするわけやん。そしたら、懐かしいなーっていまの時間を思い出すやろ？ 緑たちが一緒に過ごしてきた時間は大人になっても生活のいろんなところに眠ってて、生きてるだけどんどん掘り起こされていくねん。それってなんか、お宝を埋めてるみたいで素敵やなぁって思わ",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/オーボエは息が余る.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しいなんてなあ、褒めるとこがないやつに言う台詞やろ？ うち、わかってんねん.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/時間の匂い.md": {
+      "id": "300_Input/Reading Notes/時間の匂い.md",
+      "path": "300_Input/Reading Notes/時間の匂い.md",
+      "title": "時間の匂い",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "\"時間の匂い\"\nめっちゃ好き\n日本語は匂いを表現する語彙が少ないという話を丁度聞いたばかりだ\n良い-悪いの線上にない独特な比喩",
+      "myTake": "",
+      "preview": "> 中身がさっぱりわからないこの黒いケースと、そして古ぼけた一冊のノートだ。 あすかはそっとノートを手に取ってみる。ぷんと、古い紙の匂いがした。日に焼けた、時間の匂い",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/オーボエは息が余る.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/時間を何倍にも濃縮したような沈黙.md": {
+      "id": "300_Input/Reading Notes/時間を何倍にも濃縮したような沈黙.md",
+      "path": "300_Input/Reading Notes/時間を何倍にも濃縮したような沈黙.md",
+      "title": "時間を何倍にも濃縮したような沈黙",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 時間を何倍にも濃縮したような沈黙が、久美子の喉を詰まらせた",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/オーボエは息が余る.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/薄氷の上に立っているような、そんな気分.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しいなんてなあ、褒めるとこがないやつに言う台詞やろ？ うち、わかってんねん.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/月って欠けるから好きだな、とふと思う。.md": {
+      "id": "300_Input/Reading Notes/月って欠けるから好きだな、とふと思う。.md",
+      "path": "300_Input/Reading Notes/月って欠けるから好きだな、とふと思う。.md",
+      "title": "月って欠けるから好きだな、とふと思う。",
+      "topics": [
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃",
+        "Rhetoric"
+      ],
+      "links": [
+        "MyFavorite武田綾乃",
+        "Rhetoric"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "街灯のせいか、夜空には星ひとつ見えない。ただ、半分ほど欠けた月が薄闇にぽつねんと浮いている。月って欠けるから好きだな、とふと思う。満たされるのはほんのわずかな時間でしかないのだと、思い知らせてくれるから。 — location: [2920](kindle://book?action=open&asin=B08R3NMW4F&location=2920) ^ref-346 **consist of**:: [[MyFavorite武田...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/未練を殺すには短すぎたが、将来を誓い合うには充分だった。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/未来への期待より現状への満足を原動力に生きる.md": {
+      "id": "300_Input/Reading Notes/未来への期待より現状への満足を原動力に生きる.md",
+      "path": "300_Input/Reading Notes/未来への期待より現状への満足を原動力に生きる.md",
+      "title": "未来への期待より現状への満足を原動力に生きる",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Fleeting",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "人生をゴールから「逆算」して自分を追い詰めるの、そろそろやめませんか？｜jMatsuzaki🔥",
+        "2024-08-25"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[人生をゴールから「逆算」して自分を追い詰めるの、そろそろやめませんか？｜jMatsuzaki🔥]] > **未来に期待することで退屈をしのごうとしていた**わけです。痛みを一時的に和らげるモルヒネのようなもので、「今は不本意な生活をしているけれど、未来はもっとよくなるはず」と考えれば少しは気分が晴れたのです。 この生き方はどう考えてもいびつな気がします。**未来へ期待を膨らませて、現在を蔑ろにしているからです。**しかし、時間とい...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/未練を殺すには短すぎたが、将来を誓い合うには充分だった。.md": {
+      "id": "300_Input/Reading Notes/未練を殺すには短すぎたが、将来を誓い合うには充分だった。.md",
+      "path": "300_Input/Reading Notes/未練を殺すには短すぎたが、将来を誓い合うには充分だった。.md",
+      "title": "未練を殺すには短すぎたが、将来を誓い合うには充分だった。",
+      "topics": [
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃",
+        "Rhetoric"
+      ],
+      "links": [
+        "MyFavorite武田綾乃",
+        "Rhetoric"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "店内に置かれた時計が、タイムリミットが迫っていることを示している。恋人たちに残された時間は、未練を殺すには短すぎたが、将来を誓い合うには充分だった。 — location: [1391](kindle://book?action=open&asin=B07T2JFL7J&location=1391) ^ref-54467 **consist of**:: [[MyFavorite武田綾乃]] **consist of**:: [[Rh...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/月って欠けるから好きだな、とふと思う。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/末席を汚す.md": {
+      "id": "300_Input/Reading Notes/末席を汚す.md",
+      "path": "300_Input/Reading Notes/末席を汚す.md",
+      "title": "末席を汚す",
+      "topics": [
+        "Topic/Life",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "\"目上や尊敬する人々の集まりに加えてもらう自分を謙遜して使う表現。\"",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/他人が欲しがっているから、持っているから　自分も欲しいと錯覚する。｜Ferica.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/管見.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自由意志があるフリをしろ.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/赤の女王仮説 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/本には旬がある.md": {
+      "id": "300_Input/Reading Notes/本には旬がある.md",
+      "path": "300_Input/Reading Notes/本には旬がある.md",
+      "title": "本には旬がある",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life"
+      ],
+      "tags": [
+        "Knowledge",
+        "🎁Topic/Life",
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Life"
+      ],
+      "links": [
+        "永田希-再読だけが創造的な読書術である",
+        "Life",
+        "本を読む前は既知の知識を確認する",
+        "再読だけが創造的な読書術である - 永田希",
+        "2023-07-10"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "--- ![[永田希-再読だけが創造的な読書術である#^ref-32866]] - 自分の興味や持っている知識、その時に触れている情報で本の面白さは変わる - 面白さが感じなかったら他の本を手に取っていい **consist of**:: [[Life]] [[本を読む前は既知の知識を確認する]] [[再読だけが創造的な読書術である - 永田希]] [[2023-07-10]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/本書についていえば、つぎのような要約となる──「歴….md": {
+      "id": "300_Input/Reading Notes/本書についていえば、つぎのような要約となる──「歴….md",
+      "path": "300_Input/Reading Notes/本書についていえば、つぎのような要約となる──「歴….md",
+      "title": "本書についていえば、つぎのような要約となる──「歴…",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/彰-銃・病原菌・鉄　上巻",
+      "sourceBook": "400_Kindle/彰-銃・病原菌・鉄　上巻",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 本書についていえば、つぎのような要約となる──「歴史は、異なる人びとによって異なる経路をたどったが、それは、人びとのおかれた環境の差異によるものであって、人びとの生物学的な差異によるものではない",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/このように肉食哺乳類は、餌の経済効率が悪いので、食….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/彰-銃・病原菌・鉄　上巻"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/狩猟採集から農耕は段階的に遷移していった.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/彰-銃・病原菌・鉄　上巻"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/本音重視が暴力の美化や正当化につながる.md": {
+      "id": "300_Input/Reading Notes/本音重視が暴力の美化や正当化につながる.md",
+      "path": "300_Input/Reading Notes/本音重視が暴力の美化や正当化につながる.md",
+      "title": "[マライ・メントライン＠職業はドイツ人](https://twitter.com/marei_de_pon/status/1820785170418721068)",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "Scrap",
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Society"
+      ],
+      "links": [
+        "Society",
+        "ReadItLater",
+        "Tweet"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Society]] [[ReadItLater]] [[Tweet]] > 旧来のお上品なインテリ言論が突き上げを喰らって「本音重視」が叫ばれる昨今だが、その本音というものが、結局は暴力の美化や正当化に行き着いちゃう感が濃厚すぎて萎える。 > > — マライ・メントライン＠職業はドイツ人 (@marei\\_de\\_pon) [August 6, 2024](https://twitter.com/...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Society",
+            "shared link: ReadItLater",
+            "shared link: Society",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいる.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Society",
+            "shared link: ReadItLater",
+            "shared link: Society",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Society",
+            "shared link: Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/個人主義は自己責任論を増強する.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/成果主義は頑張ったアピールをしないと切られるルール.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何故ホモソ批判はガバガバになってしまうのか｜さいたま.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分のやりたいことを正確に把握するのは難しい.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/根拠のない確信を抱きながら、久美子はマウスピースに息を吹き込む。楽器はブルブルと震え、それからゆっくりと芯の通った音を吐き出した.md": {
+      "id": "300_Input/Reading Notes/根拠のない確信を抱きながら、久美子はマウスピースに息を吹き込む。楽器はブルブルと震え、それからゆっくりと芯の通った音を吐き出した.md",
+      "path": "300_Input/Reading Notes/根拠のない確信を抱きながら、久美子はマウスピースに息を吹き込む。楽器はブルブルと震え、それからゆっくりと芯の通った音を吐き出した.md",
+      "title": "根拠のない確信を抱きながら、久美子はマウスピースに息を吹き込む。楽器はブルブルと震え、それからゆっくりと芯の通った音を吐き出した",
+      "topics": [
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [
+        "Rhetoric"
+      ],
+      "links": [
+        "Rhetoric",
+        "998_Resource/Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部へようこそ"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Rhetoric]] ![[998_Resource/Kindle/武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部へようこそ#^ref-10714|武田綾乃-響け！ ユーフォニアム 北宇治高校吹奏楽部へようこそ]] **Parent**:: [[Rhetoric]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ほうれん草の臭みは無く、.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/情報を集めれば理屈で答えが出せるのが判断、情報を集めることができない中で答えを出さないといけないのが決断.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/月って欠けるから好きだな、とふと思う。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/桜、滝とかは元々美しいのではなく、人間の創造性によって美しくなる.md": {
+      "id": "300_Input/Reading Notes/桜、滝とかは元々美しいのではなく、人間の創造性によって美しくなる.md",
+      "path": "300_Input/Reading Notes/桜、滝とかは元々美しいのではなく、人間の創造性によって美しくなる.md",
+      "title": "桜、滝とかは元々美しいのではなく、人間の創造性によって美しくなる",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/外山滋比古-異本論",
+      "sourceBook": "400_Kindle/外山滋比古-異本論",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "桜、滝とかは元々美しいのではなく、人間の創造性によって美しくなる",
+      "myTake": "",
+      "preview": "> 自然は芸術に教わって美しくなる。はじめから美しいのではない。美しいと感じる人間がいて、はじめて美しい。自然の美は存在するものではなくて、人間によって発見されるもの、創り上げられるもの、ということになる。美のメタフィジックスで",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/人の作る異本は生い立ち、教育、感じ方に影響を受ける.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/外山滋比古-異本論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人間に社会が期待していることと人間らしさの相反.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/外山滋比古-異本論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/解釈の幅が面白さにつながる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/外山滋比古-異本論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/歌詞に使いたい言葉.md": {
+      "id": "300_Input/Reading Notes/歌詞に使いたい言葉.md",
+      "path": "300_Input/Reading Notes/歌詞に使いたい言葉.md",
+      "title": "歌詞に使いたい言葉",
+      "topics": [
+        "Topic/DTM",
+        "Topic/Rhetoric",
+        "Topic/Word"
+      ],
+      "tags": [
+        "Knowledge",
+        "🎁Topic/DTM",
+        "🎁Topic/Word",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "2025-07-11"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "| | | | | | | ----------- | ----- | --- | ---- | --- | | 今日明日(きょうあす) | 見え透いた | 環状線 | 所在ない | | --- [[2025-07-11]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/完全5度.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/DTM",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/[[アンナ・カレーニナの法則 - Wikipedia]].md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/make senceって感じ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/wise choice.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/毎日は種まきみたいなもので、未来の楽しみをいっぱいいろんなとこに埋めてるんやろうなって.md": {
+      "id": "300_Input/Reading Notes/毎日は種まきみたいなもので、未来の楽しみをいっぱいいろんなとこに埋めてるんやろうなって.md",
+      "path": "300_Input/Reading Notes/毎日は種まきみたいなもので、未来の楽しみをいっぱいいろんなとこに埋めてるんやろうなって.md",
+      "title": "毎日は種まきみたいなもので、未来の楽しみをいっぱいいろんなとこに埋めてるんやろうなって",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [
+        "MyFavorite武田綾乃",
+        "Life"
+      ],
+      "links": [
+        "MyFavorite武田綾乃",
+        "Life"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "「緑、こう思うねん。いまの緑たちの毎日は種まきみたいなもので、未来の楽しみをいっぱいいろんなとこに埋めてるんやろうなって」 武田綾乃. 響け！ ユーフォニアム 北宇治高校吹奏楽部、決意の最終楽章 後編 (宝島社文庫) . 宝島社. Kindle 版. お出かけ中に街なかで演奏してる子供を見かけたりするわけやん。そしたら、懐かしいなーっていまの時間を思い出すやろ？ 緑たちが一緒に過ごしてきた時間は大人になっても生活のいろんなところに眠っ...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: Life",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/気を遣わない・人間関係に頭を使うな.md": {
+      "id": "300_Input/Reading Notes/気を遣わない・人間関係に頭を使うな.md",
+      "path": "300_Input/Reading Notes/気を遣わない・人間関係に頭を使うな.md",
+      "title": "気を遣わない・人間関係に頭を使うな",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Fleeting",
+        "Thinking",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "2023-04-28"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "--- [[2023-04-28]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/沈黙は彫刻刀に似ている.md": {
+      "id": "300_Input/Reading Notes/沈黙は彫刻刀に似ている.md",
+      "path": "300_Input/Reading Notes/沈黙は彫刻刀に似ている.md",
+      "title": "沈黙は彫刻刀に似ている",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "sourceBook": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 沈黙は彫刻刀に似ている。冷蔵庫の音や隣の部屋の生活音、外の世界を人や車が通り過ぎていく音──それまでもずっとそこにあったはずの音たちを、空間からはっきりと削り出す。その場にあったのに感知できていなかっただけの何かを、突然表出させてしまう。",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その言葉の持つ響きは、除夜の鐘が百八回分まとめて鳴らされたかのように巨大だった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/体内の宗教.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/多様性とは、都合よく使える美しい言葉ではない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/彼氏彼女と言わずに大切な人と呼んでいる等という小手先の言葉選びによる多様性の尊重が礼賛される時代.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/思想や情動も論理で説明できると思っている人たちが打ち立てる規制は、生身の人間の内側にはいつまで経っても到達しない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/誰かに名付けられている苦しみがこの世界の全てだと思っているそのおめでたい考え方が 羨ましい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/温度パラメータを下げるとは自分がいるべきローカルを見つけること.md": {
+      "id": "300_Input/Reading Notes/温度パラメータを下げるとは自分がいるべきローカルを見つけること.md",
+      "path": "300_Input/Reading Notes/温度パラメータを下げるとは自分がいるべきローカルを見つけること.md",
+      "title": "温度パラメータを下げるとは自分がいるべきローカルを見つけること",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "Knowledge",
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "600_Knowledge/焼きなまし法的人生論",
+        "Youtube - なぜ「正しさ」が重視される社会になったのか？",
+        "2025-02-15"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[600_Knowledge/焼きなまし法的人生論|焼きなまし法的人生論]]にて、歳をとるにつれて生活の探索範囲を狭めていくべきと記した。 [[Youtube - なぜ「正しさ」が重視される社会になったのか？]]では、社会のための価値観を豊かさとし、それは個人の価値観とは相反するとしている。 --- [[2025-02-15]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/測定執着とは、それが実践されたときに意図せぬ好まし….md": {
+      "id": "300_Input/Reading Notes/測定執着とは、それが実践されたときに意図せぬ好まし….md",
+      "path": "300_Input/Reading Notes/測定執着とは、それが実践されたときに意図せぬ好まし….md",
+      "title": "測定執着とは、それが実践されたときに意図せぬ好まし…",
+      "topics": [
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Society"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/ジェリー・Z・ミュラー、松本裕-測りすぎ――なぜパフォーマンス評価は失敗するのか？",
+      "sourceBook": "400_Kindle/ジェリー・Z・ミュラー、松本裕-測りすぎ――なぜパフォーマンス評価は失敗するのか？",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 測定執着とは、それが実践されたときに意図せぬ好ましくない結果が生じるにもかかわらず、こうした信念が持続している状態だ（６）。これが起こるのは、重要なことすべてが測定できるわけではなく、測定できることの大部分は重要ではない（あるいは、なじみのある格言を使うなら、「数えられるものすべてが重要なわけではなく、重要なものすべてが数えられるわけではない（７）」） から",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則」と呼ばれるようになったそのパター….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same source: 400_Kindle/ジェリー・Z・ミュラー、松本裕-測りすぎ――なぜパフォーマンス評価は失敗するのか？"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人は簡単に測定できる要素に注目することで問題を単純化する.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same source: 400_Kindle/ジェリー・Z・ミュラー、松本裕-測りすぎ――なぜパフォーマンス評価は失敗するのか？"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/だけど四十代も後半を迎えた今、還ってきているのは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/無理だって言われていちいち諦めてたら……誰も何もできねぇだろ…!!!オレは…何かになるんだ…何かにならなきゃ…退屈で生きていけねぇよ….md": {
+      "id": "300_Input/Reading Notes/無理だって言われていちいち諦めてたら……誰も何もできねぇだろ…!!!オレは…何かになるんだ…何かにならなきゃ…退屈で生きていけねぇよ….md",
+      "path": "300_Input/Reading Notes/無理だって言われていちいち諦めてたら……誰も何もできねぇだろ…!!!オレは…何かになるんだ…何かにならなきゃ…退屈で生きていけねぇよ….md",
+      "title": "無理だって言われていちいち諦めてたら……誰も何もできねぇだろ…!!!オレは…何かになるんだ…何かにならなきゃ…退屈で生きていけねぇよ…",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Rhetoric"
+      ],
+      "links": [
+        "Rhetoric",
+        "左ききのエレン 3 - かっぴー nifuni"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Rhetoric]] ![[左ききのエレン 3 - かっぴー nifuni#^4483d4]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/情報を集めれば理屈で答えが出せるのが判断、情報を集めることができない中で答えを出さないといけないのが決断.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/仲がいいと思っていたはずの友達がほかの子と座っていたり、順風満帆に座れるはずだった偶数グループが補助席のせいで分裂騒動を起こしたり.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/焼きなまし法的人生論.md": {
+      "id": "300_Input/Reading Notes/焼きなまし法的人生論.md",
+      "path": "300_Input/Reading Notes/焼きなまし法的人生論.md",
+      "title": "焼きなまし法的人生論",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "Knowledge",
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Life"
+      ],
+      "links": [
+        "Life",
+        "焼きなまし法",
+        "500_Fleeting/焼きなまし法的人生論",
+        "2024-07-21"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Life]] 人生って焼きなまし法みたいなもの 要するに若い時に色んなことをやって、年を取るにつれて選択と集中に移行する。 ### 焼きなまし法とは 最適化問題を解くためのアルゴリズムの1つで、最急降下法のように評価の高い近似解を求めることで解を見つける方法。 評価が高い方向に少しずつ探索を進めるが、たまに評価値を無視した探索を行うことで大域的最適解を見つけやすくする。 評価値を無視した探索は、探...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/物は経験の質をブーストさせる装置.md": {
+      "id": "300_Input/Reading Notes/物は経験の質をブーストさせる装置.md",
+      "path": "300_Input/Reading Notes/物は経験の質をブーストさせる装置.md",
+      "title": "物は経験の質をブーストさせる装置",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**Tommy** @tommysan07 [2026-01-27](https://x.com/tommysan07/status/2016077497251856763) 「ファッションにお金使うくらいなら経験に投資したい。服はGUで十分。」云々言われた時に言い返したい言葉。 ![画像](https://pbs.twimg.com/media/G_qLy1UWUAAztmN?format=jpg&name=large)",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/物見遊山（ものみゆさん）とは？ 意味・読み方・使い方 - 四字熟語一覧 - goo辞書.md": {
+      "id": "300_Input/Reading Notes/物見遊山（ものみゆさん）とは？ 意味・読み方・使い方 - 四字熟語一覧 - goo辞書.md",
+      "path": "300_Input/Reading Notes/物見遊山（ものみゆさん）とは？ 意味・読み方・使い方 - 四字熟語一覧 - goo辞書.md",
+      "title": "[物見遊山（ものみゆさん）とは？ 意味・読み方・使い方 - 四字熟語一覧 - goo辞書](https://dictionary.goo.ne.jp/word/%E7%89%A9%E8%A6%8B%E9%81%8A%E5%B1%B1_%28%E5%9B%9B%E5%AD%97%E7%86%9F%E8%AA%9E%29/#:~:text=%E3%82%82%E3%81%AE%E3%81%BF%E3%82%86%E3%81%95%E3%82%93%E3%80%90%E7%89%A9%E8%A6%8B,%E3%81%93%E3%81%A1%E3%82%89%E3%82%92%E8%A6%8B%E7%89%A9%E3%81%99%E3%82%8B%E3%81%93%E3%81%A8%E3%80%82&text=%E3%80%8C%E7%89%A9%E8%A6%8B%E3%80%8D%E3%81%AF%E3%80%81%E5%90%8D%E6%89%80,%E3%81%AB%E9%81%8A%E3%81%B3%E3%81%AB%E5%87%BA%E3%81%8B%E3%81%91%E3%82%8B%E3%81%93%E3%81%A8%E3%80%82)",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[ReadItLater]] [[Article]] - [意味](https://dictionary.goo.ne.jp/word/%E7%89%A9%E8%A6%8B%E9%81%8A%E5%B1%B1_%28%E5%9B%9B%E5%AD%97%E7%86%9F%E8%AA%9E%29/) - 例文 - 慣用句 - 画像 ## 物見遊山の解説 - [学研](https://hon.gakken.jp/) [四字熟語辞典](h...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/狩猟採集から農耕は段階的に遷移していった.md": {
+      "id": "300_Input/Reading Notes/狩猟採集から農耕は段階的に遷移していった.md",
+      "path": "300_Input/Reading Notes/狩猟採集から農耕は段階的に遷移していった.md",
+      "title": "狩猟採集から農耕は段階的に遷移していった",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/彰-銃・病原菌・鉄　上巻",
+      "sourceBook": "400_Kindle/彰-銃・病原菌・鉄　上巻",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 人びとは、食料の生産をはじめると同時に野生動植物の狩猟採集をやめたわけではなく、食料作りをはじめた当初は狩猟採集を継続していた。狩猟採集を継続することの重要性は、飼育栽培食物への依存性が増すにしたがって徐々に減少していったのである > これまでの考察から明らかなように、農耕をはじめた人たちは、食物を得る方法がほかになかったために突然はじめたわけではない。狩猟採集生活と食料生産生活は、二者択一的に選ばれたわけではなく、食料獲得戦略の...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/このように肉食哺乳類は、餌の経済効率が悪いので、食….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/彰-銃・病原菌・鉄　上巻"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/本書についていえば、つぎのような要約となる──「歴….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/彰-銃・病原菌・鉄　上巻"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md": {
+      "id": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+      "path": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+      "title": "王道は王道である理由があり、邪道はどれほど輝いていても邪道",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life",
+        "Topic/Omoro",
+        "Topic/Society",
+        "Topic/Tech"
+      ],
+      "tags": [
+        "Knowledge",
+        "🎁Topic/Life",
+        "🎁Topic/Society",
+        "🎁Topic/Learning",
+        "🎁Topic/Tech",
+        "🎁Topic/Omoro"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "2023-04-02"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "--- [[2023-04-02]] ## 経緯 ### 三星ななみが卒業した [【ご報告】卒業します。今までありがとうございました。無期限の活動休止【三星ナナミ】【切り抜き / ななてん / Vtuber / セキララ】 - YouTube](https://www.youtube.com/watch?v=8QW5mqEvL1g) <iframe width=\"560\" height=\"315\" src=\"https://www.y...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 25,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/学習の演繹的アプローチと帰納的アプローチ.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分のやりたいことを正確に把握するのは難しい.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Tech"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/理想の選び方によっては、問題を拡大再生産する.md": {
+      "id": "300_Input/Reading Notes/理想の選び方によっては、問題を拡大再生産する.md",
+      "path": "300_Input/Reading Notes/理想の選び方によっては、問題を拡大再生産する.md",
+      "title": "理想の選び方によっては、問題を拡大再生産する",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Society",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Society",
+        "🎁Topic/Learning",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/読書猿-問題解決大全",
+      "sourceBook": "400_Kindle/読書猿-問題解決大全",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> ほとんど人間の本性に刻まれたものとすら思える、理想と現実のギャップを放置できない志向は、しかし、理想の選び方によっては、問題を解決するどころか、かえって拗らせ、拡大再生産さえしてしまう危険性をはらんでいる > よく知られた例は、アメリカ合衆国で立法化された国家禁酒法（ボルステッド法、1919） 及びアメリカ合衆国憲法修正第18条（1920） と、その 顛末 だろ > 「酒が及ぼす害を社会から取り除く」という理想は、消費のためのアル...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/遅延評価的勉強法.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人は簡単に測定できる要素に注目することで問題を単純化する.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/産業革命する前のハム太郎.md": {
+      "id": "300_Input/Reading Notes/産業革命する前のハム太郎.md",
+      "path": "300_Input/Reading Notes/産業革命する前のハム太郎.md",
+      "title": "産業革命する前のハム太郎",
+      "topics": [
+        "Topic/Omoro"
+      ],
+      "tags": [
+        "🎁Topic/Omoro"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "産業革命する前のハム太郎",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつの最高ステータス絶対「とくぼう」だろって直感で分かるとき.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ほうれん草の臭みは無く、.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ウォーリーを知らない状態でウォーリーを探せをやってる.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ダイアン津田が個人でやっていて、しかも大成功している貿易.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マックのポテトはマックのポテトってジャンル.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ローランドがやってる病院.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/全部意味ない、命削っただけ」←そもそも人生はそういうものでした.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/坂東of英二s.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Omoro"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいる.md": {
+      "id": "300_Input/Reading Notes/画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいる.md",
+      "path": "300_Input/Reading Notes/画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいる.md",
+      "title": "[CDB＠初書籍発売中！](https://twitter.com/C4Dbeginner/status/1820395168614490417)",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "Scrap",
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Society"
+      ],
+      "links": [
+        "Society",
+        "ReadItLater",
+        "Tweet"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Society]] [[ReadItLater]] [[Tweet]] > これ興味深いんだけど、要するに美容院で画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいて、そこから外れた状態を滑稽なほど恐れているんですよね。早い話が「女なのに服装がだらしない」みたいな抑圧を男にも輸出してるわけなんだけど、それ清潔とは何の関係もないよねという [https://t.co/WJJHUHnQY...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Society",
+            "shared link: ReadItLater",
+            "shared link: Society",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/本音重視が暴力の美化や正当化につながる.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Society",
+            "shared link: ReadItLater",
+            "shared link: Society",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared consist of: Society",
+            "shared link: Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/個人主義は自己責任論を増強する.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/成果主義は頑張ったアピールをしないと切られるルール.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何故ホモソ批判はガバガバになってしまうのか｜さいたま.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分のやりたいことを正確に把握するのは難しい.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/登山型の本とハイキング型の本.md": {
+      "id": "300_Input/Reading Notes/登山型の本とハイキング型の本.md",
+      "path": "300_Input/Reading Notes/登山型の本とハイキング型の本.md",
+      "title": "登山型の本とハイキング型の本",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life"
+      ],
+      "tags": [
+        "Knowledge",
+        "🎁Topic/Life",
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "難解な本を読む技術 - 高田明典",
+        "明典-難解な本を読む技術",
+        "2024-01-07"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[難解な本を読む技術 - 高田明典]] ## 論理や概念を積み上げる登山型と様々概念を列挙するハイキング型 #### 登山型の本 **ある概念や論理を前提とし、そこから論理を展開をする**という形式の本。 途中から読んでも理解できない場合が多く、最初から地道に読む必要がある。 哲学書などに多い。 #### ハイキング型の本 **様々な概念や論理を次々と述べていく**形式の本。 本の中の1つの難解な概念を理解するのではなく、論の広がり...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の作る異本は生い立ち、教育、感じ方に影響を受ける.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/白・グレー・黒で影をつける練習.md": {
+      "id": "300_Input/Reading Notes/白・グレー・黒で影をつける練習.md",
+      "path": "300_Input/Reading Notes/白・グレー・黒で影をつける練習.md",
+      "title": "白・グレー・黒で影をつける練習",
+      "topics": [
+        "Topic/Illust"
+      ],
+      "tags": [
+        "🎁Topic/Illust"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**井上純一（希有馬屋）『逆資本論』発売中** @KEUMAYA [2026-02-19](https://x.com/KEUMAYA/status/2024374033224196407) 学校の教材作ってるんだけど、この「白グレー黒でとりあえず自分の絵を4パターン塗ってみる」という演習。 「容赦なく弱点が出る」と自分で書いたとおり、マジで自分の影付けのセンスのなさと対治することになる。 み、みんなもやろう（吐血） べんきょうになる...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Illust"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Illust"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/社会はやってきていないことで溢れている.md": {
+      "id": "300_Input/Reading Notes/社会はやってきていないことで溢れている.md",
+      "path": "300_Input/Reading Notes/社会はやってきていないことで溢れている.md",
+      "title": "社会はやってきていないことで溢れている",
+      "topics": [
+        "Topic/Life",
+        "Topic/Society"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Society"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/朝井リョウ-イン・ザ・メガチャーチ",
+      "sourceBook": "400_Kindle/朝井リョウ-イン・ザ・メガチャーチ",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 離れ離れになるまでは当然のようにそばにあった家族という存在が、もはや最後の蜘蛛の糸としての〝他者との繫がり〟、〝社会との接点〟に換算されるなんて、あのころの自分は全く想像していなかった。 やってきたことが還ってくるのが人生だと思っていたあのころは。 > やったことが還ってくる時間を生きている顔が、画面を占める。 若き成功者ですという態度でテレビに出ている奴らは全員そうだ。これまでやってきたこと、まさに今やっていることが目に見えて積...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/こいつがいないとこれは言わなかったなってことを言ったり、こいつからじゃなきゃ聞けなかったなってことを聞く.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その場に自分たちがいなかったら生まれなかった言葉とか、ノリが生まれたら勝ち.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/私たち人間は、どんなに論理的に正しいことを言われた….md": {
+      "id": "300_Input/Reading Notes/私たち人間は、どんなに論理的に正しいことを言われた….md",
+      "path": "300_Input/Reading Notes/私たち人間は、どんなに論理的に正しいことを言われた….md",
+      "title": "私たち人間は、どんなに論理的に正しいことを言われた…",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/渉-神トーーク 「伝え方しだい」で人生は思い通り",
+      "sourceBook": "400_Kindle/渉-神トーーク 「伝え方しだい」で人生は思い通り",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 私たち人間は、どんなに論理的に正しいことを言われたとしても、「感情」が同意していなければ、真に受け入れることはできないのです",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/よって、 多くの人が「満たしたいと思っている感情」….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/渉-神トーーク 「伝え方しだい」で人生は思い通り"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分自身が「この人の話ならば聞こうと思える言動を日….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/渉-神トーーク 「伝え方しだい」で人生は思い通り"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/私としては、二人セットで〝親〟だったときよりも今の….md": {
+      "id": "300_Input/Reading Notes/私としては、二人セットで〝親〟だったときよりも今の….md",
+      "path": "300_Input/Reading Notes/私としては、二人セットで〝親〟だったときよりも今の….md",
+      "title": "私としては、二人セットで〝親〟だったときよりも今の…",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/朝井リョウ-イン・ザ・メガチャーチ",
+      "sourceBook": "400_Kindle/朝井リョウ-イン・ザ・メガチャーチ",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 私としては、二人セットで〝親〟だったときよりも今のお母さんのほうが話しやすい。何だかお互いに、人間としてあんまりよくない部分まで 誤魔化さなくなった感じがあって、それが心地良い。",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/こういうふうに、目に入る情報を自らいちいちマイナス….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-イン・ザ・メガチャーチ"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/悠真の言う「重い」は私の恋愛感情の話ではなかった.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-イン・ザ・メガチャーチ"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/既読なんて以ての外だ.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-イン・ザ・メガチャーチ"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/社会はやってきていないことで溢れている.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-イン・ザ・メガチャーチ"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか 2.md": {
+      "id": "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか 2.md",
+      "path": "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか 2.md",
+      "title": "私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか 2",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "「正しいこととか、そんなの全部どうでもいいです。この部にとって最善とか、そんな小難しいことなんて全部知らない！ 私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか」 — location: [2840](kindle://book?action=open&asin=B07T6SZK98&location=2840) ^ref-62605 「そんな子供みたいなこと言って、」 「子供で何が悪いんですか！ 高校生なんてまだまだガキ...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/出遅れた夏紀はとりあえずピースすることにした。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。 2.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/結果が出えへんかったら、努力ってなかったことにされてしまうん？　あのときのうちらの演奏、ほんまにほかの金賞の学校より劣ってた？.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか.md": {
+      "id": "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか.md",
+      "path": "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか.md",
+      "title": "私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 「正しいこととか、そんなの全部どうでもいいです。この部にとって最善とか、そんな小難しいことなんて全部知らない！ 私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか > 「そんな子供みたいなこと言って、」 「子供で何が悪いんですか！ 高校生なんてまだまだガキですよ。先輩こそ、なんでそんな無理して大人ぶるんですか。全部わかってるみたいに振る舞って、自分だけが特別だって思い込んでるんじゃないですか？ 実際はただの高校生なのに！...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/時間の匂い.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 3 北宇治高校吹奏楽部、最大の危機",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/オーボエは息が余る.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/私は本書の考察を通じて、自然環境の障壁が少ない場所….md": {
+      "id": "300_Input/Reading Notes/私は本書の考察を通じて、自然環境の障壁が少ない場所….md",
+      "path": "300_Input/Reading Notes/私は本書の考察を通じて、自然環境の障壁が少ない場所….md",
+      "title": "私は本書の考察を通じて、自然環境の障壁が少ない場所…",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/彰-銃・病原菌・鉄　下巻",
+      "sourceBook": "400_Kindle/彰-銃・病原菌・鉄　下巻",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 私は本書の考察を通じて、自然環境の障壁が少ない場所では技術が伝播しやすかった点を強調してきた。しかし、中国では、地域の地理的結びつきが強かったことがかえって逆に作用し、一人の支配者の決定が全国の技術革新の流れを再三再四止めてしまうようなことが起こった。これとは逆に、分裂状態にあったヨーロッパでは、何十、何百といった小国家が誕生し、それぞれに独自の技術を競い合っ",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ところが実際の発明の多くは、人間の好奇心の産物であ….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/彰-銃・病原菌・鉄　下巻"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私は本書の考察を通じて、自然環境の障壁が少ない場所では技術が伝播しやすかった点を強調してきた.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/彰-銃・病原菌・鉄　下巻"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/私は本書の考察を通じて、自然環境の障壁が少ない場所では技術が伝播しやすかった点を強調してきた.md": {
+      "id": "300_Input/Reading Notes/私は本書の考察を通じて、自然環境の障壁が少ない場所では技術が伝播しやすかった点を強調してきた.md",
+      "path": "300_Input/Reading Notes/私は本書の考察を通じて、自然環境の障壁が少ない場所では技術が伝播しやすかった点を強調してきた.md",
+      "title": "私は本書の考察を通じて、自然環境の障壁が少ない場所…",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/彰-銃・病原菌・鉄　下巻",
+      "sourceBook": "400_Kindle/彰-銃・病原菌・鉄　下巻",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 私は本書の考察を通じて、自然環境の障壁が少ない場所では技術が伝播しやすかった点を強調してきた。しかし、中国では、地域の地理的結びつきが強かったことがかえって逆に作用し、一人の支配者の決定が全国の技術革新の流れを再三再四止めてしまうようなことが起こった。これとは逆に、分裂状態にあったヨーロッパでは、何十、何百といった小国家が誕生し、それぞれに独自の技術を競い合っ",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ところが実際の発明の多くは、人間の好奇心の産物であ….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/彰-銃・病原菌・鉄　下巻"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私は本書の考察を通じて、自然環境の障壁が少ない場所….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/彰-銃・病原菌・鉄　下巻"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/稼ぐために書き始めたとたん、質が下がる.md": {
+      "id": "300_Input/Reading Notes/稼ぐために書き始めたとたん、質が下がる.md",
+      "path": "300_Input/Reading Notes/稼ぐために書き始めたとたん、質が下がる.md",
+      "title": "稼ぐために書き始めたとたん、質が下がる",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Learning",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Rhetoric"
+      ],
+      "links": [
+        "Rhetoric",
+        "読書について他二篇 - ショウペンハウエルA"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Rhetoric]] どんな作家でも、かせぐために書きはじめたとたん、質が下がる。偉大なる人々の最高傑作はいずれも、無報酬か、ごくわずかな報酬で書かねばならなかった時代の作品だ。この場合でも、スペインのことわざ「名誉と金は、ひとつの袋におさまらない」は正しいことがわかる — location: [258](kindle://book?action=open&asin=B015F4CCQA&loca...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ほうれん草の臭みは無く、.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/管見.md": {
+      "id": "300_Input/Reading Notes/管見.md",
+      "path": "300_Input/Reading Notes/管見.md",
+      "title": "管見",
+      "topics": [
+        "Topic/Life",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "1, 狭い見識。視野の狭い考え方。「—にとらわれる」2, 自分の知識・見解・意見をへりくだっていう語。",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/他人が欲しがっているから、持っているから　自分も欲しいと錯覚する。｜Ferica.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/末席を汚す.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自由意志があるフリをしろ.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/赤の女王仮説 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md": {
+      "id": "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+      "path": "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+      "title": "[紺屋の白袴 | 会話で使えることわざ辞典 | 情報・知識＆オピニオン imidas - イミダス](https://imidas.jp/proverb/detail/X-02-C-10-1-0042.html#:~:text=%E3%81%93%E3%81%86%E3%82%84%E3%81%AE%E3%81%97%E3%82%8D%E3%81%B0%E3%81%8B%E3%81%BE,%E3%81%A0%E3%82%81%E3%81%AA%E4%BA%BA%E9%96%93%E3%82%92%E3%81%84%E3%81%86%E3%80%82)",
+      "topics": [
+        "Topic/Life",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Word"
+      ],
+      "links": [
+        "Word",
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Word]] [[ReadItLater]] [[Article]] （紺屋は白い生地を紺（こん）に染めるのが商売であるが、それが白いままの袴を着けているというので） 他人のことにかまけて、自分の専門技術が役に立たないことをいう。転じて、人には口やかましくいうが、自分のこととなると、からきしだめな人間をいう。 〔類〕[医者の不養生](https://imidas.jp/proverb/detail...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 16,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/赤の女王仮説 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/面白い数のパラドックス - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/結果が出えへんかったら、努力ってなかったことにされてしまうん？　あのときのうちらの演奏、ほんまにほかの金賞の学校より劣ってた？.md": {
+      "id": "300_Input/Reading Notes/結果が出えへんかったら、努力ってなかったことにされてしまうん？　あのときのうちらの演奏、ほんまにほかの金賞の学校より劣ってた？.md",
+      "path": "300_Input/Reading Notes/結果が出えへんかったら、努力ってなかったことにされてしまうん？　あのときのうちらの演奏、ほんまにほかの金賞の学校より劣ってた？.md",
+      "title": "結果が出えへんかったら、努力ってなかったことにされてしまうん？　あのときのうちらの演奏、ほんまにほかの金賞の学校より劣ってた？",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "こっちだって演奏会とコンクールって別もんってことはわかってるし、コンクール向きの演奏をせなあかんってこともわかってる。南中はそれができんかった。でも、頑張ったんはほんまやねん。なあ、結果が出えへんかったら、努力ってなかったことにされてしまうん？ あのときのうちらの演奏、ほんまにほかの金賞の学校より劣ってた？」 「それは……」 握り締めた缶は、夏の外気のせいですっかり汗をかいている。久美子は手のなかにあるそれを一瞥し、それから小さく息を...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/出遅れた夏紀はとりあえずピースすることにした。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。 2.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか 2.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/綺麗に折り畳まれていたはずの雑巾がぐちゃりと乱れ、内側に隠していたはずの汚れをあらわにしていた.md": {
+      "id": "300_Input/Reading Notes/綺麗に折り畳まれていたはずの雑巾がぐちゃりと乱れ、内側に隠していたはずの汚れをあらわにしていた.md",
+      "path": "300_Input/Reading Notes/綺麗に折り畳まれていたはずの雑巾がぐちゃりと乱れ、内側に隠していたはずの汚れをあらわにしていた.md",
+      "title": "綺麗に折り畳まれていたはずの雑巾がぐちゃりと乱れ、内側に隠していたはずの汚れをあらわにしていた",
+      "topics": [
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "「お祭りのとき、希美が言ったから。ほかの子も誘えって。だから」 「だから剣崎さんを？」 「そう」 そっかー、と希美が明るく相槌を打つ。耳の前に流れるひと房の黒髪、そこからのぞく希美の頬が不自然に引きつったのが見えた。明るい笑顔を維持したまま、希美が片手で雑巾を握り締める。綺麗に折り畳まれていたはずの雑巾がぐちゃりと乱れ、内側に隠していたはずの汚れをあらわにしていた — location: [951](kindle://book?act...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あそこまでいけば誰だって評価してくれる。やから、文句を言うならあのレベルになってからかなって思う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。立華にも、龍聖にも、どの学校にも。北宇治が一番やって言われたい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。 2.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/聞き飽きた言葉に納得感を与える力.md": {
+      "id": "300_Input/Reading Notes/聞き飽きた言葉に納得感を与える力.md",
+      "path": "300_Input/Reading Notes/聞き飽きた言葉に納得感を与える力.md",
+      "title": "聞き飽きた言葉に納得感を与える力",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Fleeting",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "2024-12-11",
+        "FleetingDB_card"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "--- [[2024-12-11]] ![[FleetingDB_card]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ランキング作ってみるの良さそう.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: 2024-12-11",
+            "shared link: FleetingDB_card"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/感性の老いに打ち勝つ抽象化.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: 2024-12-11",
+            "shared link: FleetingDB_card"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/好きなものが明確になるとそれ以外のものを許容しにくくなる.md",
+          "score": 7,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: FleetingDB_card"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/能力は改善し続けないと徐々に劣化する.md": {
+      "id": "300_Input/Reading Notes/能力は改善し続けないと徐々に劣化する.md",
+      "path": "300_Input/Reading Notes/能力は改善し続けないと徐々に劣化する.md",
+      "title": "能力は改善し続けないと徐々に劣化する",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/アンダース・エリクソン、ロバート・プール、土方奈美-超一流になるのは才能か努力か？",
+      "sourceBook": "400_Kindle/アンダース・エリクソン、ロバート・プール、土方奈美-超一流になるのは才能か努力か？",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "許容できるレベルを超えたいものとそうでないものがある",
+      "myTake": "",
+      "preview": "> ひとたびそこそこのスキルレベルに達し、運転でもテニスでもパイを焼くのでも特に意識せずにできるようになってしまうと、そこで上達は止まるの > 継続すればペースは緩やかかもしれないが能力は向上しつづけると思っている人が多い。運転歴二〇年の人は五年しか運転していない人より上手である、二〇年医者をやっている人は五年しか経験のない若手より優れている、二〇年教壇に立っている教師は五年しか教えていない教師より上である、と思いこむのだ。 だが、そ...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/アンダース・エリクソン、ロバート・プール、土方奈美-超一流になるのは才能か努力か？"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の作る異本は生い立ち、教育、感じ方に影響を受ける.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/能力や知識を持ってることの義務化と前提化.md": {
+      "id": "300_Input/Reading Notes/能力や知識を持ってることの義務化と前提化.md",
+      "path": "300_Input/Reading Notes/能力や知識を持ってることの義務化と前提化.md",
+      "title": "[コクリス＠ヤルセナイン](https://twitter.com/naitomisuto1/status/1822844270409326778)",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Scrap",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "ReadItLater",
+        "Tweet"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[ReadItLater]] [[Tweet]] > あなたがされてるのは期待ではなく能力や知識を持ってることの義務化と前提化です。 > やればできる(できるまでやれ)の亜種です。 [https://t.co/bxAaA0ZEMP](https://t.co/bxAaA0ZEMP) > > — コクリス＠ヤルセナイン (@naitomisuto1) [August 12, 2024](https://twitter.com/nait...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/個人主義は自己責任論を増強する.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しい人だと思ったら、単に色々なものに無関心だった人.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/古いことをやめる方が圧倒的に労力がいる。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/外見の美しさは分かりやすいが、内面を何をもって美しいとするか謎.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/成果主義は頑張ったアピールをしないと切られるルール.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/本音重視が暴力の美化や正当化につながる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を押し殺してる気配の強い人が遠巻きにされる世界.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/自分がいかに凡人か突きつけられ、呼吸が一瞬止まるから。.md": {
+      "id": "300_Input/Reading Notes/自分がいかに凡人か突きつけられ、呼吸が一瞬止まるから。.md",
+      "path": "300_Input/Reading Notes/自分がいかに凡人か突きつけられ、呼吸が一瞬止まるから。.md",
+      "title": "自分がいかに凡人か突きつけられ、呼吸が一瞬止まるから。",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "みぞれの世界を変えられるのは、いつだって希美だけ。いっそ狂気すら感じさせる、痛ましい努力の理由がうらやましかった。 みぞれといると苦しくなるのは、自分のずるさを思い知らされるからだ。自分がいかに凡人か突きつけられ、呼吸が一瞬止まるから。 — location: [2956](kindle://book?action=open&asin=B08R3NMW4F&location=2956) ^ref-3037 **consist of**...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/出遅れた夏紀はとりあえずピースすることにした。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/夏紀だって一度はなってみたい、学校が好きな人間に.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/嫌でも大人になっちゃうのに、子供のときから大人ぶる必要なんて全然ない。 2.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/毎日は種まきみたいなもので、未来の楽しみをいっぱいいろんなとこに埋めてるんやろうなって.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私は、あすか先輩と本番に出たい。なんでそれじゃダメなんですか 2.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/自分のやりたいことを正確に把握するのは難しい.md": {
+      "id": "300_Input/Reading Notes/自分のやりたいことを正確に把握するのは難しい.md",
+      "path": "300_Input/Reading Notes/自分のやりたいことを正確に把握するのは難しい.md",
+      "title": "[自分のやりたいことを正確に把握するのは難しい](https://jinjor-labo.hatenablog.com/entry/2021/05/07/074222)",
+      "topics": [
+        "Topic/Life",
+        "Topic/Omoro",
+        "Topic/Society"
+      ],
+      "tags": [
+        "Scrap",
+        "🎁Topic/Life",
+        "🎁Topic/Society",
+        "🎁Topic/Omoro"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[ReadItLater]] [[Article]] キャリアの話になると、学生に向けて「自分の本当にやりたいことに向き合いましょう」というメッセージが発せられることが多い。それに対する学生側のよくある悩みは「やりたいことが見つかりません」「やりたいことがよく分かりません」というものだ。その様子を見ていて「やりたいことなんて考えなくても常にあるし簡単じゃん」と思ってたんだけど、最近は**「本当にやりたいことを把握するのはめちゃくちゃ...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人付き合いって大事かなと思ったら読みたい3冊.md",
+          "score": 19,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/王道は王道である理由があり、邪道はどれほど輝いていても邪道.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何故ホモソ批判はガバガバになってしまうのか｜さいたま.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/個人主義は自己責任論を増強する.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/成果主義は頑張ったアピールをしないと切られるルール.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/本音重視が暴力の美化や正当化につながる.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Society",
+            "shared link: ReadItLater"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/自分の頭でじっくり考え抜いた知識の方が、はるかに価値がある.md": {
+      "id": "300_Input/Reading Notes/自分の頭でじっくり考え抜いた知識の方が、はるかに価値がある.md",
+      "path": "300_Input/Reading Notes/自分の頭でじっくり考え抜いた知識の方が、はるかに価値がある.md",
+      "title": "自分の頭でじっくり考え抜いた知識の方が、はるかに価値がある",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "成長論"
+      ],
+      "links": [
+        "成長論",
+        "読書について他二篇 - ショウペンハウエルA"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[成長論]] どんなにたくさんあっても整理されていない蔵書より、ほどよい冊数で、きちんと整理されている蔵書のほうが、ずっと役に立つ。同じことが知識についてもいえる。いかに大量にかき集めても、自分の頭で考えずに 鵜 吞 みにした知識より、量はずっと少なくとも、じっくり考え抜いた知識のほうが、はるかに価値がある — location: [17](kindle://book?action=open&asi...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/人は知ってることしか見えない.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: 成長論",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/学びのプロセスは3次元.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared consist of: 成長論",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life",
+            "shared link: 読書について他二篇 - ショウペンハウエルA"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/自分は人に決断の負担をかけて生きている.md": {
+      "id": "300_Input/Reading Notes/自分は人に決断の負担をかけて生きている.md",
+      "path": "300_Input/Reading Notes/自分は人に決断の負担をかけて生きている.md",
+      "title": "自分は人に決断の負担をかけて生きている",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Knowledge",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "2024-01-14"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "--- [[2024-01-14]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md": {
+      "id": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+      "path": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+      "title": "自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Rhetoric",
+        "MyFavorite武田綾乃"
+      ],
+      "links": [
+        "Rhetoric",
+        "MyFavorite武田綾乃"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Rhetoric]] **consist of**:: [[MyFavorite武田綾乃]] 世界を構成するすべてが、なんだか宙ぶらりんに感じる。自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。昔からそうだ。世界から自分だけが 弾き出されたような、理由のない疎外感 — location: [228](kindle://book?action=open&asin=B0...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/うっかり太陽を直視してしまったときのような、濃縮したまぶしさが網膜を焼き切ろうとする.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ずるり。四つに区切られた心臓の小部屋から、無自覚に抱き続けていた本音が漏れた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/まぶしい暗闇のなかで腑抜けた極彩色が飛び散った。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中世古さん、あなたがソロを吹きますか.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared consist of: Rhetoric",
+            "shared link: MyFavorite武田綾乃",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/出遅れた夏紀はとりあえずピースすることにした。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: MyFavorite武田綾乃",
+            "shared link: MyFavorite武田綾乃"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/自分を押し殺してる気配の強い人が遠巻きにされる世界.md": {
+      "id": "300_Input/Reading Notes/自分を押し殺してる気配の強い人が遠巻きにされる世界.md",
+      "path": "300_Input/Reading Notes/自分を押し殺してる気配の強い人が遠巻きにされる世界.md",
+      "title": "[三好](https://twitter.com/miyoshiiii/status/1828201291572748613)",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Life"
+      ],
+      "links": [
+        "ReadItLater",
+        "Tweet",
+        "Life"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[ReadItLater]] [[Tweet]] **consist of**:: [[Life]] > そう！「謙虚なわきまえ人が嫌われて図々しい無遠慮な人が好かれる変な世界」なんじゃなくて、「素直な人が好まれて『自分を押し殺してる気配の強い人』が遠巻きにされる世界」なんだと思う 自分曲げ度が見られてると言うか… > > — 三好 (@miyoshiiii) [August 26, 2024](https://twitter.co...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しい人だと思ったら、単に色々なものに無関心だった人.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/古いことをやめる方が圧倒的に労力がいる。.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の人たる所以は「人生は一度きりで、自分の判断の結果を引き受けなければならない」という制約.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/何一つ悪と見なさない人間にとって、善もまた存在しない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/動機付けに重要なのは自分が環境をコントロールできているという認知.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/己の非力を痛感できる強さ、絶望する才能.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/自分自身が「この人の話ならば聞こうと思える言動を日….md": {
+      "id": "300_Input/Reading Notes/自分自身が「この人の話ならば聞こうと思える言動を日….md",
+      "path": "300_Input/Reading Notes/自分自身が「この人の話ならば聞こうと思える言動を日….md",
+      "title": "自分自身が「この人の話ならば聞こうと思える言動を日…",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/渉-神トーーク 「伝え方しだい」で人生は思い通り",
+      "sourceBook": "400_Kindle/渉-神トーーク 「伝え方しだい」で人生は思い通り",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 自分自身が「この人の話ならば聞こうと思える言動を日常でとっている」「話を聞くに値する振る舞いをしている」ことこそが、すべての「人の心を動かすメカニズム」の土台となる わけ",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/よって、 多くの人が「満たしたいと思っている感情」….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/渉-神トーーク 「伝え方しだい」で人生は思い通り"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/私たち人間は、どんなに論理的に正しいことを言われた….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/渉-神トーーク 「伝え方しだい」で人生は思い通り"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/自由意志があるフリをしろ.md": {
+      "id": "300_Input/Reading Notes/自由意志があるフリをしろ.md",
+      "path": "300_Input/Reading Notes/自由意志があるフリをしろ.md",
+      "title": "自由意志があるフリをしろ",
+      "topics": [
+        "Topic/Life",
+        "Topic/Word"
+      ],
+      "tags": [
+        "Knowledge",
+        "Scrap",
+        "🎁Topic/Life",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Life",
+        "Rhetoric"
+      ],
+      "links": [
+        "Life",
+        "Rhetoric",
+        "息吹 - テッド チャン"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "--- **consist of**:: [[Life]] **consist of**:: [[Rhetoric]] [[息吹 - テッド チャン]] > わたしがあなたに伝えたいのはこういうことだ。自由意志を持っているふりをしろ。たとえそうではないことを知っていても、自分の決断に意味があるかのようにふるまうことがもっとも重要だ。 > 現実がどうなのかは重要じゃない。重要なのはなにを信じるかだ。そして、目覚めたコーマを避ける唯一の方...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/情報を集めれば理屈で答えが出せるのが判断、情報を集めることができない中で答えを出さないといけないのが決断.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared consist of: Rhetoric",
+            "shared link: Life",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared consist of: Rhetoric",
+            "shared link: Life",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/でも、頼るものを分散化しようと思ったの。いろんなものを好きになって、いろんなものを居場所にして……。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared link: Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/茶飲み友達は大切.md": {
+      "id": "300_Input/Reading Notes/茶飲み友達は大切.md",
+      "path": "300_Input/Reading Notes/茶飲み友達は大切.md",
+      "title": "茶飲み友達は大切",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**しらたまの簡易生活** @shiratama\\_8man [2026-01-19](https://x.com/shiratama_8man/status/2013203055215247792) 「茶飲み友達」は本当に大切だと思います。気負わず、ファミレスや公園でお茶をできる、でも一線は超えない世間話をする仲といいますか。お互いの価値観は否定せず、ただただ一緒に気分転換する相手というか。 内容のない会話を、笑ってできる相手。ある...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/著作の主観的退屈=退屈の第一形式.md": {
+      "id": "300_Input/Reading Notes/著作の主観的退屈=退屈の第一形式.md",
+      "path": "300_Input/Reading Notes/著作の主観的退屈=退屈の第一形式.md",
+      "title": "著作の主観的退屈=退屈の第一形式",
+      "topics": [
+        "Topic/Learning"
+      ],
+      "tags": [
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/芳子-読書について",
+      "sourceBook": "400_Kindle/芳子-読書について",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "退屈の第二形式だ！",
+      "myTake": "",
+      "preview": "> 主観的退屈は単に相対的なものだ。主観的に退屈なのは、読者がそのテーマに関心がないせいで、読者側の関心になんらかの制約があるからだ。だからどんなにすばらしいものでも、主観的に退屈、つまり人によっては退屈なことも",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/著作の客観的退屈=退屈の第一形式.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same source: 400_Kindle/芳子-読書について"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/すぐに役に立つものはすぐに役に立たなくなる.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/はじめて見る東京は、非常に非人間的なバカでかい町で….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プロはチェスの盤面を塊として記憶できる.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/著作の客観的退屈=退屈の第一形式.md": {
+      "id": "300_Input/Reading Notes/著作の客観的退屈=退屈の第一形式.md",
+      "path": "300_Input/Reading Notes/著作の客観的退屈=退屈の第一形式.md",
+      "title": "著作の客観的退屈=退屈の第一形式",
+      "topics": [
+        "Topic/Learning"
+      ],
+      "tags": [
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/芳子-読書について",
+      "sourceBook": "400_Kindle/芳子-読書について",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "退屈の第一形式だ！",
+      "myTake": "",
+      "preview": "> 先ほど述べた著作の退屈ということに関して、一般的な注意を伝えておかねばならない。退屈には、客観的退屈と主観的退屈の二種類がある。客観的退屈はいつも、ここで問題にされている欠陥、すなわち著者が伝えるべき明快な思想や認識を持たないという欠陥から",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/著作の主観的退屈=退屈の第一形式.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same source: 400_Kindle/芳子-読書について"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/すぐに役に立つものはすぐに役に立たなくなる.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/はじめて見る東京は、非常に非人間的なバカでかい町で….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プロはチェスの盤面を塊として記憶できる.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/薄氷の上に立っているような、そんな気分.md": {
+      "id": "300_Input/Reading Notes/薄氷の上に立っているような、そんな気分.md",
+      "path": "300_Input/Reading Notes/薄氷の上に立っているような、そんな気分.md",
+      "title": "薄氷の上に立っているような、そんな気分",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+      "sourceBook": "400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+      "mocs": [
+        "110_MOC/響け！ ユーフォニアム_MOC"
+      ],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "親しすぎるがあまり、それが失われてしまうことが怖い\n部活に対する向きあいかたが違うことがさらにその不安に拍車をかけてそう",
+      "myTake": "",
+      "preview": "> 久美子は麗奈ほど強くないし、部活だって何度も辞めたいと思ったことがある。逃げたっていいじゃん。たかが部活なんだしさ。そう言ったら、きっと麗奈は顔を真っ赤にして怒るだろう。麗奈はいつだって真剣だ。自分とは、あまりに違う。流されてしまう自分とは。久美子はそっと隣を > 麗奈が久美子の視線に気づき、そっとその口元を綻ばせた。いつもは冷たさを帯びるその瞳も、久美子の前では温かだ。麗奈は久美子を特別に思っている。そして久美子もまた、麗奈を特...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/オーボエは息が余る.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/二人分の影が落ちる。それがひとつに重なるのを眺めながら.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/時間を何倍にも濃縮したような沈黙.md",
+          "score": 13,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/武田綾乃-響け！ ユーフォニアム 2 北宇治高校吹奏楽部のいちばん熱い夏",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/なんでもかんでも他人のこと気にしてたら、ほんまに自分がやらなあかんことを見失っちゃう.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシはさ、特別になりたい.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アタシは勝ちたい。あの関西大会のときみたいな思いはもう二度としたくない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/プチトマトを箸でつかもうとすると、その真っ赤な球体は滑るようにしてランチョンマットの上に転がった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一年という時間は、気弱な少女を強くするには充分な長さだった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/一度高いハードルを超えてしまうと、周りはそれ以上のものを平気で要求してくるようになる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/三年生ほど滝先生を絶対視することはできない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しいなんてなあ、褒めるとこがないやつに言う台詞やろ？ うち、わかってんねん.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same moc: 110_MOC/響け！ ユーフォニアム_MOC"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/親切心で殺す.md": {
+      "id": "300_Input/Reading Notes/親切心で殺す.md",
+      "path": "300_Input/Reading Notes/親切心で殺す.md",
+      "title": "親切心で殺す",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "Fleeting",
+        "🎁Topic/Life"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "2024-09-01"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "ぶっきらぼうな対応をしてる人に対してあえて親切に振る舞う --- [[2024-09-01]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/解釈の幅が面白さにつながる.md": {
+      "id": "300_Input/Reading Notes/解釈の幅が面白さにつながる.md",
+      "path": "300_Input/Reading Notes/解釈の幅が面白さにつながる.md",
+      "title": "解釈の幅が面白さにつながる",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/外山滋比古-異本論",
+      "sourceBook": "400_Kindle/外山滋比古-異本論",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "解釈の幅が面白さにつながる",
+      "myTake": "",
+      "preview": "> 法律や数学の本が通俗な意味ではおもしろくないのも、また、逆に、無責任なゴシップがきわめておもしろいのも、受け手側に許す脚色の範囲程度が大きいか小さいかによる",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/人の作る異本は生い立ち、教育、感じ方に影響を受ける.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/外山滋比古-異本論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人間に社会が期待していることと人間らしさの相反.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/外山滋比古-異本論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/桜、滝とかは元々美しいのではなく、人間の創造性によって美しくなる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/外山滋比古-異本論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/言い回しがすごい好き.md": {
+      "id": "300_Input/Reading Notes/言い回しがすごい好き.md",
+      "path": "300_Input/Reading Notes/言い回しがすごい好き.md",
+      "title": "言い回しがすごい好き",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/清岡卓行-手の変幻",
+      "sourceBook": "400_Kindle/清岡卓行-手の変幻",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "言い回しがすごい好き",
+      "myTake": "",
+      "preview": "> 表現における量の変化ではなくて、質の変化であるからだ。表現の次元そのものがすでに異ってしまっているとき、対象への愛と呼んでもいい感動が、どうして 他の対象 へ 溯ったりすることができるだろうか？ 一方にあるのは、おびただしい夢を 孕んでいる無であり、もう一方にあるのは、たとえそれがどんなに素晴らしいものであろうとも、限定されてあるところのなんらかの有である",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/手の変幻 書き出し.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/清岡卓行-手の変幻"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/説明深度の錯覚.md": {
+      "id": "300_Input/Reading Notes/説明深度の錯覚.md",
+      "path": "300_Input/Reading Notes/説明深度の錯覚.md",
+      "title": "説明深度の錯覚",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Learning",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "2024-07-30"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "--- [[2024-07-30]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/意味を理解するとははたらきを理解すること.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/理想の選び方によっては、問題を拡大再生産する.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/遅延評価的勉強法.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/[[アンナ・カレーニナの法則 - Wikipedia]].md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/make senceって感じ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/wise choice.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Learning"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/誰かに名付けられている苦しみがこの世界の全てだと思っているそのおめでたい考え方が 羨ましい.md": {
+      "id": "300_Input/Reading Notes/誰かに名付けられている苦しみがこの世界の全てだと思っているそのおめでたい考え方が 羨ましい.md",
+      "path": "300_Input/Reading Notes/誰かに名付けられている苦しみがこの世界の全てだと思っているそのおめでたい考え方が 羨ましい.md",
+      "title": "誰かに名付けられている苦しみがこの世界の全てだと思っているそのおめでたい考え方が 羨ましい",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "sourceBook": "400_Kindle/朝井リョウ-正欲（新潮文庫）",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 夏月は思う。既に言葉にされている、誰かに名付けられている苦しみがこの世界の全てだと思っているそのおめでたい考え方が 羨ましいと。あなたが抱えている苦しみが、他人に明かして共有して同情してもらえるようなもので心底羨ましいと。 > この世界の循環の中にいられるくせに不満ばかり垂れ流す人間たちに対して、人生をかけて醸成してきた思考を力の限り投げつけたくなる。だけどそんなことをしたって、何も変わらないことを知っている。世界に対するとってお...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/この星との摩擦.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/その言葉の持つ響きは、除夜の鐘が百八回分まとめて鳴らされたかのように巨大だった。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/体内の宗教.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/多様性とは、都合よく使える美しい言葉ではない。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/彼氏彼女と言わずに大切な人と呼んでいる等という小手先の言葉選びによる多様性の尊重が礼賛される時代.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/思想や情動も論理で説明できると思っている人たちが打ち立てる規制は、生身の人間の内側にはいつまで経っても到達しない.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/沈黙は彫刻刀に似ている.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/朝井リョウ-正欲（新潮文庫）"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/赤の女王仮説 - Wikipedia.md": {
+      "id": "300_Input/Reading Notes/赤の女王仮説 - Wikipedia.md",
+      "path": "300_Input/Reading Notes/赤の女王仮説 - Wikipedia.md",
+      "title": "[赤の女王仮説 - Wikipedia](https://ja.wikipedia.org/wiki/%E8%B5%A4%E3%81%AE%E5%A5%B3%E7%8E%8B%E4%BB%AE%E8%AA%AC)",
+      "topics": [
+        "Topic/Life",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[ReadItLater]] [[Article]] **赤の女王仮説**（あかのじょおうかせつ、[英](https://ja.wikipedia.org/wiki/%E8%8B%B1%E8%AA%9E \"英語\"): Red Queen's Hypothesis）は、[進化](https://ja.wikipedia.org/wiki/%E9%80%B2%E5%8C%96 \"進化\")に関する[仮説](https://ja.wikip...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/憧れは理解から最も遠い感情だよ.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/他人が欲しがっているから、持っているから　自分も欲しいと錯覚する。｜Ferica.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/末席を汚す.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/管見.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自由意志があるフリをしろ.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/超法規的措置.md": {
+      "id": "300_Input/Reading Notes/超法規的措置.md",
+      "path": "300_Input/Reading Notes/超法規的措置.md",
+      "title": "超法規的措置",
+      "topics": [
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Word"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "mean: \"国家が法律に規定された範囲を超えて行う特別な行為のこと。\"",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/[[アンナ・カレーニナの法則 - Wikipedia]].md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/make senceって感じ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/wise choice.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人は簡単に測定できる要素に注目することで問題を単純化する.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/身を削らないを念頭に置くことでヤバの芽に餌をやらない.md": {
+      "id": "300_Input/Reading Notes/身を削らないを念頭に置くことでヤバの芽に餌をやらない.md",
+      "path": "300_Input/Reading Notes/身を削らないを念頭に置くことでヤバの芽に餌をやらない.md",
+      "title": "[山の生きもの](https://twitter.com/sheeprrr/status/1777263540300284323)",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "ReadItLater",
+        "Tweet"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "[[ReadItLater]] [[Tweet]] > 自分にもヤバ要素はあって油断すると「こんなにしてあげたのに」と見返りを求めたり、「自分は頑張ってるのにそれに比べてあいつはぬるい」と八つ当たりを始めたりしそうなので「身を削らない」を念頭に置くことでヤバの芽に餌をやらない＆発動させないように気をつけているつもりではある > > — 山の生きもの (@sheeprrr) [April 8, 2024](https://twitter...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ふくさん_年収の話しかしないビジネスアカウント，生きてるだけでえらいなどの文言，これらの根底にあるのは「個人はある指標と紐づけられて評価される」という格の価値観.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/個人主義は自己責任論を増強する.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/優しい人だと思ったら、単に色々なものに無関心だった人.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/古いことをやめる方が圧倒的に労力がいる。.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/外見の美しさは分かりやすいが、内面を何をもって美しいとするか謎.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/成果主義は頑張ったアピールをしないと切られるルール.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/本音重視が暴力の美化や正当化につながる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/画一的にパッケージされたスタイルにすることを「清潔感」と呼んでいる.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/能力や知識を持ってることの義務化と前提化.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared link: ReadItLater",
+            "shared link: Tweet"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/軌を一にする.md": {
+      "id": "300_Input/Reading Notes/軌を一にする.md",
+      "path": "300_Input/Reading Notes/軌を一にする.md",
+      "title": "軌を一にする",
+      "topics": [
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Word"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "意味：車の通った跡を同じくする。転じて、同じ行き方、立場をとる。 comment: ニュアンスが良い",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/[[アンナ・カレーニナの法則 - Wikipedia]].md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/make senceって感じ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/wise choice.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人は簡単に測定できる要素に注目することで問題を単純化する.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Word"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/遅延評価的勉強法.md": {
+      "id": "300_Input/Reading Notes/遅延評価的勉強法.md",
+      "path": "300_Input/Reading Notes/遅延評価的勉強法.md",
+      "title": "遅延評価的勉強法",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Society",
+        "Topic/Word"
+      ],
+      "tags": [
+        "#🎁Topic/Life",
+        "🎁Topic/Society",
+        "🎁Topic/Learning",
+        "🎁Topic/Word"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Word"
+      ],
+      "links": [
+        "Word",
+        "成長論"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "- 遅延評価的勉強法 #Scrap - 遅延評価: 必要になった情報をその都度取得する **consist of**:: [[Word]] consist of:: [[成長論]]",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/理想の選び方によっては、問題を拡大再生産する.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 12,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Society"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人は簡単に測定できる要素に注目することで問題を単純化する.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Society",
+            "same topic: Topic/Word"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ.md": {
+      "id": "300_Input/Reading Notes/運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ.md",
+      "path": "300_Input/Reading Notes/運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ.md",
+      "title": "運という要素はただの偶然じゃない。望んで行動する人間にしか訪れない戦場のアヤだ",
+      "topics": [
+        "Topic/Life",
+        "Topic/Rhetoric"
+      ],
+      "tags": [
+        "🎁Topic/Life",
+        "🎁Topic/Rhetoric"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Rhetoric",
+        "Life",
+        "成長論"
+      ],
+      "links": [
+        "Rhetoric",
+        "Life",
+        "成長論"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Rhetoric]] **consist of**:: [[Life]] **consist of**:: [[成長論]] ![image](https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/15409f4d1ca942c6185076560ec0521c.png) ![image](https:...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/情報を集めれば理屈で答えが出せるのが判断、情報を集めることができない中で答えを出さないといけないのが決断.md",
+          "score": 20,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Life",
+            "shared consist of: Rhetoric",
+            "shared link: Life",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それはやる気と呼ぶにはささやかすぎたが、気のせいだと断じるにはあまりに熱を持ちすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/それを衝動と呼ぶにはいささか理性が残りすぎていた。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/べつに、寂しいわけじゃない。悲しいわけでもない。ただ、 虚しい。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/もしも自分の背中から翼が生えたって、夏紀はきっと空を飛べない。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/己の非力を痛感できる強さ、絶望する才能.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared consist of: 成長論",
+            "shared link: Life",
+            "shared link: 成長論"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/無理だって言われていちいち諦めてたら……誰も何もできねぇだろ…!!!オレは…何かになるんだ…何かにならなきゃ…退屈で生きていけねぇよ….md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自分を形作る輪郭だけが明瞭で、それ以外の何もかもが他人事みたいにぼやけて見える。.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared consist of: Rhetoric",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/自由意志があるフリをしろ.md",
+          "score": 15,
+          "reasons": [
+            "same topic: Topic/Life",
+            "shared consist of: Life",
+            "shared consist of: Rhetoric",
+            "shared link: Life",
+            "shared link: Rhetoric"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same topic: Topic/Rhetoric",
+            "shared link: Rhetoric",
+            "shared link: 成長論"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/過ちを謝ることさえ誤って、ボタンはずっと掛け違う。.md": {
+      "id": "300_Input/Reading Notes/過ちを謝ることさえ誤って、ボタンはずっと掛け違う。.md",
+      "path": "300_Input/Reading Notes/過ちを謝ることさえ誤って、ボタンはずっと掛け違う。.md",
+      "title": "過ちを謝ることさえ誤って、ボタンはずっと掛け違う。",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/渡航、ぽんかん(8)-やはり俺の青春ラブコメはまちがっている。13",
+      "sourceBook": "400_Kindle/渡航、ぽんかん(8)-やはり俺の青春ラブコメはまちがっている。13",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 結局、いつもそうなのだ。 かける言葉も行動も、常に正解には程遠く、いつだって誤解だらけのまちがい続き。 過ちを謝ることさえ誤って、ボタンはずっと掛け違う。",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/いまというこの瞬間を容器に詰め込んで、冷凍保存できればいいのに。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/重要かもしれないことのあいだを行ったり来たりしてい….md": {
+      "id": "300_Input/Reading Notes/重要かもしれないことのあいだを行ったり来たりしてい….md",
+      "path": "300_Input/Reading Notes/重要かもしれないことのあいだを行ったり来たりしてい….md",
+      "title": "重要かもしれないことのあいだを行ったり来たりしてい…",
+      "topics": [
+        "Topic/Life"
+      ],
+      "tags": [
+        "🎁Topic/Life"
+      ],
+      "sourceType": "kindle",
+      "sourceContainer": "400_Kindle/淳子-予想どおりに不合理　　行動経済学が明かす「あなたがそれを選ぶわけ」",
+      "sourceBook": "400_Kindle/淳子-予想どおりに不合理　　行動経済学が明かす「あなたがそれを選ぶわけ」",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "> 重要かもしれないことのあいだを行ったり来たりしているうちに、ほんとうに重要なことに十分時間を割くことを忘れてしまう",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/わたしたちは、扉をあけておきたいという不合理な衝動….md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/淳子-予想どおりに不合理　　行動経済学が明かす「あなたがそれを選ぶわけ」"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/市場規範は社会規範を侵略する.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Life",
+            "same source: 400_Kindle/淳子-予想どおりに不合理　　行動経済学が明かす「あなたがそれを選ぶわけ」"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/Vtuberは覆面タレントに落ち着き、ただそれ故に広まった感.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「今ふと思ったけど、「ある生成AIの出力を見て『すごい！これはもう専門家が要らなくなった！』と思ったら、それはあなたがその分野の専門家ではないことを意味している」てのは、かなりの分野やジャンルに普遍的に言えそうな気がする」  X.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「内輪ノリを面白いと思わなくなった=大人になった」が正しいとは限らない - 健常者エミュレータ事例集 あの時こうしてれば….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「地元に残った子達が結婚が早い理由も分かったよ.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「気づきがあった」とか「糧になった」などと即座に有意化してしまう悪癖は、本人はイイトコ取りしているつもりでも「消費者」にされてしまう.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「自分が第一」の主張をぶつけてくるあすかよりも、香織のほうが夏紀は怖い。.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/「表出する」ということと「存在する」ということはま….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 5,
+          "reasons": [
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/面倒くさいことは1度の決断で、誘惑は継続的な決断で実行に移す.md": {
+      "id": "300_Input/Reading Notes/面倒くさいことは1度の決断で、誘惑は継続的な決断で実行に移す.md",
+      "path": "300_Input/Reading Notes/面倒くさいことは1度の決断で、誘惑は継続的な決断で実行に移す.md",
+      "title": "面倒くさいことは1度の決断で、誘惑は継続的な決断で実行に移す",
+      "topics": [
+        "Topic/Learning",
+        "Topic/Life"
+      ],
+      "tags": [
+        "Knowledge",
+        "🎁Topic/Life",
+        "🎁Topic/Learning"
+      ],
+      "sourceType": "legacy",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [],
+      "links": [
+        "直子-いつも「時間がない」あなたに　欠乏の行動経済学",
+        "2023-07-03"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "--- - 何回も正しい決断を続けることは難しい - 今から勉強するかを毎日判断していたら、どこかで誘惑に負けてしまう - そのような誘惑と対立する事柄は、**一度の決断で継続できるような意思決定をすると良い** - サークルに入る、誰かと定期的に集まって勉強するなどの強制力 ![[直子-いつも「時間がない」あなたに 欠乏の行動経済学#^ref-64880]] - 逆に、ゲームなどの娯楽をする時は、それを継続的に実行することを意識して...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/【プレビュー】１ヶ月1000万頂く頂き女子りりちゃんの【みんなを稼がせるマニュアル】｜ちいかわころす｜note.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あらゆる分野における最も有効かつ最強の練習法とは、….md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/あんまりだれかを崇拝すると、本物の自由はえられないんだぜ。そういうものなのさ  名言  ムーミン公式サイト.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/やる気は行動の原因ではなく結果.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/スマホと本は脳の使い方が違う.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゼロをプラスにする努力は楽しいけれど、マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/トラぺジウムが人生に残る大傑作だった｜ジスロマック.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/マイナスをゼロにする努力は楽しくない.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/中途半端な人生楽しい。.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/人の作る異本は生い立ち、教育、感じ方に影響を受ける.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Learning",
+            "same topic: Topic/Life"
+          ]
+        }
+      ]
+    },
+    "300_Input/Reading Notes/面白い数のパラドックス - Wikipedia.md": {
+      "id": "300_Input/Reading Notes/面白い数のパラドックス - Wikipedia.md",
+      "path": "300_Input/Reading Notes/面白い数のパラドックス - Wikipedia.md",
+      "title": "[面白い数のパラドックス - Wikipedia](https://ja.wikipedia.org/wiki/%E9%9D%A2%E7%99%BD%E3%81%84%E6%95%B0%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9)",
+      "topics": [
+        "Topic/Omoro",
+        "Topic/Word"
+      ],
+      "tags": [
+        "🎁Topic/Word",
+        "🎁Topic/Omoro"
+      ],
+      "sourceType": "web",
+      "sourceContainer": "",
+      "sourceBook": "",
+      "mocs": [],
+      "consistsOf": [
+        "Word"
+      ],
+      "links": [
+        "Word",
+        "ReadItLater",
+        "Article"
+      ],
+      "fragment": "",
+      "memo": "",
+      "myTake": "",
+      "preview": "**consist of**:: [[Word]] [[ReadItLater]] [[Article]] **面白い数のパラドックス**（おもしろいかずのパラドックス）は、数学ジョークの一つである。すべての[自然数](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E6%95%B0 \"自然数\")を「面白い」「面白くない」として分類しようとする試みから生じる。 パラドックスは、「すべて...",
+      "related": [
+        {
+          "noteId": "300_Input/Reading Notes/キャンベルの法則 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/グッドハートの法則.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ゴルディロックスの原理 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/パスカルの賭け - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/公正世界仮説 - Wikipedia.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/紺屋の白袴  会話で使えることわざ辞典  情報・知識＆オピニオン imidas - イミダス.md",
+          "score": 14,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/モリヌークス問題 - Wikipedia.md",
+          "score": 11,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared link: Article",
+            "shared link: ReadItLater",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/アンナ・カレーニナの法則 - Wikipedia.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/インポスター症候群.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Omoro",
+            "same topic: Topic/Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/遅延評価的勉強法.md",
+          "score": 10,
+          "reasons": [
+            "same topic: Topic/Word",
+            "shared consist of: Word",
+            "shared link: Word"
+          ]
+        },
+        {
+          "noteId": "300_Input/Reading Notes/ChatGPT授乳ハックという失われつつある技術について.md",
+          "score": 9,
+          "reasons": [
+            "same topic: Topic/Omoro",
+            "shared link: Article",
+            "shared link: ReadItLater"
+          ]
+        }
+      ]
+    }
+  }
+};
