@@ -1,28 +1,26 @@
 filters:
   and:
-    - 'file.inFolder("300_Input/Reading Notes")'
-    - 'type == "reading-note"'
-    - 'file.hasTag("🎁Topic/Rhetoric")'
-
+    - file.inFolder("300_Input/Reading Notes")
+    - type == "reading-note"
+    - file.hasTag("🎁Topic/Rhetoric")
 properties:
   file.name:
-    displayName: "Note"
+    displayName: Note
   source_type:
-    displayName: "Source Type"
+    displayName: Source Type
   source_book:
-    displayName: "Source"
+    displayName: Source
   book_title:
-    displayName: "Book"
+    displayName: Book
   status:
-    displayName: "Status"
+    displayName: Status
   file.tags:
-    displayName: "Tags"
+    displayName: Tags
   file.mtime:
-    displayName: "Updated"
-
+    displayName: Updated
 views:
   - type: table
-    name: "All Rhetoric"
+    name: All Rhetoric
     order:
       - file.name
       - file.tags
@@ -30,9 +28,8 @@ views:
       - source_book
       - status
       - file.mtime
-
   - type: table
-    name: "By Source"
+    name: By Source
     groupBy:
       property: source_book
       direction: ASC
@@ -41,9 +38,8 @@ views:
       - source_book
       - source_type
       - status
-
   - type: list
-    name: "Recent"
+    name: Recent
     order:
       - file.name
       - file.mtime

@@ -1,26 +1,22 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": true,
+  "search": "path:\"300_Input/Reading Notes\"  ",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 247,
-<<<<<<< main
-  "scale": 1.4852894546876705,
-=======
-  "scale": 0.08841389359443777,
->>>>>>> origin/main
+  "linkDistance": 250,
+  "scale": 0.7130467126723524,
   "close": false
 }
