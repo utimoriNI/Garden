@@ -13,6 +13,7 @@ FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n?", re.DOTALL)
 WIKILINK_RE = re.compile(r"!?(\[\[[^\]]+\]\])")
 TOPIC_PREFIXES = ("🎁Topic/", "Topic/")
 SECTION_HEADINGS = ("Fragment", "Memo", "My Take", "Links")
+PREVIEW_LIMIT = 150
 
 
 @dataclass
@@ -190,8 +191,31 @@ def build_preview(sections: dict[str, str]) -> str:
     return ""
 
 
+def display_link(match: re.Match[str]) -> str:
+    value = match.group(1)
+    target = value[2:-2]
+    if target.startswith("["):
+        target = target[1:]
+    if "|" in target:
+        return target.split("|", 1)[1].strip()
+    return canonical_link_target(target)
+
+
+def plain_preview_text(text: str) -> str:
+    text = re.sub(r"%%.*?%%", " ", text, flags=re.DOTALL)
+    text = re.sub(r"```.*?```", " ", text, flags=re.DOTALL)
+    text = re.sub(r"^#{1,6}\s+", "", text, flags=re.MULTILINE)
+    text = re.sub(r"^\s*[-*]\s+", "", text, flags=re.MULTILINE)
+    text = re.sub(r"\*\*consist of\*\*::.*", " ", text, flags=re.IGNORECASE)
+    text = re.sub(r"\*\*([^*]+)\*\*::", r"\1:", text)
+    text = WIKILINK_RE.sub(display_link, text)
+    text = re.sub(r"[*_`>]", "", text)
+    text = re.sub(r"https?://\S+", "", text)
+    return " ".join(text.split())
+
+
 def compact_text(text: str, limit: int) -> str:
-    single_line = " ".join(text.split())
+    single_line = plain_preview_text(text)
     if len(single_line) <= limit:
         return single_line
     return single_line[: limit - 1].rstrip() + "..."
@@ -231,7 +255,7 @@ def load_note(path: Path, vault_root: Path) -> NoteRecord | None:
         fragment=sections.get("Fragment", ""),
         memo=sections.get("Memo", ""),
         my_take=sections.get("My Take", ""),
-        preview=compact_text(build_preview(sections), 220),
+        preview=compact_text(build_preview(sections), PREVIEW_LIMIT),
     )
 
 
@@ -257,27 +281,36 @@ def build_related(note: NoteRecord, all_notes: list[NoteRecord], limit: int) -> 
             continue
 
         score = len(shared_topics) * 5
-        reasons: list[str] = [f"same topic: {topic}" for topic in shared_topics]
+        reasons: list[dict[str, str]] = [
+            {"type": "topic", "label": "Topic", "value": topic}
+            for topic in shared_topics
+        ]
 
         candidate_source = note_source_key(candidate)
         if note_source and candidate_source and note_source == candidate_source:
             score += 4
-            reasons.append(f"same source: {note_source}")
+            reasons.append({"type": "source", "label": "Source", "value": note_source})
 
         shared_mocs = sorted(note_mocs & set(candidate.mocs))
         if shared_mocs:
             score += len(shared_mocs) * 4
-            reasons.extend(f"same moc: {moc}" for moc in shared_mocs)
+            reasons.extend({"type": "moc", "label": "MOC", "value": moc} for moc in shared_mocs)
 
         shared_consists = sorted(note_consists & set(candidate.consists_of))
         if shared_consists:
             score += len(shared_consists) * 3
-            reasons.extend(f"shared consist of: {item}" for item in shared_consists)
+            reasons.extend(
+                {"type": "consist", "label": "Consist", "value": item}
+                for item in shared_consists
+            )
 
         shared_links = sorted(note_links & set(candidate.links))
         if shared_links:
             score += len(shared_links) * 2
-            reasons.extend(f"shared link: {link}" for link in shared_links[:3])
+            reasons.extend(
+                {"type": "link", "label": "Link", "value": link}
+                for link in shared_links[:3]
+            )
 
         related.append(
             {
@@ -291,8 +324,69 @@ def build_related(note: NoteRecord, all_notes: list[NoteRecord], limit: int) -> 
     return related[:limit]
 
 
+def short_label(value: str, limit: int = 34) -> str:
+    label = value.split("/")[-1].strip() or value.strip()
+    if len(label) <= limit:
+        return label
+    return label[: limit - 1].rstrip() + "..."
+
+
+def add_bundle(
+    bundle_map: dict[tuple[str, str], set[str]],
+    kind: str,
+    value: str,
+    note_id: str,
+) -> None:
+    if not value:
+        return
+    bundle_map.setdefault((kind, value), set()).add(note_id)
+
+
+def build_topic_bundles(topic: str, note_ids: list[str], note_by_id: dict[str, NoteRecord]) -> list[dict[str, object]]:
+    bundle_map: dict[tuple[str, str], set[str]] = {}
+
+    for note_id in note_ids:
+        note = note_by_id[note_id]
+        source = note_source_key(note)
+        add_bundle(bundle_map, "source", source, note.note_id)
+        for moc in note.mocs:
+            add_bundle(bundle_map, "moc", moc, note.note_id)
+        for item in note.consists_of:
+            add_bundle(bundle_map, "consist", item, note.note_id)
+        for link in note.links:
+            add_bundle(bundle_map, "link", link, note.note_id)
+
+    kind_labels = {
+        "source": "Source",
+        "moc": "MOC",
+        "consist": "Consist",
+        "link": "Link",
+    }
+    min_size = {"source": 2, "moc": 2, "consist": 2, "link": 3}
+    bundles: list[dict[str, object]] = []
+    for (kind, value), grouped_ids in bundle_map.items():
+        note_ids_for_bundle = sorted(grouped_ids)
+        if len(note_ids_for_bundle) < min_size[kind]:
+            continue
+        bundles.append(
+            {
+                "key": f"{kind}:{value}",
+                "kind": kind,
+                "kindLabel": kind_labels[kind],
+                "label": short_label(value),
+                "value": value,
+                "count": len(note_ids_for_bundle),
+                "noteIds": note_ids_for_bundle,
+            }
+        )
+
+    bundles.sort(key=lambda item: (-int(item["count"]), str(item["kind"]), str(item["label"])))
+    return bundles[:10]
+
+
 def build_topic_index(notes: list[NoteRecord]) -> list[dict[str, object]]:
     topic_map: dict[str, list[str]] = {}
+    note_by_id = {note.note_id: note for note in notes}
     for note in notes:
         for topic in note.topics:
             topic_map.setdefault(topic, []).append(note.note_id)
@@ -302,6 +396,7 @@ def build_topic_index(notes: list[NoteRecord]) -> list[dict[str, object]]:
             "name": name,
             "count": len(note_ids),
             "noteIds": sorted(note_ids),
+            "bundles": build_topic_bundles(name, sorted(note_ids), note_by_id),
         }
         for name, note_ids in topic_map.items()
     ]
