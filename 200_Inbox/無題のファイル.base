@@ -29,7 +29,7 @@ views:
       - file.name
       - file.ctime
     rowHeight: medium
-    cardSize: 170
+    cardSize: 300
   - type: cards
     name: Omoro
     filters:
