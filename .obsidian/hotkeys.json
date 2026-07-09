@@ -69,5 +69,14 @@
       "key": "H"
     }
   ],
-  "editor:open-search-replace": []
+  "editor:open-search-replace": [],
+  "hotkeysplus-obsidian:clear-current-line": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ]
 }
