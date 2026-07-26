@@ -24,5 +24,7 @@ views:
     order:
       - file.name
     sort:
+      - property: file.name
+        direction: DESC
       - property: file.folder
         direction: ASC
