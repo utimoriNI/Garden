@@ -275,7 +275,7 @@ def render_note(
     if obsidian_tags:
         lines.extend(f"  - {yaml_quote(tag)}" for tag in obsidian_tags)
     else:
-        lines.append("  - \"\"")
+        lines[-1] = "tags: []"
 
     lines.extend(
         [
