@@ -24,11 +24,13 @@ views:
         - and:
             - file.inFolder("300_Input/Reading Notes")
             - file.hasTag("🎁Topic/Life")
+            - file.hasTag("🎁Topic/Society")
+            - file.hasTag("🎁Topic/Learning")
     groupBy:
       property: file.folder
       direction: ASC
     order:
-      - file.backlinks
+      - file.links
     sort:
       - property: file.name
         direction: DESC
