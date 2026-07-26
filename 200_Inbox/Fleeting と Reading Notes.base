@@ -18,14 +18,6 @@ properties:
 views:
   - type: table
     name: Fleeting と Reading Notes
-    filters:
-      or:
-        - file.inFolder("500_Fleeting")
-        - and:
-            - file.inFolder("300_Input/Reading Notes")
-            - file.hasTag("🎁Topic/Life")
-            - file.hasTag("🎁Topic/Society")
-            - file.hasTag("🎁Topic/Learning")
     groupBy:
       property: file.folder
       direction: ASC
