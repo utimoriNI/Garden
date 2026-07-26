@@ -5,7 +5,7 @@ filters:
         - file.inFolder("500_Fleeting")
         - and:
             - file.inFolder("300_Input/Reading Notes")
-            - file.hasTag("🎁Topic/Society", "🎁Topic/Life")
+            - file.hasTag("🎁Topic/Society", "🎁Topic/Life", "🎁Topic/Learning")
 properties:
   file.name:
     displayName: Note
@@ -32,6 +32,8 @@ views:
     order:
       - file.links
     sort:
+      - property: file.links
+        direction: ASC
       - property: file.name
         direction: DESC
       - property: file.folder
