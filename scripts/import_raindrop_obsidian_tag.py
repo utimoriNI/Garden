@@ -147,17 +147,38 @@ def yaml_scalar(value: str) -> str:
     return yaml_quote(value) if value else ""
 
 
-def normalize_date(value: Any) -> str:
-    if not value:
-        return ""
-    text = str(value)
-    return text[:10] if len(text) >= 10 else text
-
-
 def clean_filename(value: str) -> str:
     value = INVALID_FILENAME_CHARS.sub("-", value)
     value = re.sub(r"\s+", " ", value).strip().strip(".")
     return value or "Raindrop import"
+
+
+def topic_tags_from_raindrop(tags: list[Any], trigger_tag: str) -> list[str]:
+    """Convert Raindrop tags to the vault's 🎁Topic/... convention."""
+    converted: list[str] = []
+    seen: set[str] = set()
+    trigger = normalize_tag(trigger_tag)
+
+    for value in tags:
+        raw = str(value).strip().lstrip("#")
+        if not raw or normalize_tag(raw) == trigger:
+            continue
+
+        if raw.startswith("🎁Topic/"):
+            topic = raw
+        elif raw.startswith("Topic/"):
+            topic = f"🎁{raw}"
+        else:
+            topic = f"🎁Topic/{raw}"
+
+        # Obsidian tags cannot contain spaces. Keep nested slash tags intact.
+        topic = re.sub(r"\s+", "-", topic).strip("/")
+        key = topic.casefold()
+        if topic and key not in seen:
+            converted.append(topic)
+            seen.add(key)
+
+    return converted
 
 
 def unique_path(input_dir: Path, title: str) -> Path:
@@ -224,7 +245,12 @@ def fallback_content(item: dict[str, Any]) -> str:
     return "\n\n".join(section for section in sections if section).strip()
 
 
-def render_note(item: dict[str, Any], content: str, import_date: str) -> str:
+def render_note(
+    item: dict[str, Any],
+    content: str,
+    import_date: str,
+    trigger_tag: str,
+) -> str:
     title = str(item.get("title") or item.get("domain") or "Raindrop import").strip()
     source = str(item.get("link") or "").strip()
     description = str(item.get("excerpt") or "").strip()
@@ -234,6 +260,7 @@ def render_note(item: dict[str, Any], content: str, import_date: str) -> str:
     tags = item.get("tags", [])
     if not isinstance(tags, list):
         tags = []
+    obsidian_tags = topic_tags_from_raindrop(tags, trigger_tag)
 
     lines = [
         "---",
@@ -243,15 +270,19 @@ def render_note(item: dict[str, Any], content: str, import_date: str) -> str:
         "published:",
         f"created: {yaml_scalar(import_date)}",
         f"description: {yaml_scalar(description)}",
-        "tags: []",
-        f"image: {yaml_scalar(image)}",
-        f"raindrop_id: {yaml_scalar(str(raindrop_id))}",
-        "raindrop_tags:",
+        "tags:",
     ]
-    if tags:
-        lines.extend(f"  - {yaml_quote(str(tag))}" for tag in tags)
+    if obsidian_tags:
+        lines.extend(f"  - {yaml_quote(tag)}" for tag in obsidian_tags)
     else:
         lines.append("  - \"\"")
+
+    lines.extend(
+        [
+            f"image: {yaml_scalar(image)}",
+            f"raindrop_id: {yaml_scalar(str(raindrop_id))}",
+        ]
+    )
 
     if raindrop_created:
         lines.append(f"raindrop_created: {yaml_scalar(raindrop_created)}")
@@ -269,6 +300,7 @@ def import_items(
     input_dir: Path,
     dry_run: bool,
     no_fetch: bool,
+    trigger_tag: str,
 ) -> tuple[int, int]:
     input_dir.mkdir(parents=True, exist_ok=True)
     known_sources = existing_sources(input_dir)
@@ -291,7 +323,7 @@ def import_items(
         content = "" if no_fetch else run_defuddle(source)
         if not content:
             content = fallback_content(item)
-        note = render_note(item, content, import_date)
+        note = render_note(item, content, import_date, trigger_tag)
         target = unique_path(input_dir, title)
 
         if dry_run:
@@ -354,6 +386,7 @@ def main() -> int:
             input_dir,
             args.dry_run,
             args.no_fetch,
+            args.tag,
         )
     except RuntimeError as exc:
         print(str(exc), file=sys.stderr)
