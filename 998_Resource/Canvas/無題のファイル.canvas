@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"35c30cb6e7ff583f","x":0,"y":0,"width":460,"height":400,"type":"file","file":"200_Inbox/Fleeting と Reading Notes.base"}
+		{"id":"35c30cb6e7ff583f","type":"file","file":"200_Inbox/Fleeting と Reading Notes.base","x":0,"y":120,"width":460,"height":280}
 	],
 	"edges":[]
 }
