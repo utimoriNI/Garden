@@ -34,6 +34,11 @@ from urllib.request import Request, urlopen
 API_BASE = "https://api.raindrop.io/rest/v1"
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n?", re.DOTALL)
 INVALID_FILENAME_CHARS = re.compile(r'[/:*?"<>|]')
+RAINDROP_TO_OBSIDIAN_TOPIC = {
+    "コミュニケーション": "🎁Topic/Life",
+    "名文": "🎁Topic/Rhetoric",
+    "例え": "🎁Topic/Rhetoric",
+}
 
 
 def normalize_tag(value: str) -> str:
@@ -164,7 +169,10 @@ def topic_tags_from_raindrop(tags: list[Any], trigger_tag: str) -> list[str]:
         if not raw or normalize_tag(raw) == trigger:
             continue
 
-        if raw.startswith("🎁Topic/"):
+        mapped_topic = RAINDROP_TO_OBSIDIAN_TOPIC.get(normalize_tag(raw))
+        if mapped_topic:
+            topic = mapped_topic
+        elif raw.startswith("🎁Topic/"):
             topic = raw
         elif raw.startswith("Topic/"):
             topic = f"🎁{raw}"
