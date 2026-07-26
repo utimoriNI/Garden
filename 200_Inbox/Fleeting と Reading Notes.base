@@ -22,7 +22,7 @@ views:
       property: file.folder
       direction: ASC
     order:
-      - file.links
+      - file.name
     sort:
       - property: file.links
         direction: ASC
