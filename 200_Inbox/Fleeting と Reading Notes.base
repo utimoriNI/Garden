@@ -23,9 +23,6 @@ views:
       direction: ASC
     order:
       - file.name
-      - file.folder
-      - file.tags
-      - file.mtime
     sort:
       - property: file.tags
-        direction: ASC
+        direction: DESC
