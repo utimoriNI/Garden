@@ -1,22 +1,23 @@
 filters:
   and:
-    - 'file.ext == "md"'
-    - 'file.inFolder("500_Fleeting")'
-
+    - file.ext == "md"
+    - file.inFolder("500_Fleeting")
 properties:
   file.name:
-    displayName: "Note"
+    displayName: Note
   file.folder:
-    displayName: "Folder"
+    displayName: Folder
   file.tags:
-    displayName: "Tags"
+    displayName: Tags
   file.mtime:
-    displayName: "Updated"
-
+    displayName: Updated
 views:
   - type: table
-    name: "Fleeting"
+    name: Fleeting
     order:
       - file.name
-      - file.tags
-      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: ASC
+      - property: file.name
+        direction: ASC
