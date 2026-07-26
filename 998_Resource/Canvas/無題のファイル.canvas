@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"2b34eee3bd584726","x":-140,"y":140,"width":400,"height":280,"type":"file","file":"200_Inbox/Fleeting.base"},
-		{"id":"0b1d83881eca14c3","x":260,"y":140,"width":400,"height":280,"type":"file","file":"200_Inbox/Reading Notes.base"}
+		{"id":"0b1d83881eca14c3","x":-140,"y":420,"width":400,"height":280,"type":"file","file":"200_Inbox/Reading Notes.base"}
 	],
 	"edges":[]
 }
