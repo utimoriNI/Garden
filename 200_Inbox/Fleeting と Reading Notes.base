@@ -22,7 +22,7 @@ views:
       property: file.folder
       direction: ASC
     order:
-      - file.name
+      - file.embeds
     sort:
       - property: file.name
         direction: DESC
