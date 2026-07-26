@@ -1,0 +1,4 @@
+interface:
+  display_name: "Raindrop to Obsidian"
+  short_description: "Import tagged Raindrops into 300_Input"
+  default_prompt: "Use -obsidian-import to import Raindrop items tagged Obsidian into the Garden vault."
