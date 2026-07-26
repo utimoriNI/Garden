@@ -1,60 +1,53 @@
 filters:
   and:
-    - 'file.inFolder("300_Input/Reading Notes")'
-    - 'type == "reading-note"'
-
+    - file.inFolder("300_Input/Reading Notes")
+    - type == "reading-note"
 formulas:
-  days_until_review: 'if(review_due, (date(review_due) - today()).days, "")'
-
+  days_until_review: if(review_due, (date(review_due) - today()).days, "")
 properties:
   file.name:
-    displayName: "Note"
+    displayName: Note
   source_book:
-    displayName: "Source"
+    displayName: Source
   book_title:
-    displayName: "Book"
+    displayName: Book
   kindle_location:
-    displayName: "Loc"
+    displayName: Loc
   importance:
-    displayName: "Importance"
+    displayName: Importance
   review_score:
-    displayName: "Score"
+    displayName: Score
   reviewed:
-    displayName: "Reviewed"
+    displayName: Reviewed
   review_due:
-    displayName: "Due"
+    displayName: Due
   topic:
-    displayName: "Topic"
+    displayName: Topic
   concept:
-    displayName: "Concept"
+    displayName: Concept
   use_case:
-    displayName: "Use Case"
+    displayName: Use Case
   reaction:
-    displayName: "Reaction"
+    displayName: Reaction
   formula.days_until_review:
-    displayName: "Days"
-
+    displayName: Days
 views:
   - type: table
-    name: "Inbox"
+    name: Inbox
     filters:
       and:
-        - 'status == "inbox"'
+        - status == "inbox"
     order:
       - file.name
-      - source_book
-      - kindle_location
-      - importance
-      - review_score
-      - reviewed
-      - review_due
-      - topic
-      - concept
-      - use_case
-      - reaction
-
+    sort:
+      - property: reaction
+        direction: ASC
+      - property: review_score
+        direction: ASC
+      - property: importance
+        direction: DESC
   - type: table
-    name: "By Book"
+    name: By Book
     groupBy:
       property: source_book
       direction: ASC
@@ -67,12 +60,11 @@ views:
       - reviewed
       - topic
       - concept
-
   - type: table
-    name: "Review Queue"
+    name: Review Queue
     filters:
       and:
-        - 'reviewed == false'
+        - reviewed == false
     order:
       - file.name
       - review_due
