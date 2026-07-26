@@ -1,0 +1,22 @@
+filters:
+  and:
+    - 'file.ext == "md"'
+    - 'file.inFolder("500_Fleeting")'
+
+properties:
+  file.name:
+    displayName: "Note"
+  file.folder:
+    displayName: "Folder"
+  file.tags:
+    displayName: "Tags"
+  file.mtime:
+    displayName: "Updated"
+
+views:
+  - type: table
+    name: "Fleeting"
+    order:
+      - file.name
+      - file.tags
+      - file.mtime
