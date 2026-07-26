@@ -18,11 +18,14 @@ properties:
 views:
   - type: table
     name: Fleeting と Reading Notes
+    filters:
+      and:
+        - file.inFolder("300_Input/Reading Notes")
     groupBy:
       property: file.folder
       direction: ASC
     order:
-      - file.embeds
+      - file.backlinks
     sort:
       - property: file.name
         direction: DESC
