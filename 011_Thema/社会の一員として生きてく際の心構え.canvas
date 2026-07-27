@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"52cda7cd275fd4aa","x":87,"y":52,"width":493,"height":128,"type":"file","file":"500_Fleeting/世の中の評価指標にコミットしてるやつが社会で強い.md"},
-		{"id":"94e316c68f8af5dd","x":304,"y":274,"width":496,"height":50,"type":"text","text":"# 社会では常に評価に晒されている"}
+		{"id":"94e316c68f8af5dd","x":84,"y":-40,"width":496,"height":50,"type":"text","text":"# 社会では常に評価に晒されている"}
 	],
 	"edges":[]
 }
