@@ -40,11 +40,13 @@ views:
     order:
       - file.name
     sort:
-      - property: reaction
-        direction: ASC
       - property: review_score
         direction: ASC
       - property: importance
+        direction: DESC
+      - property: reaction
+        direction: ASC
+      - property: file.ctime
         direction: DESC
   - type: table
     name: By Book
