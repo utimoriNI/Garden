@@ -152,6 +152,17 @@ def yaml_scalar(value: str) -> str:
     return yaml_quote(value) if value else ""
 
 
+def yaml_block_scalar(value: str) -> str:
+    """Render multiline text as a YAML literal block scalar."""
+    if not value:
+        return "description:"
+
+    normalized = value.replace("\r\n", "\n").replace("\r", "\n")
+    lines = ["description: |"]
+    lines.extend(f"  {line}" if line else "  " for line in normalized.split("\n"))
+    return "\n".join(lines)
+
+
 def clean_filename(value: str) -> str:
     value = INVALID_FILENAME_CHARS.sub("-", value)
     value = re.sub(r"\s+", " ", value).strip().strip(".")
@@ -292,7 +303,7 @@ def render_note(
         "author:",
         "published:",
         f"created: {yaml_scalar(import_date)}",
-        f"description: {yaml_scalar(description)}",
+        yaml_block_scalar(description),
         "tags:",
     ]
     if obsidian_tags:
