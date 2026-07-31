@@ -37,14 +37,14 @@ views:
     order:
       - file.name
     sort:
+      - property: file.ctime
+        direction: DESC
       - property: review_score
         direction: ASC
       - property: importance
         direction: DESC
       - property: reaction
         direction: ASC
-      - property: file.ctime
-        direction: DESC
   - type: table
     name: By Book
     groupBy:
