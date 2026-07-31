@@ -1,16 +1,16 @@
 {
-  "nodes": [
-    {"id":"a101000000000001","type":"text","x":0,"y":-380,"width":780,"height":90,"text":"# メンタルの理想の状態と、その状態を保つための手がかり","color":"4"},
-    {"id":"a101000000000002","type":"file","x":0,"y":-160,"width":400,"height":180,"file":"500_Fleeting/自分に自信を持つ方法の整理 - ChatGPT.md","color":"6"},
-    {"id":"a101000000000003","type":"file","x":460,"y":-160,"width":400,"height":180,"file":"300_Input/Reading Notes/未来への期待より現状への満足を原動力に生きる.md","color":"3"},
-    {"id":"a101000000000004","type":"file","x":920,"y":-160,"width":400,"height":180,"file":"300_Input/Reading Notes/動機付けに重要なのは自分が環境をコントロールできているという認知.md","color":"3"},
-    {"id":"a101000000000005","type":"file","x":0,"y":100,"width":400,"height":180,"file":"300_Input/Reading Notes/不正確な認知は自己防衛のため.md","color":"3"},
-    {"id":"a101000000000006","type":"file","x":460,"y":100,"width":400,"height":180,"file":"500_Fleeting/期待値に魂を売る人、不満足感に魂を売る人.md","color":"6"},
-    {"id":"a101000000000007","type":"file","x":920,"y":100,"width":400,"height":180,"file":"500_Fleeting/自分や未来の可能性は充実感の源泉.md","color":"6"},
-    {"id":"a101000000000008","type":"file","x":0,"y":360,"width":400,"height":180,"file":"300_Input/Reading Notes/やる気は行動の原因ではなく結果.md","color":"3"},
-    {"id":"a101000000000009","type":"file","x":460,"y":360,"width":400,"height":180,"file":"300_Input/Reading Notes/身を削らないを念頭に置くことでヤバの芽に餌をやらない.md","color":"3"},
-    {"id":"a10100000000000a","type":"file","x":920,"y":360,"width":400,"height":180,"file":"300_Input/不運に潰されず、幸運をつかむ方法｜ふろむだ.md","color":"5"},
-    {"id":"a10100000000000b","type":"file","x":0,"y":620,"width":400,"height":180,"file":"300_Input/人生をゴールから「逆算」して自分を追い詰めるの、そろそろやめませんか？｜jMatsuzaki🔥.md","color":"5"}
-  ],
-  "edges": []
+	"nodes":[
+		{"id":"a101000000000001","type":"text","x":0,"y":-380,"width":780,"height":90,"text":"# メンタルの理想の状態と、その状態を保つための手がかり","color":"4"},
+		{"id":"a101000000000002","type":"file","x":0,"y":-160,"width":400,"height":180,"file":"500_Fleeting/自分に自信を持つ方法の整理 - ChatGPT.md","color":"6"},
+		{"id":"a101000000000003","type":"file","x":460,"y":-160,"width":400,"height":180,"file":"300_Input/Reading Notes/未来への期待より現状への満足を原動力に生きる.md","color":"3"},
+		{"id":"a101000000000004","type":"file","x":920,"y":-160,"width":400,"height":180,"file":"300_Input/Reading Notes/動機付けに重要なのは自分が環境をコントロールできているという認知.md","color":"3"},
+		{"id":"a101000000000005","type":"file","x":0,"y":100,"width":400,"height":180,"file":"300_Input/Reading Notes/不正確な認知は自己防衛のため.md","color":"3"},
+		{"id":"a101000000000006","type":"file","x":460,"y":100,"width":400,"height":180,"file":"500_Fleeting/期待値に魂を売る人、不満足感に魂を売る人.md","color":"6"},
+		{"id":"a101000000000007","type":"file","x":920,"y":100,"width":400,"height":180,"file":"500_Fleeting/自分や未来の可能性は充実感の源泉.md","color":"6"},
+		{"id":"a101000000000008","type":"file","x":0,"y":360,"width":400,"height":180,"file":"300_Input/Reading Notes/やる気は行動の原因ではなく結果.md","color":"3"},
+		{"id":"a101000000000009","type":"file","x":460,"y":360,"width":400,"height":180,"file":"300_Input/Reading Notes/身を削らないを念頭に置くことでヤバの芽に餌をやらない.md","color":"3"},
+		{"id":"a10100000000000a","type":"file","x":920,"y":360,"width":400,"height":180,"file":"300_Input/不運に潰されず、幸運をつかむ方法｜ふろむだ.md","color":"5"},
+		{"id":"a10100000000000b","type":"file","x":0,"y":620,"width":400,"height":180,"file":"300_Input/人生をゴールから「逆算」して自分を追い詰めるの、そろそろやめませんか？｜jMatsuzaki🔥.md","color":"5"}
+	],
+	"edges":[]
 }
