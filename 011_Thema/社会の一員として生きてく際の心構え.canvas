@@ -1,7 +1,22 @@
 {
 	"nodes":[
 		{"id":"52cda7cd275fd4aa","x":87,"y":52,"width":493,"height":128,"type":"file","file":"500_Fleeting/世の中の評価指標にコミットしてるやつが社会で強い.md"},
-		{"id":"94e316c68f8af5dd","x":84,"y":-40,"width":496,"height":50,"type":"text","text":"# 社会では常に評価に晒されている"}
+		{"id":"94e316c68f8af5dd","x":84,"y":-40,"width":496,"height":50,"type":"text","text":"# 社会では常に評価に晒されている"},
+		{"id":"a104000000000001","type":"file","x":700,"y":-220,"width":400,"height":170,"file":"300_Input/Reading Notes/能力や知識を持ってることの義務化と前提化.md","color":"3"},
+		{"id":"a104000000000002","type":"file","x":1160,"y":-220,"width":400,"height":170,"file":"300_Input/Reading Notes/成果主義は頑張ったアピールをしないと切られるルール.md","color":"3"},
+		{"id":"a104000000000003","type":"file","x":1620,"y":-220,"width":400,"height":170,"file":"300_Input/Reading Notes/個人主義は自己責任論を増強する.md","color":"3"},
+		{"id":"a104000000000004","type":"file","x":700,"y":0,"width":400,"height":170,"file":"300_Input/Reading Notes/市場規範は社会規範を侵略する.md","color":"3"},
+		{"id":"a104000000000005","type":"file","x":1160,"y":0,"width":400,"height":170,"file":"300_Input/Reading Notes/人間に社会が期待していることと人間らしさの相反.md","color":"3"},
+		{"id":"a104000000000006","type":"file","x":1620,"y":0,"width":400,"height":170,"file":"300_Input/Reading Notes/何の役に立つのかと問う前に自分の価値観が正しいかを疑え.md","color":"3"},
+		{"id":"a104000000000007","type":"file","x":700,"y":220,"width":400,"height":170,"file":"300_Input/Reading Notes/今や外見の良さも「努力の証」として能力主義的に評価されている.md","color":"3"},
+		{"id":"a104000000000008","type":"file","x":1160,"y":220,"width":400,"height":170,"file":"300_Input/Reading Notes/自分を押し殺してる気配の強い人が遠巻きにされる世界.md","color":"3"},
+		{"id":"a104000000000009","type":"file","x":1620,"y":220,"width":400,"height":170,"file":"300_Input/Reading Notes/温度パラメータを下げるとは自分がいるべきローカルを見つけること.md","color":"3"},
+		{"id":"a10400000000000a","type":"file","x":700,"y":440,"width":400,"height":170,"file":"500_Fleeting/アイデンティティを得たいならコミュニティ意識を捨てろと自分は思ってるな.md","color":"6"},
+		{"id":"a10400000000000b","type":"file","x":1160,"y":440,"width":400,"height":170,"file":"300_Input/Reading Notes/コモンズの悲劇 - Wikipedia.md","color":"3"},
+		{"id":"a10400000000000c","type":"file","x":1620,"y":440,"width":400,"height":170,"file":"300_Input/Reading Notes/自分は人に決断の負担をかけて生きている.md","color":"3"},
+		{"id":"a10400000000000d","type":"file","x":700,"y":660,"width":400,"height":170,"file":"300_Input/個人の関係だけだと将来的な安定や社会的義務が不十分.md","color":"5"},
+		{"id":"a10400000000000e","type":"file","x":1160,"y":660,"width":400,"height":170,"file":"300_Input/能力主義とルッキズムの悪魔合体.md","color":"5"},
+		{"id":"a10400000000000f","type":"file","x":1620,"y":660,"width":400,"height":170,"file":"300_Input/Youtube - なぜ「正しさ」が重視される社会になったのか？.md","color":"5"}
 	],
 	"edges":[]
 }

@@ -34,18 +34,17 @@ properties:
 views:
   - type: table
     name: Inbox
-    filters:
-      and:
-        - status == "inbox"
     order:
       - file.name
     sort:
-      - property: reaction
-        direction: ASC
+      - property: file.ctime
+        direction: DESC
       - property: review_score
         direction: ASC
       - property: importance
         direction: DESC
+      - property: reaction
+        direction: ASC
   - type: table
     name: By Book
     groupBy:
