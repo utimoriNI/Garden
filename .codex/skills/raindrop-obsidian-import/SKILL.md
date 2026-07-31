@@ -23,10 +23,14 @@ Use this skill for the Garden vault's Raindrop-to-Obsidian import workflow.
 ## Import behavior
 
 - Default Raindrop trigger tag: `Obsidian`.
+- Default completion tag: `ObsidianImported`.
 - Destination: `300_Input`.
 - The generated notes are automatically created as `type: reading-note`.
 - The reading-note frontmatter includes `source_type` (`web` or `video`), `source_container`, `topic`, `moc`, and `status: inbox`, in addition to the existing Input fields such as `title`, `source`, `author`, `published`, `created`, `description`, `tags`, and `image`.
 - `raindrop_id` is retained for provenance and duplicate prevention.
+- After a successful import, `ObsidianImported` is appended to the Raindrop item.
+- Items that already have `ObsidianImported` are skipped on later runs.
+- Existing local duplicates without the completion tag are also marked as `ObsidianImported` during import.
 - The trigger tag `Obsidian` is not written as an Obsidian tag.
 - Raindrop tags are converted to the vault convention `🎁Topic/...`.
 - Current explicit mappings:
@@ -40,4 +44,5 @@ Use this skill for the Garden vault's Raindrop-to-Obsidian import workflow.
 
 - Never include or log the access token.
 - Use `--dry-run` for an initial review, especially when importing many items.
-- Do not modify or delete Raindrop items unless the user explicitly asks for tag updates.
+- `--no-mark-imported` disables completion-tag updates when needed.
+- The importer does not delete or remove any Raindrop tags.

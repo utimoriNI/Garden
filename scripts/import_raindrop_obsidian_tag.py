@@ -32,6 +32,7 @@ from urllib.request import Request, urlopen
 
 
 API_BASE = "https://api.raindrop.io/rest/v1"
+DEFAULT_COMPLETED_TAG = "ObsidianImported"
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n?", re.DOTALL)
 INVALID_FILENAME_CHARS = re.compile(r'[/:*?"<>|]')
 RAINDROP_TO_OBSIDIAN_TOPIC = {
@@ -43,6 +44,13 @@ RAINDROP_TO_OBSIDIAN_TOPIC = {
 
 def normalize_tag(value: str) -> str:
     return value.strip().lstrip("#").casefold()
+
+
+def item_has_tag(item: dict[str, Any], tag: str) -> bool:
+    tags = item.get("tags", [])
+    return isinstance(tags, list) and any(
+        normalize_tag(str(item_tag)) == normalize_tag(tag) for item_tag in tags
+    )
 
 
 def request_json(
@@ -74,6 +82,39 @@ def request_json(
     if not isinstance(payload, dict):
         raise RuntimeError("Raindrop API returned an unexpected response")
     return payload
+
+
+def append_tag_to_raindrop(
+    access_token: str,
+    raindrop_id: Any,
+    tag: str,
+) -> None:
+    """Append a completion tag without replacing existing Raindrop tags."""
+    if not raindrop_id:
+        raise RuntimeError("Raindrop item has no ID")
+
+    request = Request(
+        f"{API_BASE}/raindrops/0",
+        data=json.dumps({"ids": [raindrop_id], "tags": [tag]}).encode("utf-8"),
+        method="PUT",
+        headers={
+            "Authorization": f"Bearer {access_token}",
+            "Accept": "application/json",
+            "Content-Type": "application/json",
+            "User-Agent": "Garden-Raindrop-Importer/1.0",
+        },
+    )
+    try:
+        with urlopen(request, timeout=30) as response:
+            payload = json.loads(response.read().decode("utf-8"))
+    except HTTPError as exc:
+        body = exc.read().decode("utf-8", errors="replace")
+        raise RuntimeError(f"Raindrop tag update error {exc.code}: {body}") from exc
+    except URLError as exc:
+        raise RuntimeError(f"Could not update Raindrop tags: {exc.reason}") from exc
+
+    if not isinstance(payload, dict) or payload.get("result") is False:
+        raise RuntimeError("Raindrop tag update returned an unexpected response")
 
 
 def fetch_tagged_items(
@@ -330,16 +371,20 @@ def render_note(
 
 
 def import_items(
+    access_token: str,
     items: list[dict[str, Any]],
     input_dir: Path,
     dry_run: bool,
     no_fetch: bool,
     trigger_tag: str,
-) -> tuple[int, int]:
+    completed_tag: str,
+    mark_imported: bool,
+) -> tuple[int, int, int]:
     input_dir.mkdir(parents=True, exist_ok=True)
     known_sources = existing_sources(input_dir)
     imported = 0
     skipped = 0
+    marked = 0
     import_date = datetime.now().strftime("%Y-%m-%d")
 
     for item in items:
@@ -349,8 +394,27 @@ def import_items(
             print(f"SKIP  no URL: {title}")
             skipped += 1
             continue
+        if item_has_tag(item, completed_tag):
+            print(f"SKIP  already marked: {title}")
+            skipped += 1
+            continue
         if source in known_sources:
             print(f"SKIP  already imported: {title}")
+            if mark_imported:
+                if dry_run:
+                    print(f"DRY-MARK {completed_tag}: {title}")
+                    marked += 1
+                else:
+                    try:
+                        append_tag_to_raindrop(
+                            access_token=access_token,
+                            raindrop_id=item.get("_id"),
+                            tag=completed_tag,
+                        )
+                        print(f"MARK  {completed_tag}: {title}")
+                        marked += 1
+                    except RuntimeError as exc:
+                        print(f"WARN  could not mark {title}: {exc}", file=sys.stderr)
             skipped += 1
             continue
 
@@ -362,13 +426,27 @@ def import_items(
 
         if dry_run:
             print(f"DRY   {target.relative_to(input_dir.parent)}")
+            if mark_imported:
+                print(f"DRY-MARK {completed_tag}: {title}")
+                marked += 1
         else:
             target.write_text(note, encoding="utf-8")
             print(f"WRITE {target.relative_to(input_dir.parent)}")
+            if mark_imported:
+                try:
+                    append_tag_to_raindrop(
+                        access_token=access_token,
+                        raindrop_id=item.get("_id"),
+                        tag=completed_tag,
+                    )
+                    print(f"MARK  {completed_tag}: {title}")
+                    marked += 1
+                except RuntimeError as exc:
+                    print(f"WARN  could not mark {title}: {exc}", file=sys.stderr)
         known_sources.add(source)
         imported += 1
 
-    return imported, skipped
+    return imported, skipped, marked
 
 
 def main() -> int:
@@ -388,6 +466,16 @@ def main() -> int:
         help="Destination directory relative to the vault root",
     )
     parser.add_argument("--limit", type=int, default=None, help="Maximum number of items")
+    parser.add_argument(
+        "--completed-tag",
+        default=DEFAULT_COMPLETED_TAG,
+        help="Raindrop tag added after successful import",
+    )
+    parser.add_argument(
+        "--no-mark-imported",
+        action="store_true",
+        help="Do not add the completion tag in Raindrop",
+    )
     parser.add_argument(
         "--dry-run",
         action="store_true",
@@ -415,19 +503,26 @@ def main() -> int:
             args.collection_id,
             args.limit,
         )
-        imported, skipped = import_items(
+        imported, skipped, marked = import_items(
+            access_token,
             items,
             input_dir,
             args.dry_run,
             args.no_fetch,
             args.tag,
+            args.completed_tag,
+            not args.no_mark_imported,
         )
     except RuntimeError as exc:
         print(str(exc), file=sys.stderr)
         return 1
 
     mode = "dry-run" if args.dry_run else "import"
-    print(f"{mode}: {imported} candidate(s), {skipped} skipped")
+    mark_label = "would mark" if args.dry_run else "marked"
+    print(
+        f"{mode}: {imported} candidate(s), {skipped} skipped, "
+        f"{marked} {mark_label} as {args.completed_tag}"
+    )
     return 0
 
 
