@@ -16,7 +16,11 @@
 		{"id":"a103000000000008","type":"file","file":"300_Input/34歳、人と雑談が出来るようになりました。｜大木 亜希子-2024-01-14 16-58-41.md","x":1040,"y":-180,"width":440,"height":170,"color":"5"},
 		{"id":"a103000000000005","type":"file","file":"500_Fleeting/「自分の話をするモチベーションが湧かない」相談の整理 - ChatGPT.md","x":1040,"y":40,"width":440,"height":170,"color":"6"},
 		{"id":"a103000000000004","type":"file","file":"500_Fleeting/会話における「重さ」と向き合うための整理 - ChatGPT.md","x":1520,"y":-180,"width":440,"height":170,"color":"6"},
-		{"id":"9d2c5694ad83bbda","x":1102,"y":-329,"width":250,"height":60,"type":"text","text":"会話はどうころが"}
+		{"id":"9d2c5694ad83bbda","x":1040,"y":-400,"width":418,"height":50,"type":"text","text":"# 会話はどう転がっても良い"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"be1a444cc1a5294d","fromNode":"9d2c5694ad83bbda","fromSide":"bottom","toNode":"a103000000000008","toSide":"top"},
+		{"id":"dea1b2373f914c2e","fromNode":"9d2c5694ad83bbda","fromSide":"bottom","toNode":"a103000000000004","toSide":"top"},
+		{"id":"ae436b9d48163a70","fromNode":"9d2c5694ad83bbda","fromSide":"bottom","toNode":"a103000000000005","toSide":"top"}
+	]
 }
