@@ -34,9 +34,6 @@ properties:
 views:
   - type: table
     name: Inbox
-    filters:
-      and:
-        - status == "inbox"
     order:
       - file.name
     sort:
