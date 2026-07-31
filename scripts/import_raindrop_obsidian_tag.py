@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Import Raindrop.io items with a given tag into 300_Input.
+"""Import Raindrop.io items with a given tag into 300_Input as reading notes.
 
-The generated notes follow the frontmatter shape used by the existing
-300_Input Web Clipper notes.  Page content is extracted with Defuddle when
-available; otherwise Raindrop metadata, notes, and highlights are preserved.
+The generated notes use the Garden reading-note frontmatter schema. Page
+content is extracted with Defuddle when available; otherwise Raindrop
+metadata, notes, and highlights are preserved.
 
 Authentication:
     RAINDROP_ACCESS_TOKEN=<personal access token>
@@ -158,6 +158,14 @@ def clean_filename(value: str) -> str:
     return value or "Raindrop import"
 
 
+def infer_source_type(source: str) -> str:
+    """Infer the original content type while keeping Raindrop as provenance."""
+    lowered = source.casefold()
+    if "youtube.com" in lowered or "youtu.be" in lowered:
+        return "video"
+    return "web"
+
+
 def topic_tags_from_raindrop(tags: list[Any], trigger_tag: str) -> list[str]:
     """Convert Raindrop tags to the vault's 🎁Topic/... convention."""
     converted: list[str] = []
@@ -261,6 +269,7 @@ def render_note(
 ) -> str:
     title = str(item.get("title") or item.get("domain") or "Raindrop import").strip()
     source = str(item.get("link") or "").strip()
+    source_type = infer_source_type(source)
     description = str(item.get("excerpt") or "").strip()
     image = str(item.get("cover") or "").strip()
     raindrop_id = item.get("_id", "")
@@ -272,6 +281,12 @@ def render_note(
 
     lines = [
         "---",
+        "type: reading-note",
+        f"source_type: {source_type}",
+        "source_container:",
+        "topic: []",
+        "moc: []",
+        "status: inbox",
         f"title: {yaml_scalar(title)}",
         f"source: {yaml_scalar(source)}",
         "author:",

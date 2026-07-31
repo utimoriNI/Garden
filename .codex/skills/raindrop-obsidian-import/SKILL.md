@@ -24,7 +24,8 @@ Use this skill for the Garden vault's Raindrop-to-Obsidian import workflow.
 
 - Default Raindrop trigger tag: `Obsidian`.
 - Destination: `300_Input`.
-- The generated frontmatter follows the existing Input notes: `title`, `source`, `author`, `published`, `created`, `description`, `tags`, and `image`.
+- The generated notes are automatically created as `type: reading-note`.
+- The reading-note frontmatter includes `source_type` (`web` or `video`), `source_container`, `topic`, `moc`, and `status: inbox`, in addition to the existing Input fields such as `title`, `source`, `author`, `published`, `created`, `description`, `tags`, and `image`.
 - `raindrop_id` is retained for provenance and duplicate prevention.
 - The trigger tag `Obsidian` is not written as an Obsidian tag.
 - Raindrop tags are converted to the vault convention `🎁Topic/...`.
