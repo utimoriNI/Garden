@@ -19,3 +19,8 @@ views:
     sort:
       - property: file.mtime
         direction: DESC
+  - type: cards
+    name: ビュー
+    sort:
+      - property: file.ctime
+        direction: DESC
