@@ -153,6 +153,19 @@ class CandidateWorkflowTest(unittest.TestCase):
             errors[self.permanent_path.relative_to(self.root).as_posix()],
         )
 
+    def test_approved_candidate_with_body_comment_is_invalid(self) -> None:
+        text = self.permanent_path.read_text(encoding="utf-8")
+        text = text.replace(
+            "<!-- ここにコメントを書いてください -->",
+            "この反例を本文にも反映してほしい",
+        )
+        self.permanent_path.write_text(text, encoding="utf-8")
+
+        candidates = MODULE.discover_candidates(self.root, "permanent")
+        errors = MODULE.validate_candidates(candidates, self.root)
+
+        self.assertIn(self.permanent_path.relative_to(self.root).as_posix(), errors)
+
 
 if __name__ == "__main__":
     unittest.main()

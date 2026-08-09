@@ -98,6 +98,7 @@ views:
       - file.name
       - formula.candidate_kind
       - proposed_title
+      - review_comment
       - formula.change_summary
       - target_path
       - decision
