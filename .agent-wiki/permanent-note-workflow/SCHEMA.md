@@ -35,7 +35,7 @@ Required:
 - `proposed_title`
 - safe `target_path` below `300_Input/Reading Notes`
 - `source_container`
-- non-empty `## Fragment`
+- non-empty `## 抽出内容`
 
 ## Permanent Note candidate
 
@@ -49,9 +49,17 @@ Required:
 - one-sentence `claim`
 - safe `target_path` below `600_Knowledge`
 - at least two distinct wikilinks in `sources`
-- non-empty `## Draft`
+- non-empty `## 下書き`
 
-Strong candidates also include `## Evidence Map` and `## Counterpoints and Limits`.
+Strong candidates also include `## 根拠` and `## 反例・適用限界`.
+
+## User feedback
+
+- `review_comment` stores a short outstanding comment editable directly in the Base.
+- Longer feedback goes between the markers under `## ユーザーコメント`.
+- Reflected comments are appended to `## コメント反映履歴` with the date and response.
+- After reflection, clear `review_comment` and reset the marker body; do not delete the history.
+- An approved candidate with an outstanding comment is invalid and must not be promoted.
 
 ## Promotion safety
 
