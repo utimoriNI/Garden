@@ -29,22 +29,29 @@ topic: []
 moc: []
 tags:
   - '🎁Topic/Life'
+review_comment: ''
 created: 2026-08-09
 ---
 
 # 一つの断片
 
-## Fragment
+## 抽出内容
 
 > 引用本文
 
-## Memo
+## メモ
 
 短いメモ。
 
-## My Take
+## 自分の考え
 
 自分の反応。
+
+## ユーザーコメント
+
+<!-- user-comment:start -->
+<!-- ここにコメントを書いてください -->
+<!-- user-comment:end -->
 """
 
 
@@ -63,23 +70,30 @@ topic: []
 moc: []
 tags:
   - '🎁Topic/Society'
+review_comment: ''
 created: 2026-08-09
 ---
 
 # 可視化できる努力だけが評価される
 
-## Draft
+## 下書き
 
 努力はそのまま観測できないため、評価制度は成果や説明可能な行動を代理指標として利用する。
 
-## Evidence Map
+## 根拠
 
 - [[500_Fleeting/努力について]] は本人の経験を示す。
 - [[300_Input/Reading Notes/成果主義について]] は制度側の論点を示す。
 
-## Counterpoints and Limits
+## 反例・適用限界
 
 可視化は完全に否定できず、共同作業には一定の説明責任も必要になる。
+
+## ユーザーコメント
+
+<!-- user-comment:start -->
+<!-- ここにコメントを書いてください -->
+<!-- user-comment:end -->
 """
 
 
@@ -124,6 +138,20 @@ class CandidateWorkflowTest(unittest.TestCase):
         self.assertEqual(1, MODULE.apply_candidates(candidates, self.root))
         self.assertEqual("keep me\n", target.read_text(encoding="utf-8"))
         self.assertIn("not-applied", self.reading_path.read_text(encoding="utf-8"))
+
+    def test_approved_candidate_with_unaddressed_comment_is_invalid(self) -> None:
+        text = self.permanent_path.read_text(encoding="utf-8")
+        text = text.replace("review_comment: ''", "review_comment: '主張を短くしてほしい'")
+        self.permanent_path.write_text(text, encoding="utf-8")
+
+        candidates = MODULE.discover_candidates(self.root, "permanent")
+        errors = MODULE.validate_candidates(candidates, self.root)
+
+        self.assertIn(self.permanent_path.relative_to(self.root).as_posix(), errors)
+        self.assertIn(
+            "unaddressed user comment must be reflected before approval",
+            errors[self.permanent_path.relative_to(self.root).as_posix()],
+        )
 
 
 if __name__ == "__main__":
