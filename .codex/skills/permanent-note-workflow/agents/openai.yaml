@@ -1,4 +1,4 @@
 interface:
   display_name: "Permanent Note Workflow"
   short_description: "AI候補をBaseで承認しPermanent Noteへ昇格"
-  default_prompt: "Use $permanent-note-workflow to generate or apply Permanent Note candidates in this Garden vault."
+  default_prompt: "Use $permanent-note-workflow to create reviewable Permanent Note candidates and safely apply only the approved ones."

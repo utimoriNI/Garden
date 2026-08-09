@@ -25,8 +25,9 @@ Use this skill for the Garden vault's Raindrop-to-Obsidian import workflow.
 - Default Raindrop trigger tag: `Obsidian`.
 - Default completion tag: `ObsidianImported`.
 - Destination: `300_Input`.
-- The generated notes are automatically created as `type: reading-note`.
-- The reading-note frontmatter includes `source_type` (`web` or `video`), `source_container`, `topic`, `moc`, and `status: inbox`, in addition to the existing Input fields such as `title`, `source`, `author`, `published`, `created`, `description`, `tags`, and `image`.
+- The generated full-article notes are created as `type: source-note` because they are source containers, not atomic Reading Notes.
+- Source-note frontmatter includes `source_type` (`web` or `video`), `source_container`, `topic`, `moc`, and `status: inbox`, in addition to Input fields such as `title`, `source`, `author`, `published`, `created`, `description`, `tags`, and `image`.
+- Use the `permanent-note-workflow` skill afterward when the user wants AI-generated atomic Reading Note candidates from the imported article.
 - `raindrop_id` is retained for provenance and duplicate prevention.
 - After a successful import, `ObsidianImported` is appended to the Raindrop item.
 - Items that already have `ObsidianImported` are skipped on later runs.

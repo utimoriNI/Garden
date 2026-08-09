@@ -1,85 +1,84 @@
 ---
 name: permanent-note-workflow
-description: [TODO: Complete and informative explanation of what the skill does and when to use it. Include WHEN to use this skill - specific scenarios, file types, or tasks that trigger it.]
+description: Generate AI-authored Reading Note candidates from selected Raindrop/Web source notes, discover one-claim Permanent Note candidates from multiple Fleeting/Reading Notes, and preview or apply candidates approved in an Obsidian Base. Use when the user asks to extract candidate notes from imported articles, find similar thoughts, create or update Permanent Note candidates, inspect approved changes, or promote approved candidates into 300_Input/Reading Notes or 600_Knowledge.
 ---
 
 # Permanent Note Workflow
 
-## Overview
+Keep AI proposals separate from official notes. Use Obsidian Base as the decision surface and the deterministic processor for no-overwrite promotion.
 
-[TODO: 1-2 sentences explaining what this skill enables]
+## Start
 
-## Structuring This Skill
+1. Read the vault-root `AGENTS.md`.
+2. Read `.agent-wiki/permanent-note-workflow/SCHEMA.md` and `WORKFLOW.md` completely.
+3. Read the matching template under `.agent-wiki/permanent-note-workflow/templates/`.
+4. Preserve source notes and existing official notes.
 
-[TODO: Choose the structure that best fits this skill's purpose. Common patterns:
+## Choose the operation
 
-**1. Workflow-Based** (best for sequential processes)
-- Works well when there are clear step-by-step procedures
-- Example: DOCX skill with "Workflow Decision Tree" -> "Reading" -> "Creating" -> "Editing"
-- Structure: ## Overview -> ## Workflow Decision Tree -> ## Step 1 -> ## Step 2...
+- Article/Web extraction request: create Reading Note candidate files.
+- Fleeting/Reading synthesis request: create Permanent Note candidate files.
+- Change-preview request: run validation and plan only.
+- Explicit apply/promote request: validate, show the plan, then apply approved candidates.
+- Link-only theme request: use Theme Discovery; do not create a Permanent Note candidate.
 
-**2. Task-Based** (best for tool collections)
-- Works well when the skill offers different operations/capabilities
-- Example: PDF skill with "Quick Start" -> "Merge PDFs" -> "Split PDFs" -> "Extract Text"
-- Structure: ## Overview -> ## Quick Start -> ## Task Category 1 -> ## Task Category 2...
+## Create Reading Note candidates
 
-**3. Reference/Guidelines** (best for standards or specifications)
-- Works well for brand guidelines, coding standards, or requirements
-- Example: Brand styling with "Brand Guidelines" -> "Colors" -> "Typography" -> "Features"
-- Structure: ## Overview -> ## Guidelines -> ## Specifications -> ## Usage...
+Treat files with `raindrop_id` as source containers, including older imports whose `type` is still `reading-note`.
 
-**4. Capabilities-Based** (best for integrated systems)
-- Works well when the skill provides multiple interrelated features
-- Example: Product Management with "Core Capabilities" -> numbered capability list
-- Structure: ## Overview -> ## Core Capabilities -> ### 1. Feature -> ### 2. Feature...
+1. Read the requested source note completely.
+2. Extract up to five reusable units per article: one quotation, concept, claim, scene, or expression per candidate.
+3. Preserve quoted wording exactly. Do not invent source text.
+4. Search existing candidates and official Reading Notes for the same `source_container` and fragment; skip duplicates.
+5. Create files under `.agent-wiki/permanent-note-workflow/candidates/reading-note-candidates/` using the template.
+6. Use a unique ASCII `candidate_id`, normally `rn-<raindrop-id>-<number>` or `rn-<date>-<short-slug>`.
+7. Set `decision: pending` and `apply_status: not-applied`.
+8. Run `python3 scripts/apply_note_candidates.py validate`.
 
-Patterns can be mixed and matched as needed. Most skills combine patterns (e.g., start with task-based, add workflow for complex operations).
+Candidate creation is automatic when requested. Do not create the official Reading Note until approved and explicitly applied.
 
-Delete this entire "Structuring This Skill" section when done - it's just guidance.]
+## Create Permanent Note candidates
 
-## [TODO: Replace with the first main section based on chosen structure]
+1. Inspect relevant notes in `500_Fleeting` and `300_Input/Reading Notes`.
+2. Group notes by repeated mechanism, tension, contrast, causal relation, or shared claim—not merely shared vocabulary.
+3. Use at least two distinct sources; prefer three to eight when the claim remains coherent.
+4. State one discussable claim in `claim`. A topic label is insufficient.
+5. Write a usable initial synthesis in `## Draft`.
+6. Explain each source's contribution in `## Evidence Map`.
+7. Include a real limitation, counterexample, or missing piece in `## Counterpoints and Limits`.
+8. Check `600_Knowledge`, `110_MOC`, and existing candidates for duplication.
+9. Create files under `.agent-wiki/permanent-note-workflow/candidates/permanent-note-candidates/` using the template.
+10. Run validation.
 
-[TODO: Add content here. See examples in existing skills:
-- Code samples for technical skills
-- Decision trees for complex workflows
-- Concrete examples with realistic user requests
-- References to scripts/templates/references as needed]
+Do not create a Permanent Note when the useful output is only a set of links. Route it to the MOC workflow instead.
 
-## Resources (optional)
+## Preview approved changes
 
-Create only the resource directories this skill actually needs. Delete this section if no resources are required.
+Run:
 
-### scripts/
-Executable code (Python/Bash/etc.) that can be run directly to perform specific operations.
+```bash
+python3 scripts/apply_note_candidates.py validate
+python3 scripts/apply_note_candidates.py plan
+```
 
-**Examples from other skills:**
-- PDF skill: `fill_fillable_fields.py`, `extract_form_field_info.py` - utilities for PDF manipulation
-- DOCX skill: `document.py`, `utilities.py` - Python modules for document processing
+Report every file that would be created and every candidate audit field that would be updated. Do not apply on a preview-only request.
 
-**Appropriate for:** Python scripts, shell scripts, or any executable code that performs automation, data processing, or specific operations.
+## Apply approved candidates
 
-**Note:** Scripts may be executed without loading into context, but can still be read by Codex for patching or environment adjustments.
+Only when the user explicitly requests reflection or promotion, run the preview first and then:
 
-### references/
-Documentation and reference material intended to be loaded into context to inform Codex's process and thinking.
+```bash
+python3 scripts/apply_note_candidates.py apply --write
+python3 scripts/apply_note_candidates.py validate
+```
 
-**Examples from other skills:**
-- Product management: `communication.md`, `context_building.md` - detailed workflow guides
-- BigQuery: API reference documentation and query examples
-- Finance: Schema documentation, company policies
+Summarize created official notes. Never work around an existing-target conflict; report it for human resolution.
 
-**Appropriate for:** In-depth documentation, API references, database schemas, comprehensive guides, or any detailed information that Codex should reference while working.
+## Safety
 
-### assets/
-Files not intended to be loaded into context, but rather used within the output Codex produces.
-
-**Examples from other skills:**
-- Brand styling: PowerPoint template files (.pptx), logo files
-- Frontend builder: HTML/React boilerplate project directories
-- Typography: Font files (.ttf, .woff2)
-
-**Appropriate for:** Templates, boilerplate code, document templates, images, icons, fonts, or any files meant to be copied or used in the final output.
-
----
-
-**Not every skill requires all three types of resources.**
+- Base approval changes only candidate frontmatter.
+- Promotion creates new files and updates candidate audit fields only.
+- Do not modify or delete source notes.
+- Do not overwrite existing targets.
+- Keep candidates as an audit trail after promotion.
+- Keep official Permanent Notes at `status: draft` for later human editing.
