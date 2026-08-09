@@ -21,6 +21,7 @@ FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n?", re.DOTALL)
 HEADING_RE = re.compile(r"^##\s+(.+?)\s*$")
 VALID_DECISIONS = {"pending", "hold", "approved", "rejected"}
 VALID_APPLY_STATUSES = {"not-applied", "applied", "error"}
+CANDIDATE_ROOT = "200_Inbox/Note Candidates"
 
 
 @dataclass(frozen=True)
@@ -170,7 +171,7 @@ def split_note(path: Path) -> tuple[list[str], str]:
 
 def discover_candidates(vault_root: Path, kind_name: str = "all") -> list[Candidate]:
     selected = KINDS.values() if kind_name == "all" else [KINDS[kind_name]]
-    root = vault_root / ".agent-wiki/permanent-note-workflow/candidates"
+    root = vault_root / CANDIDATE_ROOT
     candidates: list[Candidate] = []
     for kind in selected:
         folder = root / kind.candidate_folder

@@ -3,7 +3,7 @@
 ## Boundary
 
 - Source notes remain unchanged.
-- AI-generated candidates live below `.agent-wiki/permanent-note-workflow/candidates/`.
+- AI-generated candidates live below `200_Inbox/Note Candidates/` so Obsidian Bases can index and display them.
 - Approved Reading Notes are created in `300_Input/Reading Notes`.
 - Approved Permanent Notes are created in `600_Knowledge` with `type: knowledge`.
 - A Permanent Note must state one claim synthesized from at least two distinct source notes.

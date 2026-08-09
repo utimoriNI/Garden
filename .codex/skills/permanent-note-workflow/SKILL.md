@@ -30,7 +30,7 @@ Treat files with `raindrop_id` as source containers, including older imports who
 2. Extract up to five reusable units per article: one quotation, concept, claim, scene, or expression per candidate.
 3. Preserve quoted wording exactly. Do not invent source text.
 4. Search existing candidates and official Reading Notes for the same `source_container` and fragment; skip duplicates.
-5. Create files under `.agent-wiki/permanent-note-workflow/candidates/reading-note-candidates/` using the template.
+5. Create files under `200_Inbox/Note Candidates/reading-note-candidates/` using the template.
 6. Use a unique ASCII `candidate_id`, normally `rn-<raindrop-id>-<number>` or `rn-<date>-<short-slug>`.
 7. Set `decision: pending` and `apply_status: not-applied`.
 8. Run `python3 scripts/apply_note_candidates.py validate`.
@@ -47,7 +47,7 @@ Candidate creation is automatic when requested. Do not create the official Readi
 6. Explain each source's contribution in `## Evidence Map`.
 7. Include a real limitation, counterexample, or missing piece in `## Counterpoints and Limits`.
 8. Check `600_Knowledge`, `110_MOC`, and existing candidates for duplication.
-9. Create files under `.agent-wiki/permanent-note-workflow/candidates/permanent-note-candidates/` using the template.
+9. Create files under `200_Inbox/Note Candidates/permanent-note-candidates/` using the template.
 10. Run validation.
 
 Do not create a Permanent Note when the useful output is only a set of links. Route it to the MOC workflow instead.

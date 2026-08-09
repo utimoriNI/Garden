@@ -87,8 +87,8 @@ class CandidateWorkflowTest(unittest.TestCase):
     def setUp(self) -> None:
         self.temp = tempfile.TemporaryDirectory()
         self.root = Path(self.temp.name)
-        reading_dir = self.root / ".agent-wiki/permanent-note-workflow/candidates/reading-note-candidates"
-        permanent_dir = self.root / ".agent-wiki/permanent-note-workflow/candidates/permanent-note-candidates"
+        reading_dir = self.root / "200_Inbox/Note Candidates/reading-note-candidates"
+        permanent_dir = self.root / "200_Inbox/Note Candidates/permanent-note-candidates"
         reading_dir.mkdir(parents=True)
         permanent_dir.mkdir(parents=True)
         self.reading_path = reading_dir / "rn-test-001.md"

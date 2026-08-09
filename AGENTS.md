@@ -231,8 +231,8 @@ Permanent Note は次を満たすこと。
 
 AI が作る候補は次に置く。
 
-- `.agent-wiki/permanent-note-workflow/candidates/reading-note-candidates`
-- `.agent-wiki/permanent-note-workflow/candidates/permanent-note-candidates`
+- `200_Inbox/Note Candidates/reading-note-candidates`
+- `200_Inbox/Note Candidates/permanent-note-candidates`
 
 人間は [Permanent Note候補.base](/Users/isikurahiromitu/Documents/Vaults/Garden/000_Main/Permanent%20Note候補.base) で `decision` を変更する。
 

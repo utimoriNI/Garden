@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.inFolder(".agent-wiki/permanent-note-workflow/candidates")
+    - file.inFolder("200_Inbox/Note Candidates")
     - or:
         - type == "reading-note-candidate"
         - type == "permanent-note-candidate"
