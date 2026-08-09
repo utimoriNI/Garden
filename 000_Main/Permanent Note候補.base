@@ -1,0 +1,143 @@
+filters:
+  and:
+    - 'file.inFolder(".agent-wiki/permanent-note-workflow/candidates")'
+    - or:
+        - 'type == "reading-note-candidate"'
+        - 'type == "permanent-note-candidate"'
+
+formulas:
+  candidate_kind: 'if(type == "reading-note-candidate", "Reading Note", "Permanent Note")'
+  source_count: 'if(sources, sources.length, if(source_container, 1, 0))'
+  change_summary: 'if(type == "reading-note-candidate", "Reading Noteを1件作成", "Knowledgeを1件作成")'
+  days_waiting: '(now() - file.ctime).days'
+
+properties:
+  file.name:
+    displayName: "候補"
+  formula.candidate_kind:
+    displayName: "種類"
+  proposed_title:
+    displayName: "提案タイトル"
+  claim:
+    displayName: "主張"
+  decision:
+    displayName: "判断"
+  apply_status:
+    displayName: "反映状態"
+  confidence:
+    displayName: "確信度"
+  formula.source_count:
+    displayName: "材料数"
+  formula.change_summary:
+    displayName: "承認後の変更"
+  target_path:
+    displayName: "作成先"
+  promoted_to:
+    displayName: "正式ノート"
+  formula.days_waiting:
+    displayName: "経過日数"
+  file.mtime:
+    displayName: "更新"
+
+views:
+  - type: table
+    name: "未確認"
+    filters:
+      and:
+        - 'decision == "pending"'
+    groupBy:
+      property: formula.candidate_kind
+      direction: ASC
+    order:
+      - file.name
+      - formula.candidate_kind
+      - proposed_title
+      - claim
+      - confidence
+      - formula.source_count
+      - formula.change_summary
+      - target_path
+      - decision
+      - formula.days_waiting
+
+  - type: table
+    name: "Permanent候補"
+    filters:
+      and:
+        - 'type == "permanent-note-candidate"'
+        - 'decision == "pending"'
+    order:
+      - file.name
+      - proposed_title
+      - claim
+      - sources
+      - confidence
+      - target_path
+      - decision
+
+  - type: table
+    name: "Reading候補"
+    filters:
+      and:
+        - 'type == "reading-note-candidate"'
+        - 'decision == "pending"'
+    order:
+      - file.name
+      - proposed_title
+      - source_container
+      - confidence
+      - target_path
+      - decision
+
+  - type: table
+    name: "反映待ち"
+    filters:
+      and:
+        - 'decision == "approved"'
+        - 'apply_status != "applied"'
+    order:
+      - file.name
+      - formula.candidate_kind
+      - proposed_title
+      - formula.change_summary
+      - target_path
+      - decision
+      - apply_status
+
+  - type: table
+    name: "保留"
+    filters:
+      and:
+        - 'decision == "hold"'
+    order:
+      - file.name
+      - formula.candidate_kind
+      - proposed_title
+      - claim
+      - decision
+      - file.mtime
+
+  - type: table
+    name: "却下"
+    filters:
+      and:
+        - 'decision == "rejected"'
+    order:
+      - file.name
+      - formula.candidate_kind
+      - proposed_title
+      - decision
+      - file.mtime
+
+  - type: table
+    name: "反映済み"
+    filters:
+      and:
+        - 'apply_status == "applied"'
+    order:
+      - file.name
+      - formula.candidate_kind
+      - proposed_title
+      - promoted_to
+      - applied_at
+      - decision

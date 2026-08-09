@@ -11,3 +11,4 @@ cssclasses:
 - [[Wish List]]
 - [[思考.canvas|無題のファイル]]
 - [[保管庫運用ガイド]]
+- [[Permanent Noteワークフロー]]

@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Import Raindrop.io items with a given tag into 300_Input as reading notes.
+"""Import Raindrop.io items with a given tag into 300_Input as source notes.
 
-The generated notes use the Garden reading-note frontmatter schema. Page
-content is extracted with Defuddle when available; otherwise Raindrop
-metadata, notes, and highlights are preserved.
+The generated notes preserve the full article as source material. Atomic
+Reading Note candidates are generated separately by the Permanent Note
+workflow. Page content is extracted with Defuddle when available; otherwise
+Raindrop metadata, notes, and highlights are preserved.
 
 Authentication:
     RAINDROP_ACCESS_TOKEN=<personal access token>
@@ -333,7 +334,7 @@ def render_note(
 
     lines = [
         "---",
-        "type: reading-note",
+        "type: source-note",
         f"source_type: {source_type}",
         "source_container:",
         "topic: []",
@@ -520,7 +521,7 @@ def main() -> int:
     mode = "dry-run" if args.dry_run else "import"
     mark_label = "would mark" if args.dry_run else "marked"
     print(
-        f"{mode}: {imported} candidate(s), {skipped} skipped, "
+        f"{mode}: {imported} source note(s), {skipped} skipped, "
         f"{marked} {mark_label} as {args.completed_tag}"
     )
     return 0

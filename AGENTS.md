@@ -216,6 +216,59 @@ Obsidian 上で扱いやすくするために、タグは広い分類や見や�
 - MOC や Knowledge に接続しやすくする
 - 元ソースへの導線を失わない
 
+## Permanent Note の定義と承認運用
+
+この Vault では、Permanent Note を `600_Knowledge` に置く `type: knowledge` のノートとして扱う。
+
+Permanent Note は次を満たすこと。
+
+- 複数の Fleeting Note / Reading Note を材料にする
+- 1ノートにつき1つの主張を、自分の言葉で説明する
+- 元になったノートへのリンクを失わない
+- 単なる関連リンク集にしない
+
+関連リンクを並べて見渡すためのノートは Permanent Note ではなく MOC として `110_MOC` に置く。
+
+AI が作る候補は次に置く。
+
+- `.agent-wiki/permanent-note-workflow/candidates/reading-note-candidates`
+- `.agent-wiki/permanent-note-workflow/candidates/permanent-note-candidates`
+
+人間は [Permanent Note候補.base](/Users/isikurahiromitu/Documents/Vaults/Garden/000_Main/Permanent%20Note候補.base) で `decision` を変更する。
+
+- `pending`: 未確認
+- `hold`: 保留
+- `approved`: 正式化を承認
+- `rejected`: 却下
+
+Base 上の承認だけでは正式ノートを作らない。ユーザーが自然言語で次のように依頼した場合に反映処理を行う。
+
+- `承認済み候補の変更を確認して`
+- `承認済み候補を反映して`
+- `Permanent Note候補を正式化して`
+
+反映前は必ず次を実行して検証・変更予定を示す。
+
+```bash
+python3 scripts/apply_note_candidates.py validate
+python3 scripts/apply_note_candidates.py plan
+```
+
+明示的に反映を依頼された場合のみ次を実行する。
+
+```bash
+python3 scripts/apply_note_candidates.py apply --write
+```
+
+反映処理は既存ファイルを上書きせず、元の Fleeting Note / Reading Note / 原本ノートを変更しない。
+
+ユーザーが次のように依頼した場合は、`.codex/skills/permanent-note-workflow/SKILL.md` に従って候補ファイルを自動作成してよい。
+
+- `Raindropの記事からReading Note候補を作って`
+- `FleetingからPermanent Note候補を作って`
+- `Permanent Note候補を更新して`
+- `似た思考材料を一つの主張にまとめて`
+
 ## Theme Discovery の自然言語運用
 
 `.agent-wiki/theme-discovery/` では、reading-note から MOC 候補を見つける半自動運用を行う。
