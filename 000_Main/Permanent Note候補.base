@@ -18,6 +18,8 @@ properties:
     displayName: 提案タイトル
   claim:
     displayName: 主張
+  review_comment:
+    displayName: コメント
   decision:
     displayName: 判断
   apply_status:
@@ -49,6 +51,7 @@ views:
       - file.name
       - formula.candidate_kind
       - proposed_title
+      - review_comment
       - claim
       - confidence
       - formula.source_count
@@ -65,6 +68,7 @@ views:
     order:
       - file.name
       - proposed_title
+      - review_comment
       - claim
       - sources
       - confidence
@@ -79,6 +83,7 @@ views:
     order:
       - file.name
       - proposed_title
+      - review_comment
       - source_container
       - confidence
       - target_path
@@ -97,6 +102,19 @@ views:
       - target_path
       - decision
       - apply_status
+  - type: table
+    name: コメントあり
+    filters:
+      and:
+        - review_comment != ""
+        - apply_status != "applied"
+    order:
+      - file.name
+      - formula.candidate_kind
+      - proposed_title
+      - review_comment
+      - decision
+      - file.mtime
   - type: table
     name: 保留
     filters:

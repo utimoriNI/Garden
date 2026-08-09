@@ -43,14 +43,29 @@ Candidate creation is automatic when requested. Do not create the official Readi
 2. Group notes by repeated mechanism, tension, contrast, causal relation, or shared claim—not merely shared vocabulary.
 3. Use at least two distinct sources; prefer three to eight when the claim remains coherent.
 4. State one discussable claim in `claim`. A topic label is insufficient.
-5. Write a usable initial synthesis in `## Draft`.
-6. Explain each source's contribution in `## Evidence Map`.
-7. Include a real limitation, counterexample, or missing piece in `## Counterpoints and Limits`.
+5. Write a usable initial synthesis in `## 下書き`.
+6. Explain each source's contribution in `## 根拠`.
+7. Include a real limitation, counterexample, or missing piece in `## 反例・適用限界`.
 8. Check `600_Knowledge`, `110_MOC`, and existing candidates for duplication.
 9. Create files under `200_Inbox/Note Candidates/permanent-note-candidates/` using the template.
 10. Run validation.
 
 Do not create a Permanent Note when the useful output is only a set of links. Route it to the MOC workflow instead.
+
+## Refine candidates from user comments
+
+Users can leave short feedback in the Base `review_comment` property or longer feedback between the `user-comment:start` and `user-comment:end` markers under `## ユーザーコメント`.
+
+When the user asks to reflect or incorporate candidate comments:
+
+1. Read every candidate with a non-empty `review_comment` or marker body.
+2. Revise only the candidate proposal: title, claim, `## 下書き`, `## 根拠`, `## 反例・適用限界`, duplicate check, and planned changes as needed.
+3. Preserve `decision`, `apply_status`, source notes, and official notes.
+4. Append the date, original comment, and concise response under `## コメント反映履歴`.
+5. Clear `review_comment` and reset the marker body to its placeholder after recording the history.
+6. Re-run validation. If a comment requests a materially different claim, re-check source support and existing Knowledge/MOC duplication.
+
+Candidates with an outstanding comment must not be promoted. The validator enforces this for `decision: approved` candidates.
 
 ## Preview approved changes
 

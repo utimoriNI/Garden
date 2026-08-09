@@ -19,6 +19,11 @@ from typing import Iterable
 
 FRONTMATTER_RE = re.compile(r"^---\n(.*?)\n---\n?", re.DOTALL)
 HEADING_RE = re.compile(r"^##\s+(.+?)\s*$")
+USER_COMMENT_RE = re.compile(
+    r"<!--\s*user-comment:start\s*-->(.*?)<!--\s*user-comment:end\s*-->",
+    re.DOTALL,
+)
+HTML_COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
 VALID_DECISIONS = {"pending", "hold", "approved", "rejected"}
 VALID_APPLY_STATUSES = {"not-applied", "applied", "error"}
 CANDIDATE_ROOT = "200_Inbox/Note Candidates"
@@ -157,6 +162,29 @@ def parse_sections(body: str) -> dict[str, str]:
     return {name: "\n".join(lines).strip() for name, lines in sections.items()}
 
 
+def section_value(candidate: Candidate, *names: str) -> str:
+    """Return the first non-empty section, supporting old English headings."""
+    for name in names:
+        value = candidate.sections.get(name, "")
+        if value:
+            return value
+    return ""
+
+
+def pending_user_comment(candidate: Candidate) -> str:
+    """Collect outstanding feedback from frontmatter and the editable body marker."""
+    comments: list[str] = []
+    property_comment = scalar(candidate.metadata, "review_comment").strip()
+    if property_comment:
+        comments.append(property_comment)
+    match = USER_COMMENT_RE.search(candidate.body)
+    if match:
+        body_comment = HTML_COMMENT_RE.sub("", match.group(1)).strip()
+        if body_comment:
+            comments.append(body_comment)
+    return "\n\n".join(comments)
+
+
 def candidate_link(relative_path: str) -> str:
     return f"[[{Path(relative_path).with_suffix('').as_posix()}]]"
 
@@ -254,16 +282,19 @@ def validate_candidate(candidate: Candidate, vault_root: Path) -> list[str]:
     if candidate.kind.name == "reading":
         if not scalar(candidate.metadata, "source_container"):
             errors.append("source_container is required")
-        if not candidate.sections.get("Fragment"):
-            errors.append("## Fragment is required")
+        if not section_value(candidate, "抽出内容", "Fragment"):
+            errors.append("## 抽出内容 is required")
     else:
         sources = list(dict.fromkeys(list_value(candidate.metadata, "sources")))
         if len(sources) < 2:
             errors.append("permanent-note candidates require at least two distinct sources")
         if not scalar(candidate.metadata, "claim"):
             errors.append("claim is required")
-        if not candidate.sections.get("Draft"):
-            errors.append("## Draft is required")
+        if not section_value(candidate, "下書き", "Draft"):
+            errors.append("## 下書き is required")
+
+    if candidate.decision == "approved" and pending_user_comment(candidate):
+        errors.append("unaddressed user comment must be reflected before approval")
 
     if candidate.apply_status == "applied":
         promoted_to = scalar(candidate.metadata, "promoted_to")
@@ -332,13 +363,13 @@ def reading_note_content(candidate: Candidate) -> str:
     )
     lines.extend(format_yaml_list("tags", list_value(metadata, "tags")))
     lines.extend(["---", "", f"# {candidate.proposed_title}", "", "## Fragment", ""])
-    lines.extend(candidate.sections["Fragment"].splitlines())
+    lines.extend(section_value(candidate, "抽出内容", "Fragment").splitlines())
     lines.extend(["", "## Memo", ""])
-    memo = candidate.sections.get("Memo", "")
+    memo = section_value(candidate, "メモ", "Memo")
     if memo:
         lines.extend(memo.splitlines())
     lines.extend(["", "## My Take", ""])
-    my_take = candidate.sections.get("My Take", "")
+    my_take = section_value(candidate, "自分の考え", "My Take")
     if my_take:
         lines.extend(my_take.splitlines())
     lines.extend(["", "## Links", ""])
@@ -381,11 +412,11 @@ def permanent_note_content(candidate: Candidate) -> str:
             "",
         ]
     )
-    lines.extend(candidate.sections["Draft"].splitlines())
-    evidence = candidate.sections.get("Evidence Map", "")
+    lines.extend(section_value(candidate, "下書き", "Draft").splitlines())
+    evidence = section_value(candidate, "根拠", "Evidence Map")
     if evidence:
         lines.extend(["", "## 根拠", "", *evidence.splitlines()])
-    counterpoints = candidate.sections.get("Counterpoints and Limits", "")
+    counterpoints = section_value(candidate, "反例・適用限界", "Counterpoints and Limits")
     if counterpoints:
         lines.extend(["", "## 反例・留保", "", *counterpoints.splitlines()])
     lines.extend(["", "## もとになったノート", ""])
