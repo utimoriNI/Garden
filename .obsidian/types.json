@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "created": "date",
-    "Status": "text"
+    "Status": "text",
+    "decision": "multitext"
   }
 }
