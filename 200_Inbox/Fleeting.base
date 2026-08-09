@@ -12,13 +12,18 @@ properties:
   file.mtime:
     displayName: Updated
 views:
-  - type: table
+  - type: list
     name: Fleeting
     order:
       - file.name
+      - file.ctime
     sort:
       - property: file.mtime
         direction: DESC
+    columnSize:
+      file.name: 340
+    rowHeight: medium
+    indentProperties: true
   - type: cards
     name: ビュー
     sort:
