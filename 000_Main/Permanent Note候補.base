@@ -59,6 +59,9 @@ views:
       - target_path
       - decision
       - formula.days_waiting
+    sort:
+      - property: formula.candidate_kind
+        direction: DESC
   - type: table
     name: Permanent候補
     filters:
