@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import importlib.util
 from pathlib import Path
+import sys
 import tempfile
 import unittest
 
@@ -10,6 +11,7 @@ SCRIPT = Path(__file__).resolve().parents[1] / "apply_note_candidates.py"
 SPEC = importlib.util.spec_from_file_location("apply_note_candidates", SCRIPT)
 assert SPEC and SPEC.loader
 MODULE = importlib.util.module_from_spec(SPEC)
+sys.modules[SPEC.name] = MODULE
 SPEC.loader.exec_module(MODULE)
 
 
