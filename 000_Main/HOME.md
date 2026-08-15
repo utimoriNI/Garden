@@ -13,6 +13,8 @@ Column 1
 ===
 Column 2
 
+![[Permanent Note候補.base]]
+
 ```
 
 
