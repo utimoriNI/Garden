@@ -1,5 +1,34 @@
 {
-  "presetFields": [],
+  "presetFields": [
+    {
+      "name": "decision",
+      "id": "field-decision",
+      "path": "",
+      "type": "Select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "0": "pending",
+          "1": "hold",
+          "2": "approved",
+          "3": "rejected"
+        }
+      }
+    },
+    {
+      "name": "apply_status",
+      "id": "field-apply-status",
+      "path": "",
+      "type": "Select",
+      "options": {
+        "sourceType": "ValuesList",
+        "valuesList": {
+          "0": "not-applied",
+          "1": "applied"
+        }
+      }
+    }
+  ],
   "fileClassQueries": [],
   "displayFieldsInContextMenu": true,
   "globallyIgnoredFields": [],

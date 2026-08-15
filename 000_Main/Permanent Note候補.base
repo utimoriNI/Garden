@@ -49,13 +49,15 @@ views:
       direction: ASC
     order:
       - file.name
+      - decision
       - review_comment
       - claim
       - formula.change_summary
       - target_path
-      - decision
       - formula.days_waiting
     sort:
+      - property: file.name
+        direction: ASC
       - property: target_path
         direction: DESC
       - property: formula.candidate_kind
