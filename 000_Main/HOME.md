@@ -3,16 +3,11 @@ cssclasses:
   - cards
   - cards-1-1
 ---
-```columns
-id: teNu6sjmrpSNwxsexhhVa
-===
+
 ![[Fleeting.base | h-450]]
 
 ===
 ![[Permanent Note候補.base]]
-
-```
-
 
 
 
