@@ -1,8 +1,7 @@
 filters:
   and:
-    - 'file.inFolder("600_Knowledge")'
-    - 'file.ext == "md"'
-
+    - file.inFolder("600_Knowledge")
+    - file.ext == "md"
 properties:
   file.name:
     displayName: ノート
@@ -26,7 +25,6 @@ properties:
     displayName: 元ノート
   file.backlinks:
     displayName: 被リンク
-
 views:
   - type: table
     name: すべて
@@ -40,14 +38,15 @@ views:
       - file.mtime
       - file.backlinks
     sort:
+      - property: type
+        direction: ASC
       - property: file.name
         direction: ASC
-
   - type: table
     name: 下書き
     filters:
       and:
-        - 'status == "draft"'
+        - status == "draft"
     order:
       - file.name
       - status
@@ -58,12 +57,11 @@ views:
     sort:
       - property: file.mtime
         direction: DESC
-
   - type: table
     name: Life
     filters:
       and:
-        - 'file.hasTag("🎁Topic/Life")'
+        - file.hasTag("🎁Topic/Life")
     order:
       - file.name
       - status
@@ -73,12 +71,11 @@ views:
     sort:
       - property: file.name
         direction: ASC
-
   - type: table
     name: Society
     filters:
       and:
-        - 'file.hasTag("🎁Topic/Society")'
+        - file.hasTag("🎁Topic/Society")
     order:
       - file.name
       - status
@@ -88,12 +85,11 @@ views:
     sort:
       - property: file.name
         direction: ASC
-
   - type: table
     name: Learning
     filters:
       and:
-        - 'file.hasTag("🎁Topic/Learning")'
+        - file.hasTag("🎁Topic/Learning")
     order:
       - file.name
       - status
@@ -103,7 +99,6 @@ views:
     sort:
       - property: file.name
         direction: ASC
-
   - type: table
     name: 最近更新
     order:
