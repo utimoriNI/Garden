@@ -30,24 +30,23 @@ views:
     name: すべて
     order:
       - file.name
-      - status
       - file.tags
       - created
       - file.backlinks
+      - Status
     sort:
       - property: created
         direction: DESC
       - property: file.tags
         direction: ASC
-      - property: Status
-        direction: DESC
       - property: topic
         direction: DESC
       - property: file.name
         direction: ASC
     columnSize:
-      note.Status: 162
       file.tags: 179
+      file.backlinks: 117
+      note.Status: 162
   - type: table
     name: 下書き
     filters:
