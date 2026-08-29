@@ -1,0 +1,117 @@
+filters:
+  and:
+    - 'file.inFolder("600_Knowledge")'
+    - 'file.ext == "md"'
+
+properties:
+  file.name:
+    displayName: ノート
+  type:
+    displayName: 種類
+  status:
+    displayName: 状態
+  claim:
+    displayName: 主張
+  topic:
+    displayName: トピック
+  moc:
+    displayName: MOC
+  file.tags:
+    displayName: タグ
+  created:
+    displayName: 作成日
+  file.mtime:
+    displayName: 更新日
+  derived_from:
+    displayName: 元ノート
+  file.backlinks:
+    displayName: 被リンク
+
+views:
+  - type: table
+    name: すべて
+    order:
+      - file.name
+      - type
+      - status
+      - topic
+      - file.tags
+      - created
+      - file.mtime
+      - file.backlinks
+    sort:
+      - property: file.name
+        direction: ASC
+
+  - type: table
+    name: 下書き
+    filters:
+      and:
+        - 'status == "draft"'
+    order:
+      - file.name
+      - status
+      - topic
+      - claim
+      - file.mtime
+      - derived_from
+    sort:
+      - property: file.mtime
+        direction: DESC
+
+  - type: table
+    name: Life
+    filters:
+      and:
+        - 'file.hasTag("🎁Topic/Life")'
+    order:
+      - file.name
+      - status
+      - topic
+      - file.tags
+      - file.mtime
+    sort:
+      - property: file.name
+        direction: ASC
+
+  - type: table
+    name: Society
+    filters:
+      and:
+        - 'file.hasTag("🎁Topic/Society")'
+    order:
+      - file.name
+      - status
+      - topic
+      - file.tags
+      - file.mtime
+    sort:
+      - property: file.name
+        direction: ASC
+
+  - type: table
+    name: Learning
+    filters:
+      and:
+        - 'file.hasTag("🎁Topic/Learning")'
+    order:
+      - file.name
+      - status
+      - topic
+      - file.tags
+      - file.mtime
+    sort:
+      - property: file.name
+        direction: ASC
+
+  - type: table
+    name: 最近更新
+    order:
+      - file.name
+      - status
+      - topic
+      - file.mtime
+      - file.backlinks
+    sort:
+      - property: file.mtime
+        direction: DESC
