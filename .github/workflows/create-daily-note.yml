@@ -27,7 +27,7 @@ jobs:
 
       - name: Create the daily note
         env:
-          DAILY_NOTE_DATE: ${{ inputs.date }}
+          DAILY_NOTE_DATE: ${{ github.event.inputs.date || '' }}
         run: |
           if [ -n "$DAILY_NOTE_DATE" ]; then
             python3 scripts/create_daily_note.py --date "$DAILY_NOTE_DATE"
