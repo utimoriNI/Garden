@@ -1,9 +1,6 @@
 name: Create daily note
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     # 23:50 in Japan (UTC+9), so notes added during that day are included.
     - cron: "50 14 * * *"
