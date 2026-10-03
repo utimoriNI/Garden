@@ -66,7 +66,7 @@ Test-Path -LiteralPath $gardenPython
 & $gardenPython -B scripts/sync_notion_daily_log.py --date 2026-10-03 --dry-run
 ```
 
-最後のコマンドの日付は、確認したい日付に変更できます。テストでは `Ran 11 tests` と `OK`、プレビューでは対象日とコミット一覧が表示されます。dry-runはNotionへアクセスせず、トークンも不要です。ローカル実行では現在の `HEAD` の履歴を使います。
+最後のコマンドの日付は、確認したい日付に変更できます。テストでは既存の同期処理を確認します。dry-runはOpenAI APIでトピックを作り、Notionへは書き込みません。OpenAI API keyが必要です。ローカル実行では現在の `HEAD` の履歴を使います。
 
 このPCでは通常の `python` コマンドでPythonを起動できなかったため、確認済みの同梱Pythonを絶対パスで指定しています。上の `Test-Path` が `False` なら、利用できるPython 3.10以降の実行ファイルに `$gardenPython` を変更します。同期スクリプトに追加のPythonパッケージは不要です。`-B` は検証時のキャッシュファイル作成を抑止します。
 
@@ -77,7 +77,7 @@ Test-Path -LiteralPath $gardenPython
 3. [GitHubのActions用Secrets設定](https://github.com/utimoriNI/Garden/settings/secrets/actions) で `NOTION_TOKEN` と `OPENAI_API_KEY` の登録を確認します。未登録ならNotionインテグレーションのトークンとOpenAI API keyをRepository secretとして登録します。値は文書やログに保存しません。
 4. [ワークフローの画面](https://github.com/utimoriNI/Garden/actions/workflows/notion-daily-log.yml) を開きます。mainの最新実装が反映されていることを確認します。
 5. `Run workflow` でブランチを `main`、`date` をコミットのある日付にし、`dry_run` を選択して実行します。例として `2026-10-03` を指定できます。
-6. `Update Notion log` ステップのプレビューを確認し、同じ日付で `dry_run` を外して実行します。
+6. `Update Notion log` ステップのプレビューを確認し、同じ日付で `dry_run` を外して実行します。dry-runにも `OPENAI_API_KEY` が必要です。
 7. Notionで専用の行、「更新日」、「やったこと」、本文のコミット一覧を確認します。
 8. 同じ日付でもう一度実行し、行と管理ブロックが増えないことを確認します。手書きの追記を検証する場合は、マーカーの外や別ブロックに追記してから再実行します。
 
@@ -114,7 +114,7 @@ Test-Path -LiteralPath $gardenPython
 
 ## 完了と判断する条件
 
-- [ ] Actions用インテグレーションと `NOTION_TOKEN` を確認した。
+- [ ] Actions用インテグレーション、`NOTION_TOKEN`、`OPENAI_API_KEY` を確認した。
 - [ ] GitHub Actionsのプレビューと本番実行が成功した。
 - [ ] Notionの対象日とコミット内容が一致した。
 - [ ] 同日再実行で重複せず、手書きの追記が残った。
