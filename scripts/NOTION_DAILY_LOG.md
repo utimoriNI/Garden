@@ -1,5 +1,7 @@
 # GitHubのコミットをNotionの日次ログに記録する
 
+このPCで作業を再開するための現在の状態とPowerShellコマンドは、[[scripts/NOTION_DAILY_LOG_HANDOFF|Notion日次ログ連携の引き継ぎ]] を参照してください。
+
 `.github/workflows/notion-daily-log.yml` が毎日 **日本時間00:15** に起動し、前日の00:00〜24:00にコミットされた変更をNotionの [Log](https://www.notion.so/fd75d92fd4ad44a2891d9cf4a89b2f6d) に記録します。たとえば10月4日00:15の実行は10月3日分です。
 
 ## 初回設定
