@@ -16,7 +16,7 @@ import subprocess
 import sys
 import time
 from urllib.error import HTTPError
-from urllib.parse import urlencode
+from urllib.parse import quote, urlencode
 from urllib.request import Request, urlopen
 from uuid import UUID
 
@@ -139,8 +139,9 @@ def clean_text(items: list[dict]) -> list[dict]:
 
 def slice_text(items: list[dict], start: int, stop: int) -> list[dict]:
     result, position = [], 0
-    for item in clean_text(items):
-        length = len(plain_text([item]))
+    for original in items:
+        length = len(plain_text([original]))
+        item = clean_text([original])[0]
         left, right = max(0, start - position), min(length, stop - position)
         if left < right:
             if item.get("type") == "text":
@@ -236,7 +237,6 @@ def sync_log(api: Notion, config: dict, target: date, repository: str,
     page = api.request("GET", f"pages/{pages[0]['id']}")
     prop = page["properties"][config["summary_property"]]
     property_id = prop["id"]
-    from urllib.parse import quote
     full_property = api.list_all("GET", f"pages/{page['id']}/properties/{quote(property_id, safe='')}")
     existing = [item["rich_text"] for item in full_property]
     children = api.list_all("GET", f"blocks/{page['id']}/children")
