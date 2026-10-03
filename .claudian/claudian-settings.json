@@ -169,8 +169,8 @@
   },
   "settingsProvider": "claude",
   "lastSelectedChatModel": {
-    "providerId": "claude",
-    "model": "haiku"
+    "providerId": "codex",
+    "model": "openai-codex/gpt-6.1-sol"
   },
   "savedProviderModel": {
     "claude": "haiku"
