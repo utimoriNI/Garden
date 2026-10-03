@@ -10,3 +10,7 @@
 .DS_Store
 .obsidian/plugins/recent-files-obsidian/data.json
 .smart-env/
+
+# Python script verification caches
+__pycache__/
+*.pyc
