@@ -16,7 +16,7 @@ import subprocess
 import sys
 import time
 from urllib.error import HTTPError
-from urllib.parse import quote, urlencode
+from urllib.parse import quote, unquote, urlencode
 from urllib.request import Request, urlopen
 from uuid import UUID
 
@@ -237,7 +237,8 @@ def sync_log(api: Notion, config: dict, target: date, repository: str,
     page = api.request("GET", f"pages/{pages[0]['id']}")
     prop = page["properties"][config["summary_property"]]
     property_id = prop["id"]
-    full_property = api.list_all("GET", f"pages/{page['id']}/properties/{quote(property_id, safe='')}")
+    encoded_id = quote(unquote(property_id), safe="")
+    full_property = api.list_all("GET", f"pages/{page['id']}/properties/{encoded_id}")
     existing = [item["rich_text"] for item in full_property]
     children = api.list_all("GET", f"blocks/{page['id']}/children")
     managed = [item for item in children if item["type"] == "code" and
@@ -255,6 +256,10 @@ def sync_log(api: Notion, config: dict, target: date, repository: str,
 
 
 def main() -> int:
+    # Windows redirected consoles can otherwise use cp932 and reject note names.
+    for stream in (sys.stdout, sys.stderr):
+        if hasattr(stream, "reconfigure"):
+            stream.reconfigure(encoding="utf-8")
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--date", help="YYYY-MM-DD; defaults to yesterday in Japan")
     parser.add_argument("--dry-run", action="store_true", help="Print the log; no Notion access")

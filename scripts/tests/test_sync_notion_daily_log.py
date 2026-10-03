@@ -105,6 +105,7 @@ class DailyLogTests(unittest.TestCase):
                          [("PATCH", "pages/page"), ("PATCH", "blocks/managed")])
         saved = writes[0][2]["properties"]["やったこと"]["rich_text"]
         self.assertTrue(MODULE.plain_text(saved).startswith("handwritten\n\n"))
+        self.assertIn("pages/page/properties/abc%3A", [path for _, path, _ in api.calls])
 
     def test_recovers_page_created_without_managed_block(self):
         api = FakeNotion([{"id": "page"}])

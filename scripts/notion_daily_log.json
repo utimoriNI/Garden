@@ -8,6 +8,8 @@
     ".claudian/*",
     ".obsidian/workspace*.json",
     ".obsidian/plugins/*",
-    ".smart-env/*"
+    ".smart-env/*",
+    "*/__pycache__/*",
+    "*.pyc"
   ]
 }
