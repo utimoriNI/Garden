@@ -46,6 +46,8 @@ jobs:
       - name: Update Notion log
         env:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_MODEL: ${{ vars.OPENAI_MODEL }}
           NOTION_DATA_SOURCE_ID: ${{ vars.NOTION_DATA_SOURCE_ID }}
           DAILY_LOG_DATE: ${{ inputs.date }}
           DAILY_LOG_DRY_RUN: ${{ inputs.dry_run }}

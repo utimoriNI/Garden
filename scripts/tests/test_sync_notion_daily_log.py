@@ -22,7 +22,7 @@ SPEC.loader.exec_module(MODULE)
 CONFIG = json.loads(MODULE.CONFIG.read_text(encoding="utf-8"))
 TARGET = date(2026, 10, 3)
 REPOSITORY = "utimoriNI/Garden"
-CAPTION = f"Garden GitHub log | {REPOSITORY} | {TARGET}"
+CAPTION = f"Garden GitHub log | {REPOSITORY} | {TARGET} | {CONFIG['title_format'].format(date=TARGET, repository=REPOSITORY)}"
 
 
 class FakeNotion:
