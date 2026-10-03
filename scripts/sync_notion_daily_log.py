@@ -179,12 +179,18 @@ def summarize_topics(api_key: str, target: date, repository: str, commits: list[
     except (json.JSONDecodeError, KeyError, TypeError):
         raise ValueError("OpenAI returned an invalid topic summary.") from None
     seen = set()
+    titles = set()
     for topic in topics:
+        if not isinstance(topic, dict):
+            raise ValueError("OpenAI returned an invalid topic record.")
         title, summary, shas = topic.get("title", "").strip(), topic.get("summary", "").strip(), topic.get("commit_shas")
         if not title or not summary or not isinstance(shas, list) or not shas:
             raise ValueError("OpenAI returned a topic with missing fields.")
         if len(title) > 100 or len(summary) > 2000:
             raise ValueError("OpenAI returned an overlong topic title or summary.")
+        if title.casefold() in titles:
+            raise ValueError("OpenAI returned duplicate topic titles.")
+        titles.add(title.casefold())
         for sha in shas:
             if sha not in known or sha in seen:
                 raise ValueError("OpenAI assigned an unknown or duplicate commit SHA.")

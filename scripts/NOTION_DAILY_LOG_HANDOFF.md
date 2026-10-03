@@ -11,9 +11,9 @@ created: 2026-10-03
 
 ## 目的と実装した動作
 
-Gardenの1日分のコミットを参照し、NotionのLogデータベースに日次ログを作成・更新します。毎日、日本時間00:15に前日分を集計します。10月4日00:15の実行対象は10月3日です。GitHubにpush済みで、デフォルトブランチから到達できるコミットが対象です。
+Gardenの1日分のコミット差分をOpenAI APIでトピックにまとめ、NotionのLogデータベースにトピックごとのレコードを作成・更新します。毎日、日本時間00:15に前日分を集計します。10月4日00:15の実行対象は10月3日です。GitHubにpush済みで、デフォルトブランチから到達できるコミットが対象です。
 
-Notionには日付ごとに `2026-10-03 Garden：コミットログ` のような専用の行を作ります。「やったこと」に件数を記録し、本文にはコミット時刻、メッセージ、作者、コミットURL、変更ファイル一覧を記録します。文章をAIで要約する処理はありません。
+Notionには日付とトピックごとに専用の行を作ります。「やったこと」にトピックの要約を記録し、本文には関連コミットの時刻、メッセージ、作者、コミットURL、変更ファイル一覧を記録します。モデルへ送る差分は1日10万文字までです。
 
 同じ日付を再実行すると既存の専用行を更新します。同日の通常のログや、手書きで追記した内容は保ちます。更新対象は「やったこと」の管理マーカー内と、管理キャプションを持つ専用コードブロックです。
 
@@ -28,6 +28,7 @@ Notionには日付ごとに `2026-10-03 Garden：コミットログ` のよう�
 | ローカルとGitHubのmain               | 文書作成前の確認で、両方とも `d3b0478729abb4a9de45b3598d4f68aeddc743dd` |
 | NotionのLogスキーマ                 | 接続済みのNotionツールで確認済み                                       |
 | GitHub SecretのNOTION_TOKEN     | 登録状況は未確認                                                  |
+| GitHub SecretのOPENAI_API_KEY   | トピック要約に必要。登録状況は未確認                                        |
 | Actions用のNotionインテグレーションの接続・権限 | 設定状況は未確認                                                  |
 | GitHub Actionsからの本番書き込み        | 未検証                                                       |
 
@@ -73,7 +74,7 @@ Test-Path -LiteralPath $gardenPython
 
 1. Notionの内部インテグレーションを確認または作成し、コンテンツの読み取り・挿入・更新を許可します。
 2. [Logデータベース](https://www.notion.so/fd75d92fd4ad44a2891d9cf4a89b2f6d) にそのインテグレーションを接続します。CodexのNotion接続は、GitHub Actionsの認証には使われません。
-3. [GitHubのActions用Secrets設定](https://github.com/utimoriNI/Garden/settings/secrets/actions) で `NOTION_TOKEN` の登録を確認します。未登録ならNotionインテグレーションのトークンをRepository secretとして登録します。トークンの値は文書やソースに保存しません。
+3. [GitHubのActions用Secrets設定](https://github.com/utimoriNI/Garden/settings/secrets/actions) で `NOTION_TOKEN` と `OPENAI_API_KEY` の登録を確認します。未登録ならNotionインテグレーションのトークンとOpenAI API keyをRepository secretとして登録します。値は文書やログに保存しません。
 4. [ワークフローの画面](https://github.com/utimoriNI/Garden/actions/workflows/notion-daily-log.yml) を開きます。mainの最新実装が反映されていることを確認します。
 5. `Run workflow` でブランチを `main`、`date` をコミットのある日付にし、`dry_run` を選択して実行します。例として `2026-10-03` を指定できます。
 6. `Update Notion log` ステップのプレビューを確認し、同じ日付で `dry_run` を外して実行します。
@@ -91,7 +92,7 @@ Test-Path -LiteralPath $gardenPython
 | タイトルプロパティ | `更新` / `title` |
 | 日付プロパティ | `更新日` / `date` |
 | 集計プロパティ | `やったこと` / `rich_text` |
-| 必須Secret | `NOTION_TOKEN` |
+| 必須Secret | `NOTION_TOKEN`, `OPENAI_API_KEY` |
 | 任意のRepository variable | `NOTION_DATA_SOURCE_ID` |
 
 接続先はJSONに設定済みです。Repository variableの `NOTION_DATA_SOURCE_ID` が設定されていれば、その値を優先します。現在のLogを使う場合は、別のIDを設定する必要はありません。データベースIDをデータソースIDの代わりに指定しないでください。
