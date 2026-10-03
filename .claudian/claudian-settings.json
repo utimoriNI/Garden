@@ -72,7 +72,9 @@
       "cliPath": "",
       "cliPathsByHost": {},
       "modelAliases": {},
-      "visibleModels": [],
+      "visibleModels": [
+        "gpt-6.1-sol"
+      ],
       "enableUltraEffort": false,
       "responseStyle": "pragmatic",
       "reasoningSummary": "detailed",
@@ -82,7 +84,53 @@
         "device:c1f9a46b-8b25-49d4-be87-3259f72c1099": "native-windows"
       },
       "wslDistroOverridesByHost": {},
-      "selectedModels": []
+      "selectedModels": [
+        {
+          "model": "gpt-6.1-sol",
+          "displayName": "GPT-6.1 Sol",
+          "description": "Latest workhorse model for coding and everyday work.",
+          "supportedReasoningEfforts": [
+            {
+              "value": "low",
+              "description": "Fast responses with lighter reasoning"
+            },
+            {
+              "value": "medium",
+              "description": "Balances speed and reasoning depth for everyday tasks"
+            },
+            {
+              "value": "high",
+              "description": "Greater reasoning depth for complex problems"
+            },
+            {
+              "value": "xhigh",
+              "description": "Extra high reasoning depth for complex problems"
+            },
+            {
+              "value": "max",
+              "description": "Maximum reasoning depth for the hardest problems"
+            },
+            {
+              "value": "ultra",
+              "description": "Maximum reasoning with automatic task delegation"
+            }
+          ],
+          "defaultReasoningEffort": "low",
+          "serviceTiers": [
+            {
+              "id": "priority",
+              "name": "Fast",
+              "description": "2x speed, increased usage"
+            }
+          ],
+          "defaultServiceTier": null,
+          "inputModalities": [
+            "text",
+            "image"
+          ],
+          "isDefault": true
+        }
+      ]
     },
     "opencode": {
       "cliPath": "",
