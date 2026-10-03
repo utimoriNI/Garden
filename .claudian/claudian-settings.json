@@ -89,6 +89,6 @@
   "tabBarPosition": "input",
   "enableAutoScroll": true,
   "deferMathRenderingDuringStreaming": true,
-  "chatViewPlacement": "right-sidebar",
+  "chatViewPlacement": "main-tab",
   "hiddenProviderCommands": {}
 }
