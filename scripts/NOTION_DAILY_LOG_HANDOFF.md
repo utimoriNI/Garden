@@ -35,15 +35,15 @@ Notionには日付ごとに `2026-10-03 Garden：コミットログ` のよう�
 
 ## 作業場所とファイル
 
-| 用途 | 場所 |
-| --- | --- |
-| このPCのVault | `D:\Obsidian\Garden` |
-| リポジトリ | [utimoriNI/Garden](https://github.com/utimoriNI/Garden) |
-| ワークフロー | `.github/workflows/notion-daily-log.yml` |
-| 同期スクリプト | `scripts/sync_notion_daily_log.py` |
-| データソース・プロパティ・除外設定 | `scripts/notion_daily_log.json` |
-| テスト | `scripts/tests/test_sync_notion_daily_log.py` |
-| 設定・運用手順 | `scripts/NOTION_DAILY_LOG.md` |
+| 用途                | 場所                                                      |
+| ----------------- | ------------------------------------------------------- |
+| このPCのVault        | `D:\Obsidian\Garden`                                    |
+| リポジトリ             | [utimoriNI/Garden](https://github.com/utimoriNI/Garden) |
+| ワークフロー            | `.github/workflows/notion-daily-log.yml`                |
+| 同期スクリプト           | `scripts/sync_notion_daily_log.py`                      |
+| データソース・プロパティ・除外設定 | `scripts/notion_daily_log.json`                         |
+| テスト               | `scripts/tests/test_sync_notion_daily_log.py`           |
+| 設定・運用手順           | `scripts/NOTION_DAILY_LOG.md`                           |
 
 既存の `.github/workflows/create-daily-note.yml` はObsidianの日次ノートを23:50に作成する別の処理です。Notion連携は独立したワークフローで動きます。
 
