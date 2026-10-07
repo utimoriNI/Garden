@@ -19,5 +19,4 @@ done
 done after 7 days ago
 done before tomorrow
 sort by done reverse
-hide task count
 ```

@@ -9,7 +9,7 @@
     "hide_query_elements": "# Hide toolbar, postpone, edit, backlinks and task count\nhide toolbar\nhide postpone button\nhide edit button\nhide backlinks\nhide task count",
     "hide_everything": "# Hide everything except description and any tags\npreset hide_date_fields\npreset hide_non_date_fields\npreset hide_query_elements"
   },
-  "globalQuery": "",
+  "globalQuery": "hide task count",
   "globalFilter": "#📎Task",
   "removeGlobalFilter": false,
   "taskFormat": "tasksPluginEmoji",
