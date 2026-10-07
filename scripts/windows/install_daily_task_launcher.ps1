@@ -32,17 +32,43 @@ if (Test-Path -LiteralPath $taskBookmarkPath) {
     $taskPreviousExecutable = Join-Path $env:LOCALAPPDATA 'GardenTools/ObsidianTaskLauncher/ObsidianTaskLauncher.exe'
     $taskOwnBookmark = @($taskBookmarkConfig.Data | Where-Object { $_.Bookmark -eq $taskExecutable -or $_.Bookmark -eq $taskPreviousExecutable })
     if ($taskOwnBookmark.Count -eq 0) {
-        $taskBookmarkConfig.Data = @($taskBookmarkConfig.Data) + [pscustomobject]@{
+        $taskOwnBookmark = @([pscustomobject]@{
             Id = [Guid]::NewGuid().ToString()
             Name = 'task'
             Bookmark = $taskExecutable
-        }
+        })
+        $taskBookmarkConfig.Data = @($taskBookmarkConfig.Data) + $taskOwnBookmark
     }
     foreach ($taskEntry in $taskOwnBookmark) {
         $taskEntry.Name = 'task'
         $taskEntry.Bookmark = $taskExecutable
     }
     [IO.File]::WriteAllText($taskBookmarkPath, ($taskBookmarkConfig | ConvertTo-Json -Depth 20), $taskUtf8)
+    $taskSettingsPath = Join-Path $taskCmdPalData 'settings.json'
+    if (Test-Path -LiteralPath $taskSettingsPath) {
+        $taskSettings = Get-Content -LiteralPath $taskSettingsPath -Raw -Encoding UTF8 | ConvertFrom-Json
+        $taskCommandId = 'Bookmarks.Launch.' + $taskOwnBookmark[0].Id
+        if (-not $taskSettings.Aliases) {
+            $taskSettings | Add-Member -NotePropertyName Aliases -NotePropertyValue ([pscustomobject]@{}) -Force
+        }
+        $taskExistingAlias = $taskSettings.Aliases.PSObject.Properties['task']
+        if ($taskExistingAlias -and $taskExistingAlias.Value.CommandId -ne $taskCommandId) {
+            throw 'The task alias is already assigned to another command. The bookmark is installed; configure its alias in Command Palette settings.'
+        }
+        $taskSettingsBackup = Join-Path $taskInstallFolder ('settings-before-task-alias-' + (Get-Date).ToString('yyyyMMdd-HHmmss') + '.json')
+        Copy-Item -LiteralPath $taskSettingsPath -Destination $taskSettingsBackup
+        foreach ($taskAliasEntry in @($taskSettings.Aliases.PSObject.Properties)) {
+            if ($taskAliasEntry.Value.CommandId -eq $taskCommandId -and $taskAliasEntry.Value.Alias -eq 'task') {
+                $taskSettings.Aliases.PSObject.Properties.Remove($taskAliasEntry.Name)
+            }
+        }
+        $taskSettings.Aliases | Add-Member -NotePropertyName task -NotePropertyValue ([pscustomobject]@{
+            CommandId = $taskCommandId
+            Alias = 'task'
+            IsDirect = $true
+        }) -Force
+        [IO.File]::WriteAllText($taskSettingsPath, ($taskSettings | ConvertTo-Json -Depth 50), $taskUtf8)
+    }
 }
 Write-Output $taskExecutable
 Write-Output $taskShortcutPath
