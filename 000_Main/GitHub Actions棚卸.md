@@ -10,7 +10,7 @@ updated: 2026-10-07
 
 Obsidian Syncへの移行に合わせ、Gardenの自動処理を棚卸した。調査時点ではGarden自身のActionsは2件だった。2026-10-07のユーザー指示でNotion日報を廃止し、残るワークフロー定義はCreate daily noteの1件となった。これもGit履歴に依存するため、Gitへのpushを止めるなら廃止またはローカル処理への移行が必要になる。
 
-Notion日報のワークフローと専用スクリプト・設定・テスト・運用文書の計6ファイルを削除した。既存のNotionレコードは削除していない。Repository Secrets／Variablesの登録状況は未確認で、変更していない。日次ノート作成と振り返りの処理は継続している。
+Notion日報のワークフローと専用スクリプト・設定・テスト・運用文書の計6ファイルを削除した。既存のNotionレコードは削除していない。Repository Secrets／Variablesの登録状況は未確認で、変更していない。さらに同日のユーザー指示で、Journalの日次・週次・月次振り返りの生成とGardenへの書き戻しを停止した。Gardenのデイリーノート作成、Journalの音声文字起こしとノート取り込みは継続している。
 
 ## 対象と確認方法
 
@@ -27,6 +27,8 @@ Notion日報のワークフローと専用スクリプト・設定・テスト�
 | --- | --- | --- | --- | --- |
 | Create daily note | デイリーノートを作成し、Gitで当日追加されたノートのリンク・埋め込みを追記してpush | 毎日23:50予定／手動 | GitHubの変更がSyncへ直接届く経路がない。作成ノートの集計もGit履歴が必要 | Actionsを廃止し、ノート作成をObsidianに移す。追加ノート一覧は必要なら別途置き換える |
 | Update Notion daily log | 旧機能：前日のコミット差分を要約し、NotionのLogへ記録 | 廃止済み | 対象ファイルを削除 | 2026-10-07にユーザー指示で全面廃止 |
+| Journalの日次振り返り | Journalで日次振り返りを生成し、Gardenへ書き戻す | 停止済み | 生成とGarden同期のステップを削除 | 2026-10-07にユーザー指示で停止。音声文字起こしとノート取り込みは継続 |
+| Journalの週次・月次振り返り | Journalで週次・月次振り返りを生成し、Gardenへ書き戻す | 停止済み | 定期実行を削除し、生成ジョブを無効化 | 2026-10-07にユーザー指示で停止。手動起動もスキップ |
 
 ## 1. Create daily note
 
@@ -110,14 +112,22 @@ Repository Secrets／Variablesは変更していない。残るGardenのワー�
 
 ## Gardenの2件以外にある依存
 
-日記と週次ノートには、今回の2件では作られない振り返りの自動更新が残っている。
+日記・週次・月次ノートに振り返りを書き込んでいたのは、別リポジトリの[utimoriNI/Journal](https://github.com/utimoriNI/Journal)だった。以下は停止前の更新履歴。
 
 - [2026-10-07 09:12のコミット](https://github.com/utimoriNI/Garden/commit/2e70173): `Update daily journal reflection for 2026-10-06 [skip ci]`
 - [2026-10-05 08:50のコミット](https://github.com/utimoriNI/Garden/commit/f5164cc): `Update weekly journal reflection for 2026-W40 [skip ci]`
 
-両方とも作者は`github-actions[bot]`。[[100_Periodic/Daily/2026-07-20]]にも、AI Memory System／AI_MemoryDB側の処理とGardenへの同期について記録がある。別リポジトリなどからGardenへ書き込む経路があると考えられるが、稼働元のワークフロー定義は未確認。
+両方とも作者は`github-actions[bot]`。Journalのmainにある2件のワークフロー定義から、生成とGardenへのcommit・pushの経路を確認した。
 
-`utimoriNI/AI_MemoryDB`へのGitHub接続からの参照は404になった。存在しないのか、名前が異なるのか、アクセス権がないのかは判別できない。日次・週次・月次の振り返りを残す場合は、稼働元を特定して生成処理とGardenへの受け渡しを追加で棚卸する必要がある。
+### Journalの振り返り停止記録（2026-10-07）
+
+- [transcribe-audio.yml](https://github.com/utimoriNI/Journal/blob/main/.github/workflows/transcribe-audio.yml): 日次振り返り生成とGardenへの書き込みを削除し、workflow名を`Transcribe Journal Audio`に変更。`reflection/`をコミット対象から外した。毎朝06:00予定の音声文字起こしとObsidianノート取り込みは継続する。
+- [generate-periodic-reflections.yml](https://github.com/utimoriNI/Journal/blob/main/.github/workflows/generate-periodic-reflections.yml): 週次・月次の定期実行を削除し、生成ジョブを`if: ${{ false }}`で無効化。手動起動しても生成・Gardenへの書き込みは実行しない。
+- 既存のJournalとGardenの振り返り記事、生成スクリプトは残した。Secrets／Variablesは変更していない。
+- [停止を反映したコミット](https://github.com/utimoriNI/Journal/commit/9bddbe9c6017ced8f8ff0f50eca2fec3d0da4317)をmainに反映済み。YAML構文と停止条件を検証し、GitHub上の定義が変更内容と一致することを確認。確認時点の実行中・待機中ジョブは0件。
+- 変更前のworkflowとREADMEはVault外の`D:\Obsidian\Garden-backups\stop-journal-reflections-20261007\original`に保存した。
+
+AI Memory Systemの実際のリポジトリ名は[utimoriNI/Memory_DB_forAI](https://github.com/utimoriNI/Memory_DB_forAI)。その`import-journal.yml`はJournalのデータをMemory側へ取り込む処理で、振り返りの生成やGardenへの書き込みを行わないため変更していない。
 
 Gitのpullを止めると、GitHubに書き込まれた新しい振り返りはローカルVaultへ届かなくなる。Obsidian Syncを導入しても、GitHubへのpushが自動でSyncへ転送されるわけではない。
 
@@ -127,7 +137,7 @@ Gitのpullを止めると、GitHubに書き込まれた新しい振り返りは�
 
 1. 日記の作成はObsidian側へ移し、Create daily noteを停止する。追加ノート一覧を残すかは別に決める。
 2. Notionのコミット日報は2026-10-07に廃止済み。
-3. 振り返りを生成している別の処理を確認し、残す機能の受け渡しを移す。
+3. Journalの振り返り生成とGardenへの書き戻しは2026-10-07に停止済み。残る音声文字起こしとノート取り込みは、Git同期を止める前に継続方法を判断する。
 4. 必要な機能の代替を確認してから、Gitのpull・pushを停止する。
 5. 不要になったワークフロー、スクリプト、専用設定を整理する。
 
