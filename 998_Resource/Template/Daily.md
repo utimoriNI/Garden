@@ -2,7 +2,6 @@
 
 ```tasks
 not done
-hide task count
 ```
 
 ## やったこと
