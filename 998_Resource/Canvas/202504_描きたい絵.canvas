@@ -24,7 +24,7 @@
 		{"id":"96aa2dc33f956e95","type":"text","text":"# モ誰","x":2200,"y":800,"width":278,"height":104},
 		{"id":"dd465cb80f1f416a","type":"file","file":"998_Resource/Asset/94071783_0.jpg","x":2200,"y":928,"width":399,"height":212},
 		{"id":"d0b0e7959d1be5d7","type":"file","file":"998_Resource/Asset/97973029_0.jpg","x":2600,"y":940,"width":197,"height":400},
-		{"id":"987b5a2fa612a60d","type":"file","file":"998_Resource/Asset/94071779_0.jpg","x":2797,"y":928,"width":155,"height":399},
+		{"id":"987b5a2fa612a60d","type":"link","url":"https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/011bad5d363d13cfd333dcc1a53067dd.jpg","x":2797,"y":928,"width":155,"height":399},
 		{"id":"bcd8b9caa170ef1d","type":"file","file":"998_Resource/Asset/100018921_0.jpg","x":2259,"y":1128,"width":341,"height":399}
 	],
 	"edges":[]
