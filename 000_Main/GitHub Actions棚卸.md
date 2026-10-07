@@ -29,9 +29,9 @@ Obsidian Syncへの移行に合わせ、Gardenの自動処理を棚卸した。G
 
 ## 1. Create daily note
 
-定義: [[.github/workflows/create-daily-note.yml]]
+定義: [create-daily-note.yml](https://github.com/utimoriNI/Garden/blob/main/.github/workflows/create-daily-note.yml)
 
-実装: [[scripts/create_daily_note.py]]
+実装: [create_daily_note.py](https://github.com/utimoriNI/Garden/blob/main/scripts/create_daily_note.py)
 
 ### 動作と依存
 
@@ -59,9 +59,9 @@ ObsidianではDaily notesコアプラグインが既に有効で、同じ保存�
 
 ## 2. Update Notion daily log
 
-定義: [[.github/workflows/notion-daily-log.yml]]
+定義: [notion-daily-log.yml](https://github.com/utimoriNI/Garden/blob/main/.github/workflows/notion-daily-log.yml)
 
-実装・設定: [[scripts/sync_notion_daily_log.py]]、[[scripts/notion_daily_log.json]]
+実装・設定: [sync_notion_daily_log.py](https://github.com/utimoriNI/Garden/blob/main/scripts/sync_notion_daily_log.py)、[notion_daily_log.json](https://github.com/utimoriNI/Garden/blob/main/scripts/notion_daily_log.json)
 
 ### 動作と依存
 
