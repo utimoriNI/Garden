@@ -16,5 +16,21 @@ $taskShortcut.Arguments = ''
 $taskShortcut.WorkingDirectory = $VaultPath
 $taskShortcut.Description = '今日のデイリーノートへタスクを追加'
 $taskShortcut.Save()
+$taskCmdPalData = Join-Path $env:LOCALAPPDATA 'Packages/Microsoft.CommandPalette_8wekyb3d8bbwe/LocalState'
+$taskBookmarkPath = Join-Path $taskCmdPalData 'bookmarks.json'
+if (Test-Path -LiteralPath $taskBookmarkPath) {
+    $taskBookmarkConfig = Get-Content -LiteralPath $taskBookmarkPath -Raw -Encoding UTF8 | ConvertFrom-Json
+    $taskBookmarkBackup = Join-Path $taskInstallFolder ('bookmarks-before-' + (Get-Date).ToString('yyyyMMdd-HHmmss') + '.json')
+    Copy-Item -LiteralPath $taskBookmarkPath -Destination $taskBookmarkBackup
+    $taskOwnBookmark = @($taskBookmarkConfig.Data | Where-Object { $_.Bookmark -eq $taskExecutable })
+    if ($taskOwnBookmark.Count -eq 0) {
+        $taskBookmarkConfig.Data = @($taskBookmarkConfig.Data) + [pscustomobject]@{
+            Id = [Guid]::NewGuid().ToString()
+            Name = 'タスク追加'
+            Bookmark = $taskExecutable
+        }
+    }
+    [IO.File]::WriteAllText($taskBookmarkPath, ($taskBookmarkConfig | ConvertTo-Json -Depth 20), $taskUtf8)
+}
 Write-Output $taskExecutable
 Write-Output $taskShortcutPath
