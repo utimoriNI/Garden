@@ -3,13 +3,14 @@ title: GitHub Actions棚卸
 type: documentation
 status: review
 created: 2026-10-07
+updated: 2026-10-07
 ---
 
 # GitHub Actions棚卸
 
-Obsidian Syncへの移行に合わせ、Gardenの自動処理を棚卸した。Garden自身のActionsは2件で、どちらもGitHub上のコミットに依存している。Gitへのpushを止めるなら、現行の2件は廃止またはローカル処理への移行が必要になる。
+Obsidian Syncへの移行に合わせ、Gardenの自動処理を棚卸した。調査時点ではGarden自身のActionsは2件だった。2026-10-07のユーザー指示でNotion日報を廃止し、残るワークフロー定義はCreate daily noteの1件となった。これもGit履歴に依存するため、Gitへのpushを止めるなら廃止またはローカル処理への移行が必要になる。
 
-今回は調査と廃止案の整理を行った。ワークフローの停止・削除、Secretの変更、Notionへの書き込みは実施していない。
+Notion日報のワークフローと専用スクリプト・設定・テスト・運用文書の計6ファイルを削除した。既存のNotionレコードは削除していない。Repository Secrets／Variablesの登録状況は未確認で、変更していない。日次ノート作成と振り返りの処理は継続している。
 
 ## 対象と確認方法
 
@@ -25,7 +26,7 @@ Obsidian Syncへの移行に合わせ、Gardenの自動処理を棚卸した。G
 | 処理 | 現在の役割 | 実行タイミング | Sync移行後の問題 | 判断案 |
 | --- | --- | --- | --- | --- |
 | Create daily note | デイリーノートを作成し、Gitで当日追加されたノートのリンク・埋め込みを追記してpush | 毎日23:50予定／手動 | GitHubの変更がSyncへ直接届く経路がない。作成ノートの集計もGit履歴が必要 | Actionsを廃止し、ノート作成をObsidianに移す。追加ノート一覧は必要なら別途置き換える |
-| Update Notion daily log | 前日のコミット差分をOpenAI APIでトピック別に要約し、NotionのLogへ記録 | 毎日00:15予定／手動 | push停止後はVaultでの作業を把握できない。現在の定期実行も失敗中 | Gitコミット日報が不要なら廃止。作業日報を残したいならデイリーノートなどを入力にして作り直す |
+| Update Notion daily log | 旧機能：前日のコミット差分を要約し、NotionのLogへ記録 | 廃止済み | 対象ファイルを削除 | 2026-10-07にユーザー指示で全面廃止 |
 
 ## 1. Create daily note
 
@@ -57,11 +58,13 @@ ObsidianではDaily notesコアプラグインが既に有効で、同じ保存�
 
 廃止候補ファイルは`.github/workflows/create-daily-note.yml`と`scripts/create_daily_note.py`。Daily notesの設定、Dailyテンプレート、既存の日記は残す。
 
-## 2. Update Notion daily log
+## 2. Update Notion daily log（2026-10-07廃止）
 
-定義: [notion-daily-log.yml](https://github.com/utimoriNI/Garden/blob/main/.github/workflows/notion-daily-log.yml)
+旧定義: [notion-daily-log.yml](https://github.com/utimoriNI/Garden/blob/fd79676/.github/workflows/notion-daily-log.yml)
 
-実装・設定: [sync_notion_daily_log.py](https://github.com/utimoriNI/Garden/blob/main/scripts/sync_notion_daily_log.py)、[notion_daily_log.json](https://github.com/utimoriNI/Garden/blob/main/scripts/notion_daily_log.json)
+旧実装・設定: [sync_notion_daily_log.py](https://github.com/utimoriNI/Garden/blob/fd79676/scripts/sync_notion_daily_log.py)、[notion_daily_log.json](https://github.com/utimoriNI/Garden/blob/fd79676/scripts/notion_daily_log.json)
+
+以下は棚卸時点の動作・実行状況の記録。現行の機能ではない。
 
 ### 動作と依存
 
@@ -90,13 +93,9 @@ checkout、Pythonの設定、既存テストは成功し、実際の日報処理
 
 [2026-10-03の手動本番実行](https://github.com/utimoriNI/Garden/actions/runs/37106871943)はNotionへ38コミット分を記録した。ただし、その時点のコードはOpenAIによるトピック要約を導入する前の版だった。旧版の成功は、現在の実装が稼働している証拠にはならない。
 
-### 廃止した場合と代替
+### 廃止記録
 
-停止すると、Notionへのコミット日報の自動記録が止まる。既存のNotionレコードやGardenのノートは残る。
-
-Git同期をやめるなら、APIキーを設定するだけでは移行後の目的を満たせない。Gitコミットの記録が必要か、日々の作業の記録が必要かを分けて判断する。後者を残す場合は、デイリーノートの「やったこと」などを入力にするローカル処理へ移す。その場合は実行担当のPC、起動条件、処理済み判定を決める必要がある。
-
-全面廃止する場合の整理対象は次の6ファイル。
+2026-10-07、「Notion日報は廃止してください」というユーザー指示で、次の6ファイルを削除した。代替の日報処理は作成していない。
 
 - `.github/workflows/notion-daily-log.yml`
 - `scripts/sync_notion_daily_log.py`
@@ -105,7 +104,9 @@ Git同期をやめるなら、APIキーを設定するだけでは移行後の�
 - `scripts/NOTION_DAILY_LOG.md`
 - `scripts/NOTION_DAILY_LOG_HANDOFF.md`
 
-ローカル版へ移す場合は、スクリプト・テストを流用する余地があるため、先に削除しない。全面廃止後は、この処理専用のRepository Secrets／Variablesも整理対象になる。OpenAIやNotionのキー自体を無効化するかは、他の利用先も含めて別途判断する。
+削除前のファイルはVault外の`D:\Obsidian\Garden-backups\retire-notion-daily-log-20261007`に保存した。Git履歴にも旧実装が残る。
+
+Repository Secrets／Variablesは変更していない。残るGardenのワークフローからは`NOTION_TOKEN`、`OPENAI_API_KEY`、`OPENAI_MODEL`、`NOTION_DATA_SOURCE_ID`を参照しない。これらの名前の設定が登録されている場合は、未使用設定の整理対象になる。サービス側のキーを無効化するかは、他の利用先を含めて別途判断する。
 
 ## Gardenの2件以外にある依存
 
@@ -125,7 +126,7 @@ Gitのpullを止めると、GitHubに書き込まれた新しい振り返りは�
 ## 整理する順序の案
 
 1. 日記の作成はObsidian側へ移し、Create daily noteを停止する。追加ノート一覧を残すかは別に決める。
-2. Notionのコミット日報が不要ならUpdate Notion daily logも停止する。作業日報を残すなら、ローカル版の入力と実行方法を先に決める。
+2. Notionのコミット日報は2026-10-07に廃止済み。
 3. 振り返りを生成している別の処理を確認し、残す機能の受け渡しを移す。
 4. 必要な機能の代替を確認してから、Gitのpull・pushを停止する。
 5. 不要になったワークフロー、スクリプト、専用設定を整理する。
