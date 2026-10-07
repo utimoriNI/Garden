@@ -6,10 +6,12 @@ created: 2026-10-07
 
 # Windowsからデイリーノートへタスクを追加
 
-Windowsのスタートメニュー、またはPowerToysのアプリ検索から「Obsidian タスク追加」を起動する。入力欄にタスク本文を入れてEnterを押すと、今日のデイリーノートの末尾へ`- [ ] #📎Task 本文`を追加する。キャンセルや空欄では書き込まない。
+PowerToysのCommand Paletteで`task`と入力し、`task`の項目を選ぶ。タスク入力ウィンドウで本文を入れてEnterを押すと、今日のデイリーノートの末尾へ`- [ ] #📎Task 本文`を追加する。キャンセルや空欄では書き込まない。Windowsのスタートメニューでは「task - Obsidian タスク追加」からも起動できる。
 
-実装は`scripts/add_daily_task.ps1`。保存先は`.obsidian/daily-notes.json`の`folder`を読む。既存ノートは末尾へ追記し、今日のノートがない場合は現在のDailyテンプレートから作成する。テンプレートの前日・翌日リンクと`{{date}}`、`{{time}}`、`{{title}}`を展開する。未対応のテンプレート式があれば、Obsidianで今日のノートを先に作成するようエラーを出す。
+実装は`scripts/windows/ObsidianTaskLauncher.cs`。`scripts/windows/install_daily_task_launcher.ps1`でコンパイル・登録する。実行ファイルはVault外の`D:\Obsidian\Garden-tools\ObsidianTaskLauncher`に置く。通常の起動時にPowerShellやコンソールは使わない。旧版の`scripts/add_daily_task.ps1`は手動実行用に残している。
 
-Windows側のショートカットはユーザーのスタートメニューに置く。URLのプレースホルダー、Obsidian CLI、クリップボード、GitHubの同期を使わず、ローカルMarkdownへ直接追記する。Obsidian Syncを有効にしている場合は、そのファイルの変更として同期される。
+保存先は`.obsidian/daily-notes.json`の`folder`を読む。既存ノートは末尾へ追記し、今日のノートがない場合は現在のDailyテンプレートから作成する。テンプレートの前日・翌日リンクと`{{date}}`、`{{time}}`、`{{title}}`を展開する。未対応のテンプレート式があれば、Obsidianで今日のノートを先に作成するようエラーを出す。
 
-ランチャーはWindows専用。Vaultを移動した場合はショートカットのスクリプトパスも更新する。使用をやめる場合はスタートメニューの「Obsidian タスク追加」ショートカットを削除する。
+Windows側のショートカットはユーザーのスタートメニューに置く。Command PaletteのBookmarksにも`task`として実行ファイルを登録する。設定の変更前にbookmarks.jsonを実行ファイルのフォルダーへバックアップする。登録後はCommand Paletteを再起動して設定を読み直す。URLのプレースホルダー、Obsidian CLI、クリップボード、GitHubの同期を使わず、ローカルMarkdownへ直接追記する。Obsidian Syncを有効にしている場合は、そのファイルの変更として同期される。
+
+ランチャーはWindows専用。Vaultを移動した場合はインストールスクリプトを再実行する。使用をやめる場合はCommand Paletteの`task`ブックマークと、スタートメニューの該当ショートカットを削除する。
