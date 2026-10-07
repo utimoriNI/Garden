@@ -63,5 +63,5 @@ Codexに「承認済み候補の変更を確認して」と頼むと、作成予
 
 ## 内部仕様
 
-- [[.agent-wiki/permanent-note-workflow/SCHEMA]]
-- [[.agent-wiki/permanent-note-workflow/WORKFLOW]]
+- [[998_Resource/AgentWiki/permanent-note-workflow/SCHEMA]]
+- [[998_Resource/AgentWiki/permanent-note-workflow/WORKFLOW]]

@@ -10,8 +10,8 @@ Keep AI proposals separate from official notes. Use Obsidian Base as the decisio
 ## Start
 
 1. Read the vault-root `AGENTS.md`.
-2. Read `.agent-wiki/permanent-note-workflow/SCHEMA.md` and `WORKFLOW.md` completely.
-3. Read the matching template under `.agent-wiki/permanent-note-workflow/templates/`.
+2. Read `998_Resource/AgentWiki/permanent-note-workflow/SCHEMA.md` and `WORKFLOW.md` completely.
+3. Read the matching template under `998_Resource/AgentWiki/permanent-note-workflow/templates/`.
 4. Preserve source notes and existing official notes.
 
 ## Choose the operation

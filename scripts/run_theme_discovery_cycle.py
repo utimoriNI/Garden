@@ -180,7 +180,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Run a full theme-discovery maintenance cycle.")
     parser.add_argument(
         "--registry",
-        default=".agent-wiki/theme-discovery/configs/moc_registry.json",
+        default="998_Resource/AgentWiki/theme-discovery/configs/moc_registry.json",
         help="Path to the theme-discovery registry JSON.",
     )
     args = parser.parse_args()
