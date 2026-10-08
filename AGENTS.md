@@ -216,6 +216,53 @@ Obsidian 上で扱いやすくするために、タグは広い分類や見や�
 - MOC や Knowledge に接続しやすくする
 - 元ソースへの導線を失わない
 
+## Daily Note の task / log / stuck 運用
+
+日々の作業・行き詰まり・これからやることは、Daily Note に 1行1記録で残す。
+この記録ごとに独立ファイルを作成する必要はない。
+
+### 記録の種類
+
+| コマンド | 用途 | Markdown形式 |
+| --- | --- | --- |
+| `log` | 実際に行った作業・行動。必要なら任意メモを添える | `- HH:mm [[プロジェクト]] #📝Log 本文 ／ メモ：任意メモ` |
+| `stuck` | 困ったこと・行き詰まった内容・進められない理由 | `- HH:mm [[プロジェクト]] #🪨Stack 本文` |
+| `task` | これからやること。未完了チェックボックスで記録する | `- [ ] HH:mm [[プロジェクト]] #📎Task 本文` |
+
+`stuck` のタグは既存の記法に合わせて `#🪨Stack` とする。`#🪨Stuck` に変更しない。
+プロジェクト未指定の場合はリンクを省略する。任意メモがない場合は `／ メモ：` も省略する。
+
+```markdown
+- 14:30 [[800_Project/InProgress/個人アプリ開発]] #📝Log ログイン画面を作成した ／ メモ：次は動作確認をする
+- 15:10 [[800_Project/InProgress/個人アプリ開発]] #🪨Stack 認証エラーの原因が分からない
+- [ ] 16:00 #📎Task 気になっている本を読む
+```
+
+### 保存先と入力ルール
+
+- 保存先は現在の Daily Note。`.obsidian/daily-notes.json` の設定を参照する。現在は `100_Periodic/Daily/YYYY-MM-DD.md`。
+- 日付・時刻は記録時の端末のローカル時刻を使う。この Vault の通常運用は日本時間。
+- 既存の Daily Note は末尾へ追記し、既存本文やテンプレートの構成を変更しない。
+- 当日のノートがなければ、設定された Daily Note テンプレートから作成する。テンプレート式を正しく展開できない場合は未展開のまま保存せず、作成できない理由を伝える。
+- 選択できるプロジェクトは `800_Project/InProgress` 内の Markdown ファイル。サブディレクトリも検索対象にする。
+- プロジェクトリンクは実在するファイルの Vault 相対パスから拡張子を除いて作成する。本文の読み込みは候補一覧の作成に不要。
+- プロジェクトを指定しない記録も認める。関連が不明な場合は推測でリンクを付けない。
+- 本文・任意メモの改行は空白に置き換え、記録を1行にまとめる。空の本文や入力キャンセルでは追記しない。
+
+### AI Agent が参照・記録するとき
+
+- 作業状況を確認するときは、関連する Daily Note の `#📝Log`、`#🪨Stack`、`#📎Task` とプロジェクトリンクを参照する。
+- `log` は実施した事実、`stuck` は記録時点の障害、`task` は予定として扱う。未完了の Task や過去の行き詰まりだけから、現在の完了・未解決状態を断定しない。
+- ユーザーがログ・行き詰まり・Task の記録を依頼した場合は、この形式で Daily Note に追記する。参照しただけで記録を追加したり、既存の Task を完了にしたりしない。
+- 既存の時刻・タグ・プロジェクトリンクを維持する。古い記録を現在時刻の記録として転記しない。
+- Fleeting Note は現在の 1ファイル1メモ・Bases一覧の運用を維持する。Daily Note の記録を自動で Fleeting Note や Reading Note に変換しない。
+
+### 入力手段
+
+- iPhone: Scriptable の `obsidian_log_memo.js`、`obsidian_stuck_memo.js`、`obsidian_ticket_memo.js` で入力し、追記用ショートカットへ渡す。
+- Mac: Alfred の Garden Daily Memo ワークフローで `log `、`stuck `、`task ` を入力する。プロジェクト選択後に本文を入力し、ローカルの Daily Note へ直接追記する。
+- Mac の実装・設定・配布ファイルは `scripts/alfred/` に置く。詳細は [scripts/alfred/README.md](scripts/alfred/README.md) を参照する。
+
 ## Permanent Note の定義と承認運用
 
 この Vault では、Permanent Note を `600_Knowledge` に置く `type: knowledge` のノートとして扱う。
