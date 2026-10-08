@@ -273,7 +273,7 @@ python3 scripts/apply_note_candidates.py apply --write
 
 ## Theme Discovery の自然言語運用
 
-`.agent-wiki/theme-discovery/` では、reading-note から MOC 候補を見つける半自動運用を行う。
+`998_Resource/AgentWiki/theme-discovery/` では、reading-note から MOC 候補を見つける半自動運用を行う。
 
 ユーザーが自然言語で次のように依頼した場合:
 
@@ -318,17 +318,17 @@ Codex はコマンド名を要求せず、標準サイクルを実行してよ�
 
 ```bash
 python3 scripts/run_theme_discovery_cycle.py \
-  --registry .agent-wiki/theme-discovery/configs/core_thinking_topics_registry.json
+  --registry 998_Resource/AgentWiki/theme-discovery/configs/core_thinking_topics_registry.json
 ```
 
 `Life x Society` の MOC 候補向け標準サイクル:
 
 ```bash
 python3 scripts/run_theme_discovery_cycle.py \
-  --registry .agent-wiki/theme-discovery/configs/moc_registry.json
+  --registry 998_Resource/AgentWiki/theme-discovery/configs/moc_registry.json
 ```
 
 詳細ルールは次を参照すること:
 
-- [Theme Discovery Agent Guide](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/AGENTS.md)
-- [WORKFLOW.md](/Users/isikurahiromitu/Documents/Garden/.agent-wiki/theme-discovery/WORKFLOW.md)
+- [[998_Resource/AgentWiki/theme-discovery/AGENTS|Theme Discovery Agent Guide]]
+- [[998_Resource/AgentWiki/theme-discovery/WORKFLOW|WORKFLOW.md]]

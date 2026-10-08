@@ -20,7 +20,7 @@
 		{"type":"file","file":"998_Resource/Asset/Fkuz1JJUcAERhOM.jpg","id":"1eb8f62e5fdefeed","x":1237,"y":1320,"width":400,"height":267},
 		{"type":"file","file":"998_Resource/Asset/画像 2.jpg","id":"661d08363de410b7","x":3694,"y":1680,"width":249,"height":400},
 		{"type":"file","file":"998_Resource/Asset/2022-09-07_247.jpg","id":"46b4f4cc30640676","x":3673,"y":1210,"width":291,"height":400},
-		{"type":"file","file":"998_Resource/Asset/86036589_p0.jpg","id":"08e57ddb6add333d","x":3334,"y":880,"width":286,"height":400},
+		{"type":"link","url":"https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/e85a43b1c6211f50db8058a89b9f6978.jpg.canvas.html","id":"08e57ddb6add333d","x":3334,"y":880,"width":286,"height":400},
 		{"type":"file","file":"998_Resource/Asset/風野灯織.jpg","id":"e46f1029b053768c","x":3320,"y":400,"width":400,"height":400},
 		{"type":"file","file":"998_Resource/Asset/pbs.jpg","id":"cdec3a35d8ec3a62","x":3720,"y":400,"width":246,"height":400},
 		{"type":"text","text":"# 参考資料（イラスト）","id":"58f369e22f9c6986","x":3280,"y":272,"width":393,"height":60},

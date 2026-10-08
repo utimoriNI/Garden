@@ -460,7 +460,7 @@ def main() -> int:
     )
     parser.add_argument(
         "--output-dir",
-        default=".agent-wiki/reading-note-explorer",
+        default="998_Resource/AgentWiki/reading-note-explorer",
         help="Output directory for the generated explorer.",
     )
     parser.add_argument(

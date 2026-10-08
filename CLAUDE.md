@@ -31,7 +31,7 @@
 800_Project/      プロジェクトノート
 998_Resource/     リソース
 999_Archive/      アーカイブ
-.agent-wiki/      AIエージェント用wiki（Theme Discovery など）
+998_Resource/AgentWiki/      AIエージェント用wiki（Theme Discovery など）
 .codex/skills/    旧Codex用スキル定義（参考資料として参照可）
 scripts/          各種Pythonスクリプト
 ```
@@ -160,7 +160,7 @@ AIエージェントは提案を行い、110_MOC への反映は人間が承認�
 
 ```bash
 python3 scripts/run_theme_discovery_cycle.py \
-  --registry .agent-wiki/theme-discovery/configs/core_thinking_topics_registry.json
+  --registry 998_Resource/AgentWiki/theme-discovery/configs/core_thinking_topics_registry.json
 ```
 
 **実行後に要約すること：**
@@ -168,7 +168,7 @@ python3 scripts/run_theme_discovery_cycle.py \
 - 注目すべき候補テーマ
 - 人間レビューが必要な箇所
 
-詳細: `.agent-wiki/theme-discovery/AGENTS.md` / `WORKFLOW.md` / `SYSTEM.md` / `SCHEMA.md`
+詳細: `998_Resource/AgentWiki/theme-discovery/AGENTS.md` / `WORKFLOW.md` / `SYSTEM.md` / `SCHEMA.md`
 
 ---
 
@@ -211,11 +211,11 @@ python3 scripts/migrate_lexicon_to_reading_notes.py
 | ドキュメント | 内容 |
 |-------------|------|
 | `AGENTS.md` | Vault 全体の基本ルール（旧来のメインガイド） |
-| `.agent-wiki/theme-discovery/AGENTS.md` | Theme Discovery の自然言語操作ガイド |
-| `.agent-wiki/theme-discovery/WORKFLOW.md` | Theme Discovery の定常フロー |
-| `.agent-wiki/theme-discovery/SYSTEM.md` | スコープ設計の全体像 |
-| `.agent-wiki/theme-discovery/SCHEMA.md` | テーマ発見の詳細スキーマ |
+| `998_Resource/AgentWiki/theme-discovery/AGENTS.md` | Theme Discovery の自然言語操作ガイド |
+| `998_Resource/AgentWiki/theme-discovery/WORKFLOW.md` | Theme Discovery の定常フロー |
+| `998_Resource/AgentWiki/theme-discovery/SYSTEM.md` | スコープ設計の全体像 |
+| `998_Resource/AgentWiki/theme-discovery/SCHEMA.md` | テーマ発見の詳細スキーマ |
 | `.codex/skills/reading-note-pipeline/SKILL.md` | 一節ノート生成フローの詳細 |
 | `.codex/skills/obsidian-markdown/SKILL.md` | Obsidian Flavored Markdown の記法リファレンス |
-| `.agent-wiki/theme-discovery/index.md` | 生成ファイルの軽量インデックス |
-| `.agent-wiki/theme-discovery/log.md` | アクティビティログ（追記専用） |
+| `998_Resource/AgentWiki/theme-discovery/index.md` | 生成ファイルの軽量インデックス |
+| `998_Resource/AgentWiki/theme-discovery/log.md` | アクティビティログ（追記専用） |

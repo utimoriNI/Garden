@@ -87,5 +87,14 @@
       "key": "K"
     }
   ],
-  "editor:insert-link": []
+  "editor:insert-link": [],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ]
 }
