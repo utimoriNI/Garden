@@ -30,7 +30,7 @@ def projects(root, folder, recursive=True):
 
 
 def picker(root, kind, query):
-    folder = os.environ.get('project_folder', '800_Project')
+    folder = os.environ.get('project_folder', '800_Project/InProgress')
     recursive = os.environ.get('recursive', '1') != '0'
     def item(title, project):
         return {'title': title, 'subtitle': project or KINDS[kind][0] + 'を入力',

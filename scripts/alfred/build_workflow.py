@@ -30,7 +30,7 @@ data = {'name': 'Garden Daily Memo', 'bundleid': 'local.garden.daily-memo', 'ver
         'createdby': 'Garden', 'description': 'プロジェクトを選び、作業ログ・行き詰まり・TaskをDaily Noteへ追記',
         'category': 'Productivity', 'disabled': False, 'objects': objects, 'connections': connections,
         'uidata': positions, 'variables': {'vault_path': str(HERE.parent.parent),
-                                          'project_folder': '800_Project', 'recursive': '1'},
+                                          'project_folder': '800_Project/InProgress', 'recursive': '1'},
         'readme': (HERE / 'README.md').read_text(encoding='utf-8'), 'webaddress': ''}
 destination = HERE / 'Garden Daily Memo.alfredworkflow'
 with zipfile.ZipFile(destination, 'w', zipfile.ZIP_DEFLATED) as archive:

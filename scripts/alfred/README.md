@@ -18,7 +18,7 @@ Alfredからプロジェクトを選び、作業ログ・行き詰まり・Task�
 出力例は以下のとおりです。
 
 ```markdown
-- 14:30 [[800_Project/個人アプリ開発]] #📝Log ログイン画面を作成した ／ メモ：次は動作確認をする
+- 14:30 [[800_Project/InProgress/個人アプリ開発]] #📝Log ログイン画面を作成した ／ メモ：次は動作確認をする
 - 15:10 #🪨Stack 認証エラーの原因が分からない
 - [ ] 16:00 #📎Task 画面遷移のログを確認する
 ```
@@ -32,7 +32,7 @@ AlfredのWorkflowsでGarden Daily Memoを選び、Workflowの変数設定で以�
 | 変数 | 初期値 | 用途 |
 | --- | --- | --- |
 | `vault_path` | このGarden Vaultの絶対パス | Vaultの場所 |
-| `project_folder` | `800_Project` | Vaultからの相対パス |
+| `project_folder` | `800_Project/InProgress` | Vaultからの相対パス |
 | `recursive` | `1` | `1`でサブフォルダも検索、`0`で直下のみ |
 
 Daily Noteの保存先・テンプレートは`.obsidian/daily-notes.json`から読みます。日付形式は`YYYY-MM-DD`に対応しています。今日のノートがなければテンプレートから新規作成します。`{{date}}`・`{{time}}`・`{{title}}`と、現在のテンプレートの前日・翌日リンクを展開します。未対応の式がある場合は書き込みを止めるので、Obsidianで今日のノートを先に作成してください。
