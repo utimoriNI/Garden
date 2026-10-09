@@ -22,7 +22,7 @@ path:"100_Periodic/Daily" line:("#📝Log")
 ### 行き詰まり
 
 ```query
-path:"100_Periodic/Daily" line:("#🪨Stack")
+path:"100_Periodic/Daily" line:("#🪨Stuck")
 ```
 
 ### ブックマーク
