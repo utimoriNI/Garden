@@ -16,13 +16,13 @@ cssclasses:
 ### 作業ログ
 
 ```query
-line:("#📝Log")
+line:("#📝Log") -file:"AGENTS.md"
 ```
 
 ### 行き詰まり
 
 ```query
-line:("#🪨Stuck")
+line:("#🪨Stuck") -file:"AGENTS.md"
 ```
 
 ### ブックマーク
