@@ -12,6 +12,19 @@ cssclasses:
 
 
 ![[無題のファイル.base | h-450]]
+
+### 作業ログ
+
+```query
+path:"100_Periodic/Daily" line:("#📝Log")
+```
+
+### 行き詰まり
+
+```query
+path:"100_Periodic/Daily" line:("#🪨Stack")
+```
+
 ### ブックマーク
 - [[Wish List]]
 - [[思考.canvas|無題のファイル]]
