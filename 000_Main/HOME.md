@@ -16,13 +16,13 @@ cssclasses:
 ### 作業ログ
 
 ```query
-path:"100_Periodic/Daily" line:("#📝Log")
+line:("#📝Log")
 ```
 
 ### 行き詰まり
 
 ```query
-path:"100_Periodic/Daily" line:("#🪨Stuck")
+line:("#🪨Stuck")
 ```
 
 ### ブックマーク
