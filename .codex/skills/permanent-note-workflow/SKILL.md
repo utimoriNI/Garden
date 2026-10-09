@@ -1,6 +1,6 @@
 ---
 name: permanent-note-workflow
-description: Generate AI-authored Reading Note candidates from selected Raindrop/Web source notes, discover one-claim Permanent Note candidates from multiple Fleeting/Reading Notes, and preview or apply candidates approved in an Obsidian Base. Use when the user asks to extract candidate notes from imported articles, find similar thoughts, create or update Permanent Note candidates, inspect approved changes, or promote approved candidates into 300_Input/Reading Notes or 600_Knowledge.
+description: Generate AI-authored Reading Note candidates from selected Raindrop/Web source notes, discover one-claim Permanent Note candidates from multiple Fleeting/Reading Notes and Daily task/log/stuck records, and preview or apply candidates approved in an Obsidian Base. Use when the user asks to extract candidate notes from imported articles, find similar thoughts, create or update Permanent Note candidates, inspect approved changes, or promote approved candidates into 300_Input/Reading Notes or 600_Knowledge.
 ---
 
 # Permanent Note Workflow
@@ -17,7 +17,7 @@ Keep AI proposals separate from official notes. Use Obsidian Base as the decisio
 ## Choose the operation
 
 - Article/Web extraction request: create Reading Note candidate files.
-- Fleeting/Reading synthesis request: create Permanent Note candidate files.
+- Fleeting/Reading/Daily synthesis request: create Permanent Note candidate files.
 - Change-preview request: run validation and plan only.
 - Explicit apply/promote request: validate, show the plan, then apply approved candidates.
 - Link-only theme request: use Theme Discovery; do not create a Permanent Note candidate.
@@ -39,9 +39,9 @@ Candidate creation is automatic when requested. Do not create the official Readi
 
 ## Create Permanent Note candidates
 
-1. Inspect relevant notes in `500_Fleeting` and `300_Input/Reading Notes`.
+1. Inspect relevant notes in `500_Fleeting`, `300_Input/Reading Notes`, and Daily Notes configured in `.obsidian/daily-notes.json`. Follow the vault-root `AGENTS.md` section “Daily Note を学びの材料にする”: prioritize stuck/log, use task only as context, preserve exact entry provenance, and distinguish recorded facts from interpretation. Use the requested scope, or start with the last 30 days when unspecified.
 2. Group notes by repeated mechanism, tension, contrast, causal relation, or shared claim—not merely shared vocabulary.
-3. Use at least two distinct sources; prefer three to eight when the claim remains coherent.
+3. Use at least two distinct source notes (multiple entries in one Daily Note count as one); prefer three to eight when the claim remains coherent.
 4. State one discussable claim in `claim`. A topic label is insufficient.
 5. Write a usable initial synthesis in `## 下書き`.
 6. Explain each source's contribution in `## 根拠`.

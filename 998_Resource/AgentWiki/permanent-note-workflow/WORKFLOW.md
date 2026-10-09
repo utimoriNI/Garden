@@ -2,7 +2,7 @@
 
 ## Daily flow
 
-1. Import selected Raindrop articles into `300_Input` as source notes, or capture thoughts in `500_Fleeting`.
+1. Import selected Raindrop articles into `300_Input` as source notes, or capture thoughts in `500_Fleeting` and task / log / stuck records in Daily Notes.
 2. Ask Codex to extract Reading Note candidates or discover Permanent Note candidates.
 3. Review candidates in [[000_Main/Permanent Note候補.base]].
 4. If revisions are needed, write a short `review_comment` in the Base or a longer note under `## ユーザーコメント`.
@@ -21,14 +21,22 @@
 - Do not invent text absent from the source.
 - Create candidate files automatically; do not create official Reading Notes yet.
 
-### From Fleeting and Reading Notes
+### From Fleeting, Reading Notes, and Daily records
 
 - Look for repeated mechanisms, tensions, claims, contrasts, or cause-and-effect relationships.
-- A Permanent Note candidate must combine at least two distinct notes.
+- A Permanent Note candidate must combine at least two distinct notes, including Daily Notes when relevant. Multiple entries in one Daily Note count as one source note.
 - State one falsifiable or discussable claim rather than a topic label.
 - Explain what each source contributes.
 - Include a counterpoint, limitation, or unresolved question.
 - Do not turn a list of related links into a Permanent Note; route that to Theme Discovery as an MOC candidate.
+
+### Daily Note の参照
+
+候補作成・更新時は、Vaultルートの`AGENTS.md`にある「Daily Note を学びの材料にする」に従う。stuckをつまずきの条件、logを試行・結果の材料として優先し、taskは当時の意図を補足する。指定範囲を優先し、未指定なら直近30日から探す。
+
+候補の`sources`にDaily Noteのwikilinkを入れ、`## 根拠`に日付・元の時刻・タグ・記録本文の引用を残す。記録上の事実と解釈を分け、解決や効果は記録に裏付けがある場合だけ述べる。材料が足りない場合は候補を作らず、不足を伝える。元のDaily Noteは変更しない。
+
+依頼例: `最近のstuckとlogからPermanent Note候補を作って`。
 
 ## Review UI
 

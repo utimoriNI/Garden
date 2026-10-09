@@ -6,7 +6,7 @@
 - AI-generated candidates live below `200_Inbox/Note Candidates/` so Obsidian Bases can index and display them.
 - Approved Reading Notes are created in `300_Input/Reading Notes`.
 - Approved Permanent Notes are created in `600_Knowledge` with `type: knowledge`.
-- A Permanent Note must state one claim synthesized from at least two distinct source notes.
+- A Permanent Note must state one claim synthesized from at least two distinct source notes (Fleeting, Reading, or Daily Notes). Multiple entries in one Daily Note count as one source note.
 - A link-only collection is a MOC and stays in the separate Theme Discovery workflow.
 
 ## Decision state
@@ -50,6 +50,8 @@ Required:
 - safe `target_path` below `600_Knowledge`
 - at least two distinct wikilinks in `sources`
 - non-empty `## 下書き`
+
+For Daily sources, preserve the date, original time, tag, and quoted entry in `## 根拠`, along with its contribution to the claim. Existing heading/block links may be used; do not edit source notes to add anchors.
 
 Strong candidates also include `## 根拠` and `## 反例・適用限界`.
 

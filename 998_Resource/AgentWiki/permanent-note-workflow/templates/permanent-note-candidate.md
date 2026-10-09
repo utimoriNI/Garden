@@ -32,6 +32,8 @@ created: YYYY-MM-DD
 
 ## 根拠
 
+<!-- Daily Noteを使う場合は、リンク・日付・元の時刻・タグ・記録本文の引用を残し、事実と解釈を区別する。同日内の複数行は1つの元ノートとして数える。 -->
+
 - [[500_Fleeting/元ノート1]] が主張のどの部分を支えるか。
 - [[300_Input/Reading Notes/元ノート2]] が何を補足・対比するか。
 
@@ -47,7 +49,7 @@ created: YYYY-MM-DD
 
 - `600_Knowledge`にKnowledge下書きを1件新規作成
 - この候補の`apply_status`と`promoted_to`を更新
-- 元のFleeting / Reading Noteは変更しない
+- 元のFleeting / Reading Note / Daily Noteは変更しない
 
 ## ユーザーコメント
 

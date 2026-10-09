@@ -269,7 +269,7 @@ Obsidian 上で扱いやすくするために、タグは広い分類や見や�
 
 Permanent Note は次を満たすこと。
 
-- 複数の Fleeting Note / Reading Note を材料にする
+- 複数の Fleeting Note / Reading Note / Daily Note の記録を材料にする（Daily Note の参照ルールは下記）
 - 1ノートにつき1つの主張を、自分の言葉で説明する
 - 元になったノートへのリンクを失わない
 - 単なる関連リンク集にしない
@@ -317,6 +317,24 @@ python3 scripts/apply_note_candidates.py apply --write
 - `FleetingからPermanent Note候補を作って`
 - `Permanent Note候補を更新して`
 - `似た思考材料を一つの主張にまとめて`
+
+### Daily Note を学びの材料にする
+
+Permanent Note候補を作成・更新するときは、関連するDaily Noteの記録も参照してよい。対象の日付やプロジェクトが指定されている場合はその範囲を優先し、未指定なら直近30日と関連するFleeting / Reading Noteから探す。必要な場合だけ過去へ広げる。
+
+- `stuck`（`#🪨Stack`）は、つまずいた条件・制約・疑問を知る材料にする。
+- `log`（`#📝Log`）は、試した行動・結果・気づきを知る材料にする。行動の記録だけで成功や解決を断定しない。
+- `task`（`#📎Task`）は、当時の意図や課題の補助材料にする。予定や完了チェックだけを、学び・効果・解決の根拠にしない。
+- 同じプロジェクトや課題の記録を時系列で照合し、繰り返すつまずき、試行と結果、条件による違いを探す。AIの解釈と記録された事実を区別し、単発の経験を一般化しすぎない。
+- 候補の`sources`には参照したDaily NoteのVault相対パスのwikilinkを入れる。`## 根拠`には日付・元の時刻・タグ・記録本文の引用と、その記録が主張をどう支えるかを残す。既存の見出しやblock IDが使える場合はそのリンクを使い、参照のために元ノートへIDを追加しない。
+- 少なくとも2つの異なる元ノートを材料にする。同じDaily Note内の複数行を別ノートとして数えない。異なる日付のDaily Note同士、またはDaily NoteとFleeting / Reading Noteの組合せでもよい。件数だけで判断せず、主張を支える材料が足りなければ候補作成を見送って不足を伝える。
+- Daily Noteを自動でFleeting / Reading Noteへ変換せず、記録の追記・Taskの完了化・元本文の変更もしない。候補の承認・正式化は既存の手順を維持する。
+
+依頼例:
+
+- `最近のstuckとlogからPermanent Note候補を作って`
+- `このプロジェクトの記録とReading Noteから学びをまとめて`
+- `Permanent Note候補をDailyの記録も参考に更新して`
 
 ## Theme Discovery の自然言語運用
 
