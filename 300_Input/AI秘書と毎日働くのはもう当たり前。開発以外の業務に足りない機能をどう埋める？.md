@@ -1,14 +1,16 @@
 ---
-title: "AI秘書と毎日働くのはもう当たり前。開発以外の業務に足りない機能をどう埋める？"
-source: "https://speakerdeck.com/minorun365/ai-hisho-to-mainichi-hataraku-no-ha-mou-atarimae-kaihatsu-igai-no-gyoumu-ni-tarinai-kinou-o-dou-umeru?slide=23"
+title: AI秘書と毎日働くのはもう当たり前。開発以外の業務に足りない機能をどう埋める？
+source: https://speakerdeck.com/minorun365/ai-hisho-to-mainichi-hataraku-no-ha-mou-atarimae-kaihatsu-igai-no-gyoumu-ni-tarinai-kinou-o-dou-umeru?slide=23
 author:
   - "[[みのるん]]"
 published: 2026-10-27
 created: 2026-10-28
-description: "Qiita Conference 2026 Autumnhttps://qiita.com/conference/2026-autumn"
+description: Qiita Conference 2026 Autumnhttps://qiita.com/conference/2026-autumn
 tags:
-image: "https://files.speakerdeck.com/presentations/d634edf4fbc34a30938d7d0e698f3075/slide_22.jpg?41110262"
-cover: "https://files.speakerdeck.com/presentations/d634edf4fbc34a30938d7d0e698f3075/slide_22.jpg?41110262"
+  - 🎁Topic/Tech
+  - Later
+image: https://files.speakerdeck.com/presentations/d634edf4fbc34a30938d7d0e698f3075/slide_22.jpg?41110262
+cover: https://files.speakerdeck.com/presentations/d634edf4fbc34a30938d7d0e698f3075/slide_22.jpg?41110262
 ---
 
 #### AI秘書と毎日働くのはもう当たり前。開発以外の業務に足りない機能をどう埋める？
