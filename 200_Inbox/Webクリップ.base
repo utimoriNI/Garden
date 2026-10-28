@@ -44,3 +44,185 @@ views:
     sort:
       - property: created
         direction: DESC
+  - type: cards
+    name: "Blender"
+    filters:
+      and:
+        - "file.tags.contains(\"🎁Topic/Blender\")"
+    order:
+      - file.name
+      - description
+    sort:
+      - property: created
+        direction: DESC
+    image: note.cover
+    imageAspectRatio: 0.5
+    cardSize: 210
+  - type: cards
+    name: "DTM"
+    filters:
+      and:
+        - "file.tags.contains(\"🎁Topic/DTM\")"
+    order:
+      - file.name
+      - description
+    sort:
+      - property: created
+        direction: DESC
+    image: note.cover
+    imageAspectRatio: 0.5
+    cardSize: 210
+  - type: cards
+    name: "Illust"
+    filters:
+      and:
+        - "file.tags.contains(\"🎁Topic/Illust\")"
+    order:
+      - file.name
+      - description
+    sort:
+      - property: created
+        direction: DESC
+    image: note.cover
+    imageAspectRatio: 0.5
+    cardSize: 210
+  - type: cards
+    name: "Learning"
+    filters:
+      and:
+        - "file.tags.contains(\"🎁Topic/Learning\")"
+    order:
+      - file.name
+      - description
+    sort:
+      - property: created
+        direction: DESC
+    image: note.cover
+    imageAspectRatio: 0.5
+    cardSize: 210
+  - type: cards
+    name: "Life"
+    filters:
+      and:
+        - "file.tags.contains(\"🎁Topic/Life\")"
+    order:
+      - file.name
+      - description
+    sort:
+      - property: created
+        direction: DESC
+    image: note.cover
+    imageAspectRatio: 0.5
+    cardSize: 210
+  - type: cards
+    name: "Living"
+    filters:
+      and:
+        - "file.tags.contains(\"🎁Topic/Living\")"
+    order:
+      - file.name
+      - description
+    sort:
+      - property: created
+        direction: DESC
+    image: note.cover
+    imageAspectRatio: 0.5
+    cardSize: 210
+  - type: cards
+    name: "Omoro"
+    filters:
+      and:
+        - "file.tags.contains(\"🎁Topic/Omoro\")"
+    order:
+      - file.name
+      - description
+    sort:
+      - property: created
+        direction: DESC
+    image: note.cover
+    imageAspectRatio: 0.5
+    cardSize: 210
+  - type: cards
+    name: "PKM"
+    filters:
+      and:
+        - "file.tags.contains(\"🎁Topic/PKM\")"
+    order:
+      - file.name
+      - description
+    sort:
+      - property: created
+        direction: DESC
+    image: note.cover
+    imageAspectRatio: 0.5
+    cardSize: 210
+  - type: cards
+    name: "Rhetoric"
+    filters:
+      and:
+        - "file.tags.contains(\"🎁Topic/Rhetoric\")"
+    order:
+      - file.name
+      - description
+    sort:
+      - property: created
+        direction: DESC
+    image: note.cover
+    imageAspectRatio: 0.5
+    cardSize: 210
+  - type: cards
+    name: "Society"
+    filters:
+      and:
+        - "file.tags.contains(\"🎁Topic/Society\")"
+    order:
+      - file.name
+      - description
+    sort:
+      - property: created
+        direction: DESC
+    image: note.cover
+    imageAspectRatio: 0.5
+    cardSize: 210
+  - type: cards
+    name: "Tech"
+    filters:
+      and:
+        - "file.tags.contains(\"🎁Topic/Tech\")"
+    order:
+      - file.name
+      - description
+    sort:
+      - property: created
+        direction: DESC
+    image: note.cover
+    imageAspectRatio: 0.5
+    cardSize: 210
+  - type: cards
+    name: "Word"
+    filters:
+      and:
+        - "file.tags.contains(\"🎁Topic/Word\")"
+    order:
+      - file.name
+      - description
+    sort:
+      - property: created
+        direction: DESC
+    image: note.cover
+    imageAspectRatio: 0.5
+    cardSize: 210
+  - type: cards
+    name: "🎵DTM"
+    filters:
+      and:
+        - "file.tags.contains(\"🎁Topic/🎵DTM\")"
+    order:
+      - file.name
+      - description
+    sort:
+      - property: created
+        direction: DESC
+    image: note.cover
+    imageAspectRatio: 0.5
+    cardSize: 210
