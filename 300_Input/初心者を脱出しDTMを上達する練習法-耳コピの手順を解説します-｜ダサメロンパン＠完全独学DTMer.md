@@ -9,6 +9,7 @@ description: "耳コピと聞いて、音楽的才能のある人の特殊な技
 tags:
   - "🎁Topic/🎵DTM"
 image: "https://assets.st-note.com/production/uploads/images/87443191/rectangle_large_type_2_1010d44e3376896a205d2f9c4d74ebf0.png?fit=bounds&quality=85&width=1280"
+cover: "https://assets.st-note.com/production/uploads/images/87443191/rectangle_large_type_2_1010d44e3376896a205d2f9c4d74ebf0.png?fit=bounds&quality=85&width=1280"
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/87443191/rectangle_large_type_2_1010d44e3376896a205d2f9c4d74ebf0.png?width=1200)
 

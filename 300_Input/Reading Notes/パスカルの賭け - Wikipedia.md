@@ -9,6 +9,7 @@ source_container:
 topic: []
 moc: []
 status: inbox
+cover: "https://upload.wikimedia.org/wikipedia/commons/7/79/Blaise_pascal.jpg?utm_source=ja.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
 ---
 **consist of**:: [[Word]]
 [[ReadItLater]] [[Article]]

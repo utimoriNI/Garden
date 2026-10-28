@@ -4,6 +4,7 @@ created: 2023-03-06
 tags:
   - 🎁Topic/Blender
   - 🎁Topic/Illust
+cover: "https://dskjal.com/images/blender-anime-back-result.gif"
 ---
 
 ### 元リンク

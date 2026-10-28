@@ -4,6 +4,7 @@ url: https://www.youtube.com/watch?v=bIiKZZmRryg&list=PLbZhON61ML0PLsLC8hIEEODPd
 created: 2023-03-03
 tags:
   - 🎁Topic/Blender
+cover: "https://i.ytimg.com/vi/bIiKZZmRryg/hqdefault.jpg"
 ---
 
 [[2023-03-03]]

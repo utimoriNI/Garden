@@ -4,6 +4,7 @@ url: https://www.creativebloq.com/features/17-top-tips-for-modelling-a-complex-3
 created: 2023-05-01
 tags:
   - 🎁Topic/Blender
+cover: "https://cdn.mos.cms.futurecdn.net/SuowsSnBuD5Ne9ZT68WiQd-1000-80.jpg"
 ---
 
 [[2023-05-01]]

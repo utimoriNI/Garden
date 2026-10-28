@@ -8,6 +8,7 @@ source_container:
 topic: []
 moc: []
 status: inbox
+cover: "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Alice_queen2.jpg/1280px-Alice_queen2.jpg?utm_source=ja.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
 ---
 [[ReadItLater]] [[Article]]
 

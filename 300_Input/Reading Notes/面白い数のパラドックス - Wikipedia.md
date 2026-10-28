@@ -8,6 +8,7 @@ source_container:
 topic: []
 moc: []
 status: inbox
+cover: "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Numbers_grid_in_NY.jpg/1280px-Numbers_grid_in_NY.jpg?utm_source=ja.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
 ---
 **consist of**:: [[Word]]
 [[ReadItLater]] [[Article]]

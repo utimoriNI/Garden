@@ -7,6 +7,7 @@ source_container:
 topic: []
 moc: []
 status: inbox
+cover: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Thai200309ox.jpg/330px-Thai200309ox.jpg?utm_source=ja.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
 ---
 [[ReadItLater]] [[Article]]
 **consist of**:: [[Word]]

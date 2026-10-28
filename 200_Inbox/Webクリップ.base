@@ -1,0 +1,46 @@
+filters:
+  and:
+    - file.ext == "md"
+    - file.inFolder("300_Input")
+    - '!file.inFolder("300_Input/Book")'
+    - '!file.hasTag("📚Book")'
+    - file.tags.contains("🎁Topic")
+properties:
+  file.name:
+    displayName: タイトル
+  note.site:
+    displayName: サイト
+  note.description:
+    displayName: 概要
+  note.created:
+    displayName: 保存日時
+  note.source:
+    displayName: 出典URL
+  note.author:
+    displayName: 著者
+  note.cover:
+    displayName: サムネイル
+views:
+  - type: cards
+    name: クリップ一覧
+    order:
+      - file.name
+      - description
+    sort:
+      - property: created
+        direction: DESC
+    image: note.cover
+    imageAspectRatio: 0.5
+    cardSize: 210
+  - type: table
+    name: 一覧・編集
+    order:
+      - file.name
+      - site
+      - author
+      - source
+      - cover
+      - created
+    sort:
+      - property: created
+        direction: DESC

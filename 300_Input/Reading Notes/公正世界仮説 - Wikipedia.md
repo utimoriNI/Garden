@@ -8,6 +8,7 @@ source_container:
 topic: []
 moc: []
 status: inbox
+cover: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Cognitive_bias_codex_en.svg/1280px-Cognitive_bias_codex_en.svg.png?utm_source=ja.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
 ---
 **consist of**:: [[Word]]
 [[ReadItLater]] [[Article]]

@@ -5,4 +5,5 @@ tags:
   - 🎁Topic/Omoro
   - 🎁Topic/Life
 created: 2023-12-27 21:30:00
+cover: "https://static.healthy-person-emulator.org/ogp/33855.jpg"
 ---

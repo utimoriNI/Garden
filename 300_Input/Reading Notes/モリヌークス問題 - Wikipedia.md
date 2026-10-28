@@ -9,6 +9,7 @@ source_container:
 topic: []
 moc: []
 status: inbox
+cover: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Volta_della_stanza_della_segnatura_02%2C_filosofia.jpg?utm_source=ja.wikipedia.org&utm_campaign=index&utm_content=thumbnail_unscaled"
 ---
 [[ReadItLater]] [[Article]]
 
