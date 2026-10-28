@@ -9,6 +9,7 @@ description: 【陰キャ非モテチー牛🤓→外見改善で顔面偏差値
 tags:
   - 🎁Topic/Living
 image: https://abs.twimg.com/rweb/ssr/default/v2/og/image.png
+cover: "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png"
 ---
 **みなと | 人間心理** @romantic\_minato [2026-01-13](https://x.com/romantic_minato/status/2011000274962563549)
 

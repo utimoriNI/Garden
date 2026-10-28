@@ -8,6 +8,7 @@ source_container:
 topic: []
 moc: []
 status: inbox
+cover: "https://pbs.twimg.com/profile_images/1968999123497218048/OMwqAL0n_400x400.jpg"
 ---
 [[ReadItLater]] [[Tweet]]
 

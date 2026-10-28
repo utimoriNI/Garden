@@ -9,6 +9,7 @@ description:
 tags:
   - 🎁Topic/Illust
 image: https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png
+cover: "https://pbs.twimg.com/media/Gr8Zi-5WgAAgRV9?format=webp&name=large"
 ---
 **バニリゾ/BANILIZO** @bani\_lizo [2025-05-27](https://x.com/bani_lizo/status/1927287261067874319)
 

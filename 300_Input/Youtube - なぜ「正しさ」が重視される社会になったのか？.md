@@ -2,6 +2,7 @@
 tags:
   - Scrap
   - 🎁Topic/Society
+cover: "https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/1380b820082feaa8101def95c48c7ca3.png"
 ---
 
 

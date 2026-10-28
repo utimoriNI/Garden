@@ -9,6 +9,7 @@ description:
 tags:
   - 🎁Topic/Living
 image: https://abs.twimg.com/rweb/ssr/default/v2/og/image.png
+cover: "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png"
 ---
 **SUAN / スタートアップメディア** @suan\_news 2026-01-05
 

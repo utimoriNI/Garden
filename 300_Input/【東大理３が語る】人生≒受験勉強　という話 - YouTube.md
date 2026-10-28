@@ -9,6 +9,7 @@ tags:
   - 🎁Topic/Life
   - 🎁Topic/Society
 image: https://www.youtube.com/img/desktop/yt_1200.png
+cover: "https://www.youtube.com/img/desktop/yt_1200.png"
 ---
 ![](https://www.youtube.com/watch?v=IEAMPShhOxg)  
 
