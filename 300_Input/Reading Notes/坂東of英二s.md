@@ -15,6 +15,7 @@ source_container:
 topic: []
 moc: []
 status: inbox
+cover: "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png"
 ---
 ロッドオブエイジスじゃなくて"板東of○二s"が存在している前提で話が進み、
 

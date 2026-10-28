@@ -9,6 +9,7 @@ description:
 tags:
   - 🎁Topic/Illust
 image: https://abs.twimg.com/rweb/ssr/default/v2/og/image.png
+cover: "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png"
 ---
 **Leno** @len\_cookie\_ [2026-01-07](https://x.com/len_cookie_/status/2008778848473874824)
 
