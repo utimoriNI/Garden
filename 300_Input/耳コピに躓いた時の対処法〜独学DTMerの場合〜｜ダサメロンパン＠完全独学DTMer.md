@@ -9,6 +9,7 @@ description: "耳コピに挑戦してみたけど、鳴っている音が何の
 tags:
   - "🎁Topic/🎵DTM"
 image: "https://assets.st-note.com/production/uploads/images/87516058/rectangle_large_type_2_ff1b702381c4880cd7c7781dc85cde71.png?fit=bounds&quality=85&width=1280"
+cover: "https://assets.st-note.com/production/uploads/images/87516058/rectangle_large_type_2_ff1b702381c4880cd7c7781dc85cde71.png?fit=bounds&quality=85&width=1280"
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/87516058/rectangle_large_type_2_ff1b702381c4880cd7c7781dc85cde71.png?width=1200)
 

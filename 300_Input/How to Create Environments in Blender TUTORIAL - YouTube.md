@@ -4,6 +4,7 @@ url: https://www.youtube.com/watch?v=1-AuADiolsI&t=14s
 created: 2023-05-25
 tags:
   - 🎁Topic/Blender
+cover: "https://i.ytimg.com/vi/1-AuADiolsI/hqdefault.jpg"
 ---
 
 [[2023-05-25]]

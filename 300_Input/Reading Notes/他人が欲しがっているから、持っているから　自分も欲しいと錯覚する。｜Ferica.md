@@ -16,6 +16,7 @@ source_container:
 topic: []
 moc: []
 status: inbox
+cover: "https://assets.st-note.com/production/uploads/images/168427144/rectangle_large_type_2_770a988087eea08e05a58780f24a0bfd.jpeg?fit=bounds&quality=85&width=1280"
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/168427144/rectangle_large_type_2_770a988087eea08e05a58780f24a0bfd.jpeg?width=1200)
 

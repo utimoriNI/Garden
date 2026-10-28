@@ -9,6 +9,7 @@ description: "DTMで楽曲の耳コピをやるといいと聞くけれど、何
 tags:
   - "🎁Topic/🎵DTM"
 image: "https://assets.st-note.com/production/uploads/images/86683989/rectangle_large_type_2_55e3b41a92517ec56959394813cbbd7d.png?fit=bounds&quality=85&width=1280"
+cover: "https://assets.st-note.com/production/uploads/images/86683989/rectangle_large_type_2_55e3b41a92517ec56959394813cbbd7d.png?fit=bounds&quality=85&width=1280"
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/86683989/rectangle_large_type_2_55e3b41a92517ec56959394813cbbd7d.png?width=1200)
 

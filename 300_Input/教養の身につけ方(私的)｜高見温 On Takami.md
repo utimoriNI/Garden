@@ -9,6 +9,7 @@ description: 前に質問があったので考えてみました。本当に良�
 tags:
   - 🎁Topic/Life
 image: https://assets.st-note.com/production/uploads/images/115531802/rectangle_large_type_2_7601e81c21a3136bd334749a279f7cf4.png?fit=bounds&quality=85&width=1280
+cover: "https://assets.st-note.com/production/uploads/images/115531802/rectangle_large_type_2_7601e81c21a3136bd334749a279f7cf4.png?fit=bounds&quality=85&width=1280"
 ---
 ## 教養の身につけ方(私的)
 

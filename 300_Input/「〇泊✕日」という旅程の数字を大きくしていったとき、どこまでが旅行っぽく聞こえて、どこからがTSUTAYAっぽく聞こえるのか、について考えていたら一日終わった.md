@@ -2,6 +2,7 @@
 tags:
   - Scrap
   - 🎁Topic/Omoro
+cover: "https://pbs.twimg.com/profile_images/2041569942265569280/OZS_gWeA_400x400.jpg"
 ---
 **consist of**:: [[Omoro]]
 

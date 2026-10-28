@@ -4,6 +4,7 @@ url: https://www.udemy.com/course/typescript-react-frontend/learn/lecture/207329
 date: 2023-06-18
 tags:
     - 🎁Topic/Tech
+cover: "https://s.udemycdn.com/meta/default-meta-image-v2.png"
 ---
 
 [[2023-06-18]]

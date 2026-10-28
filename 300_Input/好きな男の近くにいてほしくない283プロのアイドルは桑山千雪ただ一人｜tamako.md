@@ -1,6 +1,7 @@
 ---
 tags:
   - 🎁Topic/Omoro
+cover: "https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/db535a3545465a08d5cb20505e8470f5.png"
 ---
 
 [[ReadItLater]] [[Article]]
