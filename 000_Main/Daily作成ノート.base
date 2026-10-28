@@ -1,0 +1,38 @@
+filters:
+  and:
+    - file.ext == "md"
+    - created
+    - 'date(created).format("YYYY-MM-DD") == this.file.name'
+properties:
+  file.name:
+    displayName: ノート
+  note.site:
+    displayName: サイト
+  note.created:
+    displayName: 作成日時
+views:
+  - type: list
+    name: Webクリップ
+    filters:
+      and:
+        - file.inFolder("300_Input")
+        - '!file.inFolder("300_Input/Book")'
+        - '!file.inFolder("300_Input/Reading Notes")'
+        - '!file.hasTag("📚Book")'
+    order:
+      - file.name
+      - note.site
+    sort:
+      - property: created
+        direction: DESC
+    indentProperties: true
+  - type: list
+    name: Fleeting
+    filters:
+      and:
+        - file.inFolder("500_Fleeting")
+    order:
+      - file.name
+    sort:
+      - property: created
+        direction: DESC

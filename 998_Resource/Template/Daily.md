@@ -19,3 +19,14 @@ done after 7 days ago
 done before tomorrow
 sort by done reverse
 ```
+
+## その日に作成したノート
+
+### Webクリップ
+
+![[000_Main/Daily作成ノート.base#Webクリップ]]
+
+### Fleeting
+
+![[000_Main/Daily作成ノート.base#Fleeting]]
+
