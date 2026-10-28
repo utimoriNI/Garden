@@ -18,6 +18,7 @@ source_container:
 topic: []
 moc: []
 status: inbox
+cover: "https://pbs.twimg.com/profile_images/531693853812613120/q-WA5frx_400x400.png"
 ---
 **consist of**:: [[Life]]
 **consist of**:: [[Society]]

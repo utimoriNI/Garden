@@ -9,6 +9,7 @@ description: "こんにちは、Mikiです。  3品目は「海」! これまた
 tags:
   - 🎁Topic/Blender
 image: https://assets.st-note.com/production/uploads/images/234421486/rectangle_large_type_2_42c8671aabd9589b50d3bb49d25325ed.png?fit=bounds&quality=85&width=1280
+cover: "https://assets.st-note.com/production/uploads/images/234421486/rectangle_large_type_2_42c8671aabd9589b50d3bb49d25325ed.png?fit=bounds&quality=85&width=1280"
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/234421486/rectangle_large_type_2_42c8671aabd9589b50d3bb49d25325ed.png?width=1280)
 

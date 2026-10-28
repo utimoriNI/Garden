@@ -1,6 +1,7 @@
 ---
 tags:
   - 🎁Topic/Tech
+cover: "https://res.cloudinary.com/zenn/image/upload/s--Q6YH0Khw--/g_center%2Ch_280%2Cl_fetch:aHR0cHM6Ly9zdGF0aWMuemVubi5zdHVkaW8vdXNlci11cGxvYWQvYm9va19jb3Zlci83Nzk2NzM2NzEwLnBuZw==%2Cw_200/v1627283836/default/og-base-book_yz4z02.jpg?_a=BACMTiAE"
 ---
 
 title: はじめに｜イベントループとプロミスチェーンで学ぶ JavaScript の非同期処理

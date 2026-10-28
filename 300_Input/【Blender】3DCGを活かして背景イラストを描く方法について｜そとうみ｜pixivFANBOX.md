@@ -10,6 +10,7 @@ tags:
   - 🎁Topic/Blender
   - 🎁Topic/Illust
 image: https://pixiv.pximg.net/c/1200x630_90_a2_g5/fanbox/public/images/post/11444698/cover/KBzGiik8rMMSbhLCE6mjpRFs.jpeg
+cover: "https://pixiv.pximg.net/c/1200x630_90_a2_g5/fanbox/public/images/post/11444698/cover/KBzGiik8rMMSbhLCE6mjpRFs.jpeg"
 ---
 ## 【Blender】3DCGを活かして背景イラストを描く方法について
 

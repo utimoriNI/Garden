@@ -9,6 +9,7 @@ tags:
   - 🎁Topic/PKM
   - 📂Project/LLMWiki
 image: https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png
+cover: "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png"
 ---
 
 ## LLM Wiki

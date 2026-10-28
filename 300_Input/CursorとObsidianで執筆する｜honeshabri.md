@@ -9,6 +9,7 @@ description: この前、Cursorを使った新しい体験について書いた�
 tags:
   - 🎁Topic/PKM
 image: https://assets.st-note.com/production/uploads/images/177818019/rectangle_large_type_2_1c67123575d8ad6214a04d25365b1918.jpeg?fit=bounds&quality=85&width=1280
+cover: "https://assets.st-note.com/production/uploads/images/177818019/rectangle_large_type_2_1c67123575d8ad6214a04d25365b1918.jpeg?fit=bounds&quality=85&width=1280"
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/177818019/rectangle_large_type_2_1c67123575d8ad6214a04d25365b1918.jpeg?width=1200)
 

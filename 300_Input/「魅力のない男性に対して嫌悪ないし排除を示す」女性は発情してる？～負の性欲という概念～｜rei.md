@@ -9,6 +9,7 @@ description: 「負の性欲」というのは、今は亡きツイッタラー�
 tags:
   - 🎁Topic/Life
 image: https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/15449974/picture_pc_ce09e26a9b3f350b9396580881ab8e58.png
+cover: "https://d2l930y2yx77uc.cloudfront.net/production/uploads/images/15449974/picture_pc_ce09e26a9b3f350b9396580881ab8e58.png"
 ---
 ## 「魅力のない男性に対して嫌悪ないし排除を示す」女性は発情してる？～負の性欲という概念～
 

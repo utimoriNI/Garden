@@ -1,6 +1,7 @@
 ---
 tags:
   - 🎁Topic/Blender
+cover: "https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/081985b33548c0f686caf0757eef2597.png"
 ---
 
 [[ReadItLater]] [[Article]]

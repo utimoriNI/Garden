@@ -9,6 +9,7 @@ description: 最近ハマっていたCursorの記事を書いたらブクマが�
 tags:
   - 🎁Topic/PKM
 image: https://assets.st-note.com/production/uploads/images/180645806/rectangle_large_type_2_c90eb142acd167ba0412399f58bff65d.jpeg?fit=bounds&quality=85&width=1280
+cover: "https://assets.st-note.com/production/uploads/images/180645806/rectangle_large_type_2_c90eb142acd167ba0412399f58bff65d.jpeg?fit=bounds&quality=85&width=1280"
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/180645806/rectangle_large_type_2_c90eb142acd167ba0412399f58bff65d.jpeg?width=1200)
 

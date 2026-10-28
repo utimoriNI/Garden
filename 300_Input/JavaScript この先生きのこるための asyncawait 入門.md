@@ -9,6 +9,7 @@ description: Webには欠かせない非同期処理。まだメソッドチェ�
 tags:
   - 🎁Topic/Tech
 image: https://note.crohaco.net/media/javascript.png
+cover: "https://note.crohaco.net/media/javascript.png"
 ---
 2018-07-12
 

@@ -9,6 +9,7 @@ description: 今回は有料級の内容です。長年耳コピをやってい�
 tags:
   - 🎁Topic/🎵DTM
 image: https://assets.st-note.com/production/uploads/images/184588795/rectangle_large_type_2_bf5f53f2c1b04e24b08baf494816651b.png?fit=bounds&quality=85&width=1280
+cover: "https://assets.st-note.com/production/uploads/images/184588795/rectangle_large_type_2_bf5f53f2c1b04e24b08baf494816651b.png?fit=bounds&quality=85&width=1280"
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/184588795/rectangle_large_type_2_bf5f53f2c1b04e24b08baf494816651b.png?width=1200)
 

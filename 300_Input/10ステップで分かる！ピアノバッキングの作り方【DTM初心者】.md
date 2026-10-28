@@ -9,6 +9,7 @@ description: 今回はポップス系楽曲でピアノのバッキングトラ�
 tags:
   - 🎁Topic/🎵DTM
 image: https://sleepfreaks-dtm.com/wordpress/wp-content/uploads/2022/06/Piano-Tips-eye.jpg
+cover: "https://sleepfreaks-dtm.com/wordpress/wp-content/uploads/2022/06/Piano-Tips-eye.jpg"
 ---
 [![](https://sleepfreaks-dtm.com/wordpress/wp-content/uploads/2026/02/Hotone_Japan.jpg "Hotone_Japan")](https://bit.ly/3ZEGc9O)
 

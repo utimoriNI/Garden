@@ -11,6 +11,7 @@ source_container:
 topic: []
 moc: []
 status: inbox
+cover: "https://garden-storage-228689237525-us-east-2-an.s3.us-east-2.amazonaws.com/16a8f075a3b583fe0c1006230d2bb1b3.png"
 ---
 **consist of**:: [[Omoro]]
 [[ReadItLater]] [[Article]]

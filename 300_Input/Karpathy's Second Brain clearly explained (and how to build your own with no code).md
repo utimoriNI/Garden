@@ -10,6 +10,7 @@ tags:
   - 🎁Topic/PKM
   - 📂Project/LLMWiki
 image: https://abs.twimg.com/rweb/ssr/default/v2/og/image.png
+cover: "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png"
 ---
 
 Karpathy dropped a post last week about building a personal knowledge base with AI. 41K people bookmarked it.

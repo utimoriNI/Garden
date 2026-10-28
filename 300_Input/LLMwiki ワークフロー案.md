@@ -10,6 +10,7 @@ tags:
   - 🎁Topic/PKM
   - 📂Project/LLMWiki
 image: https://abs.twimg.com/rweb/ssr/default/v2/og/image.png
+cover: "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png"
 ---
 
 **tk | Obsidianを極める大学生** @pkm\_tk111 [2026-04-06](https://x.com/pkm_tk111/status/2041173931126816770)

@@ -9,6 +9,7 @@ description: マシュマロに答える。 マシュマロ この質問、非�
 tags:
   - 🎁Topic/PKM
 image: https://assets.st-note.com/production/uploads/images/177976113/rectangle_large_type_2_6983b0e36710d4325a4671c1cda253de.jpeg?fit=bounds&quality=85&width=1280
+cover: "https://assets.st-note.com/production/uploads/images/177976113/rectangle_large_type_2_6983b0e36710d4325a4671c1cda253de.jpeg?fit=bounds&quality=85&width=1280"
 ---
 ![見出し画像](https://assets.st-note.com/production/uploads/images/177976113/rectangle_large_type_2_6983b0e36710d4325a4671c1cda253de.jpeg?width=1200)
 
