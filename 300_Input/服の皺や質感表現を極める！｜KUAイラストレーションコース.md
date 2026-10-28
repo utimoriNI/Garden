@@ -9,4 +9,5 @@ description: KUAイラストアドベントカレンダー、12月7日はいな�
 tags:
   - 🎁Topic/Illust
 image: https://assets.st-note.com/production/uploads/images/92423594/rectangle_large_type_2_92bcd4faece31d7c048fac86420d531f.png?fit=bounds&quality=85&width=1280
+cover: "https://assets.st-note.com/production/uploads/images/92423594/rectangle_large_type_2_92bcd4faece31d7c048fac86420d531f.png?fit=bounds&quality=85&width=1280"
 ---

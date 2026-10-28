@@ -9,6 +9,7 @@ description: 武田綾乃をすこれ
 tags:
   - 🎁Topic/Blender
 image: https://abs.twimg.com/rweb/ssr/default/v2/og/image.png
+cover: "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png"
 ---
 **ゆとりCG** @yutorikoubo 2026-01-30
 

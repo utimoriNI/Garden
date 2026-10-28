@@ -9,6 +9,7 @@ description:
 tags:
   - 🎁Topic/Living
 image: https://abs.twimg.com/rweb/ssr/default/v2/og/image.png
+cover: "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png"
 ---
 **ベリ** @Berry\_\_Another 2026-01-12
 

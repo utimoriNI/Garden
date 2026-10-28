@@ -11,6 +11,7 @@ tags:
   - Scrap
   - A
 image: https://assets.st-note.com/production/uploads/images/182022792/rectangle_large_type_2_160510215aac9d790024f76c6cb9a8f7.jpeg?fit=bounds&quality=85&width=1280
+cover: "https://assets.st-note.com/production/uploads/images/182022792/rectangle_large_type_2_160510215aac9d790024f76c6cb9a8f7.jpeg?fit=bounds&quality=85&width=1280"
 ---
 ## 高評価して応援しよう！
 

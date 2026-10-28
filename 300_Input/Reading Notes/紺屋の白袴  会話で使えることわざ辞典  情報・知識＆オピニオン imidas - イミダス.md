@@ -7,6 +7,7 @@ source_container:
 topic: []
 moc: []
 status: inbox
+cover: "http://imidas.jp/common/images/og_img.jpg"
 ---
 **consist of**:: [[Word]]
 [[ReadItLater]] [[Article]]
