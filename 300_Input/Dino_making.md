@@ -9,6 +9,7 @@ description: "timelapse"
 tags:
   - "🎁Topic/Illust"
 image: "https://abs.twimg.com/responsive-web/client-web/icon-ios.77d25eba.png"
+cover: "https://pbs.twimg.com/ext_tw_video_thumb/1833286332241596416/pu/img/V8RPPwaODOCVAzWp?format=webp&name=large"
 ---
 **Dino** @Dino\_illus [2024-09-09](https://x.com/Dino_illus/status/1833286798027731180)
 

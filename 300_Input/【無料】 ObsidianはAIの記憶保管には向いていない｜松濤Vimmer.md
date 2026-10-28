@@ -16,6 +16,7 @@ tags:
 image: "https://assets.st-note.com/production/uploads/images/292964544/rectangle_large_type_2_b811fb163f3e335964978f96f376b4c4.png?fit=bounds&quality=85&width=1280"
 raindrop_id: "1787471636"
 raindrop_created: "2026-07-11T02:59:31.452Z"
+cover: "https://assets.st-note.com/production/uploads/images/292964544/rectangle_large_type_2_b811fb163f3e335964978f96f376b4c4.png?fit=bounds&quality=85&width=1280"
 ---
 
 AI活用で一番効くのは、細かいTipsを知っていることよりも、あとからAIに渡せる文脈がどれだけ残っているかなんじゃないか、ということです。

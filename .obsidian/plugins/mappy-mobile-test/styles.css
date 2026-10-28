@@ -1,0 +1,639 @@
+.mappy-view {
+  --mappy-accent: var(--interactive-accent);
+  /* currentColor survives hosts that blank --text-normal, e.g. Excalidraw's embedded note containers. */
+  --mappy-line: currentColor;
+  --mappy-selection: var(--color-blue);
+  /* Drag preview (connector and slot frame): lighter than the selection blue so the thick line does not dominate. */
+  --mappy-drop: #2cbdff;
+  color: var(--text-normal);
+  /* app.css fixes both on body (`color: var(--text-normal)`, `caret-color: var(--caret-color)`), and a descendant inherits
+     body's computed colour, not the variable: the map reads each variable again so the explicit theme's re-derived value
+     (below) reaches the nodes and the inline input (LEV-93). Read here in every mode, like `color`: following the app it
+     resolves to the same colour the inherited property had. The one difference: the app hides carets during a modal's
+     open/close animation with an important `body.hide-cursor { caret-color: transparent }`, which a declaration on the
+     map outranks as it would any inherited value. */
+  caret-color: var(--caret-color);
+  position: relative;
+  height: 100%;
+  padding: 0;
+  overflow: hidden;
+  background: var(--background-primary);
+}
+
+/* The view's own container is the pane's `.view-content`, which app.css pads by `.workspace-leaf-content .view-content`
+   (and the mobile drawer by `.workspace-drawer-active-tab-content .view-content`). Obsidian's own views take it off by
+   specificity (`.workspace-leaf-content[data-type='markdown'] .view-content { padding: 0 }`); this does the same, one
+   class above both (LEV-253: the community scan warns on important declarations). */
+.workspace-leaf-content .view-content.mappy-view { padding: 0; }
+
+/*
+ * Explicit theme (settings, M14). The view puts Obsidian's own `theme-light` / `theme-dark`
+ * class on the map container, so the app's (and the active community theme's) palette
+ * for that theme applies inside it: `--color-base-*`, `--mono-rgb-*`, `--color-<name>`,
+ * `--shadow-s`, `color-scheme`. Obsidian derives the semantic variables from that
+ * palette on `body`, and a child inherits the already-computed body values, so the ones
+ * the map and the Markdown rendered in its nodes read (`--caret-color` for the inline
+ * input among them, LEV-93) are derived again here, on the container, with the mapping
+ * app.css uses (checked against 1.6.7 and 1.14.2; the `--mono-rgb-*` /
+ * `--color-accent-hsl` helpers exist in both). `:where()` keeps this at
+ * zero specificity: a theme's `.theme-dark { --background-primary: … }` still wins, and
+ * Obsidian's `.theme-dark` overrides for the accent (`--text-accent`,
+ * `--interactive-accent`, `--interactive-normal`, `--text-selection`) apply as they do
+ * on the body. Without a theme class nothing here matches and the container inherits
+ * the app's theme, exactly as before the setting existed.
+ */
+:where(.mappy-view.theme-light, .mappy-view.theme-dark) {
+  --background-primary: var(--color-base-00);
+  --background-primary-alt: var(--color-base-10);
+  --background-secondary: var(--color-base-20);
+  --background-modifier-hover: rgba(var(--mono-rgb-100), 0.075);
+  --background-modifier-border: var(--color-base-30);
+  --background-modifier-border-hover: var(--color-base-35);
+  --background-modifier-border-focus: var(--color-base-40);
+  --background-modifier-form-field: var(--color-base-00);
+  --text-normal: var(--color-base-100);
+  --text-muted: var(--color-base-70);
+  --text-faint: var(--color-base-50);
+  --text-error: var(--color-red);
+  --text-accent: var(--color-accent);
+  --text-accent-hover: var(--color-accent-2);
+  --text-selection: hsla(var(--color-accent-hsl), 0.2);
+  --caret-color: var(--text-normal);
+  --interactive-normal: var(--color-base-00);
+  --interactive-hover: var(--color-base-10);
+  --interactive-accent-hsl: var(--color-accent-hsl);
+  --interactive-accent: var(--color-accent-1);
+  --interactive-accent-hover: var(--color-accent-2);
+  --link-color: var(--text-accent);
+  --link-color-hover: var(--text-accent-hover);
+  --link-external-color: var(--text-accent);
+  --link-external-color-hover: var(--text-accent-hover);
+  --link-unresolved-color: var(--text-accent);
+  --link-unresolved-decoration-color: hsla(var(--interactive-accent-hsl), 0.3);
+  --code-background: var(--background-primary-alt);
+  --code-normal: var(--text-normal);
+  --code-comment: var(--text-faint);
+  --tag-color: var(--text-accent);
+  --tag-color-hover: var(--text-accent);
+  --tag-background: hsla(var(--interactive-accent-hsl), 0.1);
+  --tag-background-hover: hsla(var(--interactive-accent-hsl), 0.2);
+  --tag-border-color: hsla(var(--interactive-accent-hsl), 0.15);
+  --tag-border-color-hover: hsla(var(--interactive-accent-hsl), 0.15);
+  --icon-color: var(--text-muted);
+  --icon-color-hover: var(--text-muted);
+  --icon-color-active: var(--text-accent);
+  --icon-color-focused: var(--text-normal);
+  --hr-color: var(--background-modifier-border);
+  --divider-color: var(--background-modifier-border);
+  --blockquote-border-color: var(--interactive-accent);
+  --embed-border-start: 2px solid var(--interactive-accent);
+  --checkbox-color: var(--interactive-accent);
+  --checkbox-border-color: var(--text-faint);
+  --checkbox-marker-color: var(--background-primary);
+  --list-marker-color: var(--text-faint);
+  --table-border-color: var(--background-modifier-border);
+  --table-header-color: var(--text-normal);
+  --indentation-guide-color: rgba(var(--mono-rgb-100), 0.12);
+  --scrollbar-bg: transparent;
+  --scrollbar-thumb-bg: rgba(var(--mono-rgb-100), 0.1);
+  --scrollbar-active-thumb-bg: rgba(var(--mono-rgb-100), 0.2);
+}
+/* app.css points the caret at the accent on mobile (`.is-mobile { --caret-color: var(--text-accent) }`), so the themed map
+   does too; `.is-mobile` is body's class, the rule still matches the container only (LEV-93). */
+:where(.is-mobile .mappy-view.theme-light, .is-mobile .mappy-view.theme-dark) { --caret-color: var(--text-accent); }
+
+.mappy-view .mappy-floating {
+  position: absolute;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  gap: 3px;
+  padding: 4px;
+  border-radius: 9px;
+  background: var(--background-primary);
+  box-shadow: var(--shadow-s);
+}
+.mappy-view .mappy-modes { left: 16px; bottom: 16px; }
+.mappy-view .mappy-modes .is-active { background: var(--background-modifier-hover); color: var(--interactive-accent); }
+/* A layout the settings leave out (M14); the button's own display rule below would otherwise win over [hidden]. */
+.mappy-view .mappy-modes .mappy-button[hidden] { display: none; }
+.mappy-view .mappy-actions { right: 16px; top: 16px; }
+.mappy-view .mappy-button > .mappy-button-label { display: none; }
+.mappy-view .mappy-button { display: inline-flex; gap: 5px; align-items: center; justify-content: center; font-size: var(--font-ui-small); min-height: 32px; min-width: 32px; padding: 6px 8px; background: transparent; box-shadow: none; }
+.mappy-view .mappy-button:hover { background: var(--background-modifier-hover); }
+.mappy-view .mappy-button > span { display: inline-flex; }
+.mappy-view .mappy-button svg { width: 15px; height: 15px; }
+.mappy-view .mappy-button:focus-visible { outline: 2px solid var(--mappy-accent); outline-offset: 3px; }
+/* The 操作 popover (§5 M3): a card under the gear, its right edge on the gear's, above the other floating controls.
+   The view sets top, right, max-width (320px at most, less in a narrow pane) and max-height from the pane's and the
+   gear's rects (placePopover); the width is the content's up to that cap, and a short pane scrolls the card instead
+   of cutting it. Obsidian's variables for the surface, so it reads in both themes and under the map's own theme
+   (M14), and its `button` styling is undone item by item: app.css centres a button's content
+   (`justify-content: center`), which put each row's icon somewhere else once the rows shared the card's width
+   (LEV-84), so a row's content starts at its left edge (`justify-content: flex-start`; the card's
+   `align-items: stretch` is the column default written out). */
+.mappy-view .mappy-popover {
+  position: absolute;
+  z-index: 4;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 2px;
+  box-sizing: border-box;
+  width: max-content;
+  overflow-y: auto;
+  padding: 6px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-m);
+  background: var(--background-secondary);
+  color: var(--text-normal);
+  box-shadow: var(--shadow-s);
+}
+.mappy-view .mappy-popover-item {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  box-sizing: border-box;
+  width: 100%;
+  min-width: 0;
+  height: auto;
+  min-height: 0;
+  margin: 0;
+  padding: 8px 10px;
+  border: 0;
+  border-radius: var(--radius-s);
+  background: transparent;
+  color: var(--text-normal);
+  box-shadow: none;
+  font-size: var(--font-ui-small);
+  font-weight: 500;
+  line-height: 1.35;
+  text-align: left;
+  white-space: normal;
+  cursor: var(--cursor);
+}
+.mappy-view .mappy-popover-item:hover, .mappy-view .mappy-popover-item:focus-visible { background: var(--background-modifier-hover); box-shadow: none; }
+.mappy-view .mappy-popover-item:focus-visible { outline: 2px solid var(--mappy-accent); outline-offset: -2px; }
+/* The faint colour alone: app.css also dims `button[aria-disabled="true"]` to 0.7. */
+.mappy-view .mappy-popover-item.is-disabled { color: var(--text-faint); cursor: default; opacity: 1; }
+.mappy-view .mappy-popover-item.is-disabled:hover { background: transparent; }
+.mappy-view .mappy-popover-icon { display: inline-flex; flex: none; margin-top: 1px; color: var(--text-muted); }
+.mappy-view .mappy-popover-item.is-disabled .mappy-popover-icon { color: inherit; }
+.mappy-view .mappy-popover-icon svg { width: 16px; height: 16px; }
+.mappy-view .mappy-popover-text { display: flex; flex-direction: column; gap: 1px; min-width: 0; }
+/* One line: the card takes the width of the longest description, and a narrow pane cuts it with an ellipsis. */
+.mappy-view .mappy-popover-description { overflow: hidden; color: var(--text-muted); font-size: var(--font-ui-smaller); font-weight: 400; white-space: nowrap; text-overflow: ellipsis; }
+.mappy-view .mappy-popover-item.is-disabled .mappy-popover-description { color: inherit; }
+/* The context card (LEV-369): the gear's card opened at the pointer (the view sets left, top and the caps), its rows a
+   line each with the key that does the same on the right, the deletion in the error colour, and on a node a row of
+   colour circles on top. A circle is the page's background under the colour (`.mappy-swatch-fill`, filled by the node
+   colour rules below), so it shows the colour as a node on the canvas does in the theme the map is drawn in. */
+.mappy-view .mappy-context-card .mappy-popover-item { align-items: center; padding: 6px 10px; }
+.mappy-view .mappy-context-card .mappy-popover-icon { margin-top: 0; }
+.mappy-view .mappy-popover-key { margin-left: auto; padding-left: 16px; color: var(--text-faint); font-size: var(--font-ui-smaller); font-weight: 400; white-space: nowrap; }
+.mappy-view .mappy-popover-item.mod-warning, .mappy-view .mappy-popover-item.mod-warning .mappy-popover-icon { color: var(--text-error); }
+.mappy-view .mappy-popover-separator { flex: none; height: 1px; margin: 4px 6px; background: var(--background-modifier-border); }
+.mappy-view .mappy-swatches { display: flex; flex-direction: column; gap: 6px; padding: 4px 8px 6px; }
+.mappy-view .mappy-swatches-label { color: var(--text-muted); font-size: var(--font-ui-smaller); }
+.mappy-view .mappy-swatches-row { display: flex; flex-wrap: wrap; gap: 8px; }
+.mappy-view .mappy-swatch {
+  display: block;
+  flex: none;
+  box-sizing: border-box;
+  width: 22px;
+  height: 22px;
+  min-width: 0;
+  min-height: 0;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 50%;
+  background: var(--background-primary);
+  box-shadow: none;
+  cursor: var(--cursor);
+}
+.mappy-view .mappy-swatch:hover { border-color: var(--text-muted); }
+.mappy-view .mappy-swatch.is-checked { box-shadow: 0 0 0 2px var(--background-secondary), 0 0 0 4px var(--text-normal); }
+.mappy-view .mappy-swatch:focus-visible { outline: 2px solid var(--mappy-accent); outline-offset: 5px; }
+.mappy-view .mappy-swatch-fill { display: block; width: 100%; height: 100%; }
+/* 色なし: the page's background crossed out. */
+.mappy-view .mappy-swatch-fill[data-mappy-none] {
+  background: linear-gradient(to top right, transparent calc(50% - 1px), var(--text-error) calc(50% - 1px), var(--text-error) calc(50% + 1px), transparent calc(50% + 1px));
+}
+.mappy-view .mappy-canvas {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+  touch-action: none;
+  outline: none;
+  background-color: var(--background-primary);
+  cursor: grab;
+}
+.mappy-view .mappy-canvas.is-panning { cursor: grabbing; }
+
+/* Private mobile experiment: controls stay outside the transformed map. */
+.mappy-view.mappy-mobile-experiment { display: flex; flex-direction: column; container-type: inline-size; }
+.mappy-view .mappy-touch-controls {
+  position: relative;
+  flex: none;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: stretch;
+  gap: 4px;
+  margin: 8px 68px 8px 8px;
+  max-height: 45%;
+  overflow: auto;
+  touch-action: pan-y;
+}
+.mappy-view.mappy-mobile-experiment .mappy-canvas { position: relative; flex: 1; min-height: 0; margin-bottom: 80px; }
+.mappy-view.mappy-mobile-experiment .mappy-button { min-width: 44px; min-height: 44px; height: auto; font-size: 14px; touch-action: manipulation; }
+.mappy-view .mappy-touch-controls [hidden] { display: none; }
+.mappy-view .mappy-touch-question { grid-column: 1 / -1; overflow-wrap: anywhere; }
+.mappy-view.mappy-mobile-experiment .mappy-layout-row {
+  left: 8px;
+  right: 8px;
+  bottom: 24px; /* The previous layout row was at bottom: 8px: exactly 16px up. */
+  gap: 8px;
+  padding: 0;
+  background: transparent;
+  box-shadow: none;
+}
+.mappy-view.mappy-mobile-experiment .mappy-modes { position: static; flex: none; }
+.mappy-view.mappy-mobile-experiment .mappy-zoom { position: static; flex: none; margin-left: auto; }
+.mappy-view.mappy-mobile-experiment .mappy-inline-input { font-size: 18px; }
+@container (max-width: 600px) {
+  /* Intermediate panes put zoom above the row rather than squeezing hit targets. */
+  .mappy-view.mappy-mobile-experiment .mappy-zoom { position: absolute; right: 0; bottom: 56px; }
+  .mappy-view.mappy-mobile-experiment .mappy-canvas { margin-bottom: 136px; }
+}
+@container (max-width: 440px) {
+  /* The phone already had a separate lower zoom row: preserve it and raise layouts 16px. */
+  .mappy-view.mappy-mobile-experiment .mappy-zoom { bottom: -72px; }
+  .mappy-view.mappy-mobile-experiment .mappy-layout-row { bottom: 80px; }
+}
+/* Touch-only movement toggle keeps the accepted shared-row placement. */
+.mappy-view .mappy-pan-controls { display: none; }
+@media (pointer: coarse) {
+  .mappy-view.mappy-mobile-experiment .mappy-pan-controls { display: flex; }
+}
+.is-mobile .mappy-view.mappy-mobile-experiment .mappy-pan-controls { display: flex; }
+.mappy-view.mappy-mobile-experiment .mappy-pan-controls {
+  position: static;
+  flex: none;
+  margin-left: auto;
+  user-select: none;
+}
+.mappy-view.mappy-mobile-experiment .mappy-pan-controls .mappy-button {
+  min-width: 88px;
+  min-height: 44px;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+}
+.mappy-view.mappy-mobile-experiment .mappy-pan-controls [aria-pressed="true"] {
+  color: var(--text-on-accent);
+  background: var(--interactive-accent);
+}
+/* Focused mobile editing replaces toolbar chrome with contextual, unscaled confirmation. */
+.mappy-view.mappy-mobile-editing > .mappy-floating:not(.mappy-edit-controls) { display: none; }
+.mappy-view.mappy-mobile-experiment.mappy-mobile-editing .mappy-canvas { margin-bottom: 0; overflow: clip; }
+.mappy-view.mappy-mobile-editing .mappy-edit-controls { transform: translateX(-50%); padding: 4px; }
+.mappy-view.mappy-mobile-editing .mappy-node.is-editing { max-width: var(--mappy-edit-width, calc(100vw - 32px)); }
+
+/*
+ * Obsidian draws the closest `aria-label` above the pointer as a tooltip under that element, unless the element's
+ * `--no-tooltip` is `true` (LEV-199). Over the map that would be the canvas's key instructions, or the inline
+ * input's name, covering the node below the one hovered. The fold controls keep theirs.
+ */
+.mappy-view .mappy-canvas { --no-tooltip: true; }
+.mappy-view .mappy-node-toggle { --no-tooltip: false; }
+.mappy-view .mappy-empty-state { position: absolute; inset: 50% 20px auto; transform: translateY(-50%); text-align: center; color: var(--text-muted); }
+.mappy-view .mappy-empty-state[hidden] { display: none; }
+/* No `will-change: transform` on the world (LEV-213): a composited world made every pan and zoom re-layerize each of
+   the 2,000 nodes of a large map on the main thread, p95 0.45–0.97 s per wheel event (E45 and E75, 2026-09-29).
+   Painted with its page, a moved world costs one ordinary frame. This holds while nothing inside the world is a layer
+   of its own: a composited child (an iframe or video in a node) would lift the nodes drawn over it into layers again. */
+.mappy-view .mappy-world { position: absolute; left: 0; top: 0; transform-origin: 0 0; }
+.mappy-view .mappy-edges { position: absolute; left: 0; top: 0; width: 1px; height: 1px; overflow: visible; pointer-events: none; }
+.mappy-view .mappy-edges path { fill: none; stroke: var(--mappy-line); stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
+.mappy-view .mappy-node {
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-sizing: border-box;
+  width: max-content;
+  min-width: 24px;
+  max-width: 420px;
+  min-height: 28px;
+  padding: 4px 8px;
+  border: 0;
+  border-radius: 3px;
+  background: transparent;
+  color: var(--text-normal);
+  box-shadow: none;
+  outline: none;
+  cursor: default;
+  overflow-wrap: anywhere;
+  font-size: var(--font-text-size);
+  line-height: 1.4;
+}
+.mappy-view .mappy-node.is-root {
+  max-width: 360px;
+  padding: 12px 18px;
+  border: 2px solid var(--mappy-line);
+  border-radius: 8px;
+  background: var(--color-base-40, var(--background-modifier-border-hover));
+  font-size: calc(var(--font-text-size) * 1.15);
+}
+.mappy-view .mappy-node.is-stage {
+  padding: 8px 14px;
+  border: 2px solid var(--mappy-line);
+  border-radius: 7px;
+  background: var(--background-primary);
+}
+/* A node's colour (LEV-364): its text wrapped whole in `<mark style="background: …;">` fills its box, as the highlight
+   shows in Markdown. The light theme draws the colour as written (Highlightr's six, their alpha over the page); the dark
+   theme draws each of the six darker, so the light text on it reads (WCAG AA, tests/core/node-color.test.ts), and a
+   colour of the note's own mixed into the page. Which theme is the element's `color-scheme` (`light-dark()`), which
+   Obsidian's `theme-light`／`theme-dark` set: the app's while the map follows it, the map's own class otherwise (M14),
+   so no rule here looks at the body's class. An engine without `light-dark()` draws the light colours. Inside the box
+   only, so the selection's outline outside it never meets the fill. Placed after the root's and the first level's
+   faces, which it replaces (same specificity). The context card's circles (LEV-369) take the same fills. */
+.mappy-view .mappy-node[data-mappy-color="yellow"], .mappy-view .mappy-swatch-fill[data-mappy-color="yellow"] { background: #FFF3A3A6; }
+.mappy-view .mappy-node[data-mappy-color="orange"], .mappy-view .mappy-swatch-fill[data-mappy-color="orange"] { background: #FFB86CA6; }
+.mappy-view .mappy-node[data-mappy-color="red"], .mappy-view .mappy-swatch-fill[data-mappy-color="red"] { background: #FF5582A6; }
+.mappy-view .mappy-node[data-mappy-color="green"], .mappy-view .mappy-swatch-fill[data-mappy-color="green"] { background: #BBFABBA6; }
+.mappy-view .mappy-node[data-mappy-color="blue"], .mappy-view .mappy-swatch-fill[data-mappy-color="blue"] { background: #ADCCFFA6; }
+.mappy-view .mappy-node[data-mappy-color="purple"], .mappy-view .mappy-swatch-fill[data-mappy-color="purple"] { background: #D2B3FFA6; }
+.mappy-view .mappy-node[data-mappy-color="custom"] { background: var(--mappy-node-custom); }
+@supports (color: light-dark(#000, #fff)) {
+  .mappy-view .mappy-node[data-mappy-color="yellow"], .mappy-view .mappy-swatch-fill[data-mappy-color="yellow"] { background: light-dark(#FFF3A3A6, #6B5D12); }
+  .mappy-view .mappy-node[data-mappy-color="orange"], .mappy-view .mappy-swatch-fill[data-mappy-color="orange"] { background: light-dark(#FFB86CA6, #6E4319); }
+  .mappy-view .mappy-node[data-mappy-color="red"], .mappy-view .mappy-swatch-fill[data-mappy-color="red"] { background: light-dark(#FF5582A6, #6C2636); }
+  .mappy-view .mappy-node[data-mappy-color="green"], .mappy-view .mappy-swatch-fill[data-mappy-color="green"] { background: light-dark(#BBFABBA6, #24572A); }
+  .mappy-view .mappy-node[data-mappy-color="blue"], .mappy-view .mappy-swatch-fill[data-mappy-color="blue"] { background: light-dark(#ADCCFFA6, #243F6E); }
+  .mappy-view .mappy-node[data-mappy-color="purple"], .mappy-view .mappy-swatch-fill[data-mappy-color="purple"] { background: light-dark(#D2B3FFA6, #46306E); }
+  .mappy-view .mappy-node[data-mappy-color="custom"] {
+    background: light-dark(var(--mappy-node-custom), color-mix(in srgb, var(--mappy-node-custom) 40%, var(--background-primary)));
+  }
+}
+/* The inline editor draws the draft in the label's weight: a bolder label is wider, and would wrap sooner than the draft did (LEV-198). */
+.mappy-view .mappy-node.is-root > .mappy-node-content > .mappy-node-label, .mappy-view .mappy-node.is-root > .mappy-inline-input { font-weight: 700; }
+.mappy-view .mappy-node.is-stage > .mappy-node-content > .mappy-node-label, .mappy-view .mappy-node.is-stage > .mappy-inline-input { font-weight: 600; }
+.mappy-view .mappy-node.is-selected, .mappy-view .mappy-node:focus-visible { outline: 1px solid var(--mappy-selection); outline-offset: 1px; }
+/* Image files dragged in from outside attach to the highlighted node. */
+.mappy-view .mappy-node.is-drop-target { outline: 1px dashed var(--mappy-selection); outline-offset: 3px; }
+/* Node dragging (pointer events): the source stays faint in place, a translucent ghost follows the pointer,
+   an empty frame of the same size marks the slot, and the connector from the destination parent is drawn thick and blue. */
+.mappy-view .mappy-nodes { user-select: none; -webkit-user-select: none; }
+/* No cursor change while dragging: cursor is inherited, so setting it on the canvas would restyle every node. */
+.mappy-view .mappy-node.is-drag-source { opacity: 0.35; }
+/* A free tree (topic or body) drags itself, no ghost: lifted a little, and out of hit testing so slots beneath it can be previewed. */
+.mappy-view .mappy-node.is-drag-moving { box-shadow: var(--shadow-s); pointer-events: none; }
+/* A topic held over a slot already looks like the plain node it becomes when it joins. */
+.mappy-view .mappy-node.is-topic.is-merging {
+  padding: 8px 14px;
+  border-color: var(--mappy-drop);
+  background: var(--background-primary);
+  font-size: var(--font-text-size);
+}
+.mappy-view .mappy-node.is-topic.is-merging > .mappy-node-content > .mappy-node-label { font-weight: 600; }
+.mappy-view .mappy-drag-ghost {
+  position: absolute;
+  left: 0;
+  top: 0;
+  z-index: 3;
+  transform-origin: 0 0;
+  will-change: transform;
+  opacity: 0.6;
+  background: var(--background-primary);
+  box-shadow: var(--shadow-s);
+  pointer-events: none;
+}
+.mappy-view .mappy-drop-placeholder {
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-sizing: border-box;
+  border: 1.5px solid var(--mappy-drop);
+  border-radius: 6px;
+  opacity: 0.7;
+  background: transparent;
+  pointer-events: none;
+}
+.mappy-view .mappy-drop-placeholder[hidden] { display: none; }
+.mappy-view .mappy-edges path.is-preview { stroke: var(--mappy-drop); stroke-width: 4; stroke-linecap: round; }
+.mappy-view .mappy-node-content { min-width: 0; }
+.mappy-view .mappy-node-label { display: inline; font-weight: 400; white-space: normal; }
+/* A node without text, and a draft emptied in the inline editor, share one box (LEV-203): wide enough to aim at and
+   type into, and one line high (the zero-width space), as the draft's one row is. Opening or closing the editor on it
+   changes neither its size nor, with it, the map. Not a node that shows images or links under its empty title (an
+   image pasted onto an untitled node, E37): that node is its attachments, as it always was, and an empty line above
+   them would move every such map on upgrade; the draft's row over it is the one thing editing it adds. */
+.mappy-view .mappy-node.is-empty:not(.is-editing):not(.has-attachments),
+.mappy-view .mappy-node.is-editing.is-draft-empty:not(.has-attachments) { min-width: 96px; }
+.mappy-view .mappy-node.is-empty:not(.has-attachments) > .mappy-node-content > .mappy-node-label::before { content: "\200b"; }
+/* While the inline editor stands in for a node's text, the node hides that text and keeps its attachments on
+   screen; both parts set `display`, so the browser's own rule for `hidden` needs saying again here. */
+.mappy-view .mappy-node-label[hidden], .mappy-view .mappy-node-call-mark[hidden] { display: none; }
+.mappy-view .mappy-node-label :is(p, h1, h2, h3, h4, h5, h6) { display: inline; margin: 0; padding: 0; font: inherit; }
+.mappy-view .mappy-node-label img { display: inline-block; max-width: 240px; max-height: 140px; object-fit: contain; vertical-align: middle; }
+.mappy-view .mappy-node-attachments { display: flex; align-items: center; flex-wrap: wrap; gap: 4px 8px; margin-top: 3px; font-size: var(--font-ui-small); color: var(--text-muted); }
+.mappy-view .mappy-node-attachments:empty { display: none; }
+.mappy-view .mappy-node-attachments > a { display: inline-block; max-width: 220px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.mappy-view .mappy-node-attachments .image-embed { display: inline-flex; min-width: 0; max-width: 180px; }
+.mappy-view .mappy-node-attachments img { display: block; width: auto; height: auto; max-width: 180px; max-height: 110px; object-fit: contain; }
+.mappy-view .mappy-node .internal-embed { max-width: 100%; }
+.mappy-view .mappy-node a { cursor: pointer; }
+.mappy-view .mappy-node.is-editing { cursor: text; }
+.mappy-view .mappy-inline-input {
+  display: block;
+  box-sizing: border-box;
+  /* One row as wide as the text, then more rows once it reaches the node's own cap (max-width above: 420px, the root
+     360px), which is where the confirmed label wraps too (LEV-198). The 100% is cyclic while the node sizes itself, so
+     the text's full width asks for the cap; laid out, it is the node's content box. Where `field-sizing` is
+     unsupported InlineEditor.resize sets the width and height instead. At least the node's width (an image, the
+     error line or the empty node's floor below can make it wider), so a click beside the text still lands in the
+     editor, not on the node. No fixed floor of its own: a floor the node does not share sticks out of it or
+     resizes it when the draft closes, and engines disagree on how a 40px floor taken with the percentage counts
+     toward the node's width (Obsidian's Chromium 124 counted none, so the draft stuck out of an empty node, LEV-203). */
+  field-sizing: content;
+  min-width: 100%;
+  max-width: 100%;
+  /* One row is the line's own height, as the label's is: a taller box would put the caret above the middle and
+     resize the node when the draft closes (LEV-203). */
+  min-height: 0;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--text-normal);
+  box-shadow: none;
+  font: inherit;
+  /* The label's own weight (`.mappy-node-label`), not a theme's on an ancestor; roots and first-level nodes below. */
+  font-weight: 400;
+  /* The UA resets these on a textarea; a theme that spaces the label's text must space the draft the same. */
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  text-transform: inherit;
+  line-height: inherit;
+  outline: none;
+  /* No scrollbar while the fallback measures the height (it would narrow the row), and the label's breaking rule. */
+  overflow: hidden;
+  overflow-wrap: anywhere;
+  resize: none;
+}
+/* Set only while InlineEditor.resize (without `field-sizing`) reads the text's one-row width. */
+/* No width and no min-width (the node's width must not floor the reading); the 1px padding makes a laid-out empty
+   draft read 1, so 0 still means no layout at all. */
+.mappy-view .mappy-inline-input.is-measuring { width: 0; min-width: 0; padding-right: 1px; white-space: pre; }
+.mappy-view .mappy-inline-input:focus { border: 0; box-shadow: none; outline: none; }
+.mappy-view .mappy-inline-input { user-select: text; -webkit-user-select: text; }
+.mappy-view .mappy-inline-error { max-width: 303px; margin-top: 4px; color: var(--text-error); font-size: var(--font-ui-small); }
+.mappy-view .mappy-inline-error:empty { display: none; }
+.mappy-view .mappy-node-toggle {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  display: grid;
+  place-items: center;
+  box-sizing: border-box;
+  min-width: 28px;
+  min-height: 28px;
+  padding: 0;
+  border-radius: 999px;
+  color: var(--text-normal);
+  background: transparent;
+  border: 0;
+  box-shadow: none;
+  cursor: pointer;
+  pointer-events: auto;
+}
+.mappy-view .mappy-node-toggle-mark {
+  display: grid;
+  place-items: center;
+  box-sizing: border-box;
+  height: 18px;
+  border: 1px solid var(--mappy-line);
+  border-radius: 999px;
+  background: var(--background-primary);
+  font-size: 11px;
+  font-weight: 400;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  opacity: 0;
+  pointer-events: none;
+}
+.mappy-view .mappy-node-toggle svg { width: 11px; height: 11px; }
+.mappy-view .mappy-node.is-collapsed > .mappy-node-toggle > .mappy-node-toggle-mark,
+.mappy-view .mappy-node-toggle:hover > .mappy-node-toggle-mark,
+.mappy-view .mappy-node-toggle:focus-visible > .mappy-node-toggle-mark { opacity: 1; }
+.mappy-view .mappy-node-toggle:focus-visible { outline: 1px solid var(--mappy-selection); outline-offset: 1px; }
+.mappy-view .mappy-node-toggle[hidden] { display: none; }
+.mappy-view .mappy-zoom { right: 16px; bottom: 16px; }
+/* Embedded map (§5 M10): the node and edge styles of the view inside a frame of fixed height; no panning, no editing.
+   The frame follows Obsidian's theme like any other embed; only its own variables are set here. */
+.mappy-embed.mappy-view {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  height: var(--mappy-embed-height, 320px);
+  margin: 4px 0;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+}
+.mappy-embed.mappy-view .mappy-canvas { cursor: default; touch-action: auto; }
+.mappy-embed.mappy-view .mappy-canvas[hidden] { display: none; }
+.mappy-embed.mappy-view .mappy-node { cursor: default; }
+.mappy-embed.mappy-view .mappy-embed-open {
+  position: absolute;
+  right: 6px;
+  top: 6px;
+  z-index: 2;
+  min-width: 28px;
+  min-height: 28px;
+  padding: 4px;
+  border-radius: 6px;
+  opacity: 0.55;
+  background: var(--background-primary);
+  box-shadow: var(--shadow-s);
+}
+.mappy-embed.mappy-view .mappy-embed-open:hover, .mappy-embed.mappy-view .mappy-embed-open:focus-visible { opacity: 1; }
+.mappy-embed.mappy-view .mappy-embed-message { position: absolute; inset: 50% 44px auto 16px; transform: translateY(-50%); color: var(--text-muted); font-size: var(--font-ui-small); }
+.mappy-embed.mappy-view .mappy-embed-message[hidden] { display: none; }
+/* Branches called from another map (§5 M12): read-only on this map, so their text steps back a little; the calling
+   item, which stands in for the called root, carries a small link mark before its text. Every such node names its
+   note in its `title`. The dark root face keeps its own colour: a muted text on it would not read. */
+.mappy-view .mappy-node.is-called:not(.is-root) > .mappy-node-content > .mappy-node-label { color: var(--text-muted); }
+.mappy-view .mappy-node.is-called:not(.is-root) > .mappy-node-content > .mappy-node-label a { color: var(--link-color); }
+/* On a node's colour (LEV-364) everything in the box takes the text's own colour, which the fills are chosen to read
+   with: a called branch's stepped-back text (the muted text on the dark yellow read about 2.3, code review 2), the
+   attachments' row, and links, which keep Obsidian's underline (the accent on the light red read about 2). */
+.mappy-view .mappy-node.is-called[data-mappy-color]:not(.is-root) > .mappy-node-content > .mappy-node-label,
+.mappy-view .mappy-node[data-mappy-color] > .mappy-node-content > .mappy-node-attachments,
+.mappy-view .mappy-node[data-mappy-color] > .mappy-node-content a,
+.mappy-view .mappy-node.is-called[data-mappy-color]:not(.is-root) > .mappy-node-content > .mappy-node-label a { color: var(--text-normal); }
+.mappy-view .mappy-node-call-mark { display: inline-flex; vertical-align: -2px; margin-right: 4px; color: var(--text-muted); }
+.mappy-view .mappy-node-call-mark svg { width: 12px; height: 12px; }
+/* Live preview renders the map inside Obsidian's own embed container: its rendered note stays hidden while the map is shown. */
+.internal-embed.mappy-embed-host { display: block; }
+.internal-embed.mappy-embed-host > :not(.mappy-embed) { display: none; }
+/* A Canvas card showing a map note (LEV-348): the map fills the card, which draws its own border, and the card's rendered
+   note stays hidden behind it, except while Canvas edits the card's Markdown (its menu's Edit): the editor shows then. */
+.canvas-node:not(.is-editing) .canvas-node-content.mappy-embed-host > :not(.mappy-embed) { display: none; }
+.canvas-node.is-editing .canvas-node-content.mappy-embed-host > .mappy-embed { display: none; }
+.mappy-embed.mappy-view.mappy-embed-card { height: 100%; margin: 0; border: none; border-radius: 0; }
+/* A map drawn off screen for Excalidraw's own "Insert image / Insert as embeddable" (§5 M6): on the document so the
+   SVG capture can read computed styles and sizes, but a pixel large, invisible and inert. Nodes are `max-content`
+   wide, so the host's size does not change how they wrap. */
+.mappy-offscreen { position: fixed; left: 0; top: 0; width: 1px; height: 1px; overflow: hidden; visibility: hidden; pointer-events: none; }
+.mappy-offscreen .mappy-view { width: 1px; height: 1px; }
+.mappy-view .mappy-file-input { display: none; }
+.mappy-edit-modal .mappy-edit-input { width: 100%; margin: 8px 0 12px; }
+.mappy-edit-modal textarea.mappy-edit-input { min-height: 220px; resize: vertical; font-family: var(--font-monospace); font-size: var(--font-smaller); line-height: 1.6; }
+.mappy-edit-modal .mappy-edit-error { color: var(--text-error); }
+.mappy-export-modal .mappy-export-note { color: var(--text-muted); font-size: var(--font-ui-small); }
+/* The settings tab's「左下に表示するレイアウト」(LEV-370): one line per layout across the row, under its name and
+   description; each name on one line at the left, its toggle at the right edge, where the other rows' controls end.
+   In a narrow window the lines shrink with the row:「いつも出ます」goes under the name, and a name longer than the row
+   is cut short, so neither runs under the toggle nor pushes it past the edge. The width is the row's whether Obsidian
+   lays the row out across (wide) or down (narrow: `flex-direction: column` in 1.14.4, where a wrapping line would
+   take the width of the description's longest word instead). */
+.setting-item.mappy-setting-layouts-row { flex-wrap: wrap; }
+.mappy-setting-layouts-row > .setting-item-control:empty { display: none; }
+.mappy-setting-layouts { flex: none; width: 100%; min-width: 0; margin-top: var(--size-4-3); padding-inline-start: var(--size-4-4); border-inline-start: 2px solid var(--background-modifier-border); }
+.mappy-setting-layout { display: flex; align-items: center; justify-content: space-between; gap: var(--size-4-4); padding: var(--size-4-2) 0; font-size: var(--font-ui-small); }
+.mappy-setting-layout + .mappy-setting-layout { border-top: 1px solid var(--background-modifier-border); }
+.mappy-setting-layout-label { display: flex; flex-wrap: wrap; align-items: baseline; column-gap: var(--size-4-2); min-width: 0; cursor: var(--cursor); }
+.mappy-setting-layout.is-locked > .mappy-setting-layout-label { cursor: default; }
+.mappy-setting-layout-name { max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.mappy-setting-layout-always { color: var(--text-muted); font-size: var(--font-ui-smaller); white-space: nowrap; }
+.mappy-setting-layout-always[hidden] { display: none; }
+.mappy-setting-layout > .checkbox-container { flex: none; }
+.mappy-setting-note { padding-top: var(--size-4-1); }
+.mappy-setting-note[hidden] { display: none; }
+.mappy-link-suggest {
+  position: fixed;
+  z-index: var(--layer-popover);
+  box-sizing: border-box;
+  width: min(360px, calc(100vw - 24px));
+  max-height: 280px;
+  overflow: auto;
+  padding: 4px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 8px;
+  background: var(--background-primary);
+  box-shadow: var(--shadow-s);
+}
+.mappy-link-option { padding: 6px 8px; border-radius: 4px; cursor: pointer; }
+.mappy-link-option.is-selected { background: var(--background-modifier-hover); }
+.mappy-link-title { display: block; color: var(--text-normal); }
+.mappy-link-path { display: block; font-size: var(--font-ui-smaller); color: var(--text-muted); overflow-wrap: anywhere; }
+@media (max-width: 450px) {
+  .mappy-view .mappy-modes { left: 8px; bottom: 8px; }
+  .mappy-view .mappy-actions { right: 8px; top: 8px; }
+  .mappy-view .mappy-zoom { right: 8px; bottom: 8px; }
+}

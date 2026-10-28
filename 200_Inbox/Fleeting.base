@@ -29,3 +29,5 @@ views:
     sort:
       - property: file.ctime
         direction: DESC
+  - type: cards
+    name: ビュー 2

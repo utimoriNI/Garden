@@ -9,6 +9,7 @@ description: 🫶
 tags:
   - 🎁Topic/Living
 image: https://abs.twimg.com/rweb/ssr/default/v2/og/image.png
+cover: "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png"
 ---
 **シブきち｜井の頭線沿線ネタ** @ShibukichiNet [2026-01-26](https://x.com/ShibukichiNet/status/2015593837440458760/history)
 

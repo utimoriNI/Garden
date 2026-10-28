@@ -1,0 +1,9 @@
+{
+  "id": "mappy-mobile-test",
+  "name": "Mappy Mobile Test",
+  "version": "0.4.11",
+  "minAppVersion": "1.8.7",
+  "description": "View and edit Markdown as linked, illustrated mind maps.",
+  "author": "Hiroya Iizuka",
+  "isDesktopOnly": false
+}

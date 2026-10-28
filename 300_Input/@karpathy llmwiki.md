@@ -10,6 +10,7 @@ tags:
   - 🎁Topic/PKM
   - 📂Project/LLMWiki
 image: https://abs.twimg.com/rweb/ssr/default/v2/og/image.png
+cover: "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png"
 ---
 
 **Andrej Karpathy** @karpathy [2026-04-02](https://x.com/karpathy/status/2039805659525644595)

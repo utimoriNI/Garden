@@ -9,6 +9,7 @@ description:
 tags:
   - 🎁Topic/Living
 image: https://abs.twimg.com/rweb/ssr/default/v2/og/image.png
+cover: "https://abs.twimg.com/rweb/ssr/default/v2/og/image.png"
 ---
 **はま@着物好き** @HamasanGo [2026-01-19](https://x.com/HamasanGo/status/2013149541277860009)
 
