@@ -1,4 +1,29 @@
 {
+  "sidebarConfig": {
+    "enabled": true,
+    "width": 290,
+    "isCollapsed": false,
+    "collapsedModules": {
+      "mini-month": false,
+      "up-next": false,
+      "task-backlog": false,
+      "agent": false
+    },
+    "moduleOrder": [
+      "mini-month",
+      "up-next",
+      "task-backlog",
+      "agent"
+    ]
+  },
+  "githubToken": null,
+  "availabilityGistId": null,
+  "availabilityExportPath": "",
+  "availabilityDefaultTimeRange": {
+    "startTime": "09:00",
+    "endTime": "17:00"
+  },
+  "useLegacyPlaintextCredentials": false,
   "calendarSources": [
     {
       "type": "google",
@@ -32,7 +57,7 @@
       "email": "royalbread.256@gmail.com",
       "refreshToken": null,
       "accessToken": null,
-      "expiryDate": 1793092920912,
+      "expiryDate": 1794828648922,
       "grantedScopes": "https://www.googleapis.com/auth/calendar.readonly https://www.googleapis.com/auth/calendar.events email"
     }
   ],
@@ -40,9 +65,6 @@
   "microsoftClientId": "",
   "microsoftProxyBaseUrl": "",
   "microsoftAccounts": [],
-  "enableLocalServer": false,
-  "localServerPort": 8540,
-  "useLegacyPlaintextCredentials": false,
   "businessHours": {
     "enabled": false,
     "daysOfWeek": [
@@ -57,8 +79,6 @@
   },
   "enableBackgroundEvents": true,
   "enableReminders": true,
-  "enableDefaultReminder": true,
-  "defaultReminderMinutes": 10,
   "workspaces": [],
   "activeWorkspace": null,
   "showEventInStatusBar": false,
@@ -91,12 +111,6 @@
     "includeGlobalQueryInBacklog": false,
     "backlogQuery": ""
   },
-  "fcrReminderCompanion": {
-    "enabled": false,
-    "apiUrl": "http://127.0.0.1:45677"
-  },
-  "apiTokens": {},
-  "authorizedTokens": {},
   "milestones": {
     "counters": {
       "created.total": 1,
@@ -113,26 +127,46 @@
   "enableMonthlyStatsReport": false,
   "lastMonthlyMilestonesGeneratedMonth": null,
   "lastMonthlyMilestonesCheckDate": null,
+  "fcrReminderCompanion": {
+    "enabled": false,
+    "apiUrl": "http://127.0.0.1:45677"
+  },
+  "apiTokens": {},
+  "authorizedTokens": {},
+  "enableLocalServer": false,
+  "localServerPort": 8540,
   "milestoneNotifierDuration": 8000,
-  "currentVersion": "0.13.6",
+  "enableDefaultReminder": true,
+  "defaultReminderMinutes": 10,
+  "currentVersion": "0.13.7",
   "linkedNotesDirectory": "",
   "linkedNoteLinkStrategy": "deadline",
   "taskBacklogLastProviderId": "",
   "caldavTaskInboxLastCalendarId": "",
-  "linkedNoteTemplate": "# {{title}}\n\n**Date**: {{date}}\n**Time**: {{timeString}}\n**Location**: {{location}}\n**Calendar**: {{calendarName}}\n\n## Description\n{{description}}\n\n## Notes\n- ",
-  "enableLinkedNoteTemplatesPreset": false,
-  "linkedNoteTemplatesPresets": [],
   "weatherCity": "",
   "weatherLatitude": null,
   "weatherLongitude": null,
   "weatherHide": false,
   "weatherInputMode": "city",
   "weatherUnit": "C",
+  "linkedNoteTemplate": "# {{title}}\n\n**Date**: {{date}}\n**Time**: {{timeString}}\n**Location**: {{location}}\n**Calendar**: {{calendarName}}\n\n## Description\n{{description}}\n\n## Notes\n- ",
+  "enableLinkedNoteTemplatesPreset": false,
+  "linkedNoteTemplatesPresets": [],
   "openDailyNoteOnDateClick": false,
   "breakTimer": {
     "enabled": false,
     "intervalMins": 60,
     "idleThresholdMins": 30,
     "breakDurationSecs": 30
+  },
+  "agent": {
+    "enabled": true,
+    "endpointUrl": "https://api.openai.com/v1",
+    "model": "gpt-4o-mini",
+    "apiKey": "",
+    "temperature": 0.2,
+    "specUrl": "https://raw.githubusercontent.com/obsidian-full-calendar-remastered/plugin-full-calendar/main/docs/architecture/api/agent-spec.md",
+    "maxRetries": 3,
+    "timeoutMs": 60000
   }
 }

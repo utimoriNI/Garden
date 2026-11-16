@@ -9,7 +9,7 @@ import re
 import subprocess
 import sys
 
-KINDS = {'log': ('やったこと', '#📝Log'), 'stuck': ('行き詰まったこと', '#🪨Stack'),
+KINDS = {'log': ('やったこと', '#📝Log'), 'stuck': ('行き詰まったこと', '#🪨Stuck'),
          'task': ('これからやること', '#📎Task')}
 
 

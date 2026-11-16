@@ -44,6 +44,8 @@ views:
     sort:
       - property: created
         direction: DESC
+  - type: table
+    name: ビュー
   - type: cards
     name: Blender
     filters:

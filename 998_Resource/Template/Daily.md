@@ -4,6 +4,13 @@
 not done
 ```
 
+## 今日やるタスク
+
+```tasks
+not done
+happens on <% tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD") %>
+```
+
 ## やったこと
 - 
 

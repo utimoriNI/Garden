@@ -2,7 +2,7 @@ filters:
   and:
     - file.ext == "md"
     - created
-    - 'date(created).format("YYYY-MM-DD") == this.file.name'
+    - (created.isType("date") || created.isType("string")) && date(created).format("YYYY-MM-DD") == this.file.name
 properties:
   file.name:
     displayName: ノート
@@ -21,7 +21,7 @@ views:
         - '!file.hasTag("📚Book")'
     order:
       - file.name
-      - note.site
+      - site
     sort:
       - property: created
         direction: DESC

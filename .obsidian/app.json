@@ -40,5 +40,10 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "userIgnoreFilters": [
+    "copilot-custom-prompts/",
+    "scripts/",
+    "998_Resource/"
+  ]
 }
