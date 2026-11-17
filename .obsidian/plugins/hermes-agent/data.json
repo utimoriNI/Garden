@@ -1,7 +1,7 @@
 {
   "baseUrl": "http://100.76.52.58:8642",
   "apiKey": "FIWWwRlLbbhQOFUYqpsp7BZTmkDBxbfgreK3wxGfwEM",
-  "model": "",
+  "model": "opus",
   "transport": "auto",
   "reasoningEffort": "",
   "includeNoteContent": true,
