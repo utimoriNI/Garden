@@ -35,7 +35,6 @@
       "environmentVariables": "",
       "environmentHash": "",
       "enabled": true,
-      "responseStyle": "Default",
       "modelAliases": {},
       "visibleModels": [
         "haiku",
@@ -64,7 +63,15 @@
           "reasoningMetadataResolved": true,
           "supportedEffortLevels": []
         }
-      ]
+      ],
+      "installationMethodsByHost": {
+        "device-1757ec25c63d07ae5f48d0dc60b824d0757dea0930c4d72e0d9b286290f11e21": "native-windows"
+      },
+      "wslDistroOverridesByHost": {},
+      "outputStyle": null,
+      "promptSuggestions": false,
+      "discoveredOutputStyles": [],
+      "sessionEnvironmentHash": ""
     },
     "codex": {
       "enabled": true,
@@ -77,9 +84,11 @@
       ],
       "enableUltraEffort": false,
       "responseStyle": "pragmatic",
+      "responseVerbosity": "default",
       "reasoningSummary": "detailed",
       "environmentVariables": "",
       "environmentHash": "runtime-input:v1:ed54f4f5238abeec7f65a5da1e468c9a639e157a7d1c7753b53f54ba1196e8a0",
+      "sessionEnvironmentHash": "runtime-input:v1:cf4a613a63a895356fbc95544817979656506c93b9fb3fe1c76833522e1c19fc",
       "installationMethodsByHost": {
         "device:c1f9a46b-8b25-49d4-be87-3259f72c1099": "native-windows"
       },
@@ -142,9 +151,18 @@
       "preferredThinkingByModel": {},
       "thinkingOptionsByModel": {},
       "visibleModels": [],
-      "selectedModels": []
+      "selectedModels": [],
+      "installationMethodsByHost": {
+        "device-1757ec25c63d07ae5f48d0dc60b824d0757dea0930c4d72e0d9b286290f11e21": "native-windows"
+      },
+      "wslDistroOverridesByHost": {}
     },
     "grok": {
+      "installationMethodsByHost": {
+        "device-1757ec25c63d07ae5f48d0dc60b824d0757dea0930c4d72e0d9b286290f11e21": "native-windows"
+      },
+      "wslDistroOverridesByHost": {},
+      "sessionEnvironmentHash": "",
       "cliPath": "",
       "cliPathsByHost": {},
       "enabled": false,
@@ -156,6 +174,10 @@
       "selectedModelsByHost": {}
     },
     "pi": {
+      "installationMethodsByHost": {
+        "device-1757ec25c63d07ae5f48d0dc60b824d0757dea0930c4d72e0d9b286290f11e21": "native-windows"
+      },
+      "wslDistroOverridesByHost": {},
       "cliPath": "",
       "cliPathsByHost": {},
       "enabled": false,
@@ -163,7 +185,25 @@
       "environmentVariables": "",
       "modelAliases": {},
       "preferredThinkingByModel": {},
+      "sessionEnvironmentHash": "",
       "visibleModels": [],
+      "selectedModels": []
+    },
+    "deepseek": {
+      "installationMethodsByHost": {
+        "device-1757ec25c63d07ae5f48d0dc60b824d0757dea0930c4d72e0d9b286290f11e21": "native-windows"
+      },
+      "wslDistroOverridesByHost": {},
+      "enabled": false,
+      "codeMode": false,
+      "presetPlugins": "",
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "environmentVariables": "",
+      "environmentHash": "",
+      "visibleModels": [],
+      "modelAliases": {},
+      "preferredReasoningByModel": {},
       "selectedModels": []
     }
   },
@@ -172,25 +212,31 @@
     "providerId": "codex",
     "model": "openai-codex/gpt-6.1-sol"
   },
+  "inlineEditModel": null,
   "savedProviderModel": {
-    "claude": "haiku"
+    "claude": "haiku",
+    "codex": "openai-codex/gpt-6.1-sol"
   },
   "savedProviderEffort": {
-    "claude": "high"
+    "claude": "high",
+    "codex": "high"
   },
-  "savedProviderServiceTier": {},
+  "savedProviderServiceTier": {
+    "codex": "default"
+  },
   "savedProviderPermissionMode": {
     "claude": "yolo",
     "codex": "yolo"
   },
   "pendingProviderSessionInvalidations": {},
-  "maxWarmAgentProcesses": 5,
   "enableAutoScroll": true,
   "showMessageTimestamps": false,
   "deferMathRenderingDuringStreaming": true,
+  "pluginRenderedFenceLanguages": [],
   "expandFileEditsByDefault": false,
   "chatViewPlacement": "main-tab",
   "enableZenMode": true,
+  "zenModePosition": null,
   "enableDualPane": true,
   "dualPaneSide": "right",
   "restoreTabsOnStartup": true,
