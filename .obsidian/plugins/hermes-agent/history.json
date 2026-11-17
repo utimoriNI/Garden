@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "conversations": [
+    {
+      "id": "tab-1794902267045-1",
+      "title": "君のモデルは何？",
+      "sessionId": "obs-1794902374760-5f0c49a9-79dc-4bf6-aca1-4e2bf1a2f02f",
+      "updatedAt": 1794902395815,
+      "messages": [
+        {
+          "role": "user",
+          "content": "君のモデルは何？",
+          "display": "君のモデルは何？"
+        },
+        {
+          "role": "assistant",
+          "content": "今は Claude Opus 5.5（`claude-opus-5-5`）で動いてるよ。Claude Pro のサブスク枠を DirectSDK 経由で使ってる。\n\nいつもメインで使ってる ChatGPT の gpt-6.1-terra じゃなくて、今回は Claude 側につながってる状態だね。"
+        },
+        {
+          "role": "user",
+          "content": "名前は何？",
+          "display": "名前は何？"
+        },
+        {
+          "role": "assistant",
+          "content": "PONYO だよ。中身は Nous Research の Hermes Agent で、ひょんが付けてくれた名前が PONYO。\n\nちなみに Discord で別に動いてる「にょん」は別の子ね。にょんが要件整理や進行管理を担当してて、僕は実際の作業をやる係。"
+        }
+      ]
+    }
+  ]
+}
