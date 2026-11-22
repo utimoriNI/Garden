@@ -1,47 +1,46 @@
 {
   "userId": "522aea2f-4113-410f-9404-fa711e0b4542",
+  "isPaidUser": false,
   "isPlusUser": false,
+  "entitlementToken": "",
+  "entitlementExpiresAt": 0,
   "plusLicenseKey": "",
   "openAIApiKey": "",
   "openAIOrgId": "",
   "huggingfaceApiKey": "",
   "cohereApiKey": "",
   "anthropicApiKey": "",
-  "azureOpenAIApiKey": "",
-  "azureOpenAIApiInstanceName": "",
-  "azureOpenAIApiDeploymentName": "",
-  "azureOpenAIApiVersion": "",
-  "azureOpenAIApiEmbeddingDeploymentName": "",
-  "googleApiKey": "AIzaSyAGu3VByD2h2NPq8erc_3LRXsu3W7a8k-o",
+  "googleApiKey": "",
   "openRouterAiApiKey": "",
   "xaiApiKey": "",
   "mistralApiKey": "",
   "deepseekApiKey": "",
+  "siliconflowApiKey": "",
   "defaultChainType": "llm_chain",
   "defaultModelKey": "google/gemini-2.5-flash|openrouterai",
-  "embeddingModelKey": "text-embedding-004|google",
-  "temperature": 0.1,
-  "maxTokens": 6000,
   "contextTurns": 15,
   "userSystemPrompt": "",
   "openAIProxyBaseUrl": "",
-  "openAIEmbeddingProxyBaseUrl": "",
   "stream": true,
+  "copilotFolder": "copilot",
+  "copilotRootHistory": [
+    "copilot"
+  ],
+  "upgradedToV8FromLegacy": false,
   "defaultSaveFolder": "copilot-conversations",
   "defaultConversationTag": "copilot-conversation",
   "autosaveChat": false,
-  "includeActiveNoteAsContext": true,
+  "autoAttachActiveNote": true,
   "defaultOpenArea": "view",
+  "defaultSendShortcut": "enter",
   "customPromptsFolder": "copilot-custom-prompts",
-  "indexVaultToVectorStore": "ON MODE SWITCH",
   "qaExclusions": "",
   "qaInclusions": "100_Periodic,600_Knowledge,500_Fleeting,300_Input,300_Input%2FBook",
   "chatNoteContextPath": "",
   "chatNoteContextTags": [],
-  "enableIndexSync": true,
   "debug": false,
-  "enableEncryption": true,
   "maxSourceChunks": 3,
+  "enableInlineCitations": true,
   "groqApiKey": "",
   "activeModels": [
     {
@@ -67,7 +66,7 @@
       "capabilities": [
         "vision"
       ],
-      "apiKey": "AIzaSyAGu3VByD2h2NPq8erc_3LRXsu3W7a8k-o"
+      "apiKey": ""
     },
     {
       "name": "google/gemini-2.5-flash",
@@ -79,7 +78,7 @@
       "capabilities": [
         "vision"
       ],
-      "apiKey": "AIzaSyAGu3VByD2h2NPq8erc_3LRXsu3W7a8k-o"
+      "apiKey": ""
     },
     {
       "name": "google/gemini-2.5-pro",
@@ -230,13 +229,6 @@
       "apiKey": ""
     },
     {
-      "name": "azure-openai",
-      "provider": "azure openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "apiKey": ""
-    },
-    {
       "name": "deepseek-chat",
       "provider": "deepseek",
       "enabled": true,
@@ -256,115 +248,280 @@
     {
       "name": "gemini-2.0-flash",
       "provider": "google",
-      "apiKey": "AIzaSyAGu3VByD2h2NPq8erc_3LRXsu3W7a8k-o",
+      "apiKey": "",
       "enabled": true
     },
     {
       "name": "gemini-2.0-flash-lite",
       "provider": "google",
-      "apiKey": "AIzaSyAGu3VByD2h2NPq8erc_3LRXsu3W7a8k-o",
+      "apiKey": "",
       "enabled": true
     },
     {
       "name": "gemini-2.0-flash-lite-001",
       "provider": "google",
-      "apiKey": "AIzaSyAGu3VByD2h2NPq8erc_3LRXsu3W7a8k-o",
+      "apiKey": "",
       "enabled": true
     }
   ],
-  "activeEmbeddingModels": [
-    {
-      "name": "copilot-plus-small",
-      "provider": "copilot-plus",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true,
-      "core": true,
-      "plusExclusive": true,
-      "apiKey": ""
-    },
-    {
-      "name": "copilot-plus-large",
-      "provider": "copilot-plus-jina",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true,
-      "core": true,
-      "plusExclusive": true,
-      "believerExclusive": true,
-      "dimensions": 1024,
-      "apiKey": ""
-    },
-    {
-      "name": "copilot-plus-multilingual",
-      "provider": "copilot-plus-jina",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true,
-      "core": true,
-      "plusExclusive": true,
-      "dimensions": 512,
-      "apiKey": ""
-    },
-    {
-      "name": "text-embedding-3-small",
-      "provider": "openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true,
-      "core": true,
-      "apiKey": ""
-    },
-    {
-      "name": "text-embedding-3-large",
-      "provider": "openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true,
-      "apiKey": ""
-    },
-    {
-      "name": "embed-multilingual-light-v3.0",
-      "provider": "cohereai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true,
-      "apiKey": ""
-    },
-    {
-      "name": "text-embedding-004",
-      "provider": "google",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true,
-      "apiKey": ""
-    },
-    {
-      "name": "azure-openai",
-      "provider": "azure openai",
-      "enabled": true,
-      "isBuiltIn": true,
-      "isEmbeddingModel": true,
-      "apiKey": ""
-    }
-  ],
-  "embeddingRequestsPerMin": 90,
-  "embeddingBatchSize": 16,
-  "disableIndexOnMobile": true,
-  "showSuggestedPrompts": true,
-  "showRelevantNotes": true,
-  "numPartitions": 1,
+  "lexicalSearchRamLimit": 100,
   "promptUsageTimestamps": {},
   "promptSortStrategy": "timestamp",
+  "chatHistorySortStrategy": "recent",
+  "projectsFolder": "copilot/projects",
   "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
   "inlineEditCommands": [],
   "projectList": [],
+  "lastDismissedVersion": null,
+  "lastShownStartupVersion": "4.0.20",
+  "passMarkdownImages": true,
+  "enableAutonomousAgent": true,
+  "enableCustomPromptTemplating": true,
+  "enableSelfHostMode": false,
+  "enableMiyo": false,
+  "enableMiyoSearchSkill": true,
+  "miyoSearchAll": false,
+  "miyoExtraSearchFolders": [],
+  "miyoSearchMaxResults": 20,
+  "miyoSearchMaxVariants": 2,
+  "relevantNotesLiveUpdate": true,
+  "miyoServerUrl": "",
+  "selfHostSearchProvider": "firecrawl",
+  "firecrawlApiKey": "",
+  "perplexityApiKey": "",
+  "parallelApiKey": "",
+  "exaApiKey": "",
+  "supadataApiKey": "",
+  "enableMiyoDocumentProcessing": true,
+  "enableLexicalBoosts": true,
+  "suggestedDefaultCommands": true,
+  "autonomousAgentEnabledToolIds": [
+    "localSearch",
+    "readNote",
+    "webSearch",
+    "pomodoro",
+    "youtubeTranscription",
+    "writeFile",
+    "editFile",
+    "updateMemory"
+  ],
+  "reasoningEffort": "low",
+  "verbosity": "medium",
+  "memoryFolderName": "copilot/memory",
+  "enableRecentConversations": true,
+  "maxRecentConversations": 30,
+  "enableSavedMemory": true,
+  "quickCommandIncludeNoteContext": true,
+  "autoAcceptEdits": false,
+  "diffViewMode": "split",
+  "userSystemPromptsFolder": "copilot/system-prompts",
+  "defaultSystemPromptTitle": "",
+  "autoCompactThreshold": 128000,
+  "convertedDocOutputFolder": "",
+  "agentMode": {
+    "byok": {},
+    "activeBackend": "opencode",
+    "backends": {},
+    "debugFullFrames": true,
+    "offerFeedbackCards": true,
+    "notificationSound": true,
+    "notificationSoundId": "piano",
+    "welcomeDismissed": false,
+    "skills": {
+      "folder": "copilot/skills",
+      "builtinPreferences": {
+        "copilot-web-search": {
+          "disabled": true
+        },
+        "copilot-web-fetch": {
+          "disabled": true
+        },
+        "obsidian-markdown": {
+          "disabledAgents": [
+            "claude"
+          ]
+        },
+        "obsidian-bases": {
+          "disabledAgents": [
+            "claude"
+          ]
+        },
+        "json-canvas": {
+          "disabledAgents": [
+            "claude",
+            "codex"
+          ]
+        },
+        "obsidian-cli": {
+          "disabledAgents": [
+            "claude",
+            "codex"
+          ]
+        }
+      }
+    }
+  },
+  "providers": {},
+  "configuredModels": [],
+  "backends": {},
+  "copilotPlusCatalog": {
+    "models": [
+      {
+        "id": "copilot-plus-flash",
+        "displayName": "Copilot Plus Flash",
+        "description": "The default model: fastest responses and the most quota.",
+        "toolCall": true,
+        "reasoning": true,
+        "reasoningEfforts": [],
+        "modalities": {
+          "input": [
+            "text",
+            "image"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1048576
+        }
+      },
+      {
+        "id": "glm-5.2",
+        "displayName": "GLM-5.2",
+        "description": "A frontier open-weight model.",
+        "toolCall": true,
+        "reasoning": true,
+        "reasoningEfforts": [],
+        "modalities": {
+          "input": [
+            "text"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1048576
+        }
+      },
+      {
+        "id": "glm-5.3-flash",
+        "displayName": "GLM-5.3-Flash",
+        "description": "Fast, cost-efficient coding and long-horizon agent tasks.",
+        "toolCall": true,
+        "reasoning": true,
+        "reasoningEfforts": [],
+        "modalities": {
+          "input": [
+            "text",
+            "image"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1048576
+        }
+      },
+      {
+        "id": "deepseek-v4-pro",
+        "displayName": "DeepSeek V4 Pro",
+        "description": "A top-tier model for the hardest reasoning and agentic tasks.",
+        "toolCall": true,
+        "reasoning": true,
+        "reasoningEfforts": [],
+        "modalities": {
+          "input": [
+            "text"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1048576
+        }
+      },
+      {
+        "id": "deepseek-v4.1-flash",
+        "displayName": "DeepSeek V4.1 Flash",
+        "description": "Fast multimodal reasoning for coding and agentic tasks.",
+        "toolCall": true,
+        "reasoning": true,
+        "reasoningEfforts": [],
+        "modalities": {
+          "input": [
+            "text",
+            "image"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1048576
+        }
+      },
+      {
+        "id": "mimo-v2.6-flash",
+        "displayName": "MiMo V2.6 Flash",
+        "description": "Cost-effective model for everyday use.",
+        "toolCall": true,
+        "reasoning": true,
+        "reasoningEfforts": [],
+        "modalities": {
+          "input": [
+            "text",
+            "image"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 1048576
+        }
+      },
+      {
+        "id": "minimax-m3",
+        "displayName": "MiniMax M3",
+        "description": "Long-context model for coding and agentic tasks.",
+        "toolCall": true,
+        "reasoning": true,
+        "reasoningEfforts": [],
+        "modalities": {
+          "input": [
+            "text"
+          ],
+          "output": [
+            "text"
+          ]
+        },
+        "limits": {
+          "context": 524288
+        }
+      }
+    ],
+    "defaultEnabledIds": [
+      "copilot-plus-flash",
+      "glm-5.2",
+      "glm-5.3-flash",
+      "deepseek-v4-pro",
+      "deepseek-v4.1-flash",
+      "minimax-m3"
+    ]
+  },
+  "temperature": 0.1,
+  "includeActiveNoteAsContext": true,
+  "showSuggestedPrompts": true,
+  "showRelevantNotes": true,
   "enableAutocomplete": true,
   "autocompleteAcceptKey": "Tab",
   "allowAdditionalContext": true,
   "enableWordCompletion": false,
-  "lastDismissedVersion": null,
-  "passMarkdownImages": true,
-  "enableCustomPromptTemplating": true,
-  "suggestedDefaultCommands": true
+  "miyoConnectionMode": "local",
+  "_keychainVaultId": "ea9f1881",
+  "settingsVersion": 16
 }
