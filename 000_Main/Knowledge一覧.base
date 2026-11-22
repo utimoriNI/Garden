@@ -35,6 +35,8 @@ views:
       - file.backlinks
       - Status
     sort:
+      - property: file.name
+        direction: DESC
       - property: created
         direction: DESC
       - property: file.tags
