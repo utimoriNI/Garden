@@ -7,12 +7,13 @@
   "enableAutoTitleGeneration": true,
   "titleGenerationLocale": "",
   "titleGenerationModel": "",
+  "showTabTitlesByDefault": true,
+  "chatFontScale": 100,
   "excludedTags": [],
   "mediaFolder": "",
   "systemPrompt": "",
   "sharedEnvironmentVariables": "",
   "envSnippets": [],
-  "customContextLimits": {},
   "keyboardNavigation": {
     "scrollUpKey": "w",
     "scrollDownKey": "s",
@@ -64,14 +65,11 @@
           "supportedEffortLevels": []
         }
       ],
-      "installationMethodsByHost": {
-        "device-1757ec25c63d07ae5f48d0dc60b824d0757dea0930c4d72e0d9b286290f11e21": "native-windows"
-      },
+      "installationMethodsByHost": {},
       "wslDistroOverridesByHost": {},
       "outputStyle": null,
       "promptSuggestions": false,
-      "discoveredOutputStyles": [],
-      "sessionEnvironmentHash": ""
+      "discoveredOutputStyles": []
     },
     "codex": {
       "enabled": true,
@@ -87,8 +85,7 @@
       "responseVerbosity": "default",
       "reasoningSummary": "detailed",
       "environmentVariables": "",
-      "environmentHash": "runtime-input:v1:ed54f4f5238abeec7f65a5da1e468c9a639e157a7d1c7753b53f54ba1196e8a0",
-      "sessionEnvironmentHash": "runtime-input:v1:cf4a613a63a895356fbc95544817979656506c93b9fb3fe1c76833522e1c19fc",
+      "environmentHash": "runtime-input:v1:197595abd9d745e24689d5a438700b7ac70840cea7d031da56b13d08e625dac5",
       "installationMethodsByHost": {
         "device:c1f9a46b-8b25-49d4-be87-3259f72c1099": "native-windows"
       },
@@ -145,24 +142,19 @@
       "cliPath": "",
       "cliPathsByHost": {},
       "enabled": false,
-      "environmentHash": "",
+      "environmentHash": "runtime-input:v1:65be9fd755fceb24e0d4a97b388b455fc79245d593888ed6c3a02adef11d106a",
       "environmentVariables": "OPENCODE_ENABLE_EXA=1",
       "modelAliases": {},
       "preferredThinkingByModel": {},
       "thinkingOptionsByModel": {},
       "visibleModels": [],
       "selectedModels": [],
-      "installationMethodsByHost": {
-        "device-1757ec25c63d07ae5f48d0dc60b824d0757dea0930c4d72e0d9b286290f11e21": "native-windows"
-      },
+      "installationMethodsByHost": {},
       "wslDistroOverridesByHost": {}
     },
     "grok": {
-      "installationMethodsByHost": {
-        "device-1757ec25c63d07ae5f48d0dc60b824d0757dea0930c4d72e0d9b286290f11e21": "native-windows"
-      },
+      "installationMethodsByHost": {},
       "wslDistroOverridesByHost": {},
-      "sessionEnvironmentHash": "",
       "cliPath": "",
       "cliPathsByHost": {},
       "enabled": false,
@@ -174,9 +166,7 @@
       "selectedModelsByHost": {}
     },
     "pi": {
-      "installationMethodsByHost": {
-        "device-1757ec25c63d07ae5f48d0dc60b824d0757dea0930c4d72e0d9b286290f11e21": "native-windows"
-      },
+      "installationMethodsByHost": {},
       "wslDistroOverridesByHost": {},
       "cliPath": "",
       "cliPathsByHost": {},
@@ -185,14 +175,11 @@
       "environmentVariables": "",
       "modelAliases": {},
       "preferredThinkingByModel": {},
-      "sessionEnvironmentHash": "",
       "visibleModels": [],
       "selectedModels": []
     },
     "deepseek": {
-      "installationMethodsByHost": {
-        "device-1757ec25c63d07ae5f48d0dc60b824d0757dea0930c4d72e0d9b286290f11e21": "native-windows"
-      },
+      "installationMethodsByHost": {},
       "wslDistroOverridesByHost": {},
       "enabled": false,
       "codeMode": false,
@@ -205,6 +192,19 @@
       "modelAliases": {},
       "preferredReasoningByModel": {},
       "selectedModels": []
+    },
+    "antigravity": {
+      "cliPath": "",
+      "cliPathsByHost": {},
+      "enabled": false,
+      "environmentHash": "",
+      "environmentVariables": "",
+      "installationMethodsByHost": {},
+      "modelAliases": {},
+      "preferredReasoningByModel": {},
+      "visibleModels": [],
+      "wslDistroOverridesByHost": {},
+      "selectedModelsByHost": {}
     }
   },
   "settingsProvider": "claude",
@@ -226,11 +226,10 @@
   },
   "savedProviderPermissionMode": {
     "claude": "yolo",
-    "codex": "yolo"
+    "codex": "yolo",
+    "opencode": "normal"
   },
-  "pendingProviderSessionInvalidations": {},
   "enableAutoScroll": true,
-  "showMessageTimestamps": false,
   "deferMathRenderingDuringStreaming": true,
   "pluginRenderedFenceLanguages": [],
   "expandFileEditsByDefault": false,
