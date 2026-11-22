@@ -4,6 +4,7 @@
   "templates_folder": "998_Resource/Template",
   "templates_pairs": [],
   "trigger_on_file_creation_mode": "folder",
+  "only_trigger_for_matching_files": false,
   "auto_jump_to_cursor": false,
   "jump_to_cursor_after_file_name": false,
   "shell_path": "",
