@@ -41,8 +41,6 @@ views:
         direction: ASC
       - property: topic
         direction: DESC
-      - property: file.name
-        direction: ASC
     columnSize:
       file.tags: 179
       file.backlinks: 117
